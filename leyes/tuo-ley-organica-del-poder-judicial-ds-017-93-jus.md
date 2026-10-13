@@ -30,7 +30,9 @@ APRUEBESE el Texto Único Ordenado de la Ley Orgánica del Poder Judicial que co
 
 ###### Artículo 2º
 
-El presente Decreto Supremo entrará en vigencia al día siguiente de su publicación en el Diario Oficial “El Peruano”. Dado en la Casa de Gobierno, en Lima, a los veintiocho días del mes de mayo de mil novecientos noventitrés.
+El presente Decreto Supremo entrará en vigencia al día siguiente de su publicación en el Diario Oficial “El Peruano”.
+
+Dado en la Casa de Gobierno, en Lima, a los veintiocho días del mes de mayo de mil novecientos noventitrés.
 
 ALBERTO FUJIMORI FUJIMORI Presidente Constitucional de la República.
 
@@ -64,7 +66,9 @@ Cumplimiento obligatorio de las decisiones judiciales
 
 Toda persona y autoridad está obligada a acatar y dar cumplimiento a las decisiones judiciales o de índole administrativa, emanadas de autoridad judicial competente, en sus propios términos, sin poder calificar su contenido o sus fundamentos, restringir sus efectos o interpretar sus alcances, bajo la responsabilidad civil, penal o administrativa que la ley señala.
 
-Ninguna autoridad, cualquiera sea su rango o denominación, fuera de la organización jerárquica del Poder Judicial, puede avocarse al conocimiento de causas pendientes ante el órgano jurisdiccional. No se puede dejar sin efecto resoluciones judiciales con autoridad de cosa juzgada, ni modificar su contenido, ni retardar su ejecución, ni cortar procedimientos en trámite, bajo la responsabilidad política, administrativa, civil y penal que la ley determine en cada caso. Esta disposición no afecta el derecho de gracia. Dirección e impulso del proceso
+Ninguna autoridad, cualquiera sea su rango o denominación, fuera de la organización jerárquica del Poder Judicial, puede avocarse al conocimiento de causas pendientes ante el órgano jurisdiccional. No se puede dejar sin efecto resoluciones judiciales con autoridad de cosa juzgada, ni modificar su contenido, ni retardar su ejecución, ni cortar procedimientos en trámite, bajo la responsabilidad política, administrativa, civil y penal que la ley determine en cada caso. Esta disposición no afecta el derecho de gracia.
+
+Dirección e impulso del proceso
 
 ###### Artículo 5º
 
@@ -90,7 +94,9 @@ Deberes procesales de las partes
 
 ###### Artículo 8º
 
-Todos los que intervienen en un proceso judicial tienen el deber de comportarse con lealtad, probidad, veracidad y buena fe. Los Magistrados deben sancionar toda contravención a estos deberes procesales, así como la mala fe y temeridad procesal. Facultad sancionadora del Juez
+Todos los que intervienen en un proceso judicial tienen el deber de comportarse con lealtad, probidad, veracidad y buena fe. Los Magistrados deben sancionar toda contravención a estos deberes procesales, así como la mala fe y temeridad procesal.
+
+Facultad sancionadora del Juez
 
 ###### Artículo 9º
 
@@ -110,7 +116,9 @@ Los jueces tienen el deber de remitir sus sentencias a los órganos correspondie
 
 ###### Artículo 11º
 
-Las resoluciones judiciales son susceptibles de revisión, con arreglo a ley, en una instancia superior. La interposición de un medio de impugnación constituye un acto voluntario del justiciable.
+Las resoluciones judiciales son susceptibles de revisión, con arreglo a ley, en una instancia superior.
+
+La interposición de un medio de impugnación constituye un acto voluntario del justiciable.
 
 Lo resuelto en segunda instancia constituye cosa juzgada. Su impugnación sólo procede en los casos previstos en la ley.
 
@@ -136,7 +144,9 @@ Facultad del justiciable a usar su propio idioma
 
 ###### Artículo 15º
 
-Las actuaciones judiciales se efectúan en Castellano. Cuando el idioma o dialecto del justiciable sea otro, las actuaciones se realizan ineludiblemente con la presencia de intérprete. Por ningún motivo se puede impedir al justiciable el uso de su propio idioma o dialecto durante el proceso.
+Las actuaciones judiciales se efectúan en Castellano.
+
+Cuando el idioma o dialecto del justiciable sea otro, las actuaciones se realizan ineludiblemente con la presencia de intérprete. Por ningún motivo se puede impedir al justiciable el uso de su propio idioma o dialecto durante el proceso.
 
 Independencia jurisdiccional del Magistrado
 
@@ -178,7 +188,9 @@ Acción Contencioso-Administrativa
 
 ###### Artículo 23º
 
-La acción contencioso-administrativa de que trata el Art. 240º 9 de la Constitución se rige, en cuanto a sus reglas de competencia, procedencia y procedimiento, por su propia ley. CONCORDANCIA: D.S. Nº 013-2008-JUS Gratuidad de la Administración de Justicia
+La acción contencioso-administrativa de que trata el Art. 240º 9 de la Constitución se rige, en cuanto a sus reglas de competencia, procedencia y procedimiento, por su propia ley.
+
+CONCORDANCIA: D.S. Nº 013-2008-JUS Gratuidad de la Administración de Justicia
 
 ###### Artículo 24º
 
@@ -288,7 +300,9 @@ Las Salas Civiles conocen:
 
 ###### Artículo 34º
 
-Las Salas Penales conocen: 1.- El recurso de apelación en procesos sentenciados por las Cortes Superiores en materia penal, que sean de su competencia; 2.- De los recursos de casación conforme a ley; 3.- De las contiendas y transferencias de competencia, conforme a ley; 4.- De la investigación y juzgamiento de los delitos que se imputan contra los funcionarios comprendidos en al artículo 99º de la Constitución, Vocales Supremos de la Sala Suprema Penal Militar Policial, Fiscales Supremos Penales Militares Policiales, Fiscales y Vocales Superiores Penales Militares Policiales y contra los demás funcionarios que señale la ley, conforme a las disposiciones legales pertinentes.26 5.- De las extradiciones activas y pasivas; 6.- De los demás procesos previstos en la ley. CONCORDANCIAS: R. Nº 1116-2007-MP-FN R.ADM. Nº 064-2008-P-PJ R.ADM. Nº 107-2008-P-PJ
+Las Salas Penales conocen: 1.- El recurso de apelación en procesos sentenciados por las Cortes Superiores en materia penal, que sean de su competencia; 2.- De los recursos de casación conforme a ley; 3.- De las contiendas y transferencias de competencia, conforme a ley; 4.- De la investigación y juzgamiento de los delitos que se imputan contra los funcionarios comprendidos en al artículo 99º de la Constitución, Vocales Supremos de la Sala Suprema Penal Militar Policial, Fiscales Supremos Penales Militares Policiales, Fiscales y Vocales Superiores Penales Militares Policiales y contra los demás funcionarios que señale la ley, conforme a las disposiciones legales pertinentes.26 5.- De las extradiciones activas y pasivas; 6.- De los demás procesos previstos en la ley.
+
+CONCORDANCIAS: R. Nº 1116-2007-MP-FN R.ADM. Nº 064-2008-P-PJ R.ADM. Nº 107-2008-P-PJ
 
 ###### Artículo 35º
 
@@ -350,7 +364,9 @@ Las Salas Civiles conocen:
 
 5. (Derogado) 37
 
-6. De los demás procesos que establece la Ley. Competencia de las Salas Penales
+6. De los demás procesos que establece la Ley.
+
+Competencia de las Salas Penales
 
 ###### Artículo 41º
 
@@ -422,13 +438,19 @@ Son juzgados especializados los siguientes:
 
 5. Juzgados de Familia; y, 41 42 43
 
-6. Juzgados de Tránsito y Seguridad Vial.44 La Corte Suprema, atendiendo a las necesidades del servicio judicial y a la carga procesal, puede crear otros juzgados de distinta especialidad a los antes señalados, definiendo su competencia. En los lugares donde no hay juzgados especializados, el despacho es atendido por un Juzgado Mixto, con la competencia que señale el Consejo Ejecutivo del Poder Judicial.
+6. Juzgados de Tránsito y Seguridad Vial.44 La Corte Suprema, atendiendo a las necesidades del servicio judicial y a la carga procesal, puede crear otros juzgados de distinta especialidad a los antes señalados, definiendo su competencia.
+
+En los lugares donde no hay juzgados especializados, el despacho es atendido por un Juzgado Mixto, con la competencia que señale el Consejo Ejecutivo del Poder Judicial.
 
 Todos los juzgados antes señalados tienen la misma jerarquía. Competencia territorial y sede
 
 ###### Artículo 47º. En cada Provincia hay cuando menos un Juzgado
 
-Especializado o Mixto. Su sede es la Capital de la Provincia y su competencia provincial, salvo disposición distinta de la ley o del Consejo Ejecutivo del Poder Judicial. Si son más de uno de la misma especialidad, se distinguen por numeración correlativa. El Consejo Ejecutivo Distrital organiza el sistema de distribución de causas entre Juzgados de la misma especialidad. Los Jueces Especializados y los Mixtos Supernumerarios
+Especializado o Mixto. Su sede es la Capital de la Provincia y su competencia provincial, salvo disposición distinta de la ley o del Consejo Ejecutivo del Poder Judicial. Si son más de uno de la misma especialidad, se distinguen por numeración correlativa.
+
+El Consejo Ejecutivo Distrital organiza el sistema de distribución de causas entre Juzgados de la misma especialidad.
+
+Los Jueces Especializados y los Mixtos Supernumerarios
 
 ###### Artículo 48º
 
@@ -674,7 +696,9 @@ Designación de Testigo Actuario
 
 ###### Artículo 72º
 
-La dirección del Poder Judicial corresponde al Presidente de la Corte Suprema, al Consejo Ejecutivo y a la Sala Plena de la Corte Suprema. El Consejo Ejecutivo contará con una Gerencia General para el ejercicio de las funciones que le son propias. Ejercen sus funciones y atribuciones en todo el territorio nacional, de acuerdo a la presente Ley y sus Reglamentos.
+La dirección del Poder Judicial corresponde al Presidente de la Corte Suprema, al Consejo Ejecutivo y a la Sala Plena de la Corte Suprema. El Consejo Ejecutivo contará con una Gerencia General para el ejercicio de las funciones que le son propias.
+
+Ejercen sus funciones y atribuciones en todo el territorio nacional, de acuerdo a la presente Ley y sus Reglamentos.
 
 En los Distritos Judiciales la dirección corresponde al Presidente de la Corte Superior, al Consejo Ejecutivo Distrital y a la Sala Plena de dicha Corte, en donde lo hubiere.
 
@@ -688,7 +712,9 @@ Presidente de la Corte Suprema. Titular del Poder Judicial 79 El Presidente de l
 
 ###### Artículo 74º. El Presidente de la Corte Suprema es elegido entre los
 
-Vocales Supremos Titulares reunidos en Sala Plena, por mayoría absoluta, por un período de dos años. El voto es secreto y no hay reelección. La elección se realiza el primer jueves del mes de diciembre del año que corresponda. Si ninguno de los candidatos obtiene la mitad más uno de los votos de los electores, se procede a una segunda votación, la cual se realiza en la misma fecha, entre los candidatos que hayan obtenido las dos más altas mayorías relativas. En la segunda votación sólo se requiere mayoría simple. En caso de empate será electo el candidato con mayor antigüedad, conforme al último párrafo del Artículo 221º de esta ley.81 82 83 84 CONCORDANCIA: R. ADM. Nº 211-2004-CE-PJ Reemplazo del Presidente de la Corte Suprema en caso de impedimento, muerte o cese
+Vocales Supremos Titulares reunidos en Sala Plena, por mayoría absoluta, por un período de dos años. El voto es secreto y no hay reelección. La elección se realiza el primer jueves del mes de diciembre del año que corresponda. Si ninguno de los candidatos obtiene la mitad más uno de los votos de los electores, se procede a una segunda votación, la cual se realiza en la misma fecha, entre los candidatos que hayan obtenido las dos más altas mayorías relativas.
+
+En la segunda votación sólo se requiere mayoría simple. En caso de empate será electo el candidato con mayor antigüedad, conforme al último párrafo del Artículo 221º de esta ley.81 82 83 84 CONCORDANCIA: R. ADM. Nº 211-2004-CE-PJ Reemplazo del Presidente de la Corte Suprema en caso de impedimento, muerte o cese
 
 ###### Artículo 75º. En caso de impedimento del Presidente de la Corte
 
@@ -718,7 +744,9 @@ Son atribuciones del Presidente del Poder Judicial:
 
 ###### Artículo 77º
 
-El Presidente de la Corte Suprema cesa por haber expirado el término de su mandato, por renuncia o por las causales establecidas en el Artículo 245º de esta ley. Mensaje a la Nación del Presidente de la Corte Suprema
+El Presidente de la Corte Suprema cesa por haber expirado el término de su mandato, por renuncia o por las causales establecidas en el Artículo 245º de esta ley.
+
+Mensaje a la Nación del Presidente de la Corte Suprema
 
 ###### Artículo 78º
 
@@ -730,7 +758,9 @@ El Mensaje es publicado en el Diario Oficial “El Peruano”, bajo responsabili
 
 ###### Artículo 79º
 
-Órgano supremo: competencia, presidencia, integrantes y sesiones 89 La Sala Plena de la Corte Suprema es el órgano supremo de deliberación del Poder Judicial que, debidamente convocada, decide sobre la marcha institucional de dicho poder y sobre otros asuntos que no sean de competencia exclusiva de otros órganos, de acuerdo con lo establecido en la presente Ley. La preside el Presidente de la Corte Suprema y se integra por todos los jueces supremos titulares. El jefe de la Oficina de Control de la Magistratura no interviene en los casos que haya conocido con anterioridad en el ejercicio de sus funciones. Se reúne en sesiones ordinarias y extraordinarias. Las sesiones ordinarias se realizan, cuando menos, dos veces al año, siendo una de ellas para la apertura del año judicial. Las sesiones extraordinarias se realizan cuando las convoque el Presidente de la Corte Suprema o cuando lo solicite, por lo menos, un tercio de los miembros o cuando lo acuerde el Consejo Ejecutivo o cuando lo señale la ley.
+Órgano supremo: competencia, presidencia, integrantes y sesiones 89 La Sala Plena de la Corte Suprema es el órgano supremo de deliberación del Poder Judicial que, debidamente convocada, decide sobre la marcha institucional de dicho poder y sobre otros asuntos que no sean de competencia exclusiva de otros órganos, de acuerdo con lo establecido en la presente Ley. La preside el Presidente de la Corte Suprema y se integra por todos los jueces supremos titulares. El jefe de la Oficina de Control de la Magistratura no interviene en los casos que haya conocido con anterioridad en el ejercicio de sus funciones. Se reúne en sesiones ordinarias y extraordinarias.
+
+Las sesiones ordinarias se realizan, cuando menos, dos veces al año, siendo una de ellas para la apertura del año judicial. Las sesiones extraordinarias se realizan cuando las convoque el Presidente de la Corte Suprema o cuando lo solicite, por lo menos, un tercio de los miembros o cuando lo acuerde el Consejo Ejecutivo o cuando lo señale la ley.
 
 El quórum es de la mitad más uno del número total de jueces supremos de la Corte Suprema. Los acuerdos se adoptan por mayoría simple. Las inasistencias injustificadas se sancionan con multa equivalente a un día de haber, debiendo publicarse la relación de los concurrentes e inasistentes en el Diario Oficial El Peruano.90
 
@@ -774,7 +804,9 @@ Integran el Consejo Ejecutivo del Poder Judicial:
 
 Para la designación del juez superior titular, cada Sala Plena de las Cortes Superiores elige un candidato y los presidentes de las cortes superiores, mediante sufragio directo, eligen al integrante del Consejo Ejecutivo del Poder Judicial.
 
-Para la designación del miembro señalado en el numeral 4, los jueces especializados o mixtos titulares eligen a un representante por cada distrito judicial, los que se reúnen para elegir entre ellos el juez que integrará el Consejo Ejecutivo del Poder Judicial. El mandato de los integrantes del Consejo Ejecutivo del Poder Judicial dura dos años.
+Para la designación del miembro señalado en el numeral 4, los jueces especializados o mixtos titulares eligen a un representante por cada distrito judicial, los que se reúnen para elegir entre ellos el juez que integrará el Consejo Ejecutivo del Poder Judicial.
+
+El mandato de los integrantes del Consejo Ejecutivo del Poder Judicial dura dos años.
 
 En tanto se encuentren en el ejercicio de sus cargos, los miembros del Consejo Ejecutivo a que se refieren los numerales 3, 4 y 5, tienen las mismas prerrogativas, categorías y consideraciones que los jueces supremos.
 
@@ -884,7 +916,9 @@ Los Presidentes de las Cortes Superiores son elegidos por un período de dos añ
 
 ###### Artículo 89º
 
-En caso de impedimento, muerte o cese del Presidente de la Corte Superior, asume el cargo el Vocal Superior Decano, conforme a lo dispuesto por el artículo 75º de la presente Ley. Atribuciones y obligaciones
+En caso de impedimento, muerte o cese del Presidente de la Corte Superior, asume el cargo el Vocal Superior Decano, conforme a lo dispuesto por el artículo 75º de la presente Ley.
+
+Atribuciones y obligaciones
 
 ###### Artículo 90º. Son atribuciones y obligaciones del Presidente de la
 
@@ -1016,7 +1050,11 @@ Son funciones de la Oficina de Control de la Magistratura del Poder Judicial las
 
 Poder Judicial, al término de los procesos instaurados a los Magistrados y auxiliares jurisdiccionales de dicho Poder, aplica de ser procedentes, las sanciones disciplinarias señaladas en el Capítulo VI del Título III de la Sección Cuarta de esta Ley, con excepción de las medidas de separación y destitución, las que, en su caso, debe proponer al Consejo Ejecutivo del Poder Judicial.
 
-El Presidente de la Corte Suprema tiene voto dirimente. Las propuestas de separación y destitución son resueltas en primera instancia por el Consejo Ejecutivo del Poder Judicial en el plazo de treinta (30) días, bajo responsabilidad. Dicha resolución, de ser impugnada, no suspende la ejecución de la sanción. La Sala Plena de la Corte Suprema absolverá el grado en un plazo igual. CONCORDANCIA: LEY Nº 26397, Art. 21º inc. c) Justificación de los signos exteriores de riqueza
+El Presidente de la Corte Suprema tiene voto dirimente.
+
+Las propuestas de separación y destitución son resueltas en primera instancia por el Consejo Ejecutivo del Poder Judicial en el plazo de treinta (30) días, bajo responsabilidad. Dicha resolución, de ser impugnada, no suspende la ejecución de la sanción. La Sala Plena de la Corte Suprema absolverá el grado en un plazo igual.
+
+CONCORDANCIA: LEY Nº 26397, Art. 21º inc. c) Justificación de los signos exteriores de riqueza
 
 ###### Artículo 107º. (Derogado) 153
 
@@ -1026,13 +1064,17 @@ Oficina de Inspectoría General
 
 Poder Judicial está sometida al Control de la Oficina de Inspectoría General, de conformidad con las normas del Sistema Nacional de Control.
 
-La Oficina de Inspectoría General del Poder Judicial es dirigida por un Auditor General o Contador Público Colegiado, designado por el Consejo Ejecutivo de dicho Poder. Está integrada por el personal de auditores necesarios para el cumplimiento de sus fines. El Consejo Ejecutivo del Poder Judicial no puede remover, cesar o destituir al Jefe de la Oficina de Inspectoría General, sin que la Contraloría General de la República haya emitido su pronunciamiento sobre el particular.
+La Oficina de Inspectoría General del Poder Judicial es dirigida por un Auditor General o Contador Público Colegiado, designado por el Consejo Ejecutivo de dicho Poder. Está integrada por el personal de auditores necesarios para el cumplimiento de sus fines.
+
+El Consejo Ejecutivo del Poder Judicial no puede remover, cesar o destituir al Jefe de la Oficina de Inspectoría General, sin que la Contraloría General de la República haya emitido su pronunciamiento sobre el particular.
 
 Oficina Central de la Inspectoría General
 
 ###### Artículo 109º
 
-La Oficina de Inspectoría General del Poder Judicial está constituida por una Oficina Central con sede en Lima, cuya competencia abarca todo el territorio de la República. El Consejo Ejecutivo del Poder Judicial puede crear Oficinas descentralizadas de Inspectoría, que abarcan uno o más Distritos Judiciales, fijando su ámbito de competencia así como sus facultades de sanción.
+La Oficina de Inspectoría General del Poder Judicial está constituida por una Oficina Central con sede en Lima, cuya competencia abarca todo el territorio de la República.
+
+El Consejo Ejecutivo del Poder Judicial puede crear Oficinas descentralizadas de Inspectoría, que abarcan uno o más Distritos Judiciales, fijando su ámbito de competencia así como sus facultades de sanción.
 
 Funciones de la Oficina de Inspectoría General
 
@@ -1162,17 +1204,23 @@ Elevación del proceso en virtud de medio impugnatorio
 
 ###### Artículo 129º
 
-El proceso que deba elevarse en virtud de un medio impugnatorio, se remite directamente por el Presidente de la Sala respectiva al Presidente de la Sala que corresponda. Derecho de información de los abogados
+El proceso que deba elevarse en virtud de un medio impugnatorio, se remite directamente por el Presidente de la Sala respectiva al Presidente de la Sala que corresponda.
+
+Derecho de información de los abogados
 
 ###### Artículo 130º
 
-Los abogados de las partes pueden informarse del expediente por Secretaría, hasta tres días antes de la vista de la causa. Vista de la causa. Informes y términos
+Los abogados de las partes pueden informarse del expediente por Secretaría, hasta tres días antes de la vista de la causa.
+
+Vista de la causa. Informes y términos
 
 ###### Artículo 131º
 
 La Corte Suprema y las Cortes Superiores ven las causas en audiencias públicas, por riguroso orden de ingreso, dentro de los treinta días siguientes a que se hallen expeditas para ser resueltas. No es necesario que la designación de día y hora para la vista conste en resolución expresa.
 
-El Presidente de la Sala hace citar con setenta y dos (72) horas de anticipación a los abogados que hayan solicitado el uso de la palabra para informar, así como a las partes que hayan pedido informar sobre hechos, precisando el tiempo que tienen para hacerlo. El abogado de la parte que no solicitó la palabra es igualmente citado si señaló domicilio en la sede de la Corte. En los demás casos no es necesario citar a los abogados o a las partes para la vista de la causa. Tratándose de autos, quejas de derecho, contiendas de competencia, procesos sobre alimentos, hábeas corpus, acciones de amparo y procesos con reo en cárcel, o que estén por prescribir, la vista de la causa tendrá lugar dentro del quinto día de hallarse expeditas. En todo caso, deben resolverse en un plazo máximo improrrogable de tres meses calendario, sin perjuicio de la normatividad procesal expresa que señale un plazo menor, especialmente en las acciones de garantía.
+El Presidente de la Sala hace citar con setenta y dos (72) horas de anticipación a los abogados que hayan solicitado el uso de la palabra para informar, así como a las partes que hayan pedido informar sobre hechos, precisando el tiempo que tienen para hacerlo. El abogado de la parte que no solicitó la palabra es igualmente citado si señaló domicilio en la sede de la Corte. En los demás casos no es necesario citar a los abogados o a las partes para la vista de la causa.
+
+Tratándose de autos, quejas de derecho, contiendas de competencia, procesos sobre alimentos, hábeas corpus, acciones de amparo y procesos con reo en cárcel, o que estén por prescribir, la vista de la causa tendrá lugar dentro del quinto día de hallarse expeditas. En todo caso, deben resolverse en un plazo máximo improrrogable de tres meses calendario, sin perjuicio de la normatividad procesal expresa que señale un plazo menor, especialmente en las acciones de garantía.
 
 El incumplimiento debe ser calificado por los órganos respectivos encargados del control de los magistrados.
 
@@ -1190,7 +1238,9 @@ Votación de las causas
 
 ###### Artículo 133º
 
-La votación de las causas puede producirse el mismo día de su vista o dentro del plazo señalado por el artículo 140º. La deliberación es secreta, debiendo mantenerse reserva sobre las opiniones vertidas durante el curso de la misma. Suspensión de la vista de la causa
+La votación de las causas puede producirse el mismo día de su vista o dentro del plazo señalado por el artículo 140º. La deliberación es secreta, debiendo mantenerse reserva sobre las opiniones vertidas durante el curso de la misma.
+
+Suspensión de la vista de la causa
 
 ###### Artículo 134º. La vista de la causa sólo se suspende por no conformarse
 
@@ -1220,7 +1270,9 @@ Superiores de Justicia, la resolución se vota y dicta previa ponencia escrita d
 
 La ponencia escrita debe contener fecha de emisión, de entrega, firma y se archiva por el Relator.
 
-La resolución puede reproducir la ponencia, ser contraria a la misma, o recoger otras o mejores consideraciones de la Sala. Deben consignarse expresamente los votos discordantes y los singulares. El ponente responde por los datos y citas consignados u omitidos en su ponencia.
+La resolución puede reproducir la ponencia, ser contraria a la misma, o recoger otras o mejores consideraciones de la Sala. Deben consignarse expresamente los votos discordantes y los singulares.
+
+El ponente responde por los datos y citas consignados u omitidos en su ponencia.
 
 Vista de la causa sin informe oral
 
@@ -1238,13 +1290,17 @@ Votos necesarios para hacer resolución
 
 ###### Artículo 141º
 
-En las Salas de la Corte Suprema, cuatro votos conformes hacen resolución. En las Cortes Superiores tres votos conformes hacen resolución, tratándose de las que ponen fin a la instancia, y en los demás casos bastan dos votos conformes. En las Salas Penales se requiere de dos votos. Salvo las excepciones que señala la ley. Los votos, incluso los singulares y discordantes, se emiten por escrito, con firma de su autor. Todos se archivan juntamente con una copia de la resolución.
+En las Salas de la Corte Suprema, cuatro votos conformes hacen resolución. En las Cortes Superiores tres votos conformes hacen resolución, tratándose de las que ponen fin a la instancia, y en los demás casos bastan dos votos conformes. En las Salas Penales se requiere de dos votos. Salvo las excepciones que señala la ley.
+
+Los votos, incluso los singulares y discordantes, se emiten por escrito, con firma de su autor. Todos se archivan juntamente con una copia de la resolución.
 
 Emisión de votos
 
 ###### Artículo 142º
 
-Los Vocales emiten su voto comenzando por el ponente y luego por los demás siguiendo el orden del menos al más antiguo. Si resulta acuerdo, la resolución se firma el mismo día de la vista de la causa, salvo que quede al voto o se produzca discordia, de todo lo cual da fe el Secretario. Si el fallo se dicta de conformidad con el dictamen fiscal en el caso que proceda, los fundamentos del mismo se consideran como su motivación; si se resuelve con lo expuesto por el Fiscal, es indispensable consignar la fundamentación pertinente. En todo caso, el fallo contiene el análisis de las cuestiones en debate y de los argumentos del impugnante.
+Los Vocales emiten su voto comenzando por el ponente y luego por los demás siguiendo el orden del menos al más antiguo. Si resulta acuerdo, la resolución se firma el mismo día de la vista de la causa, salvo que quede al voto o se produzca discordia, de todo lo cual da fe el Secretario. Si el fallo se dicta de conformidad con el dictamen fiscal en el caso que proceda, los fundamentos del mismo se consideran como su motivación; si se resuelve con lo expuesto por el Fiscal, es indispensable consignar la fundamentación pertinente.
+
+En todo caso, el fallo contiene el análisis de las cuestiones en debate y de los argumentos del impugnante.
 
 Voto Singular
 
@@ -1262,21 +1318,29 @@ En los casos de discordia o impedimento de uno o más jueces, el presidente proc
 
 ###### Artículo 146º
 
-En caso de no completarse la Sala o de no resolverse la discordia en la Corte Suprema por ausencia de Vocal expedito, se llama a los Vocales más antiguos de la Corte Superior de Justicia de Lima en su orden, siempre que reúnan los requisitos para acceder a la Corte Suprema; y en defecto de aquellos a los Vocales más antiguos de las Cortes Superiores de la República, siempre que reúnan igualmente los requisitos para acceder a la Corte Suprema. Juez llamado por Ley a la Corte Superior
+En caso de no completarse la Sala o de no resolverse la discordia en la Corte Suprema por ausencia de Vocal expedito, se llama a los Vocales más antiguos de la Corte Superior de Justicia de Lima en su orden, siempre que reúnan los requisitos para acceder a la Corte Suprema; y en defecto de aquellos a los Vocales más antiguos de las Cortes Superiores de la República, siempre que reúnan igualmente los requisitos para acceder a la Corte Suprema.
+
+Juez llamado por Ley a la Corte Superior
 
 ###### Artículo 147º
 
-En las Cortes Superiores de Justicia, en el supuesto del Artículo 146º se llama al Juez Especializado Mixto de la misma especialidad más antiguo del Distrito Judicial, en el orden de antigüedad establecido en el artículo citado. Si no hay Vocal expedito, se llama por orden de antigüedad a los demás jueces de otras especialidades del mismo Distrito Judicial, comenzando por los de la misma Provincia, y así en orden sucesivamente, según la precedencia que establezca el Consejo Ejecutivo correspondiente. Suscripción de votos en causas vistas en discordia
+En las Cortes Superiores de Justicia, en el supuesto del Artículo 146º se llama al Juez Especializado Mixto de la misma especialidad más antiguo del Distrito Judicial, en el orden de antigüedad establecido en el artículo citado.
+
+Si no hay Vocal expedito, se llama por orden de antigüedad a los demás jueces de otras especialidades del mismo Distrito Judicial, comenzando por los de la misma Provincia, y así en orden sucesivamente, según la precedencia que establezca el Consejo Ejecutivo correspondiente. Suscripción de votos en causas vistas en discordia
 
 ###### Artículo 148º
 
-En todas las causas vistas en discordia, los Vocales están obligados a suscribir sus respectivos votos, comenzando por el ponente, siguiendo por el menos antiguo y terminando por el Presidente, dentro del término establecido en el artículo 140º de esta Ley, sin lugar a prórroga, bajo responsabilidad. Obligación de los Vocales de emitir sus votos
+En todas las causas vistas en discordia, los Vocales están obligados a suscribir sus respectivos votos, comenzando por el ponente, siguiendo por el menos antiguo y terminando por el Presidente, dentro del término establecido en el artículo 140º de esta Ley, sin lugar a prórroga, bajo responsabilidad.
+
+Obligación de los Vocales de emitir sus votos
 
 ###### Artículo 149º
 
 Los Vocales tienen la obligación de emitir su voto escrito en todas las causas en cuya vista hubiesen intervenido, aún en caso de impedimento, traslado, licencia, vacaciones, cese o promoción. Dicho voto forma parte de la resolución, no siendo necesario la firma de ésta por el Vocal referido.
 
-Si el Vocal no cumple con emitir su voto dentro del término correspondiente el Presidente de la Sala puede integrarla con el llamado por ley, de conformidad con los artículos precedentes, sin perjuicio de la sanción disciplinaria pertinente. CONCORDANCIA: R. ADM. Nº 015-2005-P-CSJCL-PJ Recusación o inhibición
+Si el Vocal no cumple con emitir su voto dentro del término correspondiente el Presidente de la Sala puede integrarla con el llamado por ley, de conformidad con los artículos precedentes, sin perjuicio de la sanción disciplinaria pertinente.
+
+CONCORDANCIA: R. ADM. Nº 015-2005-P-CSJCL-PJ Recusación o inhibición
 
 ###### Artículo 150º
 
@@ -1348,7 +1412,9 @@ El Juez comisionado está autorizado para ordenar todas las medidas conducentes 
 
 ###### Artículo 161º
 
-El Juez comisionado se sujeta al tenor de la comisión. Concluida ésta o si no pudiera ser cumplida, se devuelve lo actuado al Juez comitente, precisando en su caso, el motivo de la inejecución de la comisión. Incidencias respecto al exhorto
+El Juez comisionado se sujeta al tenor de la comisión.
+
+Concluida ésta o si no pudiera ser cumplida, se devuelve lo actuado al Juez comitente, precisando en su caso, el motivo de la inejecución de la comisión. Incidencias respecto al exhorto
 
 ###### Artículo 162º
 
@@ -1364,7 +1430,9 @@ Remisión de exhortos
 
 ###### Artículo 164º
 
-Los exhortos se remiten y se devuelven por medio de correo certificado. A solicitud escrita puede ser entregado al interesado bajo cargo, debiendo éste presentarlo al Juez correspondiente en el término de la distancia, bajo responsabilidad penal. Registro del exhorto
+Los exhortos se remiten y se devuelven por medio de correo certificado. A solicitud escrita puede ser entregado al interesado bajo cargo, debiendo éste presentarlo al Juez correspondiente en el término de la distancia, bajo responsabilidad penal.
+
+Registro del exhorto
 
 ###### Artículo 165º
 
@@ -1380,7 +1448,9 @@ Exhorto urgente
 
 ###### Artículo 167º
 
-Cuando sea urgente realizar alguna diligencia por medio de comisión, puede librarse el exhorto por telégrafo, cable, radiograma, faximil u otro medio análogo, por cuenta del interesado, previa comprobación de su autenticidad, cumpliéndose en todos los casos lo dispuesto en los artículos precedentes. Exhorto a Juez extranjero
+Cuando sea urgente realizar alguna diligencia por medio de comisión, puede librarse el exhorto por telégrafo, cable, radiograma, faximil u otro medio análogo, por cuenta del interesado, previa comprobación de su autenticidad, cumpliéndose en todos los casos lo dispuesto en los artículos precedentes.
+
+Exhorto a Juez extranjero
 
 ###### Artículo 168º
 
@@ -1416,7 +1486,9 @@ Franquicia Postal
 
 ###### Artículo 173º
 
-Los expedientes y demás documentos judiciales, tienen franquicia postal, en aquellos casos cuya tramitación es gratuita y la que está exenta de todo pago, bajo responsabilidad del titular de la Dirección General de Correos y Telégrafos del Perú. Inamovilidad del expediente de la Sala o Juzgado
+Los expedientes y demás documentos judiciales, tienen franquicia postal, en aquellos casos cuya tramitación es gratuita y la que está exenta de todo pago, bajo responsabilidad del titular de la Dirección General de Correos y Telégrafos del Perú.
+
+Inamovilidad del expediente de la Sala o Juzgado
 
 ###### Artículo 174º
 
@@ -1428,7 +1500,9 @@ Ubicación
 
 ###### Artículo 175º
 
-Las Cortes, Juzgados y demás dependencias judiciales, funcionan en locales señalados para estos fines. Uso del Escudo Nacional. Exclusividad de actividad jurisdiccional
+Las Cortes, Juzgados y demás dependencias judiciales, funcionan en locales señalados para estos fines.
+
+Uso del Escudo Nacional. Exclusividad de actividad jurisdiccional
 
 ###### Artículo 176º
 
@@ -1624,7 +1698,9 @@ Los miembros del Poder Judicial son responsables disciplinariamente por las irre
 
 Las sanciones se aplican por los siguientes Órganos Disciplinarios: 1.- La Sala Plena de la Corte Suprema; 2.- El Consejo Ejecutivo del Poder Judicial; 3.- La Oficina de Control de la Magistratura del Poder Judicial; y, 4.- La Oficina Distrital de Control de la Magistratura del Poder Judicial, donde hubiere.
 
-La ley y los reglamentos establecen sus competencias. Quejas e investigaciones. Tramitación y Resolución
+La ley y los reglamentos establecen sus competencias.
+
+Quejas e investigaciones. Tramitación y Resolución
 
 ###### Artículo 203º. (Derogado) 212
 
@@ -1726,7 +1802,9 @@ El cómputo se hace a partir de la fecha de juramento al cargo. La precedencia d
 
 ###### Artículo 222º
 
-El Magistrado que pase de un cargo a otro, manteniendo el mismo grado, conserva en el nuevo cargo la antigüedad que le corresponde, de acuerdo con el artículo 221º. Antigüedad del reingresante
+El Magistrado que pase de un cargo a otro, manteniendo el mismo grado, conserva en el nuevo cargo la antigüedad que le corresponde, de acuerdo con el artículo 221º.
+
+Antigüedad del reingresante
 
 ###### Artículo 223º
 
@@ -1840,7 +1918,9 @@ Licencias con goce de haber
 
 ###### Artículo 241º
 
-Las licencias con goce de haber sólo pueden ser concedidas en los siguientes casos: 1.- Por enfermedad comprobada, hasta por dos años; 2.- Por motivo justificado, hasta por treinta días, no pudiendo otorgarse más de dos licencias en un año y siempre que ambas no excedan de los treinta días indicados; 3.- Por asistencia a eventos internacionales, a cursos de perfeccionamiento o becas de su especialidad, por el tiempo que abarcan las mismas no pudiendo exceder de dos años, previa autorización del Consejo Ejecutivo del Poder Judicial, con cargo a informar documentadamente al término de los mismos, quedando obligados a permanecer en el Poder Judicial por lo menos el doble del tiempo requerido con tal fin; y, 4.- Por duelo, en caso de fallecimiento del cónyuge, ascendientes, descendientes o hermanos, hasta por quince días. Cómputo de licencias
+Las licencias con goce de haber sólo pueden ser concedidas en los siguientes casos: 1.- Por enfermedad comprobada, hasta por dos años; 2.- Por motivo justificado, hasta por treinta días, no pudiendo otorgarse más de dos licencias en un año y siempre que ambas no excedan de los treinta días indicados; 3.- Por asistencia a eventos internacionales, a cursos de perfeccionamiento o becas de su especialidad, por el tiempo que abarcan las mismas no pudiendo exceder de dos años, previa autorización del Consejo Ejecutivo del Poder Judicial, con cargo a informar documentadamente al término de los mismos, quedando obligados a permanecer en el Poder Judicial por lo menos el doble del tiempo requerido con tal fin; y, 4.- Por duelo, en caso de fallecimiento del cónyuge, ascendientes, descendientes o hermanos, hasta por quince días.
+
+Cómputo de licencias
 
 ###### Artículo 242º
 
@@ -1876,7 +1956,9 @@ Suspensión del Despacho Judicial
 
 ###### Artículo 247º
 
-No hay Despacho Judicial los días Sábados, Domingos y feriados no laborables y los de duelo nacional y judicial. Asimismo por inicio del Año Judicial y por el día del Juez. Duelo judicial
+No hay Despacho Judicial los días Sábados, Domingos y feriados no laborables y los de duelo nacional y judicial. Asimismo por inicio del Año Judicial y por el día del Juez.
+
+Duelo judicial
 
 ###### Artículo 248º. Son días de duelo judicial los del sepelio de los siguientes
 
@@ -1946,7 +2028,9 @@ Los Secretarios de Sala son nombrados previo concurso por el Consejo Ejecutivo d
 
 ###### Artículo 259º
 
-Son obligaciones de los Secretarios de Sala: 1.- Atender en su oficina dentro del horario establecido; 2.- Recibir mediante Mesa de Partes, los expedientes que los Magistrados o salas envien en grado o en consulta y los escritos o recurso que entreguen los interesados; 3.- Consignar al margen de las notas de remisión y de los escritos y recursos cuando sean de término o lo pida el interesado, bajo su firma o la del empleado que los recibe, la fecha y hora que llegan a la Mesa de Partes y anotar en la correspondiente libreta los procesos y copias que sean entregados; 4.- Entregar diariamente a la Sala los expedientes que están al despacho; 5.- Refrendar las resoluciones el mismo día que se expidan y autorizar las actas de comparendos, poderes y declaraciones en el acto en que se lleven a cabo, después de obtener las firmas de las personas que intervengan en dichas diligencias; 6.- Recibir de Relatoría, bajo cargo, el despacho de cada día para la prosecución de su trámite; 7.- Devolver inmediatamente a los Juzgados y Cortes Superiores de su procedencia los expedientes resueltos, después que estén vencidos los términos de ley, sin retardo alguno, bajo responsabilidad; 8.- Vigilar que se cumplan en el menor tiempo posible, las peticiones y devoluciones de expedientes en trámite para mejor resolver; 9.- Informar diariamente al Presidente de la Sala sobre los procesos en que hayan vencido los términos, para que sean resuelto; 10.- Guardar secreto de lo que ocurra en la Sala; 11.- Facilitar a los interesados y a sus abogados, en la Oficina de la Secretaría, el estudio de los expedientes; 12.- Cuidar que se notifiquen las resoluciones en los términos y formas de ley; y, 13.- Ejercer las demás atribuciones que señala la ley. CONCORDANCIAS: R. ADM. Nº 227-2009-CE-PJ, Reglamento, Art. 8º, num. 5 y Art. 9º, num. 10 Secretarios de Salas Penales
+Son obligaciones de los Secretarios de Sala: 1.- Atender en su oficina dentro del horario establecido; 2.- Recibir mediante Mesa de Partes, los expedientes que los Magistrados o salas envien en grado o en consulta y los escritos o recurso que entreguen los interesados; 3.- Consignar al margen de las notas de remisión y de los escritos y recursos cuando sean de término o lo pida el interesado, bajo su firma o la del empleado que los recibe, la fecha y hora que llegan a la Mesa de Partes y anotar en la correspondiente libreta los procesos y copias que sean entregados; 4.- Entregar diariamente a la Sala los expedientes que están al despacho; 5.- Refrendar las resoluciones el mismo día que se expidan y autorizar las actas de comparendos, poderes y declaraciones en el acto en que se lleven a cabo, después de obtener las firmas de las personas que intervengan en dichas diligencias; 6.- Recibir de Relatoría, bajo cargo, el despacho de cada día para la prosecución de su trámite; 7.- Devolver inmediatamente a los Juzgados y Cortes Superiores de su procedencia los expedientes resueltos, después que estén vencidos los términos de ley, sin retardo alguno, bajo responsabilidad; 8.- Vigilar que se cumplan en el menor tiempo posible, las peticiones y devoluciones de expedientes en trámite para mejor resolver; 9.- Informar diariamente al Presidente de la Sala sobre los procesos en que hayan vencido los términos, para que sean resuelto; 10.- Guardar secreto de lo que ocurra en la Sala; 11.- Facilitar a los interesados y a sus abogados, en la Oficina de la Secretaría, el estudio de los expedientes; 12.- Cuidar que se notifiquen las resoluciones en los términos y formas de ley; y, 13.- Ejercer las demás atribuciones que señala la ley.
+
+CONCORDANCIAS: R. ADM. Nº 227-2009-CE-PJ, Reglamento, Art. 8º, num. 5 y Art. 9º, num. 10 Secretarios de Salas Penales
 
 ###### Artículo 260º
 
@@ -1964,7 +2048,9 @@ Nombramiento
 
 ###### Artículo 262º
 
-Los Relatores son nombrados por el Consejo Ejecutivo del Distrito Judicial correspondiente, previo concurso. Obligaciones
+Los Relatores son nombrados por el Consejo Ejecutivo del Distrito Judicial correspondiente, previo concurso.
+
+Obligaciones
 
 ###### Artículo 263º
 
@@ -2062,7 +2148,9 @@ Irregularidades
 
 ###### Artículo 278º
 
-Las irregularidades cometidas por los peritos en el desempeño de sus funciones, son puestas en conocimiento de las instituciones profesionales que los propusieron, sin perjuicio de aplicarse las sanciones que establece la ley. Honorarios
+Las irregularidades cometidas por los peritos en el desempeño de sus funciones, son puestas en conocimiento de las instituciones profesionales que los propusieron, sin perjuicio de aplicarse las sanciones que establece la ley.
+
+Honorarios
 
 ###### Artículo 279º
 
@@ -2152,11 +2240,15 @@ La conformación de un estudio colectivo es puesta en conocimiento de las Cortes
 
 Los Magistrados sancionan a los abogados que formulen pedidos maliciosos o manifiestamente ilegales, falseen a sabiendas la verdad de los hechos, o no cumplan los deberes indicados en los incisos 1), 2), 3), 5), 7), 9), 11), y 12) del artículo 288º. Las sanciones pueden ser de amonestación y multa no menor de una (01) ni mayor de veinte (20) Unidades de Referencia Procesal, así como suspensión en el ejercicio de la profesión hasta por seis meses.
 
-Las resoluciones que impongan sanción de multa superior a dos (02) Unidades de Referencia Procesal o de suspensión, son apelables en efecto suspensivo, formándose el cuaderno respectivo. Las demás sanciones son apelables sin efecto suspensivo. Las sanciones son comunicadas a la Presidencia de la Corte Superior y al Colegio de Abogados del Distrito Judicial respectivo. CONCORDANCIAS: R. ADM. Nº 042-2005-P-CSJCL-PJ R. ADM. Nº 107-2006-CED-CSJLI-PJ Derecho de defensa irrestricto
+Las resoluciones que impongan sanción de multa superior a dos (02) Unidades de Referencia Procesal o de suspensión, son apelables en efecto suspensivo, formándose el cuaderno respectivo. Las demás sanciones son apelables sin efecto suspensivo.
+
+Las sanciones son comunicadas a la Presidencia de la Corte Superior y al Colegio de Abogados del Distrito Judicial respectivo. CONCORDANCIAS: R. ADM. Nº 042-2005-P-CSJCL-PJ R. ADM. Nº 107-2006-CED-CSJLI-PJ Derecho de defensa irrestricto
 
 ###### Artículo 293º
 
-El Abogado tiene derecho a defender o prestar asesoramiento a sus patrocinados ante las autoridades judiciales, parlamentarias, políticas, administrativas, policiales y militares y ante las entidades o corporaciones de derecho privado y ninguna autoridad puede impedir este ejercicio, bajo responsabilidad. Pago de honorarios
+El Abogado tiene derecho a defender o prestar asesoramiento a sus patrocinados ante las autoridades judiciales, parlamentarias, políticas, administrativas, policiales y militares y ante las entidades o corporaciones de derecho privado y ninguna autoridad puede impedir este ejercicio, bajo responsabilidad.
+
+Pago de honorarios
 
 ###### Artículo 294º
 
@@ -2226,13 +2318,23 @@ Fueros Agrario y de Trabajo
 
 ###### Primera
 
-Las Salas y Juzgados de los Fueros Agrario y de Trabajo se incorporan como Salas y Juzgados Especializados de las Cortes Superiores del Distrito Judicial donde están ubicados, con todo su personal de Magistrados, funcionarios y trabajadores, así como su infraestructura, equipamiento y acervo documentario. En aquellos Distritos Judiciales, cuyas Cortes Superiores cuentan con infraestructura física desocupada, sus respectivos Presidentes, bajo responsabilidad, y sin necesidad de acuerdo de Sala Plena, organizan y disponen su inmediata ocupación por las dependencias de las Salas Laborales y Agrarias y sus respectivos Juzgados, hasta donde lo permita el área física disponible. La disposición contenida en este párrafo tiene vigencia a partir de la publicación de la presente Ley.
+Las Salas y Juzgados de los Fueros Agrario y de Trabajo se incorporan como Salas y Juzgados Especializados de las Cortes Superiores del Distrito Judicial donde están ubicados, con todo su personal de Magistrados, funcionarios y trabajadores, así como su infraestructura, equipamiento y acervo documentario.
 
-Las Salas Laborales incorporadas a las Cortes de Lima, Callao, Arequipa, La Libertad y Junín continúan con la jurisdicción que les asigna el Decreto Legislativo Nº 384, y hasta que se creen nuevas Salas Especializadas en otros Distritos Judiciales y se ejerciten las facultades señaladas en el artículo 82º inciso 28) de esta ley. Se modifica únicamente la competencia territorial de las Salas Laborales de Lima, la cual se restringe a la Provincia de Lima, correspondiendo en adelante a las del Callao las demás Provincias del Departamento de Lima, juntamente con los ex-Departamentos de Ica, Loreto y Ucayali. Dentro de los 180 días de la promulgación de esta Ley, el Tribunal Agrario se desdobla inicialmente en tres Salas Agrarias Superiores, con sede en las Cortes Superiores de las ciudades de Chiclayo, Lima y Puno, con la siguiente jurisdicción supradistrital: Regiones Grau, Nor Oriental de Marañón y La Libertad; Regiones Arequipa, Inca y Tacna- Moquegua-Puno (José Carlos Mariátegui); y las demás Regiones, más los departamentos de Lima, San Martín y la Provincia Constitucional del Callao, respectivamente. En tanto se inicie el funcionamiento de estas Salas, el Tribunal Agrario continúa con la competencia territorial que tiene a la fecha de promulgación de esta Ley. Igualmente créase una Sala Especializada Penal en las Cortes Superiores que tienen sus sedes en las ciudades de Tacna e Iquitos, asumiendo las ya existentes el carácter de Salas Especializadas Civiles. Además, una Sala Especializada Laboral en la Corte Superior cuya sede es la ciudad de Chiclayo y otra en la de Lima.
+En aquellos Distritos Judiciales, cuyas Cortes Superiores cuentan con infraestructura física desocupada, sus respectivos Presidentes, bajo responsabilidad, y sin necesidad de acuerdo de Sala Plena, organizan y disponen su inmediata ocupación por las dependencias de las Salas Laborales y Agrarias y sus respectivos Juzgados, hasta donde lo permita el área física disponible. La disposición contenida en este párrafo tiene vigencia a partir de la publicación de la presente Ley.
 
-Créanse asimismo Juzgados Especializados Penales en aquellas Provincias que sólo tengan un Juez Civil o Mixto y ninguno Penal, cuando su volumen demográfico supere los cien mil habitantes, y adicionalmente un Juez Mixto cuando su población supere los doscientos mil habitantes. Su implementación y funcionamiento se harán efectivos durante los años 1992 y 1993. A los Magistrados titulares que estén integrando los Fueros antes señalados a la fecha de promulgación de la presente Ley, se les reconoce la antigüedad que tienen en el cargo para todos los efectos que esta Ley establece, los cuales continúan gozando de los derechos, preeminencias y beneficios que respectivamente tengan hasta dicha fecha.
+Las Salas Laborales incorporadas a las Cortes de Lima, Callao, Arequipa, La Libertad y Junín continúan con la jurisdicción que les asigna el Decreto Legislativo Nº 384, y hasta que se creen nuevas Salas Especializadas en otros Distritos Judiciales y se ejerciten las facultades señaladas en el artículo 82º inciso 28) de esta ley. Se modifica únicamente la competencia territorial de las Salas Laborales de Lima, la cual se restringe a la Provincia de Lima, correspondiendo en adelante a las del Callao las demás Provincias del Departamento de Lima, juntamente con los ex-Departamentos de Ica, Loreto y Ucayali.
 
-A partir de la promulgación de la presente Ley, el funcionamiento de los Fueros Agrario y de Trabajo, hasta su plena integración al Poder Judicial, queda sujeto a la autoridad de la Sala Plena de la Corte Suprema y del Consejo Ejecutivo del Poder Judicial. Ejecutores coactivos
+Dentro de los 180 días de la promulgación de esta Ley, el Tribunal Agrario se desdobla inicialmente en tres Salas Agrarias Superiores, con sede en las Cortes Superiores de las ciudades de Chiclayo, Lima y Puno, con la siguiente jurisdicción supradistrital: Regiones Grau, Nor Oriental de Marañón y La Libertad; Regiones Arequipa, Inca y Tacna- Moquegua-Puno (José Carlos Mariátegui); y las demás Regiones, más los departamentos de Lima, San Martín y la Provincia Constitucional del Callao, respectivamente. En tanto se inicie el funcionamiento de estas Salas, el Tribunal Agrario continúa con la competencia territorial que tiene a la fecha de promulgación de esta Ley.
+
+Igualmente créase una Sala Especializada Penal en las Cortes Superiores que tienen sus sedes en las ciudades de Tacna e Iquitos, asumiendo las ya existentes el carácter de Salas Especializadas Civiles. Además, una Sala Especializada Laboral en la Corte Superior cuya sede es la ciudad de Chiclayo y otra en la de Lima.
+
+Créanse asimismo Juzgados Especializados Penales en aquellas Provincias que sólo tengan un Juez Civil o Mixto y ninguno Penal, cuando su volumen demográfico supere los cien mil habitantes, y adicionalmente un Juez Mixto cuando su población supere los doscientos mil habitantes. Su implementación y funcionamiento se harán efectivos durante los años 1992 y 1993.
+
+A los Magistrados titulares que estén integrando los Fueros antes señalados a la fecha de promulgación de la presente Ley, se les reconoce la antigüedad que tienen en el cargo para todos los efectos que esta Ley establece, los cuales continúan gozando de los derechos, preeminencias y beneficios que respectivamente tengan hasta dicha fecha.
+
+A partir de la promulgación de la presente Ley, el funcionamiento de los Fueros Agrario y de Trabajo, hasta su plena integración al Poder Judicial, queda sujeto a la autoridad de la Sala Plena de la Corte Suprema y del Consejo Ejecutivo del Poder Judicial.
+
+Ejecutores coactivos
 
 ###### Segunda
 
@@ -2290,7 +2392,9 @@ Magistrados no ratificados
 
 Se reconoce exclusivamente a los Magistrados no ratificados en los años 1980 a 1982, el derecho a participar en los concursos para ocupar cargos judiciales, cumpliendo con los requisitos que las leyes establecen.
 
-En caso de producirse su reingreso no es de abono para su tiempo de servicios, el transcurrido desde su no ratificación. Los Consejos de la Magistratura tienen a la vista, de hallarse disponibles, los antecedentes en los que se fundamentó la no ratificación, disponiendo además la publicación en el Diario Oficial “El Peruano”, o el de mayor circulación local, para los fines que los interesados tengan por conveniente.
+En caso de producirse su reingreso no es de abono para su tiempo de servicios, el transcurrido desde su no ratificación.
+
+Los Consejos de la Magistratura tienen a la vista, de hallarse disponibles, los antecedentes en los que se fundamentó la no ratificación, disponiendo además la publicación en el Diario Oficial “El Peruano”, o el de mayor circulación local, para los fines que los interesados tengan por conveniente.
 
 Esta disposición rige desde el día siguiente de publicada la presente Ley.
 
@@ -2298,7 +2402,9 @@ Secretarios de Juzgados No Letrados
 
 ###### Décimo Cuarta
 
-Los actuales Secretarios de Juzgados que no sean letrados y que a la fecha de vigencia de la presente Ley, se encuentran laborando, continúan en sus cargos y gozan de los mismos derechos y beneficios, mientras mantengan la idoneidad requerida. Juzgados de Trabajo
+Los actuales Secretarios de Juzgados que no sean letrados y que a la fecha de vigencia de la presente Ley, se encuentran laborando, continúan en sus cargos y gozan de los mismos derechos y beneficios, mientras mantengan la idoneidad requerida.
+
+Juzgados de Trabajo
 
 ###### Décimo Quinta
 
@@ -2394,7 +2500,9 @@ b. De las contiendas de competencia y de los conflictos de autoridad que le son 
 
 c. En segunda instancia de las acciones referentes al Derecho Societario, de Quiebras, de Transporte Marítimo y Aeronáutico, de Seguros, Bancario, Minero y otras materias análogas; y,
 
-d. De los demás asuntos que establece la ley. Cualquier cuestionamiento referente a la competencia de la Sala en lo Comercial sobre los asuntos señalados en los incisos precedentes, será resuelto, sin trámite alguno y en decisión inimpugnable, por la propia Sala.
+d. De los demás asuntos que establece la ley.
+
+Cualquier cuestionamiento referente a la competencia de la Sala en lo Comercial sobre los asuntos señalados en los incisos precedentes, será resuelto, sin trámite alguno y en decisión inimpugnable, por la propia Sala.
 
 Sala Especializada en lo Contencioso-Administrativo en la Corte Suprema
 
@@ -2424,11 +2532,15 @@ c. De los recursos de casación en materia de Derecho Laboral y Agrario, cuando 
 
 d. En última instancia de los procesos de responsabilidad civil en los casos señalados en el inciso 3) del artículo 33º de esta Ley; y,
 
-e. De los demás asuntos que establece la Ley. Mandato del actual Presidente de la Corte Suprema
+e. De los demás asuntos que establece la Ley.
+
+Mandato del actual Presidente de la Corte Suprema
 
 ###### Vigésima Novena
 
-Prorróguese el mandato del actual Presidente de la Corte Suprema hasta el 31 de diciembre de 1994, oportunidad en la cual la elección del nuevo Presidente se realizará conforme a lo dispuesto en el artículo 74º de la presente ley. Hasta esa misma fecha el Consejo Ejecutivo del Poder Judicial estará integrado por las siguientes personas:
+Prorróguese el mandato del actual Presidente de la Corte Suprema hasta el 31 de diciembre de 1994, oportunidad en la cual la elección del nuevo Presidente se realizará conforme a lo dispuesto en el artículo 74º de la presente ley.
+
+Hasta esa misma fecha el Consejo Ejecutivo del Poder Judicial estará integrado por las siguientes personas:
 
 1. Dr. Luis Serpa Segura.
 
@@ -2444,11 +2556,15 @@ Jefe actual de la Oficina de Control de la Magistratura
 
 ###### Trigésima
 
-El actual Jefe de la Oficina de Control Interno del Poder Judicial ejercerá el cargo de Jefe de la Oficina de Control de la Magistratura de dicho Poder hasta el 31 de diciembre de 1994. A partir del año judicial de 1995, la designación del Jefe de la Oficina de Control de la Magistratura se realizará con arreglo a lo dispuesto en el inciso 3) del artículo 80º de la presente Ley. Creación de Comisión Multisectorial encargada de revisar las normas de la Justicia de Paz
+El actual Jefe de la Oficina de Control Interno del Poder Judicial ejercerá el cargo de Jefe de la Oficina de Control de la Magistratura de dicho Poder hasta el 31 de diciembre de 1994. A partir del año judicial de 1995, la designación del Jefe de la Oficina de Control de la Magistratura se realizará con arreglo a lo dispuesto en el inciso 3) del artículo 80º de la presente Ley.
+
+Creación de Comisión Multisectorial encargada de revisar las normas de la Justicia de Paz
 
 ###### Trigésima Primera
 
-Constitúyase una Comisión Multisectorial encargada de revisar las normas que rigen la justicia de paz en el Perú; así como de determinar sus necesidades en infraestructura, la consecuencia de crear una instancia específica para la revisión de sus fallos, y el número de juzgados de paz letrados y no letrados que deben existir en cada distrito judicial, de acuerdo a las necesidades propias de cada uno de ellos. La Comisión Multisectorial deberá proponer al Ministro de Justicia en el plazo improrrogable de 60 días hábiles contados a partir de la fecha de su instalación, los proyectos de normas legales, de ser el caso, así como sus propuestas y recomendaciones con relación a los aspectos señalados en párrafo anterior. La Comisión estará integrada por las siguientes personas:
+Constitúyase una Comisión Multisectorial encargada de revisar las normas que rigen la justicia de paz en el Perú; así como de determinar sus necesidades en infraestructura, la consecuencia de crear una instancia específica para la revisión de sus fallos, y el número de juzgados de paz letrados y no letrados que deben existir en cada distrito judicial, de acuerdo a las necesidades propias de cada uno de ellos. La Comisión Multisectorial deberá proponer al Ministro de Justicia en el plazo improrrogable de 60 días hábiles contados a partir de la fecha de su instalación, los proyectos de normas legales, de ser el caso, así como sus propuestas y recomendaciones con relación a los aspectos señalados en párrafo anterior.
+
+La Comisión estará integrada por las siguientes personas:
 
 1) Un representante del Ministerio de Justicia, quien la presidirá;
 
@@ -2470,4 +2586,6 @@ Disposiciones derogadas
 
 ###### Trigésima Tercera
 
-Quedan derogadas el Decreto Ley Nº 14605, el Decreto Legislativo Nº 612 y todas las normas legales que se opongan al Decreto Legislativo Nº 767 - Ley Orgánica del Poder Judicial - y al Decreto Ley Nº 25869. LEY ORGÁNICA DEL PODER JUDICIAL. LEY ORGÁNICA DEL MINISTERIO PÚBLICO NORMAS CONCORDADAS CON LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO LEYES − LEY Nº 26397 (07.12.1994) Ley Orgánica del Consejo Nacional de la Magistratura − LEY Nº 27378 (21.12.2000) Ley que establece beneficios por colaboración eficaz en el ámbito de la criminalidad organizada − LEY Nº 28367 (28.10.2004) Ley que modifica los Artículos 236º, 237º y 238º del Texto Único Ordenado de la Ley Orgánica del Poder Judicial y el Artículo 27º de la Ley Orgánica del Ministerio Público − LEY Nº 29182 (11.01.2008) Ley de Organización y Funciones del Fuero Militar Policial DECRETOS DE URGENCIA − DECRETO DE URGENCIA Nº 082-2010 (23.12.2010) Dictan medida orientada al Fortalecimiento de la Administración de Justicia a cargo del Ministerio Público DECRETOS SUPREMOS − DECRETO SUPREMO Nº 005-81-JUS (24.04.1981) Reglamentan Disposiciones de Decreto Legislativo Nº 52 − DECRETO SUPREMO Nº 001-2004-JUS (16.01.2004) Aprueban Reglamento de la Ley Nº 28149 – Ley que incluye la participación de la sociedad civil en los órganos de control del Poder Judicial y del Ministerio Público RESOLUCIONES − R. Nº 009-2001-MP-FN-JFS (28.02.2001) Aprueban el Reglamento del Artículo 80º-B de la Ley Orgánica del Ministerio Público, agregado por la Ley Nº 27380 − R. Nº 915-2001-MP-FN (18.09.2001) Aprueban Reglamento del Procedimiento Disciplinario aplicable a los Fiscales Supremos Titulares y Provisionales del Ministerio Público − R. Nº 007-2005-MP-FN (05.01.2005) Dictan disposiciones para la investigación y juzgamiento de delitos que compete conocer originariamente a la Corte Suprema de Justicia de la República − R. Nº 1133-2005-MP-FN (17.05.2005) Aprueban Directiva “Normas para la aplicación de Conciliación en asuntos de Derecho de Familia a Nivel Nacional − R. Nº 1274-2005-MP-FN (31.05.2005) Aprueban Directiva sobre Disposiciones y Acciones relacionadas con la Inteligencia, Prevención, Investigaciones y Procesos a cargo de los Fiscales ante Comités de Seguridad Ciudadana para la Lucha Contra la Delincuencia − R. Nº 1470-2005-MP-FN (12.07.2005) Aprueban Reglamento de Aplicación del Principio de Oportunidad − R. Nº 1057-2005-CNM (28.08.2005) Aprueban Reglamento del Registro de Jueces y Fiscales del Consejo Nacional de la Magistratura − R. Nº 1747-2005-MP-FN (13.09.2005) Aprueban Tabla de Puntaje para la elaboración del Cuadro de Orden de Mérito de Fiscales Titulares − R. Nº 071-2005-MP-FN-JFS (09.11.2005) Aprueban Reglamento de Organización y Funciones de la Fiscalía Suprema de Control Interno del Ministerio Público − R. Nº 381-2006-MP-FN (04.04.2006) Aprueban Directiva que establece mecanismos de participación de los Fiscales en las Elecciones Generales para la elección del Presidente de la República, Vicepresidentes, Congresistas y representantes al Parlamento Andino − R. Nº 387-2007-MP-FN (07.04.2007) Aprueban Lineamientos que promueven la Cultura de la Puntualidad y Respeto de Horarios en las Dependencias del Ministerio Público a nivel nacional − R. Nº 635-2009-CNM (18.11.2009) Aprueban Reglamento de Evaluación Integral y Ratificación de Jueces del Poder Judicial y Fiscales del Ministerio Público − R. Nº 281-2010-CNM (04.09.2010) Aprueban Reglamento de Concursos para el Acceso Abierto en la Selección y Nombramiento de Jueces y Fiscales − R. Nº 790-2012-MP-FN (28.03.2012) Aprueban la Directiva Nº 001-2012-MP-FN, sobre “ Adecuación de los Procesos seguidos contra Jueces de Paz conforme al Nuevo Código Procesal Penal”
+Quedan derogadas el Decreto Ley Nº 14605, el Decreto Legislativo Nº 612 y todas las normas legales que se opongan al Decreto Legislativo Nº 767 - Ley Orgánica del Poder Judicial - y al Decreto Ley Nº 25869. LEY ORGÁNICA DEL PODER JUDICIAL.
+
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO NORMAS CONCORDADAS CON LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO LEYES − LEY Nº 26397 (07.12.1994) Ley Orgánica del Consejo Nacional de la Magistratura − LEY Nº 27378 (21.12.2000) Ley que establece beneficios por colaboración eficaz en el ámbito de la criminalidad organizada − LEY Nº 28367 (28.10.2004) Ley que modifica los Artículos 236º, 237º y 238º del Texto Único Ordenado de la Ley Orgánica del Poder Judicial y el Artículo 27º de la Ley Orgánica del Ministerio Público − LEY Nº 29182 (11.01.2008) Ley de Organización y Funciones del Fuero Militar Policial DECRETOS DE URGENCIA − DECRETO DE URGENCIA Nº 082-2010 (23.12.2010) Dictan medida orientada al Fortalecimiento de la Administración de Justicia a cargo del Ministerio Público DECRETOS SUPREMOS − DECRETO SUPREMO Nº 005-81-JUS (24.04.1981) Reglamentan Disposiciones de Decreto Legislativo Nº 52 − DECRETO SUPREMO Nº 001-2004-JUS (16.01.2004) Aprueban Reglamento de la Ley Nº 28149 – Ley que incluye la participación de la sociedad civil en los órganos de control del Poder Judicial y del Ministerio Público RESOLUCIONES − R. Nº 009-2001-MP-FN-JFS (28.02.2001) Aprueban el Reglamento del Artículo 80º-B de la Ley Orgánica del Ministerio Público, agregado por la Ley Nº 27380 − R. Nº 915-2001-MP-FN (18.09.2001) Aprueban Reglamento del Procedimiento Disciplinario aplicable a los Fiscales Supremos Titulares y Provisionales del Ministerio Público − R. Nº 007-2005-MP-FN (05.01.2005) Dictan disposiciones para la investigación y juzgamiento de delitos que compete conocer originariamente a la Corte Suprema de Justicia de la República − R. Nº 1133-2005-MP-FN (17.05.2005) Aprueban Directiva “Normas para la aplicación de Conciliación en asuntos de Derecho de Familia a Nivel Nacional − R. Nº 1274-2005-MP-FN (31.05.2005) Aprueban Directiva sobre Disposiciones y Acciones relacionadas con la Inteligencia, Prevención, Investigaciones y Procesos a cargo de los Fiscales ante Comités de Seguridad Ciudadana para la Lucha Contra la Delincuencia − R. Nº 1470-2005-MP-FN (12.07.2005) Aprueban Reglamento de Aplicación del Principio de Oportunidad − R. Nº 1057-2005-CNM (28.08.2005) Aprueban Reglamento del Registro de Jueces y Fiscales del Consejo Nacional de la Magistratura − R. Nº 1747-2005-MP-FN (13.09.2005) Aprueban Tabla de Puntaje para la elaboración del Cuadro de Orden de Mérito de Fiscales Titulares − R. Nº 071-2005-MP-FN-JFS (09.11.2005) Aprueban Reglamento de Organización y Funciones de la Fiscalía Suprema de Control Interno del Ministerio Público − R. Nº 381-2006-MP-FN (04.04.2006) Aprueban Directiva que establece mecanismos de participación de los Fiscales en las Elecciones Generales para la elección del Presidente de la República, Vicepresidentes, Congresistas y representantes al Parlamento Andino − R. Nº 387-2007-MP-FN (07.04.2007) Aprueban Lineamientos que promueven la Cultura de la Puntualidad y Respeto de Horarios en las Dependencias del Ministerio Público a nivel nacional − R. Nº 635-2009-CNM (18.11.2009) Aprueban Reglamento de Evaluación Integral y Ratificación de Jueces del Poder Judicial y Fiscales del Ministerio Público − R. Nº 281-2010-CNM (04.09.2010) Aprueban Reglamento de Concursos para el Acceso Abierto en la Selección y Nombramiento de Jueces y Fiscales − R. Nº 790-2012-MP-FN (28.03.2012) Aprueban la Directiva Nº 001-2012-MP-FN, sobre “ Adecuación de los Procesos seguidos contra Jueces de Paz conforme al Nuevo Código Procesal Penal”

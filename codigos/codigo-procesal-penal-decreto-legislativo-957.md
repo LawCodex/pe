@@ -20,7 +20,11 @@ NUEVO CÓDIGO PROCESAL PENAL DECRETO LEGISLATIVO N° 9571 2 (Publicado el 29 d
 
 De conformidad con lo dispuesto en el artículo 104 de la Constitución Política del Perú, por Ley N° 28269, publicada el 4 de julio de 2004, el Congreso de la República delega en el Poder Ejecutivo, la facultad de dictar mediante Decreto Legislativo, un nuevo Código Procesal Penal y sobre su implementación, así como cualquier otro asunto en materia procesal penal, dentro del término de treinta (30) días útiles; Que, la Comisión Especial de Alto Nivel creada conforme a lo dispuesto en el artículo 1 del Decreto Supremo N° 005-2003-JUS del 14 de marzo de 2003, ha cumplido con proponer las modificaciones y mecanismos legales de implementación del nuevo Código Procesal Penal;
 
-Con el voto aprobatorio del Consejo de Ministros; Con cargo a dar cuenta al Congreso de la República; Ha dado el Decreto Legislativo siguiente:
+Con el voto aprobatorio del Consejo de Ministros;
+
+Con cargo a dar cuenta al Congreso de la República;
+
+Ha dado el Decreto Legislativo siguiente:
 
 DECRETO LEGISLATIVO QUE PROMULGA CÓDIGO PROCESAL PENAL 3 4 5 6 7 8
 
@@ -32,7 +36,9 @@ Título Preliminar Artículos I a X LIBRO PRIMERO : Disposiciones Generales Art�
 
 ## DISPOSICIONES COMPLEMENTARIAS POR TANTO:
 
-Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintidós días del mes de julio del año dos mil cuatro.
+Mando se publique y cumpla, dando cuenta al Congreso de la República.
+
+Dado en la Casa de Gobierno, en Lima, a los veintidós días del mes de julio del año dos mil cuatro.
 
 ALEJANDRO TOLEDO Presidente Constitucional de la República CARLOS FERRERO Presidente del Consejo de Ministros BALDO KRESALJA ROSSELLÓ Ministro de Justicia
 
@@ -816,7 +822,9 @@ Poder coercitivo
 
 Función de investigación de la Policía Nacional del Perú[^29]
 
-1. La Policía Nacional del Perú en cumplimiento de sus funciones debe, inclusive por propia iniciativa, tomar conocimiento de los delitos y comunicar inmediatamente al Fiscal, debiendo realizar , las diligencias de investigación urgentes o inaplazables, que formarán parte de las diligencias preliminares y de la carpeta fiscal, para impedir sus consecuencias, individualizar a sus autores y partícipes, así como reunir y asegurar los elementos de prueba que puedan servir para la aplicación de la ley penal[^30]. Similar función desarrollará tratándose de delitos dependientes de instancia privada o sujetas a ejercicio privado de la acción penal[^31].
+1. La Policía Nacional del Perú en cumplimiento de sus funciones debe, inclusive por propia iniciativa, tomar conocimiento de los delitos y comunicar inmediatamente al Fiscal, debiendo realizar , las diligencias de investigación urgentes o inaplazables, que formarán parte de las diligencias preliminares y de la carpeta fiscal, para impedir sus consecuencias, individualizar a sus autores y partícipes, así como reunir y asegurar los elementos de prueba que puedan servir para la aplicación de la ley penal[^30].
+
+Similar función desarrollará tratándose de delitos dependientes de instancia privada o sujetas a ejercicio privado de la acción penal[^31].
 
 2. Los policías que realicen funciones de investigación están obligados a comunicar al Ministerio Público de las diligencias preliminares realizadas, así como apoyar al Ministerio Público para llevar a cabo la Investigación Preparatoria formalizada. El cumplimiento de las disposiciones fiscales en la investigación preliminar del delito no genera relación de subordinación por parte de los miembros de la Policía Nacional del Perú[^32].
 
@@ -1468,7 +1476,9 @@ Notificación
 
 ###### Artículo 128. Notificación por edictos
 
-Cuando se ignore el lugar donde se encuentra la persona que deba ser notificada, la resolución se le hará saber por edicto que se publicará en el Diario Oficial de la sede de la Corte Superior o a través del Portal o página web de la Institución, sin perjuicio de las medidas convenientes para localizarlo. La Fiscalía de la Nación y el Consejo Ejecutivo del Poder Judicial, sin perjuicio de la reglamentación de este artículo, podrán disponer , en el ámbito que les respecta, que se publiquen, en el Diario Oficial, listas de personas requeridas por la justicia.
+Cuando se ignore el lugar donde se encuentra la persona que deba ser notificada, la resolución se le hará saber por edicto que se publicará en el Diario Oficial de la sede de la Corte Superior o a través del Portal o página web de la Institución, sin perjuicio de las medidas convenientes para localizarlo.
+
+La Fiscalía de la Nación y el Consejo Ejecutivo del Poder Judicial, sin perjuicio de la reglamentación de este artículo, podrán disponer , en el ámbito que les respecta, que se publiquen, en el Diario Oficial, listas de personas requeridas por la justicia.
 
 ###### Artículo 129
 
@@ -2162,7 +2172,9 @@ Objeto
 
 ###### Artículo 193. Adecuación
 
-La inspección, en cuanto al tiempo, modo y forma, se adecua a la naturaleza del hecho investigado y a las circunstancias en que ocurrió. La inspección se realizará de manera minuciosa, comprendiendo la escena de los hechos y todo lo que pueda constituir prueba material de delito.
+La inspección, en cuanto al tiempo, modo y forma, se adecua a la naturaleza del hecho investigado y a las circunstancias en que ocurrió.
+
+La inspección se realizará de manera minuciosa, comprendiendo la escena de los hechos y todo lo que pueda constituir prueba material de delito.
 
 ###### Artículo 194
 
@@ -2184,7 +2196,9 @@ Levantamiento de cadáver
 
 2. El levantamiento de cadáver lo realizará el Fiscal, con la intervención, de ser posible, del médico legista y del personal policial especializado en criminalística. Por razones de índole geográfica podrá prescindirse de la participación de personal policial especializado en criminalística. El Fiscal, según las circunstancias del caso, excepcionalmente debe delegar inmediatamente la realización de la diligencia en su adjunto, o en la policía, o en el juez de paz más cercano.
 
-En zonas declaradas en estado de emergencia, cuando existan dificultades que impidan la presencia inmediata del Fiscal, el personal de las Fuerzas Armadas, de la Policía Nacional del Perú o en el juez de paz más cercano procederá al acto del levantamiento de cadáver de los miembros de las Fuerzas Armadas o de la Policía Nacional del Perú y de personas civiles, previo conocimiento del Ministerio Público. Excepcionalmente, se podrá prescindir de este requisito, cuando las condiciones de la zona o el contexto en el que se desenvuelve el operativo imposibiliten materialmente la comunicación previa al representante del Ministerio Público. En todos estos supuestos, se dejará constancia de dicha diligencia y se dará cuenta al representante del Ministerio Público dentro de las veinticuatro
+En zonas declaradas en estado de emergencia, cuando existan dificultades que impidan la presencia inmediata del Fiscal, el personal de las Fuerzas Armadas, de la Policía Nacional del Perú o en el juez de paz más cercano procederá al acto del levantamiento de cadáver de los miembros de las Fuerzas Armadas o de la Policía Nacional del Perú y de personas civiles, previo conocimiento del Ministerio Público. Excepcionalmente, se podrá prescindir de este requisito, cuando las condiciones de la zona o el contexto en el que se desenvuelve el operativo imposibiliten materialmente la comunicación previa al representante del Ministerio Público.
+
+En todos estos supuestos, se dejará constancia de dicha diligencia y se dará cuenta al representante del Ministerio Público dentro de las veinticuatro
 
 (24) horas más el término de la distancia, de ser el caso; asimismo, se debe efectuar la entrega del cadáver en forma inmediata, bajo responsabilidad[^75].
 
@@ -2194,7 +2208,9 @@ En zonas declaradas en estado de emergencia, cuando existan dificultades que imp
 
 Necropsia
 
-1. Cuando sea probable que se trate de un caso de criminalidad se practicará la necropsia para determinar la causa de la muerte. En el contexto de declaratoria de emergencia sanitaria nacional, regional o local y cuando exista sospecha criminal, la necropsia y los actos previos se realizarán conforme a los protocolos emitidos para tal efecto por la autoridad sanitaria competente, en coordinación con el Ministerio Público[^78]. Texto anterior a la modificación:
+1. Cuando sea probable que se trate de un caso de criminalidad se practicará la necropsia para determinar la causa de la muerte. En el contexto de declaratoria de emergencia sanitaria nacional, regional o local y cuando exista sospecha criminal, la necropsia y los actos previos se realizarán conforme a los protocolos emitidos para tal efecto por la autoridad sanitaria competente, en coordinación con el Ministerio Público[^78].
+
+Texto anterior a la modificación:
 
 ###### Artículo 195
 
@@ -2300,7 +2316,9 @@ Control de identidad policial
 
 3. Si existiere fundado motivo que el intervenido pueda estar vinculado a la comisión de un hecho delictuoso, la policía podrá registrarle sus vestimentas, equipaje o vehículo. De esta diligencia específica, en caso resulte positiva, se levantará un acta, indicándose lo encontrado, comunicando de forma inmediata y por escrito al Ministerio Público[^83].
 
-4. En caso no sea posible la exhibición del documento de identidad, según la gravedad del hecho investigado o del ámbito de la operación policial practicada, se tendrá en cuenta las siguientes disposiciones: 4.1. Se conducirá al intervenido a la Dependencia Policial más cercana para exclusivos fines de identificación, pudiéndose tomar las impresiones dactilares del intervenido y constatar si registra alguna requisitoria. Este procedimiento, contado desde el momento de la intervención policial, no puede exceder de cuatro horas en el caso de ciudadanos nacionales, luego de las cuales se le permitirá retirarse. 4.2. Para el caso de extranjeros, excepcionalmente el procedimiento descrito en el numeral anterior no puede exceder de doce horas para su plena identificación, para lo cual deberá tenerse en cuenta lo siguiente: 4.2.1. Si después de efectuada la comprobación de la identidad de las personas, se verifica que tienen antecedentes policiales, penales o judiciales en su país de origen o de cualquier otro país, se pondrá en conocimiento de la Superintendencia Nacional de Migraciones, para que proceda conforme Ley. 4.2.2. Si después de efectuada la comprobación de la identidad de las personas, se verifica que tienen requisitorias vigentes u órdenes de captura internacional, se procederá a su detención conforme a ley. 4.2.3. Si el extranjero intervenido está presuntamente vinculado a la comisión de un hecho delictuoso y antes de que concluya el plazo de doce horas, sin que se haya obtenido la información de autoridades nacionales, consulares del país de origen según sea el caso, y de los órganos de cooperación policial internacional para comprobar su identidad, la Policía pondrá en conocimiento del Ministerio Público tal situación, el que podrá solicitar ante el Juez de la Investigación Preparatoria las medidas coercitivas correspondientes. En caso contrario, corresponde que al intervenido se le permita retirarse. 4.2.4. La Policía deb erá informar sin retraso a la Oficina Consular competente a solicitud del ciudadano extranjero intervenido. En todos los casos la Policía deberá llevar Libro-Registro en el que se hace constar las diligencias de identificación realizadas en las personas, así como los motivos y duración de las mismas. 4.3. En los casos descritos en l os numerales 4.1. y 4.2. precedentes, el intervenido no podrá ser ingresado a celdas o calabozos ni mantenido en contacto con personas detenidas, y tendrá derecho a comunicarse con un familiar o con la persona que indique. La Policía deberá llevar , para estos casos, un Libro-Registro en el que se harán constar las diligencias de identificación realizadas en las personas, así como los motivos y duración de las mismas.
+4. En caso no sea posible la exhibición del documento de identidad, según la gravedad del hecho investigado o del ámbito de la operación policial practicada, se tendrá en cuenta las siguientes disposiciones: 4.1. Se conducirá al intervenido a la Dependencia Policial más cercana para exclusivos fines de identificación, pudiéndose tomar las impresiones dactilares del intervenido y constatar si registra alguna requisitoria. Este procedimiento, contado desde el momento de la intervención policial, no puede exceder de cuatro horas en el caso de ciudadanos nacionales, luego de las cuales se le permitirá retirarse. 4.2. Para el caso de extranjeros, excepcionalmente el procedimiento descrito en el numeral anterior no puede exceder de doce horas para su plena identificación, para lo cual deberá tenerse en cuenta lo siguiente: 4.2.1. Si después de efectuada la comprobación de la identidad de las personas, se verifica que tienen antecedentes policiales, penales o judiciales en su país de origen o de cualquier otro país, se pondrá en conocimiento de la Superintendencia Nacional de Migraciones, para que proceda conforme Ley. 4.2.2. Si después de efectuada la comprobación de la identidad de las personas, se verifica que tienen requisitorias vigentes u órdenes de captura internacional, se procederá a su detención conforme a ley. 4.2.3. Si el extranjero intervenido está presuntamente vinculado a la comisión de un hecho delictuoso y antes de que concluya el plazo de doce horas, sin que se haya obtenido la información de autoridades nacionales, consulares del país de origen según sea el caso, y de los órganos de cooperación policial internacional para comprobar su identidad, la Policía pondrá en conocimiento del Ministerio Público tal situación, el que podrá solicitar ante el Juez de la Investigación Preparatoria las medidas coercitivas correspondientes. En caso contrario, corresponde que al intervenido se le permita retirarse. 4.2.4. La Policía deb erá informar sin retraso a la Oficina Consular competente a solicitud del ciudadano extranjero intervenido.
+
+En todos los casos la Policía deberá llevar Libro-Registro en el que se hace constar las diligencias de identificación realizadas en las personas, así como los motivos y duración de las mismas. 4.3. En los casos descritos en l os numerales 4.1. y 4.2. precedentes, el intervenido no podrá ser ingresado a celdas o calabozos ni mantenido en contacto con personas detenidas, y tendrá derecho a comunicarse con un familiar o con la persona que indique. La Policía deberá llevar , para estos casos, un Libro-Registro en el que se harán constar las diligencias de identificación realizadas en las personas, así como los motivos y duración de las mismas.
 
 5. Siempre que se a necesario para las finalidades del juicio o para las finalidades del servicio de identificación, se pueden tomar fotografías del imputado, sin perjuicio de sus impresiones digitales, incluso contra su voluntad, comunicando este hecho al Ministerio Público, y efectuar en él mediciones y medidas semejantes. De este hecho se levantará un acta[^84][^85].
 
@@ -2530,7 +2548,9 @@ b) Publicación de un aviso en el periódico oficial o en carteles a falta de pe
 
 ###### Artículo 224
 
-Incautación de documentos no privados. Deber de exhibición. Secretos
+Incautación de documentos no privados. Deber de exhibición.
+
+Secretos
 
 1. También pueden ser objeto de exhibición forzosa o incautación las actuaciones y documentos que no tienen la calidad de privados. Cuando se trate de un secreto de Estado, el Fiscal acudirá al Juez de la Investigación Preparatoria a fin de que proceda, en lo pertinente, conforme a lo dispuesto en el artículo 165 numerales 2) y 3).
 
@@ -2606,7 +2626,11 @@ Intervención, grabación o registro de comunicacione telefónicas o de otras fo
 
 2. La orden judicial puede dirigirse contra el investigado o contra personas de las que cabe estimar fundadamente, en mérito a datos objetivos determinados que reciben o tramitan por cuenta del investigado determinadas comunicaciones, o que el investigado utiliza su comunicación a través de cualquier medio o servicio, que para el efecto se considera a todo tipo sistema o plataforma de transmisión radial, telefónica, satelital, digital, por internet u otras formas de tecnologías de la información y las comunicaciones (TIC).
 
-3. El requerimiento del Fiscal y, en su caso, la resolución judicial que la autorice, deberá indicar el nombre y dirección del afectado por la medida si se conociera, así como, de ser posible, la identidad del teléfono u otro medio de comunicación o telecomunicación a intervenir , grabar o registrar . También indicará la forma de la interceptación, su alcance y su duración, al igual que la dependencia y los datos del personal policial o Fiscalía que se encargará de la diligencia de intervención y grabación o registro[^114]. El Juez comunicará al Fiscal que solicitó la medida el mandato judicial de levantamiento del secreto de las comunicaciones. La comunicación a los concesionarios de servicios públicos de telecomunicaciones, a efectos de cautelar la reserva del caso, será mediante oficio y en dicho documento se transcribirá la parte resolutiva concerniente. En los casos que tenga carácter de emergencia en las que se amenace inminentemente la vida, la integridad o la libertad personal de la víctima, el Fiscal, por sí o a solicitud de la Policía Nacional, requiere la medida de levantamiento del secreto de las comunicaciones al Juez Penal, dentro de las veinticuatro (24) horas, bajo responsabilidad funcional. El plazo para el Fiscal se computa desde que recibe el informe policial preliminar . La autoridad judicial resuelve la procedencia de dicha medida en el mismo plazo desde la recepción del requerimiento fiscal. En caso de ser procedente, el Juez debe solicitar de manera directa la información a las operadoras de telefonía que correspondan y, asimismo, ordenará que sea remitida al Fiscal y a la unidad policial a cargo de la investigación, en un plazo no mayor a 24 horas.
+3. El requerimiento del Fiscal y, en su caso, la resolución judicial que la autorice, deberá indicar el nombre y dirección del afectado por la medida si se conociera, así como, de ser posible, la identidad del teléfono u otro medio de comunicación o telecomunicación a intervenir , grabar o registrar . También indicará la forma de la interceptación, su alcance y su duración, al igual que la dependencia y los datos del personal policial o Fiscalía que se encargará de la diligencia de intervención y grabación o registro[^114].
+
+El Juez comunicará al Fiscal que solicitó la medida el mandato judicial de levantamiento del secreto de las comunicaciones. La comunicación a los concesionarios de servicios públicos de telecomunicaciones, a efectos de cautelar la reserva del caso, será mediante oficio y en dicho documento se transcribirá la parte resolutiva concerniente.
+
+En los casos que tenga carácter de emergencia en las que se amenace inminentemente la vida, la integridad o la libertad personal de la víctima, el Fiscal, por sí o a solicitud de la Policía Nacional, requiere la medida de levantamiento del secreto de las comunicaciones al Juez Penal, dentro de las veinticuatro (24) horas, bajo responsabilidad funcional. El plazo para el Fiscal se computa desde que recibe el informe policial preliminar . La autoridad judicial resuelve la procedencia de dicha medida en el mismo plazo desde la recepción del requerimiento fiscal. En caso de ser procedente, el Juez debe solicitar de manera directa la información a las operadoras de telefonía que correspondan y, asimismo, ordenará que sea remitida al Fiscal y a la unidad policial a cargo de la investigación, en un plazo no mayor a 24 horas.
 
 4. Las empresas prestadoras de servicios de comunicaciones que operan en el país, están obligadas a brindar las facilidades, en forma inmediata, para la intervención, grabación o registro de las citadas comunicaciones, que incluye la geolocalización, dispuesta mediante resolución judicial, en tiempo real y en forma ininterrumpida, las 24 horas de los 365 días del año, bajo apercibimiento de ser pasible de las responsabilidades de Ley en caso de incumplimiento. Al efecto, deben acondicionar y adecuar su tecnología para la conectividad automatizada con el sistema de intervención y control de las comunicaciones de la Policía Nacional. Los servidores de las indicadas empresas deben guardar secreto acerca de las mismas, salvo que se les citare como testigo al procedimiento.
 
@@ -2658,7 +2682,9 @@ Texto anterior a la modificación:
 
 Intervención o grabación o registro de comunicaciones telefónicas o de otras formas de comunicación. (…)
 
-4. Las empresas telefónicas y de telecomunicaciones deberán posibilitar la diligencia de intervención y grabación o registro, bajo apercibimiento de ser denunciados por delito de desobediencia a la autoridad. Los encargados de realizar la diligencia y los servidores de las indicadas empresas deberán guardar secreto acerca de la misma, salvo que se les citare como testigos al procedimiento. (…). (******) Numeral modificado por la Tercera Disposición Complementaria Modificatoria de la Ley N° 30077, publicada el 20 de agosto de 2013, la misma que entró en vigencia el 1 de julio de 2014.
+4. Las empresas telefónicas y de telecomunicaciones deberán posibilitar la diligencia de intervención y grabación o registro, bajo apercibimiento de ser denunciados por delito de desobediencia a la autoridad.
+
+Los encargados de realizar la diligencia y los servidores de las indicadas empresas deberán guardar secreto acerca de la misma, salvo que se les citare como testigos al procedimiento. (…). (******) Numeral modificado por la Tercera Disposición Complementaria Modificatoria de la Ley N° 30077, publicada el 20 de agosto de 2013, la misma que entró en vigencia el 1 de julio de 2014.
 
 Texto anterior a la modificación:
 
@@ -2794,7 +2820,9 @@ c) Reconocimientos, inspecciones o reconstrucciones, que por su naturaleza y car
 
 d) Declaración de las niñas, niños y adolescentes en su calidad de agraviados por delitos comprendidos en los artículos 153 y 153-A del Capítulo I: Violación de la libertad personal, y en los comprendidos en el Capítulo IX: Violación de la libertad sexual, Capítulo X: Proxenetismo y Capítulo XI: Ofensas al pudor público, correspondientes al Título IV: Delitos contra la libertad, del Código Penal.
 
-Las declaraciones de las niñas, niños y adolescentes serán realizadas con la intervención de psicólogos especializados en cámaras Gesell o salas de entrevistas implementadas por el Ministerio Público. Las declaraciones y entrevistas serán filmadas y grabadas a fin de evitar la revictimización de los agraviados.
+Las declaraciones de las niñas, niños y adolescentes serán realizadas con la intervención de psicólogos especializados en cámaras Gesell o salas de entrevistas implementadas por el Ministerio Público.
+
+Las declaraciones y entrevistas serán filmadas y grabadas a fin de evitar la revictimización de los agraviados.
 
 e) Declaración, Testimonial y examen de perito en casos de criminalidad organizada, así como en los delitos contra la administración pública, previstos en los artículos 382 al 401 del Código Penal.
 
@@ -3036,7 +3064,9 @@ Deberes de la autoridad policial[^136]
 
 1. La autoridad policial que ha efectuado la detención en flagrante delito o en los casos de arresto ciudadano, informa al detenido el delito que se le atribuye y por los canales correspondientes comunica inmediatamente el hecho al Ministerio Público. También informa al Juez de la Investigación Preparatoria tratándose de los delitos de terrorismo, espionaje, tráfico ilícito judicial. En todos estos casos la comunicación debe contener los datos de identidad personal del requerido conforme a lo indicado en el numeral dos.
 
-4. Las requisitorias cursadas a la autoridad policial tienen una vigencia de seis meses. Vencido este plazo, caducan automáticamente bajo responsabilidad, salvo que fuesen renovadas. La vigencia de la requisitoria para los casos de terrorismo, espionaje y tráfico ilícito de drogas no caducan hasta la efectiva detención de los requisitoriados. (*)(**) (*) Vigencia adelantada por la Cuarta Disposición Complementaria Final del Decreto Legislativo N° 1298, publicado el 30 de diciembre de 2016, en todo el territorio nacional. La referida norma entró en vigencia a nivel nacional a los treinta (30) días de su publicación en el diario oficial El Peruano. (**) Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1298, publicado el 30 de diciembre de 2016, el mismo que entró en vigencia a nivel nacional a los treinta (30) días de su publicación en el diario oficial El Peruano. Texto anterior a la modificación:
+4. Las requisitorias cursadas a la autoridad policial tienen una vigencia de seis meses. Vencido este plazo, caducan automáticamente bajo responsabilidad, salvo que fuesen renovadas. La vigencia de la requisitoria para los casos de terrorismo, espionaje y tráfico ilícito de drogas no caducan hasta la efectiva detención de los requisitoriados. (*)(**) (*) Vigencia adelantada por la Cuarta Disposición Complementaria Final del Decreto Legislativo N° 1298, publicado el 30 de diciembre de 2016, en todo el territorio nacional. La referida norma entró en vigencia a nivel nacional a los treinta (30) días de su publicación en el diario oficial El Peruano. (**) Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1298, publicado el 30 de diciembre de 2016, el mismo que entró en vigencia a nivel nacional a los treinta (30) días de su publicación en el diario oficial El Peruano.
+
+Texto anterior a la modificación:
 
 ###### Artículo 261
 
@@ -3144,7 +3174,9 @@ En los delitos cuya pena sea no mayor de siete (7) años, el juez aplica prefere
 
 Para calificar el peligro de fuga, el juez tendrá en cuenta:
 
-1. El arraigo en el país del imputado, determinado por el domicilio, residencia habitual, asiento de la familia y de sus negocios o trabajo y las facilidades para abandonar definitivamente el país o permanecer oculto; Texto anterior a la modificación:
+1. El arraigo en el país del imputado, determinado por el domicilio, residencia habitual, asiento de la familia y de sus negocios o trabajo y las facilidades para abandonar definitivamente el país o permanecer oculto;
+
+Texto anterior a la modificación:
 
 ###### Artículo 268. Presupuestos materiales
 
@@ -3350,7 +3382,9 @@ Presupuestos
 
 1. El Juez de la Investigación Preparatoria dictará mandato de comparecencia simple si el Fiscal no solicita prisión preventiva al término del plazo previsto en el artículo 266.
 
-2. También lo hará cuando, de mediar requerimiento fiscal, no concurran los presupuestos materiales previstos en el artículo 268. En los supuestos anteriores, el Fiscal y el Juez de la Investigación Preparatoria deben motivar los fundamentos de hecho y de derecho que sustenten su decisión. El tiempo que dure la comparecencia simple no debe afectar irrazonablemente los derechos fundamentales del imputado[^195].
+2. También lo hará cuando, de mediar requerimiento fiscal, no concurran los presupuestos materiales previstos en el artículo 268.
+
+En los supuestos anteriores, el Fiscal y el Juez de la Investigación Preparatoria deben motivar los fundamentos de hecho y de derecho que sustenten su decisión. El tiempo que dure la comparecencia simple no debe afectar irrazonablemente los derechos fundamentales del imputado[^195].
 
 ###### Artículo 287
 
@@ -4996,7 +5030,9 @@ a) Que sea presentado por quien resulte agraviado por la resolución, tenga inte
 
 b) Que sea interpuesto por escrito y en el plazo previsto por la Ley. También puede ser interpuesto en forma oral, cuando se trata de resoluciones expedidas en el curso de la audiencia, en cuyo caso el recurso se interpondrá en el mismo acto en que se lee la resolución que lo motiva.
 
-c) Que se precise las partes o puntos de la decisión a los que se refiere la impugnación, y se expresen los fundamentos, con indicación específica de los fundamentos de hecho y de derecho que lo apoyen. El recurso deberá concluir formulando una pretensión concreta. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^258]
+c) Que se precise las partes o puntos de la decisión a los que se refiere la impugnación, y se expresen los fundamentos, con indicación específica de los fundamentos de hecho y de derecho que lo apoyen. El recurso deberá concluir formulando una pretensión concreta.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^258]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5056,7 +5092,9 @@ Impugnación diferida
 
 ###### Artículo 411. Libertad de los imputados
 
-Los imputados que hayan sobrepasado el tiempo de la pena impuesta por una sentencia pendiente de recurso, sin perjuicio que éste sea resuelto, serán puestos en inmediata libertad. El juzgador está facultado para dictar las medidas que aseguren la presencia del imputado, siendo aplicable en lo pertinente las restricciones contempladas en el artículo 288. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^260]
+Los imputados que hayan sobrepasado el tiempo de la pena impuesta por una sentencia pendiente de recurso, sin perjuicio que éste sea resuelto, serán puestos en inmediata libertad. El juzgador está facultado para dictar las medidas que aseguren la presencia del imputado, siendo aplicable en lo pertinente las restricciones contempladas en el artículo 288.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^260]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5670,7 +5708,9 @@ d) Sobre la procedencia de la medida coercitiva requerida por el fiscal[^312].
 
 7. Frente al auto que rechaza la incoación del proceso inmediato, el Fiscal dicta la Disposición que corresponda o la formalización de la Investigación Preparatoria.
 
-Para los supuestos comprendidos en los literales b) y c), numeral 1 del artículo 446, rige el procedimiento antes descrito en lo que corresponda. Solo en estos supuestos, el requerimiento se presenta luego de culminar las diligencias preliminares o, en su defecto, antes de los treinta (30) días de formalizada la Investigación Preparatoria[^313]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS286
+Para los supuestos comprendidos en los literales b) y c), numeral 1 del artículo 446, rige el procedimiento antes descrito en lo que corresponda. Solo en estos supuestos, el requerimiento se presenta luego de culminar las diligencias preliminares o, en su defecto, antes de los treinta (30) días de formalizada la Investigación Preparatoria[^313].
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS286
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5816,7 +5856,9 @@ Reglas del proceso
 
 1. La investigación y juzgamiento, en los supuestos del numeral 1 del artículo anterior , están a cargo de la Fiscalía Suprema y la Corte Suprema de Justicia, respectivamente.
 
-2. Ante la disposición de formalización de la investigación preparatoria u otros requerimientos fiscales a nivel de diligencias preliminares, la Sala Penal de la Corte Suprema designará, entre sus miembros, al Juez Supremo de Investigación Preparatoria y a los integrantes de la Sala Penal Especial Suprema, que se encargará del juzgamiento; y, Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^292]
+2. Ante la disposición de formalización de la investigación preparatoria u otros requerimientos fiscales a nivel de diligencias preliminares, la Sala Penal de la Corte Suprema designará, entre sus miembros, al Juez Supremo de Investigación Preparatoria y a los integrantes de la Sala Penal Especial Suprema, que se encargará del juzgamiento; y, Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^292]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5846,7 +5888,9 @@ MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS294
 
 ###### Artículo 455. Disposiciones aplicables
 
-El proceso penal en estos casos se regirá por las reglas del proceso común, con las excepciones previstas en el artículo anterior . Especializada correspondiente.
+El proceso penal en estos casos se regirá por las reglas del proceso común, con las excepciones previstas en el artículo anterior .
+
+Especializada correspondiente.
 
 3. Corresponde a un Fiscal Supremo y a la Corte Suprema el conocimiento de los delitos de función atribuidos a los miembros del Consejo Supremo de Justicia Militar, a los Jueces y Fiscales Superiores y al Procurador Público, así como a otros funcionarios que señale la Ley. En estos casos la Sala Penal de la Corte Suprema designará, entre sus miembros, al Juez para la Investigación Preparatoria y a la Sala Penal Especial, que se encargará del Juzgamiento y del conocimiento del recurso de apelación contra las decisiones emitidas por el primero; y, el Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento. Contra la sentencia emitida por la Sala Penal Especial Suprema procede recurso de apelación, que conocerá la Sala Suprema que prevé la Ley Orgánica del Poder Judicial. Contra la sentencia de vista no procede recurso alguno.
 
@@ -6100,7 +6144,9 @@ b) Admitir o no contradecir, libre y expresamente, los hechos en que ha interven
 
 c) Presentarse al Fiscal mostrando su disposición de proporcionar información eficaz.
 
-3. El acuerdo está sujeto a la aprobación judicial. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS304
+3. El acuerdo está sujeto a la aprobación judicial.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS304
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6126,7 +6172,9 @@ las investigaciones, la conclusión exitosa del proceso y su seguridad personal.
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
-los aspirantes a colaboradores, así como salvaguardar sus identidades, bajo responsabilidad administrativa, civil y penal[^330]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^306]
+los aspirantes a colaboradores, así como salvaguardar sus identidades, bajo responsabilidad administrativa, civil y penal[^330].
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^306]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6148,7 +6196,9 @@ c) Concusión, peculado, corrupción de funcionarios, tributarios, aduaneros con
 
 2. No será obstáculo para la celebración del acuerdo cuando se trate de concurso de delitos y uno de ellos no corresponda a los previstos en el presente artículo.
 
-3. Los órganos de gobierno del Poder Judicial y del Ministerio Público, podrán establecer jueces y fiscales para el conocimiento, con exclusividad o no, de este proceso. (***) Literal modificado por la Tercera Disposición Complementaria Modificatoria de la Ley N° 30096, publicada el 22 de octubre de 2013. Texto anterior a la modificación:
+3. Los órganos de gobierno del Poder Judicial y del Ministerio Público, podrán establecer jueces y fiscales para el conocimiento, con exclusividad o no, de este proceso. (***) Literal modificado por la Tercera Disposición Complementaria Modificatoria de la Ley N° 30096, publicada el 22 de octubre de 2013.
+
+Texto anterior a la modificación:
 
 ###### Artículo 473
 
@@ -6304,7 +6354,9 @@ Eficacia de las diligencias de corroboración y su incorporación en otros proce
 
 4. Si el Juez aprueba el Acuerdo y las causas donde el colaborador es imputado se encuentran en diligencias preliminares, el Fiscal podrá archivar la investigación y, en su caso, estará a lo resuelto en la sentencia por colaboración eficaz.
 
-5. Si el Juez aprueba el Acuerdo y los procesos donde el colaborador es imputado se encuentran en investigación preparatoria, el Fiscal podrá no acusar al colaborador y, en su caso, el Juez de la Investigación Preparatoria estará a lo resuelto en la sentencia por colaboración eficaz. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^312]
+5. Si el Juez aprueba el Acuerdo y los procesos donde el colaborador es imputado se encuentran en investigación preparatoria, el Fiscal podrá no acusar al colaborador y, en su caso, el Juez de la Investigación Preparatoria estará a lo resuelto en la sentencia por colaboración eficaz.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^312]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6332,7 +6384,9 @@ Colaboración durante la etapa de investigación del proceso contradictorio
 
 6. Si la sentencia dispone la excarcelación de un colaborador recluido en un establecimiento penitenciario, ésta será comunicada por el Juez, a la Dirección de Registro Penitenciario o la que haga sus veces en el Distrito Judicial donde se ordene la medida a través de la vía más célere.
 
-7. Si el acuerdo aprobado, consiste en la exención de las medidas administrativas, el Juez así lo declarará, disponiendo el levantamiento de las medidas cautelares descritas en el artículo 313-A del Código Procesal Penal. De igual manera se procederá en caso el acuerdo comprenda la disminución de dichas medidas administrativas[^339][^340]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^314]
+7. Si el acuerdo aprobado, consiste en la exención de las medidas administrativas, el Juez así lo declarará, disponiendo el levantamiento de las medidas cautelares descritas en el artículo 313-A del Código Procesal Penal. De igual manera se procederá en caso el acuerdo comprenda la disminución de dichas medidas administrativas[^339][^340].
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^314]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 

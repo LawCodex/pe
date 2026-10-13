@@ -24,11 +24,15 @@ Que, mediante Decreto Legislativo Nº 1272, Decreto Legislativo que modifica la 
 
 Que, en atención a las modificaciones efectuadas a la Ley Nº 27444, mediante Decreto Supremo Nº 004-2019-JUS, se aprobó el Texto Único Ordenado de la Ley del Procedimiento Administrativo General; Que, posteriormente, a través del Decreto Legislativo Nº 1497, Decreto Legislativo que establece medidas para promover y facilitar condiciones regulatorias que contribuyan a reducir el impacto en la economía peruana por la emergencia sanitaria producida por el COVID- 19, se incorpora un párrafo al artículo 20 de la Ley Nº 27444, respecto a las modalidades de notificación;
 
-Que, buscando la optimización de los procesos se modifica la Ley Nº 27444 mediante la Ley Nº 31603, Ley que modifica el Artículo 207 de la Ley 27444, Ley del Procedimiento Administrativo General, a fin de reducir el plazo para resolver el recurso de reconsideración; así como, mediante Ley Nº 31465, Ley que modifica la Ley Nº 27444, Ley del Procedimiento Administrativo General, a fin de facilitar la recepción documental digital; Que, mediante Decreto Legislativo Nº 1561, Decreto Legislativo que modifica la Ley Nº 27444, Ley del Procedimiento Administrativo General para fortalecer la regulación de los procedimientos administrativos y servicios prestados en exclusividad estandarizados y del proceso de ratificación de tasas, se modifican algunos artículos de la Ley Nº 27444, a fin de reforzar y mejorar las condiciones regulatorias para la aprobación e implementación de procedimientos administrativos y servicios prestados en exclusividad estandarizados, así como para el proceso de ratificación de tasas que se encuentran previstas en la citada Ley; Que, con la Ley Nº 31724, Ley que promueve el registro de signos distintivos estableciendo la reducción del derecho de tramitación para la micro y pequeña empresa (MYPE), se modifica el numeral 45.2. del artículo 45 de la Ley Nº 27444 en relación a los límites de los derechos de tramitación;
+Que, buscando la optimización de los procesos se modifica la Ley Nº 27444 mediante la Ley Nº 31603, Ley que modifica el Artículo 207 de la Ley 27444, Ley del Procedimiento Administrativo General, a fin de reducir el plazo para resolver el recurso de reconsideración; así como, mediante Ley Nº 31465, Ley que modifica la Ley Nº 27444, Ley del Procedimiento Administrativo General, a fin de facilitar la recepción documental digital; Que, mediante Decreto Legislativo Nº 1561, Decreto Legislativo que modifica la Ley Nº 27444, Ley del Procedimiento Administrativo General para fortalecer la regulación de los procedimientos administrativos y servicios prestados en exclusividad estandarizados y del proceso de ratificación de tasas, se modifican algunos artículos de la Ley Nº 27444, a fin de reforzar y mejorar las condiciones regulatorias para la aprobación e implementación de procedimientos administrativos y servicios prestados en exclusividad estandarizados, así como para el proceso de ratificación de tasas que se encuentran previstas en la citada Ley;
+
+Que, con la Ley Nº 31724, Ley que promueve el registro de signos distintivos estableciendo la reducción del derecho de tramitación para la micro y pequeña empresa (MYPE), se modifica el numeral 45.2. del artículo 45 de la Ley Nº 27444 en relación a los límites de los derechos de tramitación;
 
 Que, mediante el Decreto Legislativo Nº 1633, Decreto Legislativo que modifica el numeral 207.2 del artículo 207 de la Ley Nº 27444, Ley del Procedimiento Administrativo General, se amplió el plazo para que los consejos directivos de los organismos reguladores puedan resolver los recursos de reconsideración interpuestos en instancia única; Que, el numeral 12 del Artículo IV del Título Preliminar del Reglamento de la Ley Nº 26889, Ley Marco para la Producción y Sistematización Legislativa, aprobado por Decreto Supremo Nº 007-2022-JUS, establece que el Texto Único Ordenado es el documento que compila y sistematiza en un solo texto integral las normas contenidas en una ley o disposiciones reglamentarias de alcance general, a fin de otorgarle la coherencia sistemática que pudiera haber sido afectada como producto de las modificaciones y derogaciones dispuestas por normas posteriores hacia la citada norma. No posee carácter innovador ni interpretativo, ni modifica el valor y fuerza de las normas ordenadas;
 
-Que, de acuerdo a lo señalado, resulta necesario compilar, ordenar y sistematizar todas las modificaciones normativas efectuadas a la Ley Nº 27444, aprobando su texto único ordenado, a fin de que, tanto las entidades de la Administración Pública, como los administrados, cuenten con un único texto como fuente informativa que facilite su manejo; Que, corresponde precisar que, según lo dispuesto en el literal f) del párrafo 41.1 del artículo 41 del Reglamento del Decreto Legislativo Nº 1565, Decreto Legislativo que aprueba la Ley General de Mejora de la Calidad Regulatoria, aprobado por el Decreto Supremo Nº 023-2025- PCM, la presente norma se considera excluida del alcance del Análisis de Impacto Regulatorio (AIR) Ex Ante, al aprobar el Texto Único Ordenado de la Ley Nº 27444, Ley del Procedimiento Administrativo General; Que, mediante el Decreto Supremo Nº 009-2024-JUS, se aprueba el Reglamento que establece disposiciones sobre publicación y difusión de normas jurídicas de carácter general, resoluciones y proyectos normativos; cuyo literal d) del párrafo 19.2 del artículo 19 del referido Reglamento, establece que se exceptúa de la publicación a las disposiciones que aprueban Textos Únicos Ordenados, Textos integrados, y Textos Únicos de Procedimientos Administrativos; Que, acorde a la normativa citada y considerando el objeto de la norma, corresponde que se exceptúe la publicación del proyecto del presente Decreto Supremo;
+Que, de acuerdo a lo señalado, resulta necesario compilar, ordenar y sistematizar todas las modificaciones normativas efectuadas a la Ley Nº 27444, aprobando su texto único ordenado, a fin de que, tanto las entidades de la Administración Pública, como los administrados, cuenten con un único texto como fuente informativa que facilite su manejo; Que, corresponde precisar que, según lo dispuesto en el literal f) del párrafo 41.1 del artículo 41 del Reglamento del Decreto Legislativo Nº 1565, Decreto Legislativo que aprueba la Ley General de Mejora de la Calidad Regulatoria, aprobado por el Decreto Supremo Nº 023-2025- PCM, la presente norma se considera excluida del alcance del Análisis de Impacto Regulatorio (AIR) Ex Ante, al aprobar el Texto Único Ordenado de la Ley Nº 27444, Ley del Procedimiento Administrativo General; Que, mediante el Decreto Supremo Nº 009-2024-JUS, se aprueba el Reglamento que establece disposiciones sobre publicación y difusión de normas jurídicas de carácter general, resoluciones y proyectos normativos; cuyo literal d) del párrafo 19.2 del artículo 19 del referido Reglamento, establece que se exceptúa de la publicación a las disposiciones que aprueban Textos Únicos Ordenados, Textos integrados, y Textos Únicos de Procedimientos Administrativos;
+
+Que, acorde a la normativa citada y considerando el objeto de la norma, corresponde que se exceptúe la publicación del proyecto del presente Decreto Supremo;
 
 De conformidad con lo dispuesto por el numeral 8 del artículo 118 de la Constitución Política del Perú; en la Ley Nº 29158, Ley Orgánica del Poder Ejecutivo y en el Decreto Legislativo Nº 1452, Decreto Legislativo que modifica la Ley Nº 27444, Ley del Procedimiento Administrativo General. DECRETA:
 
@@ -396,7 +400,9 @@ DEL RÉGIMEN JURÍDICO DE LOS ACTOS ADMINISTRATIVOS 57 20.3. Tratamiento igual a
 
 La notificación dirigida a la dirección de correo electrónico señalada por el administrado se entiende válidamente efectuada cuando la entidad reciba la respuesta de recepción de la dirección electrónica señalada por el administrado o esta sea generada en forma automática por una plataforma tecnológica o sistema informático que garantice que la notificación ha sido efectuada. La notificación surte efectos el día que conste haber sido recibida, conforme lo previsto en el numeral 2 del artículo 25.
 
-En caso de no recibirse respuesta automática de recepción en un plazo máximo de dos (2) días hábiles contados desde el día siguiente de efectuado el acto de notificación vía correo electrónico, se procede a notificar por cédula conforme al inciso 20.1.1, volviéndose a computar el plazo establecido en el numeral 1 del artículo 24 de la presente ley. Para la notificación por correo electrónico, la autoridad administrativa, si lo considera pertinente, puede emplear firmas y certificados digitales conforme a lo estipulado en la ley de la materia. La entidad que cuente con disponibilidad tecnológica puede asignar al administrado una casilla electrónica gestionada por esta, para la notificación de actos administrativos, así como actuaciones emitidas en el marco de cualquier actividad administrativa, siempre que cuente con DEL RÉGIMEN JURÍDICO DE LOS ACTOS ADMINISTRATIVOS 58 el consentimiento expreso del administrado. Mediante decreto supremo del sector, previa opinión favorable de la Presidencia del Consejo de Ministros y el Ministerio de Justicia y Derechos Humanos, puede aprobar la obligatoriedad de la notificación vía casilla electrónica. En ese caso, la notificación se entiende válidamente efectuada cuando la entidad la deposite en el buzón electrónico asignado al administrado, surtiendo efectos el día que conste haber sido recibida, conforme a lo previsto en el numeral 2 del artículo 25.
+En caso de no recibirse respuesta automática de recepción en un plazo máximo de dos (2) días hábiles contados desde el día siguiente de efectuado el acto de notificación vía correo electrónico, se procede a notificar por cédula conforme al inciso 20.1.1, volviéndose a computar el plazo establecido en el numeral 1 del artículo 24 de la presente ley. Para la notificación por correo electrónico, la autoridad administrativa, si lo considera pertinente, puede emplear firmas y certificados digitales conforme a lo estipulado en la ley de la materia.
+
+La entidad que cuente con disponibilidad tecnológica puede asignar al administrado una casilla electrónica gestionada por esta, para la notificación de actos administrativos, así como actuaciones emitidas en el marco de cualquier actividad administrativa, siempre que cuente con DEL RÉGIMEN JURÍDICO DE LOS ACTOS ADMINISTRATIVOS 58 el consentimiento expreso del administrado. Mediante decreto supremo del sector, previa opinión favorable de la Presidencia del Consejo de Ministros y el Ministerio de Justicia y Derechos Humanos, puede aprobar la obligatoriedad de la notificación vía casilla electrónica. En ese caso, la notificación se entiende válidamente efectuada cuando la entidad la deposite en el buzón electrónico asignado al administrado, surtiendo efectos el día que conste haber sido recibida, conforme a lo previsto en el numeral 2 del artículo 25.
 
 Asimismo, se establece la implementación de la casilla única electrónica para las comunicaciones y notificaciones de las entidades del Estado dirigidas a los administrados. Mediante Decreto Supremo refrendado por la Presidencia del Consejo de Ministros se aprueban los criterios, condiciones, mecanismos y plazos para la implementación gradual en las entidades públicas de la casilla única electrónica. (Texto según párrafo 20.4 del artículo 20 de la Ley Nº 27444, modificado según el artículo 2 del Decreto Legislativo Nº 1452) El consentimiento expreso a que se refiere el quinto párrafo del numeral 20.4 de la presente Ley puede ser otorgado por vía electrónica. (Texto incorporado según el artículo 3 del Decreto Legislativo Nº 1497)
 
@@ -730,7 +736,9 @@ Todas las actividades vinculadas a las funciones de fiscalización, los procedim
 
 ###### Artículo 49-B
 
-Rol de la Contraloría General y de los órganos de control interno 49-B.1. Corresponde a la Contraloría General de la República y a los órganos de control interno de las entidades, en el marco de la Ley N 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República, verificar de oficio que las entidades y sus funcionarios y servidores públicos cumplan con las obligaciones que se establecen en el Capítulo I, Disposiciones Generales, del Título, II Procedimiento Administrativo, de la Ley Nº 27444, Ley de Procedimiento Administrativo General. DEL PROCEDIMIENTO ADMINISTRATIVO 101 49-B.2. Los administrados podrán presentar denuncias ante los órganos de control interno de las entidades, que forman parte del Sistema Nacional de Control, o directamente ante la Contraloría General de la República, contra los funcionarios o servidores públicos que incumplan cualquiera de las obligaciones a que se refiere el párrafo anterior. 49-B.3. Es obligación de los órganos de control interno de las entidades o de la Contraloría General de la República que conocen de las denuncias informar a los denunciantes sobre el trámite de las mismas y sobre las acciones que se desarrollen, o las decisiones que se adopten, como resultado de las denuncias en relación a las irregularidades o incumplimientos que son objeto de denuncia. 49-B.4. El jefe o responsable del órgano de control interno tiene la obligación de realizar trimestralmente un reporte, que deberá remitir al titular de la entidad para que disponga que en un plazo no mayor de 5 días hábiles se publique en el respectivo portal web de transparencia institucional, en el que dará cuenta de las acciones realizadas, o de las decisiones adoptadas, en relación a las denuncias que reciba contra los funcionarios o servidores públicos que incumplan las obligaciones a que se refiere el primer párrafo de este dispositivo. (Artículo incorporado por el artículo 4 del Decreto Legislativo Nº 1272)
+Rol de la Contraloría General y de los órganos de control interno 49-B.1. Corresponde a la Contraloría General de la República y a los órganos de control interno de las entidades, en el marco de la Ley N 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República, verificar de oficio que las entidades y sus funcionarios y servidores públicos cumplan con las obligaciones que se establecen en el Capítulo I, Disposiciones Generales, del Título, II Procedimiento Administrativo, de la Ley Nº 27444, Ley de Procedimiento Administrativo General.
+
+DEL PROCEDIMIENTO ADMINISTRATIVO 101 49-B.2. Los administrados podrán presentar denuncias ante los órganos de control interno de las entidades, que forman parte del Sistema Nacional de Control, o directamente ante la Contraloría General de la República, contra los funcionarios o servidores públicos que incumplan cualquiera de las obligaciones a que se refiere el párrafo anterior. 49-B.3. Es obligación de los órganos de control interno de las entidades o de la Contraloría General de la República que conocen de las denuncias informar a los denunciantes sobre el trámite de las mismas y sobre las acciones que se desarrollen, o las decisiones que se adopten, como resultado de las denuncias en relación a las irregularidades o incumplimientos que son objeto de denuncia. 49-B.4. El jefe o responsable del órgano de control interno tiene la obligación de realizar trimestralmente un reporte, que deberá remitir al titular de la entidad para que disponga que en un plazo no mayor de 5 días hábiles se publique en el respectivo portal web de transparencia institucional, en el que dará cuenta de las acciones realizadas, o de las decisiones adoptadas, en relación a las denuncias que reciba contra los funcionarios o servidores públicos que incumplan las obligaciones a que se refiere el primer párrafo de este dispositivo. (Artículo incorporado por el artículo 4 del Decreto Legislativo Nº 1272)
 
 ### CAPÍTULO II — De los sujetos del procedimiento
 
@@ -1168,7 +1176,9 @@ Copias de escritos 114.1. Cuando el escrito sea presentado de forma física, se 
 
 ###### Artículo 115
 
-Representación del administrado 115.1. Para la tramitación de los procedimientos, es suficiente carta poder simple con firma del administrado, salvo que leyes especiales requieran una formalidad adicional. 115.2. Para el desistimiento de la pretensión o del procedimiento, acogerse a las formas de terminación convencional del procedimiento o, para el cobro de dinero, es requerido poder especial indicando expresamente el o los actos para los cuales fue conferido. El poder especial es formalizado a elección del administrado, mediante documento privado con firmas legalizadas ante notario o funcionario público autorizado para el efecto, así como mediante declaración en comparecencia personal del administrado y representante ante la autoridad. DEL PROCEDIMIENTO ADMINISTRATIVO 138 115.3. El empleo de la representación no impide la intervención del propio administrado cuando lo considere pertinente, ni el cumplimiento por éste de las obligaciones que exijan su comparecencia personal según las normas de la presente Ley. (Texto según el artículo 115 de la Ley Nº 27444, modificado según el artículo 2 Decreto Legislativo Nº 1272)
+Representación del administrado 115.1. Para la tramitación de los procedimientos, es suficiente carta poder simple con firma del administrado, salvo que leyes especiales requieran una formalidad adicional. 115.2. Para el desistimiento de la pretensión o del procedimiento, acogerse a las formas de terminación convencional del procedimiento o, para el cobro de dinero, es requerido poder especial indicando expresamente el o los actos para los cuales fue conferido. El poder especial es formalizado a elección del administrado, mediante documento privado con firmas legalizadas ante notario o funcionario público autorizado para el efecto, así como mediante declaración en comparecencia personal del administrado y representante ante la autoridad.
+
+DEL PROCEDIMIENTO ADMINISTRATIVO 138 115.3. El empleo de la representación no impide la intervención del propio administrado cuando lo considere pertinente, ni el cumplimiento por éste de las obligaciones que exijan su comparecencia personal según las normas de la presente Ley. (Texto según el artículo 115 de la Ley Nº 27444, modificado según el artículo 2 Decreto Legislativo Nº 1272)
 
 ###### Artículo 116
 
@@ -1450,7 +1460,9 @@ Las entidades aplicarán las siguientes medidas de seguridad documental:
 
 2. Guardar las constancias de notificación, publicación o entrega de información sobre los actos, acuse de recibo y todos los documentos necesarios para acreditar la realización de las diligencias, con la certificación del instructor sobre su debido cumplimiento.
 
-3. En la carátula debe consignarse el órgano y el nombre de la autoridad, con la responsabilidad encargada del trámite y la fecha del término final para la atención del expediente. DEL PROCEDIMIENTO ADMINISTRATIVO 165
+3. En la carátula debe consignarse el órgano y el nombre de la autoridad, con la responsabilidad encargada del trámite y la fecha del término final para la atención del expediente.
+
+DEL PROCEDIMIENTO ADMINISTRATIVO 165
 
 4. En ningún caso se hará un doble o falso expediente. (Texto según el artículo 157 de la Ley Nº 27444)
 
@@ -1546,7 +1558,9 @@ Testigos 175.1. El proponente de la prueba de testigos tiene la carga de la comp
 
 ###### Artículo 176
 
-Peritaje 176.1. Los administrados pueden proponer la designación de peritos a su costa, debiendo en el mismo momento indicar los aspectos técnicos sobre los que éstos deben pronunciarse. DEL PROCEDIMIENTO ADMINISTRATIVO 174 176.2. La administración se abstendrá de contratar peritos por su parte, debiendo solicitar informes técnicos de cualquier tipo a su personal o a las entidades técnicas aptas para dicho fin, preferentemente entre las facultades de las universidades públicas. (Texto según el artículo 176 de la Ley Nº 27444)
+Peritaje 176.1. Los administrados pueden proponer la designación de peritos a su costa, debiendo en el mismo momento indicar los aspectos técnicos sobre los que éstos deben pronunciarse.
+
+DEL PROCEDIMIENTO ADMINISTRATIVO 174 176.2. La administración se abstendrá de contratar peritos por su parte, debiendo solicitar informes técnicos de cualquier tipo a su personal o a las entidades técnicas aptas para dicho fin, preferentemente entre las facultades de las universidades públicas. (Texto según el artículo 176 de la Ley Nº 27444)
 
 ###### Artículo 177. Actuación probatoria de autoridades públicas
 
@@ -1724,7 +1738,9 @@ En caso de declaración de nulidad de oficio de un acto administrativo favorable
 
 Revocación 203.1. Cabe la revocación de actos administrativos, con efectos a futuro, en cualquiera de los siguientes casos:
 
-203.1.1. Cuando la facultad revocatoria haya sido expresamente establecida por una norma con rango legal y siempre que se cumplan los requisitos previstos en dicha norma. DE LA REVISIÓN DE LOS ACTOS EN VÍA ADMINISTRATIVA 189 203.1.2. Cuando sobrevenga la desaparición de las condiciones exigidas legalmente para la emisión del acto administrativo cuya permanencia sea indispensable para la existencia de la relación jurídica creada.
+203.1.1. Cuando la facultad revocatoria haya sido expresamente establecida por una norma con rango legal y siempre que se cumplan los requisitos previstos en dicha norma.
+
+DE LA REVISIÓN DE LOS ACTOS EN VÍA ADMINISTRATIVA 189 203.1.2. Cuando sobrevenga la desaparición de las condiciones exigidas legalmente para la emisión del acto administrativo cuya permanencia sea indispensable para la existencia de la relación jurídica creada.
 
 203.1.3. Cuando apreciando elementos de juicio sobrevinientes se favorezca legalmente a los destinatarios del acto y siempre que no se genere perjuicios a terceros.
 
@@ -1886,7 +1902,9 @@ Definición de la actividad de fiscalización 228-A.1. La actividad de fiscaliza
 
 Solamente por Ley o Decreto Legislativo puede atribuirse la actividad de fiscalización a las entidades.
 
-Por razones de eficacia y economía, las autoridades pueden coordinar para la realización de acciones de fiscalización conjunta o realizar encargos de gestión entre sí. DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 202 228-A.2. Independientemente de su denominación, las normas especiales que regulan esta función se interpretan y aplican en el marco de las normas comunes del presente capítulo, aun cuando conforme al marco legal sean ejercidos por personas naturales o jurídicas privadas.
+Por razones de eficacia y economía, las autoridades pueden coordinar para la realización de acciones de fiscalización conjunta o realizar encargos de gestión entre sí.
+
+DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 202 228-A.2. Independientemente de su denominación, las normas especiales que regulan esta función se interpretan y aplican en el marco de las normas comunes del presente capítulo, aun cuando conforme al marco legal sean ejercidos por personas naturales o jurídicas privadas.
 
 ###### Artículo 228-B
 
@@ -1930,7 +1948,9 @@ Deberes de las entidades que realizan actividad de fiscalización 228-C.1. La Ad
 
 ###### Artículo 228-D. Derechos de los administrados fiscalizados
 
-Son derechos de los administrados fiscalizados: DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 205
+Son derechos de los administrados fiscalizados:
+
+DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 205
 
 1. Ser informados del objeto y del sustento legal de la acción de supervisión y, de ser previsible, del plazo estimado de su duración, así como de sus derechos y obligaciones en el curso de tal actuación.
 
@@ -1954,7 +1974,9 @@ Son deberes de los administrados fiscalizados:
 
 3. Suscribir el acta de fiscalización.
 
-4. Las demás que establezcan las leyes especiales. DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 206
+4. Las demás que establezcan las leyes especiales.
+
+DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 206
 
 ###### Artículo 228-F
 
@@ -2042,7 +2064,9 @@ En la configuración de los regímenes sancionadores se evita la tipificación d
 
 Las disposiciones sancionadoras producen efecto retroactivo en cuanto favorecen al presunto infractor o al infractor, tanto en lo referido a la tipificación de la infracción como a la sanción y a sus plazos de prescripción, incluso respecto de las sanciones en ejecución al entrar en vigor la nueva disposición.
 
-6. Concurso de Infracciones.- Cuando una misma conducta califique como más de una infracción se aplicará la sanción prevista para la infracción de mayor gravedad, sin perjuicio que puedan exigirse las demás responsabilidades que establezcan las leyes. DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 211
+6. Concurso de Infracciones.- Cuando una misma conducta califique como más de una infracción se aplicará la sanción prevista para la infracción de mayor gravedad, sin perjuicio que puedan exigirse las demás responsabilidades que establezcan las leyes.
+
+DEL PROCEDIMIENTO TRILATERAL, DEL PROCEDIMIENTO SANCIONADOR Y LA ACTIVIDAD ADMINISTRATIVA DE FISCALIZACIÓN 211
 
 7. Continuación de infracciones.- Para determinar la procedencia de la imposición de sanciones por infracciones en las que el administrado incurra en forma continua, se requiere que hayan transcurrido por lo menos treinta (30) días hábiles desde la fecha de la imposición de la última sanción y que se acredite haber solicitado al administrado que demuestre haber cesado la infracción dentro de dicho plazo.
 
@@ -2072,7 +2096,9 @@ Estabilidad de la competencia para la potestad sancionadora El ejercicio de la p
 
 ###### Artículo 231-A
 
-Reglas sobre el ejercicio de la potestad sancionadora. En virtud del principio de razonabilidad en el ámbito de los procedimientos administrativos sancionadores deberán observarse las siguientes reglas:
+Reglas sobre el ejercicio de la potestad sancionadora.
+
+En virtud del principio de razonabilidad en el ámbito de los procedimientos administrativos sancionadores deberán observarse las siguientes reglas:
 
 a) En el caso de infracciones administrativas pasibles de multas que tengan como fundamento el incumplimiento de la realización de trámites, obtención de licencias, permisos y autorizaciones u otros procedimientos similares ante autoridades competentes por concepto de instalación de infraestructuras en red para servicios públicos u obras públicas de infraestructura, exclusivamente en los casos en que ello sea exigido por el ordenamiento vigente, la cuantía de la sanción a ser impuesta no podrá exceder:
 

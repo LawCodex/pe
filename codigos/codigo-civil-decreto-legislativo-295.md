@@ -20,7 +20,9 @@ CÓDIGO CIVIL DECRETO LEGISLATIVO Nº 29530 (Publicado el 25 de julio de 1984) E
 
 Que la Ley Nº 23403 creó la Comisión Revisora del Proyecto de Código Civil preparado por la Comisión establecida mediante Decreto Supremo Nº 95 de 1 de marzo de 1965, y, al mismo tiempo, facultó al Poder Ejecutivo para que, dentro del presente período constitucional y mediante Decreto Legislativo, promulgue el nuevo Código Civil, con cargo de fijar la fecha en que éste debe entrar en vigencia; Que el Artículo 2º de la Ley Nº 23756 dispuso, con la finalidad expresada en su Artículo 1º, que el nuevo Código Civil podrá ampliar, modificar o derogar disposiciones de códigos u otras leyes diferentes al Código Civil de 1936, en los términos del Proyecto que apruebe la Comisión Revisora creada por la Ley Nº 23403;
 
-Que la mencionada Comisión Revisora ha presentado, para su promulgación, el Proyecto del nuevo CÓDIGO CIVIL, aprobado por ella de conformidad con la Ley Nº 23403 y el Artículo 2º de la Ley Nº 23756; De conformidad con los Artículos 188º y 211º, inciso 10, de la Constitución Política del Perú;
+Que la mencionada Comisión Revisora ha presentado, para su promulgación, el Proyecto del nuevo CÓDIGO CIVIL, aprobado por ella de conformidad con la Ley Nº 23403 y el Artículo 2º de la Ley Nº 23756;
+
+De conformidad con los Artículos 188º y 211º, inciso 10, de la Constitución Política del Perú;
 
 Con el voto aprobatorio del Consejo de Ministros; y, Con cargo de dar cuenta al Congreso;
 
@@ -30,13 +32,31 @@ Ha dado el Decreto Legislativo siguiente:
 
 Promúlgase el CÓDIGO CIVIL aprobado por la Comisión Revisora creada por la Ley Nº 23403, según el texto adjunto, que consta de 2,132 artículos distribuidos en doce partes, como sigue: 30 Promulgado el 24 de julio de 1984. Entró en vigencia el 14 de noviembre de 1984. TÍTULO PRELIMINAR : Artículo I a X;
 
-LIBRO I : Derechos de las Personas: Artículos de 1º al 139º; LIBRO II : Acto Jurídico: Artículos 140º a 232º; LIBRO III : Derecho de Familia: Artículos 233º a 659º; LIBRO IV : Derecho de Sucesiones: Artículos 660º a 880º; LIBRO V : Derechos Reales: Artículos 881º a 1131º; LIBRO VI : Las Obligaciones: Artículos 1132º a 1350º; LIBRO VII : Fuente de las Obligaciones: Artículos 1351º a 1988º; LIBRO VIII : Prescripción y Caducidad: Artículos 1989º a 2007º; LIBRO IX : Registros Públicos: Artículos 2008º a 2045º; LIBRO X : Derecho Internacional Privado: Artículos 2046º a 2111º; TÍTULO FINAL : Artículos 2112º a 2122º.
+LIBRO I : Derechos de las Personas: Artículos de 1º al 139º;
+
+LIBRO II : Acto Jurídico: Artículos 140º a 232º;
+
+LIBRO III : Derecho de Familia: Artículos 233º a 659º;
+
+LIBRO IV : Derecho de Sucesiones: Artículos 660º a 880º;
+
+LIBRO V : Derechos Reales: Artículos 881º a 1131º;
+
+LIBRO VI : Las Obligaciones: Artículos 1132º a 1350º;
+
+LIBRO VII : Fuente de las Obligaciones: Artículos 1351º a 1988º; LIBRO VIII : Prescripción y Caducidad: Artículos 1989º a 2007º; LIBRO IX : Registros Públicos: Artículos 2008º a 2045º;
+
+LIBRO X : Derecho Internacional Privado: Artículos 2046º a 2111º; TÍTULO FINAL : Artículos 2112º a 2122º.
 
 ###### Artículo 2º
 
-El nuevo Código Civil entrará en vigencia el 14 de noviembre de 1984. POR TANTO:
+El nuevo Código Civil entrará en vigencia el 14 de noviembre de 1984.
 
-Mando se publique y cumpla y se dé cuenta al Congreso. Dado en la Casa de Gobierno, en Lima, a los veinticuatro días del mes de julio de 1984.
+POR TANTO:
+
+Mando se publique y cumpla y se dé cuenta al Congreso.
+
+Dado en la Casa de Gobierno, en Lima, a los veinticuatro días del mes de julio de 1984.
 
 FERNANDO BELAUNDE TERRY Presidente Constitucional de la República MAX ARIAS SCHREIBER PEZET Ministro de Justicia TÍTULO PRELIMINAR Código Civil - DECRETO LEGISLATIVO Nº 295
 
@@ -58,7 +78,9 @@ La ley no ampara el ejercicio ni la omisión abusivos de un derecho. Al demandar
 
 ###### Artículo III
 
-La ley se aplica a las consecuencias de las relaciones y situaciones jurídicas existentes. No tiene fuerza ni efectos retroactivos, salvo las excepciones previstas en la Constitución Política del Perú. Aplicación analógica de la ley
+La ley se aplica a las consecuencias de las relaciones y situaciones jurídicas existentes. No tiene fuerza ni efectos retroactivos, salvo las excepciones previstas en la Constitución Política del Perú.
+
+Aplicación analógica de la ley
 
 ###### Artículo IV
 
@@ -76,7 +98,9 @@ Interés para obrar
 
 Para ejercitar o contestar una acción es necesario tener legítimo interés económico o moral.
 
-El interés moral autoriza la acción sólo cuando se refiere directamente al agente o a su familia, salvo disposición expresa de la ley. Aplicación de norma pertinente por el juez
+El interés moral autoriza la acción sólo cuando se refiere directamente al agente o a su familia, salvo disposición expresa de la ley.
+
+Aplicación de norma pertinente por el juez
 
 ###### Artículo VII
 
@@ -84,7 +108,9 @@ Los jueces tienen la obligación de aplicar la norma jurídica pertinente, aunqu
 
 ###### Artículo VIII
 
-Los jueces no pueden dejar de administrar justicia por defecto o deficiencia de la ley. En tales casos, deben aplicar los principios generales del derecho y, preferentemente, los que inspiran el derecho peruano. Aplicación supletoria del Código Civil
+Los jueces no pueden dejar de administrar justicia por defecto o deficiencia de la ley. En tales casos, deben aplicar los principios generales del derecho y, preferentemente, los que inspiran el derecho peruano.
+
+Aplicación supletoria del Código Civil
 
 ###### Artículo IX
 
@@ -110,7 +136,9 @@ Sujeto de Derecho
 
 ###### Artículo 1º
 
-La persona humana es sujeto de derecho desde su nacimiento. La vida humana comienza con la concepción. El concebido es sujeto de derecho para todo cuanto le favorece. La atribución de derechos patrimoniales está condicionada a que nazca vivo.
+La persona humana es sujeto de derecho desde su nacimiento.
+
+La vida humana comienza con la concepción. El concebido es sujeto de derecho para todo cuanto le favorece. La atribución de derechos patrimoniales está condicionada a que nazca vivo.
 
 CONCORDANCIAS: R.M. Nº 389-2004-MINSA R.M. Nº 148-2012-MINSA Reconocimiento del embarazo o parto
 
@@ -146,7 +174,9 @@ Actos de disposición del propio cuerpo
 
 ###### Artículo 6º
 
-Los actos de disposición del propio cuerpo están prohibidos cuando ocasionen una disminución permanente de la integridad física o cuando de alguna manera sean contrarios al orden público o a las buenas costumbres. Empero, son válidos si su exigencia corresponde a un estado de necesidad, de orden médico o quirúrgico o si están inspirados por motivos humanitarios. Los actos de disposición o de utilización de órganos y tejidos de seres humanos son regulados por la ley de la materia.
+Los actos de disposición del propio cuerpo están prohibidos cuando ocasionen una disminución permanente de la integridad física o cuando de alguna manera sean contrarios al orden público o a las buenas costumbres. Empero, son válidos si su exigencia corresponde a un estado de necesidad, de orden médico o quirúrgico o si están inspirados por motivos humanitarios.
+
+Los actos de disposición o de utilización de órganos y tejidos de seres humanos son regulados por la ley de la materia.
 
 Donación de órganos o tejidos
 
@@ -158,7 +188,9 @@ Disposición del cuerpo pos morten
 
 ###### Artículo 8º
 
-Es válido el acto por el cual una persona dispone altruistamente de todo o parte de su cuerpo para que sea utilizado, después de su muerte, con fines de interés social o para la prolongación de la vida humana. La disposición favorece sólo a la persona designada como beneficiaria o a instituciones científicas, docentes, hospitalarias o banco de órganos o tejidos, que no persigan fines de lucro.
+Es válido el acto por el cual una persona dispone altruistamente de todo o parte de su cuerpo para que sea utilizado, después de su muerte, con fines de interés social o para la prolongación de la vida humana.
+
+La disposición favorece sólo a la persona designada como beneficiaria o a instituciones científicas, docentes, hospitalarias o banco de órganos o tejidos, que no persigan fines de lucro.
 
 Revocación de la donación del cuerpo humano
 
@@ -166,7 +198,9 @@ Revocación de la donación del cuerpo humano
 
 Es revocable, antes de su consumación, el acto por el cual una persona dispone en vida de parte de su cuerpo, de conformidad con el Artículo 6º. Es también revocable el acto por el cual la persona dispone, para después de su muerte, de todo o parte de su cuerpo.
 
-La revocación no da lugar al ejercicio de acción alguna. Disposición del cadáver por entidad competente
+La revocación no da lugar al ejercicio de acción alguna.
+
+Disposición del cadáver por entidad competente
 
 ###### Artículo 10º
 
@@ -180,7 +214,9 @@ Son válidas las estipulaciones por las que una persona se obliga a someterse a 
 
 ###### Artículo 12º
 
-No son exigibles los contratos que tengan por objeto la realización de actos excepcionalmente peligrosos para la vida o la integridad física de una persona, salvo que correspondan a su actividad habitual y se adopten las medidas de previsión y seguridad adecuadas a las circunstancias. Actos funerarios
+No son exigibles los contratos que tengan por objeto la realización de actos excepcionalmente peligrosos para la vida o la integridad física de una persona, salvo que correspondan a su actividad habitual y se adopten las medidas de previsión y seguridad adecuadas a las circunstancias.
+
+Actos funerarios
 
 ###### Artículo 13º
 
@@ -234,13 +270,17 @@ Al hijo le corresponde el primer apellido del padre y el primero de la madre.[^3
 
 ###### Artículo 21º. Inscripción del nacimiento[^36]
 
-Cuando el padre o la madre efectúe separadamente la inscripción del nacimiento del hijo nacido fuera del vínculo matrimonial, podrá revelar el nombre de la persona con quien lo hubiera tenido. En este supuesto, el hijo llevará el apellido del padre o de la madre que lo inscribió, así como del presunto progenitor, en este último caso no establece vínculo de filiación. Luego de la inscripción, dentro de los treinta (30) días, el registrador, bajo responsabilidad, pondrá en conocimiento del presunto progenitor tal hecho, de conformidad con el reglamento.
+Cuando el padre o la madre efectúe separadamente la inscripción del nacimiento del hijo nacido fuera del vínculo matrimonial, podrá revelar el nombre de la persona con quien lo hubiera tenido. En este supuesto, el hijo llevará el apellido del padre o de la madre que lo inscribió, así como del presunto progenitor, en este último caso no establece vínculo de filiación.
+
+Luego de la inscripción, dentro de los treinta (30) días, el registrador, bajo responsabilidad, pondrá en conocimiento del presunto progenitor tal hecho, de conformidad con el reglamento.
 
 Cuando la madre no revele la identidad del padre, podrá inscribir a su hijo con sus apellidos.[^37] 38 Nombre del adoptado
 
 ###### Artículo 22º
 
-El adoptado lleva los apellidos del adoptante o adoptantes. El hijo de uno de los cónyuges o concubinos puede ser adoptado por el otro. En tal caso, lleva como primer apellido el del padre adoptante y como segundo el de la madre biológica o, el primer apellido del padre biológico y el primer apellido de la madre adoptante, según sea el caso.[^39] Nombre del recién nacido de padres desconocidos
+El adoptado lleva los apellidos del adoptante o adoptantes.
+
+El hijo de uno de los cónyuges o concubinos puede ser adoptado por el otro. En tal caso, lleva como primer apellido el del padre adoptante y como segundo el de la madre biológica o, el primer apellido del padre biológico y el primer apellido de la madre adoptante, según sea el caso.[^39] Nombre del recién nacido de padres desconocidos
 
 ###### Artículo 23º
 
@@ -250,7 +290,9 @@ El recién nacido cuyos progenitores son desconocidos debe ser inscrito con el n
 
 La mujer tiene derecho a llevar el apellido del marido agregado al suyo y a conservarlo mientras no contraiga nuevo matrimonio. Cesa tal derecho en caso de divorcio o nulidad de matrimonio.
 
-Tratándose de separación de cuerpos, la mujer conserva su derecho a llevar el apellido del marido. En caso de controversia resuelve el juez. Prueba del nombre
+Tratándose de separación de cuerpos, la mujer conserva su derecho a llevar el apellido del marido. En caso de controversia resuelve el juez.
+
+Prueba del nombre
 
 ###### Artículo 25º
 
@@ -282,7 +324,9 @@ Efectos del cambio o adición de nombre
 
 ###### Artículo 30º
 
-El cambio o adición del nombre no altera la condición civil de quien lo obtiene ni constituye prueba de filiación. Impugnación judicial por cambio o adición de nombre
+El cambio o adición del nombre no altera la condición civil de quien lo obtiene ni constituye prueba de filiación.
+
+Impugnación judicial por cambio o adición de nombre
 
 ###### Artículo 31º
 
@@ -314,7 +358,9 @@ A la persona que vive alternativamente o tiene ocupaciones habituales en varios 
 
 ###### Artículo 36º
 
-El domicilio conyugal es aquel en el cual los cónyuges viven de consuno o, en su defecto, el último que compartieron. Domicilio del incapaz
+El domicilio conyugal es aquel en el cual los cónyuges viven de consuno o, en su defecto, el último que compartieron.
+
+Domicilio del incapaz
 
 ###### Artículo 37º
 
@@ -332,7 +378,9 @@ El cambio de domicilio se realiza por el traslado de la residencia habitual a ot
 
 ###### Artículo 40º. Oposición al cambio de domicilio[^41]
 
-El deudor deberá comunicar al acreedor el cambio de domicilio señalado para el cumplimiento de la prestación obligacional, dentro de los treinta (30) días de ocurrido el hecho, bajo responsabilidad civil y/o penal a que hubiere lugar. El deudor y los terceros ajenos a la relación obligacional con el acreedor, están facultados para oponer a éste el cambio de su domicilio. La oponibilidad al cambio de domicilio se efectuará mediante comunicación indubitable.[^42] Personas sin residencia habitual
+El deudor deberá comunicar al acreedor el cambio de domicilio señalado para el cumplimiento de la prestación obligacional, dentro de los treinta (30) días de ocurrido el hecho, bajo responsabilidad civil y/o penal a que hubiere lugar. El deudor y los terceros ajenos a la relación obligacional con el acreedor, están facultados para oponer a éste el cambio de su domicilio.
+
+La oponibilidad al cambio de domicilio se efectuará mediante comunicación indubitable.[^42] Personas sin residencia habitual
 
 ###### Artículo 41º
 
@@ -382,7 +430,9 @@ Nombramiento de curador por desaparición
 
 ###### Artículo 47º
 
-Cuando una persona no se halla en el lugar de su domicilio y han transcurrido más de sesenta días sin noticias sobre su paradero, cualquier familiar hasta el cuarto grado de consanguinidad o afinidad, excluyendo el más próximo al más remoto, pueden solicitar la designación de curador interino. También puede solicitarlo quien invoque legítimo interés en los negocios o asuntos del desaparecido, con citación de los familiares conocidos y del Ministerio Público. La solicitud se tramita como proceso no contencioso. No procede la designación de curador si el desaparecido tiene representante o mandatario con facultades suficientes inscritas en el registro público.[^47] DERECHO DE LAS PERSONAS
+Cuando una persona no se halla en el lugar de su domicilio y han transcurrido más de sesenta días sin noticias sobre su paradero, cualquier familiar hasta el cuarto grado de consanguinidad o afinidad, excluyendo el más próximo al más remoto, pueden solicitar la designación de curador interino. También puede solicitarlo quien invoque legítimo interés en los negocios o asuntos del desaparecido, con citación de los familiares conocidos y del Ministerio Público. La solicitud se tramita como proceso no contencioso.
+
+No procede la designación de curador si el desaparecido tiene representante o mandatario con facultades suficientes inscritas en el registro público.[^47] DERECHO DE LAS PERSONAS
 
 ###### Artículo 48º. Normas que rigen la curatela del desaparecido
 
@@ -394,13 +444,19 @@ Declaración judicial de ausencia
 
 ###### Artículo 49º
 
-Transcurridos dos años desde que se tuvo la última noticia del desaparecido, cualquiera que tenga legítimo interés o el Ministerio Público pueden solicitar la declaración judicial de ausencia. Es competente el juez del último domicilio que tuvo el desaparecido o el del lugar donde se encuentre la mayor parte de sus bienes. Posesión temporal de los bienes del ausente
+Transcurridos dos años desde que se tuvo la última noticia del desaparecido, cualquiera que tenga legítimo interés o el Ministerio Público pueden solicitar la declaración judicial de ausencia.
+
+Es competente el juez del último domicilio que tuvo el desaparecido o el del lugar donde se encuentre la mayor parte de sus bienes.
+
+Posesión temporal de los bienes del ausente
 
 ###### Artículo 50º
 
 En la declaración judicial de ausencia se ordenará dar la posesión temporal de los bienes del ausente a quienes serían sus herederos forzosos al tiempo de dictarla.
 
-Si no hubiere persona con esta calidad continuará, respecto a los bienes del ausente, la curatela establecida en el Artículo 47º. Facultades y límites del poseedor de bienes del ausente
+Si no hubiere persona con esta calidad continuará, respecto a los bienes del ausente, la curatela establecida en el Artículo 47º.
+
+Facultades y límites del poseedor de bienes del ausente
 
 ###### Artículo 51º
 
@@ -420,7 +476,9 @@ Inscripción de la declaración judicial de ausencia
 
 ###### Artículo 53º
 
-La declaración judicial de ausencia debe ser inscrita en el registro de mandatos y poderes para extinguir los otorgados por el ausente. Designación del administrador judicial
+La declaración judicial de ausencia debe ser inscrita en el registro de mandatos y poderes para extinguir los otorgados por el ausente.
+
+Designación del administrador judicial
 
 ###### Artículo 54º
 
@@ -562,21 +620,29 @@ Estatuto de la asociación
 
 El estatuto debe constar por escritura pública, salvo disposición distinta de la ley.
 
-Si la asociación es religiosa, su régimen interno se regula de acuerdo con el estatuto aprobado por la correspondiente autoridad eclesiástica. Contenido del estatuto
+Si la asociación es religiosa, su régimen interno se regula de acuerdo con el estatuto aprobado por la correspondiente autoridad eclesiástica.
+
+Contenido del estatuto
 
 ###### Artículo 82º
 
 El estatuto de la asociación debe expresar: 1.- La denominación, duración y domicilio. 2.- Los fines. 3.- Los bienes que integran el patrimonio social. 4.- La constitución y funcionamiento de la asamblea general de asociados, consejo directivo y demás órganos de la asociación. 5.- Las condiciones para la admisión, renuncia y exclusión de sus miembros. 6.- Los derechos y deberes de los asociados. 7.- Los requisitos para su modificación. 8.- Las normas para la disolución y liquidación de la asociación y las relativas al destino final de sus bienes.
 
-DERECHO DE LAS PERSONAS 9.- Los demás pactos y condiciones que se establezcan. Libros de la asociación
+DERECHO DE LAS PERSONAS 9.- Los demás pactos y condiciones que se establezcan.
+
+Libros de la asociación
 
 ###### Artículo 83º
 
-Toda asociación debe tener un libro de registro actualizado en que consten el nombre, actividad, domicilio y fecha de admisión de cada uno de sus miembros, con indicación de los que ejerzan cargos de administración o representación. La asociación debe contar, asimismo, con libros de actas de las sesiones de asamblea general y de consejo directivo en los que constarán los acuerdos adoptados. Los libros a que se refiere el presente artículo se llevan con las formalidades de ley, bajo responsabilidad del presidente del consejo directivo de la asociación y de conformidad con los requisitos que fije el estatuto. Asamblea General
+Toda asociación debe tener un libro de registro actualizado en que consten el nombre, actividad, domicilio y fecha de admisión de cada uno de sus miembros, con indicación de los que ejerzan cargos de administración o representación. La asociación debe contar, asimismo, con libros de actas de las sesiones de asamblea general y de consejo directivo en los que constarán los acuerdos adoptados. Los libros a que se refiere el presente artículo se llevan con las formalidades de ley, bajo responsabilidad del presidente del consejo directivo de la asociación y de conformidad con los requisitos que fije el estatuto.
+
+Asamblea General
 
 ###### Artículo 84º
 
-La asamblea general es el órgano supremo de la asociación. Convocatoria
+La asamblea general es el órgano supremo de la asociación.
+
+Convocatoria
 
 ###### Artículo 85º
 
@@ -592,11 +658,15 @@ Quórum para adopción de acuerdos
 
 Para la validez de las reuniones de asamblea general se requiere, en primera convocatoria, la concurrencia de más de la mitad de los asociados. En segunda convocatoria, basta la presencia de cualquier número de asociados. Los acuerdos se adoptan con el voto de más de la mitad de los miembros concurrentes. Para modificar el estatuto o para disolver la asociación se requiere, en primera convocatoria, la asistencia de más de la mitad de los asociados. Los acuerdos se adoptan con el voto de más de la mitad de los miembros concurrentes. En segunda convocatoria, los acuerdos se adoptan con los asociados que asistan y que representen no menos de la décima parte.
 
-Los asociados pueden ser representados en asamblea general, por otra persona. El estatuto puede disponer que el representante sea otro asociado. La representación se otorga por escritura pública. También puede conferirse por otro medio escrito y sólo con carácter especial para cada asamblea. Derecho de voto
+Los asociados pueden ser representados en asamblea general, por otra persona. El estatuto puede disponer que el representante sea otro asociado.
+
+La representación se otorga por escritura pública. También puede conferirse por otro medio escrito y sólo con carácter especial para cada asamblea. Derecho de voto
 
 ###### Artículo 88º
 
-Ningún asociado tiene derecho por sí mismo a más de un voto. Carácter personalísimo de la calidad del asociado
+Ningún asociado tiene derecho por sí mismo a más de un voto.
+
+Carácter personalísimo de la calidad del asociado
 
 ###### Artículo 89º
 
@@ -606,15 +676,21 @@ Renuncia de los asociados
 
 ###### Artículo 90º
 
-La renuncia de los asociados debe ser formulada por escrito. Pago de cuotas adeudadas
+La renuncia de los asociados debe ser formulada por escrito.
+
+Pago de cuotas adeudadas
 
 ###### Artículo 91º
 
-Los asociados renunciantes, los excluidos y los sucesores de los asociados muertos quedan obligados al pago de las cuotas que hayan dejado de abonar, no pudiendo exigir el reembolso de sus aportaciones. Impugnación judicial de acuerdos
+Los asociados renunciantes, los excluidos y los sucesores de los asociados muertos quedan obligados al pago de las cuotas que hayan dejado de abonar, no pudiendo exigir el reembolso de sus aportaciones.
+
+Impugnación judicial de acuerdos
 
 ###### Artículo 92º
 
-Todo asociado tiene derecho a impugnar judicialmente los acuerdos que violen las disposiciones legales o estatutarias. Las acciones impugnatorias deben ejercitarse en un plazo no mayor de sesenta días contados a partir de la fecha del acuerdo. Pueden ser interpuestas por los asistentes, si hubieran dejado constancia en acta de su oposición al acuerdo, por los asociados no concurrentes y por los que hayan sido privados ilegítimamente de emitir su voto.
+Todo asociado tiene derecho a impugnar judicialmente los acuerdos que violen las disposiciones legales o estatutarias.
+
+Las acciones impugnatorias deben ejercitarse en un plazo no mayor de sesenta días contados a partir de la fecha del acuerdo. Pueden ser interpuestas por los asistentes, si hubieran dejado constancia en acta de su oposición al acuerdo, por los asociados no concurrentes y por los que hayan sido privados ilegítimamente de emitir su voto.
 
 Si el acuerdo es inscribible en el registro, la impugnación puede formularse dentro de los treinta días siguientes a la fecha en que la inscripción tuvo lugar. DERECHO DE LAS PERSONAS Cualquier asociado puede intervenir en el juicio, a su costa para defender la validez del acuerdo.
 
@@ -642,7 +718,9 @@ La demanda se tramita como proceso abreviado, considerando como parte demandada 
 
 ###### Artículo 97º
 
-De no haberse previsto en el estatuto de la asociación normas para el caso en que no pueda seguir funcionando o para su disolución, se procede de conformidad con lo dispuesto en el Artículo 599º, inciso 2. Destino del patrimonio restante a la liquidación
+De no haberse previsto en el estatuto de la asociación normas para el caso en que no pueda seguir funcionando o para su disolución, se procede de conformidad con lo dispuesto en el Artículo 599º, inciso 2.
+
+Destino del patrimonio restante a la liquidación
 
 ###### Artículo 98º
 
@@ -662,13 +740,19 @@ La fundación se constituye mediante escritura pública, por una o varias person
 
 ###### Artículo 101º
 
-El acto constitutivo de la fundación debe expresar necesariamente su finalidad y el bien o bienes que se afectan. El fundador puede también indicar el nombre y domicilio de la fundación, así como designar al administrador o a los administradores y señalar normas para su régimen económico, funcionamiento y extinción así como el destino final del patrimonio. Puede nombrarse como administradores de la fundación a personas jurídicas o a quien o quienes desempeñen funciones específicas en ellas. En el primer caso, debe designarse a la persona natural que la represente. El registrador de personas jurídicas debe enviar al Consejo de Supervigilancia de Fundaciones el título de constitución que careciere de alguno de los requisitos señalados en el primer párrafo del presente Artículo. El Consejo procederá en un plazo no mayor de diez días, con arreglo al Artículo 104º, incisos 1 a 3, según el caso.
+El acto constitutivo de la fundación debe expresar necesariamente su finalidad y el bien o bienes que se afectan. El fundador puede también indicar el nombre y domicilio de la fundación, así como designar al administrador o a los administradores y señalar normas para su régimen económico, funcionamiento y extinción así como el destino final del patrimonio.
+
+Puede nombrarse como administradores de la fundación a personas jurídicas o a quien o quienes desempeñen funciones específicas en ellas. En el primer caso, debe designarse a la persona natural que la represente.
+
+El registrador de personas jurídicas debe enviar al Consejo de Supervigilancia de Fundaciones el título de constitución que careciere de alguno de los requisitos señalados en el primer párrafo del presente Artículo. El Consejo procederá en un plazo no mayor de diez días, con arreglo al Artículo 104º, incisos 1 a 3, según el caso.
 
 Revocación del fundador
 
 ###### Artículo 102º
 
-La facultad de revocar no es transmisible. El acto de constitución de la fundación, una vez inscrito, es irrevocable. Consejo de Supervigilancia de Fundaciones
+La facultad de revocar no es transmisible. El acto de constitución de la fundación, una vez inscrito, es irrevocable.
+
+Consejo de Supervigilancia de Fundaciones
 
 ###### Artículo 103º
 
@@ -714,7 +798,11 @@ La pretensión se tramita como proceso abreviado, con citación del Ministerio P
 
 ###### Artículo 109º
 
-El Consejo de Supervigilancia puede solicitar la disolución de la fundación cuya finalidad resulte de imposible cumplimiento. La demanda se tramita como proceso abreviado ante el Juez Civil de la sede de la fundación, emplazando a los administradores. La demanda será publicada por DERECHO DE LAS PERSONAS tres veces en el diario encargado de los avisos judiciales y en otro de circulación nacional, mediando cinco días entre cada publicación. La sentencia no apelada se eleva en consulta a la Corte Superior.[^62] CONCORDANCIA: Ley Nº 26918, Art. 5º Destino del patrimonio restante a la liquidación
+El Consejo de Supervigilancia puede solicitar la disolución de la fundación cuya finalidad resulte de imposible cumplimiento.
+
+La demanda se tramita como proceso abreviado ante el Juez Civil de la sede de la fundación, emplazando a los administradores. La demanda será publicada por DERECHO DE LAS PERSONAS tres veces en el diario encargado de los avisos judiciales y en otro de circulación nacional, mediando cinco días entre cada publicación.
+
+La sentencia no apelada se eleva en consulta a la Corte Superior.[^62] CONCORDANCIA: Ley Nº 26918, Art. 5º Destino del patrimonio restante a la liquidación
 
 ###### Artículo 110º
 
@@ -736,11 +824,15 @@ Registro de miembros
 
 El comité debe tener un registro actualizado que contenga el nombre, domicilio, actividad y fecha de admisión de sus miembros, con indicación de los integrantes del consejo directivo o de las personas que ejerzan cualquier otra actividad administrativa.
 
-El registro debe constar de un libro llevado con las formalidades de ley, bajo la responsabilidad de quien preside el consejo directivo. Estatuto del Comité
+El registro debe constar de un libro llevado con las formalidades de ley, bajo la responsabilidad de quien preside el consejo directivo.
+
+Estatuto del Comité
 
 ###### Artículo 113º
 
-El estatuto del comité debe expresar: 1.- La denominación, duración y domicilio. 2.- La finalidad altruista propuesta. 3.- El régimen administrativo. 4.- La constitución y funcionamiento de la asamblea general y del consejo directivo, así como de cualquier otro órgano administrativo. 5.- La designación del funcionario que ha de tener la representación legal del comité. 6.- Los demás pactos y condiciones que se establezcan. Convocatoria del Consejo Directivo
+El estatuto del comité debe expresar: 1.- La denominación, duración y domicilio. 2.- La finalidad altruista propuesta. 3.- El régimen administrativo. 4.- La constitución y funcionamiento de la asamblea general y del consejo directivo, así como de cualquier otro órgano administrativo. 5.- La designación del funcionario que ha de tener la representación legal del comité. 6.- Los demás pactos y condiciones que se establezcan.
+
+Convocatoria del Consejo Directivo
 
 ###### Artículo 114º
 
@@ -760,7 +852,9 @@ Denuncia de actos y acuerdos ilegales
 
 ###### Artículo 117º
 
-Cualquier miembro del comité o del consejo directivo tiene el derecho y el deber de denunciar ante el Ministerio Público los acuerdos o los actos que violen las disposiciones legales o estatutarias. Responsabilidad del Consejo Directivo
+Cualquier miembro del comité o del consejo directivo tiene el derecho y el deber de denunciar ante el Ministerio Público los acuerdos o los actos que violen las disposiciones legales o estatutarias.
+
+Responsabilidad del Consejo Directivo
 
 ###### Artículo 118º
 
@@ -800,7 +894,9 @@ Régimen de la asociación de hecho
 
 El ordenamiento interno y la administración de la asociación que no se haya constituido mediante escritura pública inscrita, se regula por los acuerdos de sus miembros, aplicándose las reglas establecidas en los Artículos 80º a 98º, en lo que sean pertinentes.
 
-Dicha asociación puede comparecer en juicio representada por el presidente del consejo directivo o por quien haga sus veces. Fondo común de la asociación de hecho
+Dicha asociación puede comparecer en juicio representada por el presidente del consejo directivo o por quien haga sus veces.
+
+Fondo común de la asociación de hecho
 
 ###### Artículo 125º
 
@@ -838,7 +934,9 @@ Comité de hecho
 
 ###### Artículo 130º
 
-El comité que no se haya constituido mediante instrumento inscrito se rige por los acuerdos de sus miembros, aplicándose las reglas establecidas en los Artículos 111º a 123º, en lo que sean pertinentes. El comité puede comparecer en juicio representado por el presidente del consejo directivo o por quien haga sus veces.
+El comité que no se haya constituido mediante instrumento inscrito se rige por los acuerdos de sus miembros, aplicándose las reglas establecidas en los Artículos 111º a 123º, en lo que sean pertinentes.
+
+El comité puede comparecer en juicio representado por el presidente del consejo directivo o por quien haga sus veces.
 
 Responsabilidad solidaria de los organizadores
 
@@ -890,7 +988,11 @@ Asamblea General
 
 ###### Artículo 138º
 
-La asamblea general es el órgano supremo de las comunidades. Los directivos y representantes comunales son elegidos periódicamente, mediante voto personal, igual, libre, secreto y obligatorio. Padrón y catastro de las comunidades
+La asamblea general es el órgano supremo de las comunidades.
+
+Los directivos y representantes comunales son elegidos periódicamente, mediante voto personal, igual, libre, secreto y obligatorio.
+
+Padrón y catastro de las comunidades
 
 ###### Artículo 139º
 
@@ -956,11 +1058,15 @@ Responsabilidad solidaria de los representantes
 
 ###### Artículo 148º
 
-Si son dos o más los representantes, éstos quedan obligados solidariamente frente al representado, siempre que el poder se haya otorgado por acto único y para un objeto de interés común. Revocación del poder
+Si son dos o más los representantes, éstos quedan obligados solidariamente frente al representado, siempre que el poder se haya otorgado por acto único y para un objeto de interés común.
+
+Revocación del poder
 
 ###### Artículo 149º
 
-El poder puede ser revocado en cualquier momento. ACTO JURÍDICO Pluralidad de representados
+El poder puede ser revocado en cualquier momento.
+
+ACTO JURÍDICO Pluralidad de representados
 
 ###### Artículo 150º
 
@@ -978,17 +1084,25 @@ La revocación comunicada sólo al representante no puede ser opuesta a terceros
 
 ###### Artículo 153º
 
-El poder es irrevocable siempre que se estipule para un acto especial o por tiempo limitado o cuando es otorgado en interés común del representado y del representante o de un tercero. El plazo del poder irrevocable no puede ser mayor de un año. Renuncia del representante
+El poder es irrevocable siempre que se estipule para un acto especial o por tiempo limitado o cuando es otorgado en interés común del representado y del representante o de un tercero.
+
+El plazo del poder irrevocable no puede ser mayor de un año.
+
+Renuncia del representante
 
 ###### Artículo 154º
 
-El representante puede renunciar a la representación comunicándolo al representado. El representante está obligado a continuar con la representación hasta su reemplazo, salvo impedimento grave o justa causa. El representante puede apartarse de la representación si notificado el representado de su renuncia, transcurre el plazo de treinta días más el término de la distancia, sin haber sido reemplazado.
+El representante puede renunciar a la representación comunicándolo al representado. El representante está obligado a continuar con la representación hasta su reemplazo, salvo impedimento grave o justa causa.
+
+El representante puede apartarse de la representación si notificado el representado de su renuncia, transcurre el plazo de treinta días más el término de la distancia, sin haber sido reemplazado.
 
 Poder general y especial
 
 ###### Artículo 155º
 
-El poder general sólo comprende los actos de administración. El poder especial comprende los actos para los cuales ha sido conferido. Poder por escritura pública para actos de disposición
+El poder general sólo comprende los actos de administración.
+
+El poder especial comprende los actos para los cuales ha sido conferido. Poder por escritura pública para actos de disposición
 
 ###### Artículo 156º
 
@@ -998,11 +1112,15 @@ Carácter personal de la representación
 
 ###### Artículo 157º
 
-El representante debe desempeñar personalmente el encargo, a no ser que se le haya facultado expresamente la sustitución. Sustitución y responsabilidad del representante
+El representante debe desempeñar personalmente el encargo, a no ser que se le haya facultado expresamente la sustitución.
+
+Sustitución y responsabilidad del representante
 
 ###### Artículo 158º
 
-El representante queda exento de toda responsabilidad cuando hace la sustitución en la persona que se le designó. Si no se señaló en el acto la persona del sustituto, pero se concedió al representante la facultad de nombrarlo, éste es responsable cuando incurre en culpa inexcusable en la elección. El representante responde de las instrucciones que imparte al sustituto. El representado puede accionar directamente contra el sustituto. Revocación del sustituto
+El representante queda exento de toda responsabilidad cuando hace la sustitución en la persona que se le designó. Si no se señaló en el acto la persona del sustituto, pero se concedió al representante la facultad de nombrarlo, éste es responsable cuando incurre en culpa inexcusable en la elección. El representante responde de las instrucciones que imparte al sustituto. El representado puede accionar directamente contra el sustituto.
+
+Revocación del sustituto
 
 ###### Artículo 159º
 
@@ -1018,7 +1136,9 @@ El acto jurídico celebrado por el representante, dentro de los límites de las 
 
 El acto jurídico celebrado por el representante excediendo los límites de las facultades que se le hubiere conferido, o violándolas, es ineficaz con relación al representado, sin perjuicio de las responsabilidades que resulten frente a éste y a terceros.
 
-También es ineficaz ante el supuesto representado el acto jurídico celebrado por persona que no tiene la representación que se atribuye. Ratificación del acto jurídico por el representado
+También es ineficaz ante el supuesto representado el acto jurídico celebrado por persona que no tiene la representación que se atribuye.
+
+Ratificación del acto jurídico por el representado
 
 ###### Artículo 162º
 
@@ -1026,7 +1146,9 @@ En los casos previstos por el Artículo 161º, el acto jurídico puede ser ratif
 
 La ratificación tiene efecto retroactivo, pero queda a salvo el derecho de tercero. El tercero y el que hubiese celebrado el acto jurídico como representante podrán resolver el acto jurídico antes de la ratificación, sin perjuicio de la indemnización que corresponda.
 
-La facultad de ratificar se trasmite a los herederos. ACTO JURÍDICO Anulabilidad del acto jurídico por vicios de la voluntad
+La facultad de ratificar se trasmite a los herederos.
+
+ACTO JURÍDICO Anulabilidad del acto jurídico por vicios de la voluntad
 
 ###### Artículo 163º
 
@@ -1048,7 +1170,9 @@ Anulabilidad de acto jurídico del representante consigo mismo
 
 Es anulable el acto jurídico que el representante concluya consigo mismo, en nombre propio o como representante de otro, a menos que la ley lo permita, que el representado lo hubiese autorizado específicamente, o que el contenido del acto jurídico hubiera sido determinado de modo que excluya la posibilidad de un conflicto de intereses.
 
-El ejercicio de la acción le corresponde al representado. Poder especial para actos de disposición
+El ejercicio de la acción le corresponde al representado.
+
+Poder especial para actos de disposición
 
 ###### Artículo 167º
 
@@ -1060,7 +1184,9 @@ Interpretación objetiva
 
 ###### Artículo 168º
 
-El acto jurídico debe ser interpretado de acuerdo con lo que se haya expresado en él y según el principio de la buena fe. Interpretación sistemática
+El acto jurídico debe ser interpretado de acuerdo con lo que se haya expresado en él y según el principio de la buena fe.
+
+Interpretación sistemática
 
 ###### Artículo 169º
 
@@ -1092,7 +1218,9 @@ Es nulo el acto jurídico cuyos efectos están subordinados a condición suspens
 
 Pendiente la condición suspensiva, el adquiriente puede realizar actos conservatorios.
 
-El adquirente de un derecho bajo condición resolutoria puede ejercitarlo pendiente ésta, pero la otra parte puede realizar actos conservatorios. El deudor puede repetir lo que hubiese pagado antes del cumplimiento de la condición suspensiva o resolutoria.
+El adquirente de un derecho bajo condición resolutoria puede ejercitarlo pendiente ésta, pero la otra parte puede realizar actos conservatorios.
+
+El deudor puede repetir lo que hubiese pagado antes del cumplimiento de la condición suspensiva o resolutoria.
 
 Indivisibilidad de la condición
 
@@ -1106,7 +1234,9 @@ Condición negativa
 
 ###### Artículo 175º
 
-Si la condición es que no se realice cierto acontecimiento dentro de un plazo, se entenderá cumplida desde que vence el plazo, o desde que llega a ser cierto que el acontecimiento no puede realizarse. ACTO JURÍDICO Cumplimiento e incumplimiento de la condición por mala fe
+Si la condición es que no se realice cierto acontecimiento dentro de un plazo, se entenderá cumplida desde que vence el plazo, o desde que llega a ser cierto que el acontecimiento no puede realizarse.
+
+ACTO JURÍDICO Cumplimiento e incumplimiento de la condición por mala fe
 
 ###### Artículo 176º
 
@@ -1126,7 +1256,9 @@ Antes del vencimiento del plazo, quien tenga derecho a recibir alguna prestació
 
 ###### Artículo 179º
 
-El plazo suspensivo se presume establecido en beneficio del deudor, a no ser que del tenor del instrumento o de otras circunstancias, resultase haberse puesto en favor del acreedor o de ambos. Derecho de repetición por pago anticipado
+El plazo suspensivo se presume establecido en beneficio del deudor, a no ser que del tenor del instrumento o de otras circunstancias, resultase haberse puesto en favor del acreedor o de ambos.
+
+Derecho de repetición por pago anticipado
 
 ###### Artículo 180º
 
@@ -1144,7 +1276,9 @@ La pérdida del derecho al plazo por las causales indicadas en los incisos prece
 
 ###### Artículo 182º
 
-Si el acto no señala plazo, pero de su naturaleza y circunstancias se dedujere que ha querido concederse al deudor, el juez fija su duración. También fija el juez la duración del plazo cuya determinación haya quedado a voluntad del deudor o un tercero y éstos no lo señalaren. La demanda se tramita como proceso sumarísimo.[^74] Reglas para cómputo del plazo
+Si el acto no señala plazo, pero de su naturaleza y circunstancias se dedujere que ha querido concederse al deudor, el juez fija su duración. También fija el juez la duración del plazo cuya determinación haya quedado a voluntad del deudor o un tercero y éstos no lo señalaren.
+
+La demanda se tramita como proceso sumarísimo.[^74] Reglas para cómputo del plazo
 
 ###### Artículo 183º
 
@@ -1152,11 +1286,15 @@ El plazo se computa de acuerdo al calendario gregoriano, conforme a las siguient
 
 ###### Artículo 184º
 
-Las reglas del Artículo 183º son aplicables a todos los plazos legales o convencionales, salvo disposición o acuerdo diferente. ACTO JURÍDICO Exigibilidad del cumplimiento del cargo
+Las reglas del Artículo 183º son aplicables a todos los plazos legales o convencionales, salvo disposición o acuerdo diferente.
+
+ACTO JURÍDICO Exigibilidad del cumplimiento del cargo
 
 ###### Artículo 185º
 
-El cumplimiento del cargo puede ser exigido por el imponente o por el beneficiario. Cuando el cumplimiento del cargo sea de interés social, su ejecución puede ser exigida por la entidad a la que concierna. Fijación judicial del plazo para cumplimiento del cargo
+El cumplimiento del cargo puede ser exigido por el imponente o por el beneficiario. Cuando el cumplimiento del cargo sea de interés social, su ejecución puede ser exigida por la entidad a la que concierna.
+
+Fijación judicial del plazo para cumplimiento del cargo
 
 ###### Artículo 186º
 
@@ -1172,7 +1310,9 @@ Transmisibilidad del cargo
 
 ###### Artículo 188º
 
-La obligación de cumplir los cargos impuestos para la adquisición de un derecho pasa a los herederos del que fue gravado con ellos, a no ser que sólo pudiesen ser cumplidos por él, como inherentes a su persona. En este caso, si el gravado muere sin cumplir los cargos, la adquisición del derecho queda sin efecto, volviendo los bienes al imponente de los cargos o a sus herederos. Imposibilidad e ilicitud del cargo
+La obligación de cumplir los cargos impuestos para la adquisición de un derecho pasa a los herederos del que fue gravado con ellos, a no ser que sólo pudiesen ser cumplidos por él, como inherentes a su persona.
+
+En este caso, si el gravado muere sin cumplir los cargos, la adquisición del derecho queda sin efecto, volviendo los bienes al imponente de los cargos o a sus herederos. Imposibilidad e ilicitud del cargo
 
 ###### Artículo 189º
 
@@ -1184,7 +1324,9 @@ Simulación absoluta
 
 ###### Artículo 190º
 
-Por la simulación absoluta se aparenta celebrar un acto jurídico cuando no existe realmente voluntad para celebrarlo. Simulación relativa
+Por la simulación absoluta se aparenta celebrar un acto jurídico cuando no existe realmente voluntad para celebrarlo.
+
+Simulación relativa
 
 ###### Artículo 191º
 
@@ -1208,7 +1350,9 @@ Acción pauliana
 
 ###### Artículo 195º
 
-El acreedor, aunque el crédito esté sujeto a condición o a plazo, puede pedir que se declaren ineficaces respecto de él los actos gratuitos del deudor por los que renuncie a derechos o con los que disminuya su patrimonio conocido y perjudiquen el cobro del crédito. Se presume la existencia de perjuicio cuando del acto del deudor resulta la imposibilidad de pagar íntegramente la prestación debida, o se dificulta la posibilidad de cobro. Tratándose de acto a título oneroso deben concurrir, además, los siguientes requisitos: 1.- Si el crédito es anterior al acto de disminución patrimonial, que el tercero haya tenido conocimiento del perjuicio a los derechos del acreedor o que, según las circunstancias, haya estado en razonable situación de conocer o de no ignorarlos y el perjuicio eventual de los mismos. 2.- Si el acto cuya ineficacia se solicita fuera anterior al surgimiento del crédito, que el deudor y el tercero lo hubiesen celebrado con el propósito de perjudicar la satisfacción del crédito del futuro acreedor. Se presume dicha intención en el deudor cuando ha dispuesto de bienes de cuya existencia había informado por escrito al futuro acreedor. Se presume la intención del tercero cuando conocía o estaba en aptitud de conocer el futuro crédito y que el deudor carece de otros bienes registrados.
+El acreedor, aunque el crédito esté sujeto a condición o a plazo, puede pedir que se declaren ineficaces respecto de él los actos gratuitos del deudor por los que renuncie a derechos o con los que disminuya su patrimonio conocido y perjudiquen el cobro del crédito. Se presume la existencia de perjuicio cuando del acto del deudor resulta la imposibilidad de pagar íntegramente la prestación debida, o se dificulta la posibilidad de cobro.
+
+Tratándose de acto a título oneroso deben concurrir, además, los siguientes requisitos: 1.- Si el crédito es anterior al acto de disminución patrimonial, que el tercero haya tenido conocimiento del perjuicio a los derechos del acreedor o que, según las circunstancias, haya estado en razonable situación de conocer o de no ignorarlos y el perjuicio eventual de los mismos. 2.- Si el acto cuya ineficacia se solicita fuera anterior al surgimiento del crédito, que el deudor y el tercero lo hubiesen celebrado con el propósito de perjudicar la satisfacción del crédito del futuro acreedor. Se presume dicha intención en el deudor cuando ha dispuesto de bienes de cuya existencia había informado por escrito al futuro acreedor. Se presume la intención del tercero cuando conocía o estaba en aptitud de conocer el futuro crédito y que el deudor carece de otros bienes registrados.
 
 Incumbe al acreedor la prueba sobre la existencia del crédito y, en su caso, la concurrencia de los requisitos indicados en los incisos 1 y 2 de este artículo. Corresponde al deudor y al tercero la carga de la prueba sobre la inexistencia ACTO JURÍDICO del perjuicio, o sobre la existencia de bienes libres suficientes para garantizar la satisfacción del crédito.[^76] CONCORDANCIA: R. Nº 248-2008-SUNARP-SN, Art. 112º Onerosidad de las garantías
 
@@ -1278,7 +1422,9 @@ Casos en que el error en la declaración vicia el acto jurídico
 
 ###### Artículo 208º
 
-Las disposiciones de los Artículos 201º a 207º también se aplican, en cuanto sean pertinentes, al caso en que el error en la declaración se refiera a la naturaleza del acto, al objeto principal de la declaración o a la identidad de la persona cuando la consideración a ella hubiese sido el motivo determinante de la voluntad, así como al caso en que la declaración hubiese sido trasmitida inexactamente por quien estuviere encargado de hacerlo. Casos en que el error en la declaración no vicia el acto jurídico
+Las disposiciones de los Artículos 201º a 207º también se aplican, en cuanto sean pertinentes, al caso en que el error en la declaración se refiera a la naturaleza del acto, al objeto principal de la declaración o a la identidad de la persona cuando la consideración a ella hubiese sido el motivo determinante de la voluntad, así como al caso en que la declaración hubiese sido trasmitida inexactamente por quien estuviere encargado de hacerlo.
+
+Casos en que el error en la declaración no vicia el acto jurídico
 
 ###### Artículo 209º
 
@@ -1350,7 +1496,9 @@ Alegación de la nulidad
 
 ###### Artículo 220º
 
-La nulidad a que se refiere el Artículo 219º puede ser alegada por quienes tengan interés o por el Ministerio Público. Puede ser declarada de oficio por el juez cuando resulte manifiesta. No puede subsanarse por la confirmación.
+La nulidad a que se refiere el Artículo 219º puede ser alegada por quienes tengan interés o por el Ministerio Público.
+
+Puede ser declarada de oficio por el juez cuando resulte manifiesta. No puede subsanarse por la confirmación.
 
 Causales de anulabilidad
 
@@ -1364,7 +1512,9 @@ Efectos de la nulidad por sentencia
 
 El acto jurídico anulable es nulo desde su celebración, por efecto de la sentencia que lo declare.
 
-Esta nulidad se pronunciará a petición de parte y no puede ser alegada por otras personas que aquellas en cuyo beneficio la establece la ley. Nulidad de acto plurilateral
+Esta nulidad se pronunciará a petición de parte y no puede ser alegada por otras personas que aquellas en cuyo beneficio la establece la ley.
+
+Nulidad de acto plurilateral
 
 ###### Artículo 223º
 
@@ -1374,9 +1524,13 @@ Nulidad parcial
 
 ###### Artículo 224º
 
-La nulidad de una o más de las disposiciones de un acto jurídico no perjudica a las otras, siempre que sean separables. La nulidad de disposiciones singulares no importa la nulidad del acto cuando éstas sean sustituidas por normas imperativas.
+La nulidad de una o más de las disposiciones de un acto jurídico no perjudica a las otras, siempre que sean separables.
 
-La nulidad de la obligación principal conlleva la de las obligaciones accesorias, pero la nulidad de éstas no origina la de la obligación principal. Acto y documento
+La nulidad de disposiciones singulares no importa la nulidad del acto cuando éstas sean sustituidas por normas imperativas.
+
+La nulidad de la obligación principal conlleva la de las obligaciones accesorias, pero la nulidad de éstas no origina la de la obligación principal.
+
+Acto y documento
 
 ###### Artículo 225º
 
@@ -1430,11 +1584,15 @@ Finalidad de la regulación de la familia
 
 ###### Artículo 233º
 
-La regulación jurídica de la familia tiene por finalidad contribuir a su consolidación y fortalecimiento, en armonía con los principios y normas proclamados en la Constitución Política del Perú. Noción del matrimonio
+La regulación jurídica de la familia tiene por finalidad contribuir a su consolidación y fortalecimiento, en armonía con los principios y normas proclamados en la Constitución Política del Perú.
+
+Noción del matrimonio
 
 ###### Artículo 234º
 
-El matrimonio es la unión voluntariamente concertada por un varón y una mujer legalmente aptos para ella y formalizada con sujeción a las disposiciones de este Código, a fin de hacer vida común. El marido y la mujer tienen en el hogar autoridad, consideraciones, derechos, deberes y responsabilidades iguales.
+El matrimonio es la unión voluntariamente concertada por un varón y una mujer legalmente aptos para ella y formalizada con sujeción a las disposiciones de este Código, a fin de hacer vida común.
+
+El marido y la mujer tienen en el hogar autoridad, consideraciones, derechos, deberes y responsabilidades iguales.
 
 Deberes de los padres
 
@@ -1446,7 +1604,9 @@ Parentesco consanguíneo
 
 ###### Artículo 236º
 
-El parentesco consanguíneo es la relación familiar existente entre las personas que descienden una de otra o de un tronco común. El grado de parentesco se determina por el número de generaciones. En la línea colateral, el grado se establece subiendo de uno de los parientes al tronco común y bajando después hasta el otro. Este parentesco produce efectos civiles sólo hasta el cuarto grado.
+El parentesco consanguíneo es la relación familiar existente entre las personas que descienden una de otra o de un tronco común.
+
+El grado de parentesco se determina por el número de generaciones. En la línea colateral, el grado se establece subiendo de uno de los parientes al tronco común y bajando después hasta el otro. Este parentesco produce efectos civiles sólo hasta el cuarto grado.
 
 Parentesco por afinidad
 
@@ -1516,15 +1676,21 @@ Se dispensa el plazo si la mujer acredita no hallarse embarazada, mediante certi
 
 La viuda que contravenga la prohibición contenida en este inciso pierde los bienes que hubiera recibido de su marido a título gratuito.
 
-No rige la prohibición para el caso del Artículo 333º inciso 5. DERECHO DE FAMILIA Es de aplicación a los casos a que se refiere este inciso la presunción de paternidad respecto del nuevo marido.[^81] Requisitos para matrimonio entre menores de edad
+No rige la prohibición para el caso del Artículo 333º inciso 5.
+
+DERECHO DE FAMILIA Es de aplicación a los casos a que se refiere este inciso la presunción de paternidad respecto del nuevo marido.[^81] Requisitos para matrimonio entre menores de edad
 
 ###### Artículo 244º
 
 Los menores de edad, para contraer matrimonio, necesitan del asentimiento expreso de sus padres. La discrepancia entre los padres equivale al asentimiento.
 
-A falta o por incapacidad absoluta o por destitución de uno de los padres del ejercicio de la patria potestad, basta el asentimiento del otro. A falta de ambos padres, o si los dos fueran absolutamente incapaces o hubieran sido destituidos del ejercicio de la patria potestad, prestarán asentimiento los abuelos y las abuelas. En igualdad de votos contrarios, la discordancia equivale al asentimiento.
+A falta o por incapacidad absoluta o por destitución de uno de los padres del ejercicio de la patria potestad, basta el asentimiento del otro.
 
-A falta de abuelos y abuelas o si son absolutamente incapaces o han sido removidos de la tutela, corresponde al juez de menores otorgar o negar la licencia supletoria. La misma atribución corresponde al juez de menores, respecto de expósitos o de menores abandonados o que se encuentren bajo jurisdicción especial. Los hijos extramatrimoniales sólo requieren el asentimiento del padre o, en su caso, de los abuelos paternos, cuando aquél los hubiese reconocido voluntariamente. La misma regla se aplica a la madre y los abuelos en línea materna. Negativa de los padres
+A falta de ambos padres, o si los dos fueran absolutamente incapaces o hubieran sido destituidos del ejercicio de la patria potestad, prestarán asentimiento los abuelos y las abuelas. En igualdad de votos contrarios, la discordancia equivale al asentimiento.
+
+A falta de abuelos y abuelas o si son absolutamente incapaces o han sido removidos de la tutela, corresponde al juez de menores otorgar o negar la licencia supletoria. La misma atribución corresponde al juez de menores, respecto de expósitos o de menores abandonados o que se encuentren bajo jurisdicción especial. Los hijos extramatrimoniales sólo requieren el asentimiento del padre o, en su caso, de los abuelos paternos, cuando aquél los hubiese reconocido voluntariamente. La misma regla se aplica a la madre y los abuelos en línea materna.
+
+Negativa de los padres
 
 ###### Artículo 245º
 
@@ -1548,7 +1714,9 @@ Diligencias para matrimonio civil
 
 Quienes pretendan contraer matrimonio civil lo declararán oralmente o por escrito al alcalde provincial o distrital del domicilio de cualquiera de ellos.
 
-Acompañarán copia certificada de las partidas de nacimiento, la prueba del domicilio y el certificado médico, expedido en fecha no anterior a treinta días, que acredite que no están incursos en los impedimentos establecidos en el Artículo 241º, inciso 2 y 243º inciso 3, o si en el lugar no hubiere servicio médico oficial y gratuito, la declaración jurada de no tener tal impedimento. Acompañarán también en sus respectivos casos, la dispensa judicial de la impubertad, el instrumento en que conste el asentimiento de los padres o ascendientes o la licencia judicial supletoria, la dispensa del parentesco de consanguinidad colateral en tercer grado, copia certificada de la partida de defunción del cónyuge anterior o la sentencia de divorcio o de invalidación del matrimonio anterior, el certificado consular de soltería o viudez, y todos los demás documentos que fueren necesarios según las circunstancias.
+Acompañarán copia certificada de las partidas de nacimiento, la prueba del domicilio y el certificado médico, expedido en fecha no anterior a treinta días, que acredite que no están incursos en los impedimentos establecidos en el Artículo 241º, inciso 2 y 243º inciso 3, o si en el lugar no hubiere servicio médico oficial y gratuito, la declaración jurada de no tener tal impedimento.
+
+Acompañarán también en sus respectivos casos, la dispensa judicial de la impubertad, el instrumento en que conste el asentimiento de los padres o ascendientes o la licencia judicial supletoria, la dispensa del parentesco de consanguinidad colateral en tercer grado, copia certificada de la partida de defunción del cónyuge anterior o la sentencia de divorcio o de invalidación del matrimonio anterior, el certificado consular de soltería o viudez, y todos los demás documentos que fueren necesarios según las circunstancias.
 
 Cada pretendiente presentará, además, a dos testigos mayores de edad que lo conozcan por lo menos desde tres años antes, quienes depondrán, bajo juramento, acerca de si existe o no algún impedimento. Los mismos testigos pueden serlo de ambos pretendientes.
 
@@ -1562,7 +1730,9 @@ Publicación de matrimonio proyectado
 
 ###### Artículo 250º
 
-El alcalde anunciará el matrimonio proyectado, por medio de un aviso que se fijará en la oficina de la municipalidad durante ocho días y que se publicará una vez por periódico, donde lo hubiere. En la circunscripción que no exista periódico, el aviso se efectuará a través de la emisora radial de la respectiva localidad que elijan los contrayentes, o de la más cercana a su localidad; debiendo entregarse el texto publicado, con la firma y libreta electoral del responsable de la emisora radial, al jefe de los Registros Civiles. El aviso consignará el nombre, nacionalidad, edad, profesión, ocupación u oficio, domicilio de los contrayentes, el lugar donde será celebrado el matrimonio y la advertencia de que todo el que conozca la existencia de algún impedimento debe denunciarlo.[^83] Edicto domiciliar
+El alcalde anunciará el matrimonio proyectado, por medio de un aviso que se fijará en la oficina de la municipalidad durante ocho días y que se publicará una vez por periódico, donde lo hubiere.
+
+En la circunscripción que no exista periódico, el aviso se efectuará a través de la emisora radial de la respectiva localidad que elijan los contrayentes, o de la más cercana a su localidad; debiendo entregarse el texto publicado, con la firma y libreta electoral del responsable de la emisora radial, al jefe de los Registros Civiles. El aviso consignará el nombre, nacionalidad, edad, profesión, ocupación u oficio, domicilio de los contrayentes, el lugar donde será celebrado el matrimonio y la advertencia de que todo el que conozca la existencia de algún impedimento debe denunciarlo.[^83] Edicto domiciliar
 
 ###### Artículo 251º
 
@@ -1584,7 +1754,9 @@ Oposición de terceros a la celebración del matrimonio
 
 ###### Artículo 253º
 
-Todos los que tengan interés legítimo pueden oponerse a la celebración del matrimonio cuando exista algún impedimento. La oposición se formula por escrito ante cualquiera de los alcaldes que haya publicado los avisos. Si la oposición no se funda en causa legal, el alcalde la rechazará de plano, sin admitir recurso alguno. Si se funda en causa legal y los pretendientes niegan su existencia, el alcalde remitirá lo actuado al juez. Oposición del Ministerio Público
+Todos los que tengan interés legítimo pueden oponerse a la celebración del matrimonio cuando exista algún impedimento. La oposición se formula por escrito ante cualquiera de los alcaldes que haya publicado los avisos. Si la oposición no se funda en causa legal, el alcalde la rechazará de plano, sin admitir recurso alguno. Si se funda en causa legal y los pretendientes niegan su existencia, el alcalde remitirá lo actuado al juez.
+
+Oposición del Ministerio Público
 
 ###### Artículo 254º
 
@@ -1592,15 +1764,23 @@ El Ministerio Público debe oponerse de oficio al matrimonio cuando tenga notici
 
 ###### Artículo 255º
 
-Cualquier persona que conozca la existencia de un impedimento que constituya alguna causal de nulidad, puede denunciarlo. La denuncia puede hacerse oralmente o por escrito y se remitirá al Ministerio Público, el cual, si la encuentra fundada, formulará la oposición. Procedimiento de la Oposición
+Cualquier persona que conozca la existencia de un impedimento que constituya alguna causal de nulidad, puede denunciarlo.
+
+La denuncia puede hacerse oralmente o por escrito y se remitirá al Ministerio Público, el cual, si la encuentra fundada, formulará la oposición. Procedimiento de la Oposición
 
 ###### Artículo 256º. Es competente para conocer la oposición al matrimonio, el Juez de
 
-Paz Letrado del lugar donde éste habría de celebrarse. Remitido el expediente de oposición por el alcalde, el Juez requerirá al oponente para que interponga demanda dentro de quinto día. El Ministerio Público interpondrá su demanda dentro de diez días contados desde publicado el aviso previsto en el
+Paz Letrado del lugar donde éste habría de celebrarse.
+
+Remitido el expediente de oposición por el alcalde, el Juez requerirá al oponente para que interponga demanda dentro de quinto día. El Ministerio Público interpondrá su demanda dentro de diez días contados desde publicado el aviso previsto en el
 
 ###### Artículo 250º
 
-o de formulada la denuncia citada en el Artículo anterior. Vencidos los plazos citados en el párrafo anterior sin que se haya interpuesto demanda, se archivará definitivamente lo actuado. DERECHO DE FAMILIA La oposición se tramita como proceso sumarísimo.[^84] Indemnización por oposición infundada
+o de formulada la denuncia citada en el Artículo anterior.
+
+Vencidos los plazos citados en el párrafo anterior sin que se haya interpuesto demanda, se archivará definitivamente lo actuado.
+
+DERECHO DE FAMILIA La oposición se tramita como proceso sumarísimo.[^84] Indemnización por oposición infundada
 
 ###### Artículo 257º
 
@@ -1608,11 +1788,15 @@ Si se declara infundada la oposición, quien la formuló queda sujeto al pago de
 
 ###### Artículo 258º
 
-Transcurrido el plazo señalado para la publicación de los avisos sin que se haya producido oposición o desestimada ésta, y no teniendo el alcalde noticia de ningún impedimento, declarará la capacidad de los pretendientes y que pueden contraer matrimonio dentro de los cuatro meses siguientes. Si el alcalde tuviese noticia de algún impedimento o si de los documentos presentados y de la información producida no resulta acreditada la capacidad de los pretendientes, remitirá lo actuado al juez, quien, con citación del Ministerio Público, resolverá lo conveniente, en el plazo de tres días. Celebración del matrimonio
+Transcurrido el plazo señalado para la publicación de los avisos sin que se haya producido oposición o desestimada ésta, y no teniendo el alcalde noticia de ningún impedimento, declarará la capacidad de los pretendientes y que pueden contraer matrimonio dentro de los cuatro meses siguientes. Si el alcalde tuviese noticia de algún impedimento o si de los documentos presentados y de la información producida no resulta acreditada la capacidad de los pretendientes, remitirá lo actuado al juez, quien, con citación del Ministerio Público, resolverá lo conveniente, en el plazo de tres días.
+
+Celebración del matrimonio
 
 ###### Artículo 259º
 
-El matrimonio se celebra en la municipalidad, públicamente, ante el alcalde que ha recibido la declaración, compareciendo los contrayentes en presencia de dos testigos mayores de edad y vecinos del lugar. El alcalde, después de leer los Artículos 287º, 288º, 289º, 290º, 418º y 419º, preguntará a cada uno de los pretendientes si persisten en su voluntad de celebrar el matrimonio y respondiendo ambos afirmativamente, extenderá el acta de casamiento, la que será firmada por el alcalde, los contrayentes y los testigos. Persona facultada a celebrar matrimonio
+El matrimonio se celebra en la municipalidad, públicamente, ante el alcalde que ha recibido la declaración, compareciendo los contrayentes en presencia de dos testigos mayores de edad y vecinos del lugar. El alcalde, después de leer los Artículos 287º, 288º, 289º, 290º, 418º y 419º, preguntará a cada uno de los pretendientes si persisten en su voluntad de celebrar el matrimonio y respondiendo ambos afirmativamente, extenderá el acta de casamiento, la que será firmada por el alcalde, los contrayentes y los testigos.
+
+Persona facultada a celebrar matrimonio
 
 ###### Artículo 260º
 
@@ -1626,7 +1810,9 @@ Celebración del matrimonio en distinta jurisdicción
 
 ###### Artículo 261º
 
-El matrimonio puede celebrarse ante el alcalde de otro concejo municipal, mediante autorización escrita del alcalde competente. Celebración del matrimonio en comunidades campesinas y nativas
+El matrimonio puede celebrarse ante el alcalde de otro concejo municipal, mediante autorización escrita del alcalde competente.
+
+Celebración del matrimonio en comunidades campesinas y nativas
 
 ###### Artículo 262º
 
@@ -1644,7 +1830,9 @@ Matrimonio por apoderado
 
 El matrimonio puede contraerse por apoderado especialmente autorizado por escritura pública, con identificación de la persona con quien ha de celebrarse, bajo sanción de nulidad. Es indispensable la presencia de esta última en el acto de celebración.
 
-El matrimonio es nulo si el poderdante revoca el poder o deviene incapaz antes de la celebración, aun cuando el apoderado ignore tales hechos. Para que surta efecto la revocatoria debe notificarse al apoderado y al otro contrayente. El poder caduca a los seis meses de otorgado. Matrimonio fuera del local municipal
+El matrimonio es nulo si el poderdante revoca el poder o deviene incapaz antes de la celebración, aun cuando el apoderado ignore tales hechos. Para que surta efecto la revocatoria debe notificarse al apoderado y al otro contrayente. El poder caduca a los seis meses de otorgado.
+
+Matrimonio fuera del local municipal
 
 ###### Artículo 265º
 
@@ -1674,13 +1862,17 @@ Prueba del matrimonio
 
 ###### Artículo 269º
 
-Para reclamar los efectos civiles del matrimonio debe presentarse copia certificada de la partida del registro del estado civil. La posesión constante del estado de matrimonio, conforme a la partida, subsana cualquier defecto puramente formal de ésta.
+Para reclamar los efectos civiles del matrimonio debe presentarse copia certificada de la partida del registro del estado civil.
+
+La posesión constante del estado de matrimonio, conforme a la partida, subsana cualquier defecto puramente formal de ésta.
 
 Prueba supletoria del matrimonio
 
 ###### Artículo 270º
 
-Comprobada la falta o pérdida del registro o del acta correspondiente, es admisible cualquier otro medio de prueba. Sentencia penal como prueba del matrimonio
+Comprobada la falta o pérdida del registro o del acta correspondiente, es admisible cualquier otro medio de prueba.
+
+Sentencia penal como prueba del matrimonio
 
 ###### Artículo 271º
 
@@ -1710,7 +1902,9 @@ Tratándose del nuevo matrimonio contraído por el cónyuge de un desaparecido s
 
 En el caso del matrimonio contraído por el cónyuge de quien fue declarado presuntamente muerto, es de aplicación el Artículo 68º. 4.- De los consanguíneos o afines en línea recta. 5.- De los consanguíneos en segundo y tercer grado de la línea colateral.
 
-Sin embargo, tratándose del tercer grado, el matrimonio se convalida si se obtiene dispensa judicial del parentesco. 6.- De los afines en segundo grado de la línea colateral cuando el matrimonio anterior se disolvió por divorcio y el ex-cónyuge vive. DERECHO DE FAMILIA 7.- Del condenado por homicidio doloso de uno de los cónyuges con el sobreviviente a que se refiere el Artículo 242º, inciso 6. 8.- De quienes lo celebren con prescindencia de los trámites establecidos en los Artículos 248º a 268º. No obstante, queda convalidado si los contrayentes han actuado de buena fe y se subsana la omisión. 9.- De los contrayentes que, actuando ambos de mala fe, lo celebren ante funcionario incompetente, sin perjuicio de la responsabilidad administrativa, civil o penal de éste. La acción no puede ser planteada por los cónyuges.[^85] Acción de nulidad
+Sin embargo, tratándose del tercer grado, el matrimonio se convalida si se obtiene dispensa judicial del parentesco. 6.- De los afines en segundo grado de la línea colateral cuando el matrimonio anterior se disolvió por divorcio y el ex-cónyuge vive.
+
+DERECHO DE FAMILIA 7.- Del condenado por homicidio doloso de uno de los cónyuges con el sobreviviente a que se refiere el Artículo 242º, inciso 6. 8.- De quienes lo celebren con prescindencia de los trámites establecidos en los Artículos 248º a 268º. No obstante, queda convalidado si los contrayentes han actuado de buena fe y se subsana la omisión. 9.- De los contrayentes que, actuando ambos de mala fe, lo celebren ante funcionario incompetente, sin perjuicio de la responsabilidad administrativa, civil o penal de éste. La acción no puede ser planteada por los cónyuges.[^85] Acción de nulidad
 
 ###### Artículo 275º
 
@@ -1762,7 +1956,11 @@ Efectos del matrimonio invalidado
 
 El matrimonio invalidado produce efectos civiles respecto de los cónyuges e hijos si se contrajo de buena fe, como si fuese un matrimonio válido disuelto por divorcio.
 
-Si hubo mala fe en uno de los cónyuges, el matrimonio no produce efectos en su favor, pero sí respecto del otro y de los hijos. El error de derecho no perjudica la buena fe. Efectos de la invalidez matrimonial frente a terceros
+Si hubo mala fe en uno de los cónyuges, el matrimonio no produce efectos en su favor, pero sí respecto del otro y de los hijos.
+
+El error de derecho no perjudica la buena fe.
+
+Efectos de la invalidez matrimonial frente a terceros
 
 ###### Artículo 285º
 
@@ -1786,7 +1984,9 @@ CONCORDANCIAS: Ley Nº 28970 R.A. Nº 136-2007-CE-PJ deber de fidelidad y asiste
 
 ###### Artículo 288º
 
-Los cónyuges se deben recíprocamente fidelidad y asistencia. Deber de cohabitación
+Los cónyuges se deben recíprocamente fidelidad y asistencia.
+
+Deber de cohabitación
 
 ###### Artículo 289º
 
@@ -1794,17 +1994,23 @@ Es deber de ambos cónyuges hacer vida común en el domicilio conyugal. El juez 
 
 ###### Artículo 290º
 
-Ambos cónyuges tienen el deber y el derecho de participar en el gobierno del hogar y de cooperar al mejor desenvolvimiento del mismo. A ambos compete, igualmente, fijar y mudar el domicilio conyugal y decidir las cuestiones referentes a la economía del hogar. Obligación unilateral de sostener la familia
+Ambos cónyuges tienen el deber y el derecho de participar en el gobierno del hogar y de cooperar al mejor desenvolvimiento del mismo. A ambos compete, igualmente, fijar y mudar el domicilio conyugal y decidir las cuestiones referentes a la economía del hogar.
+
+Obligación unilateral de sostener la familia
 
 ###### Artículo 291º
 
 Si uno de los cónyuges se dedica exclusivamente al trabajo del hogar y al cuidado de los hijos, la obligación de sostener a la familia recae sobre el otro, sin perjuicio de la ayuda y colaboración que ambos cónyuges se deben en uno y otro campo.
 
-Cesa la obligación de uno de los cónyuges de alimentar al otro cuando éste abandona la casa conyugal sin justa causa y rehúsa volver a ella. En este caso el DERECHO DE FAMILIA juez puede, según las circunstancias, ordenar el embargo parcial de las rentas del abandonante en beneficio del cónyuge inocente y de los hijos. El mandamiento de embargo queda sin efecto cuando lo soliciten ambos cónyuges. Representación de la sociedad conyugal
+Cesa la obligación de uno de los cónyuges de alimentar al otro cuando éste abandona la casa conyugal sin justa causa y rehúsa volver a ella. En este caso el DERECHO DE FAMILIA juez puede, según las circunstancias, ordenar el embargo parcial de las rentas del abandonante en beneficio del cónyuge inocente y de los hijos. El mandamiento de embargo queda sin efecto cuando lo soliciten ambos cónyuges.
+
+Representación de la sociedad conyugal
 
 ###### Artículo 292º
 
-La representación de la sociedad conyugal es ejercida conjuntamente por los cónyuges, sin perjuicio de lo dispuesto por el Código Procesal Civil. Cualquiera de ellos, sin embargo, puede otorgar poder al otro para que ejerza dicha representación de manera total o parcial. Para las necesidades ordinarias del hogar y actos de administración y conservación, la sociedad es representada indistintamente por cualquiera de los cónyuges.
+La representación de la sociedad conyugal es ejercida conjuntamente por los cónyuges, sin perjuicio de lo dispuesto por el Código Procesal Civil. Cualquiera de ellos, sin embargo, puede otorgar poder al otro para que ejerza dicha representación de manera total o parcial.
+
+Para las necesidades ordinarias del hogar y actos de administración y conservación, la sociedad es representada indistintamente por cualquiera de los cónyuges.
 
 Si cualquiera de los cónyuges abusa de los derechos a que se refiere este Artículo, el Juez de Paz Letrado puede limitárselos en todo o parte. La pretensión se tramita como proceso abreviado.[^88] Libertad de trabajo de los cónyuges
 
@@ -1826,7 +2032,11 @@ Elección del régimen patrimonial
 
 ###### Artículo 295º
 
-Antes de la celebración del matrimonio, los futuros cónyuges pueden optar libremente por el régimen de sociedad de gananciales o por el de separación de patrimonios, el cual comenzará a regir al celebrarse el casamiento. Si los futuros cónyuges optan por el régimen de separación de patrimonios, deben otorgar escritura pública, bajo sanción de nulidad. Para que surta efecto debe inscribirse en el registro personal. A falta de escritura pública se presume que los interesados han optado por el régimen de sociedad de gananciales.
+Antes de la celebración del matrimonio, los futuros cónyuges pueden optar libremente por el régimen de sociedad de gananciales o por el de separación de patrimonios, el cual comenzará a regir al celebrarse el casamiento. Si los futuros cónyuges optan por el régimen de separación de patrimonios, deben otorgar escritura pública, bajo sanción de nulidad.
+
+Para que surta efecto debe inscribirse en el registro personal.
+
+A falta de escritura pública se presume que los interesados han optado por el régimen de sociedad de gananciales.
 
 Sustitución del Régimen Patrimonial
 
@@ -1856,7 +2066,9 @@ Obligación mutua de sostener el hogar
 
 Cualquiera que sea el régimen en vigor, ambos cónyuges están obligados a contribuir al sostenimiento del hogar según sus respectivas posibilidades y rentas.
 
-En caso necesario, el juez reglará la contribución de cada uno. DERECHO DE FAMILIA
+En caso necesario, el juez reglará la contribución de cada uno.
+
+DERECHO DE FAMILIA
 
 ##### CAPÍTULO SEGUNDO — Sociedad de Gananciales
 
@@ -1864,7 +2076,9 @@ Bienes de la sociedad de gananciales
 
 ###### Artículo 301º
 
-En el régimen de sociedad de gananciales puede haber bienes propios de cada cónyuge y bienes de la sociedad. Bienes de la sociedad de gananciales
+En el régimen de sociedad de gananciales puede haber bienes propios de cada cónyuge y bienes de la sociedad.
+
+Bienes de la sociedad de gananciales
 
 ###### Artículo 302º
 
@@ -1874,15 +2088,21 @@ Administración de bienes propios
 
 ###### Artículo 303º
 
-Cada cónyuge conserva la libre administración de sus bienes propios y puede disponer de ellos o gravarlos. Irrenunciabilidad de actos de liberalidad
+Cada cónyuge conserva la libre administración de sus bienes propios y puede disponer de ellos o gravarlos.
+
+Irrenunciabilidad de actos de liberalidad
 
 ###### Artículo 304º
 
-Ninguno de los cónyuges puede renunciar a una herencia o legado o dejar de aceptar una donación sin el consentimiento del otro. Administración de bienes propios del otro cónyuge
+Ninguno de los cónyuges puede renunciar a una herencia o legado o dejar de aceptar una donación sin el consentimiento del otro.
+
+Administración de bienes propios del otro cónyuge
 
 ###### Artículo 305º
 
-Si uno de los cónyuges no contribuye con los frutos o productos de sus bienes propios al sostenimiento del hogar, el otro puede pedir que pasen a su administración, en todo o en parte. En este caso, está obligado a constituir hipoteca y, si carece de bienes propios, otra garantía, si es posible, según el prudente arbitrio del juez, por el valor de los bienes que reciba. Atribución del cónyuge administrador
+Si uno de los cónyuges no contribuye con los frutos o productos de sus bienes propios al sostenimiento del hogar, el otro puede pedir que pasen a su administración, en todo o en parte. En este caso, está obligado a constituir hipoteca y, si carece de bienes propios, otra garantía, si es posible, según el prudente arbitrio del juez, por el valor de los bienes que reciba.
+
+Atribución del cónyuge administrador
 
 ###### Artículo 306º
 
@@ -1908,7 +2128,9 @@ La responsabilidad extracontractual de un cónyuge no perjudica al otro en sus b
 
 ###### Artículo 310º
 
-Son bienes sociales todos los no comprendidos en el Artículo 302º, incluso los que cualquiera de los cónyuges adquiera por su trabajo, industria o profesión, así como los frutos y productos de todos los bienes propios y de la sociedad y las rentas de los derechos de autor e inventor. También tienen la calidad de bienes sociales los edificios construidos a costa del caudal social en suelo propio de uno de los cónyuges, abonándose a éste el valor del suelo al momento del reembolso.
+Son bienes sociales todos los no comprendidos en el Artículo 302º, incluso los que cualquiera de los cónyuges adquiera por su trabajo, industria o profesión, así como los frutos y productos de todos los bienes propios y de la sociedad y las rentas de los derechos de autor e inventor.
+
+También tienen la calidad de bienes sociales los edificios construidos a costa del caudal social en suelo propio de uno de los cónyuges, abonándose a éste el valor del suelo al momento del reembolso.
 
 DERECHO DE FAMILIA Reglas para calificación de los bienes
 
@@ -1926,7 +2148,9 @@ Administración común del patrimonio social
 
 ###### Artículo 313º
 
-Corresponde a ambos cónyuges la administración del patrimonio social. Sin embargo, cualquiera de ellos puede facultar al otro para que asuma exclusivamente dicha administración respecto de todos o de algunos de los bienes. En este caso, el cónyuge administrador indemnizará al otro por los daños y perjuicios que sufra a consecuencia de actos dolosos o culposos. Administración de bienes sociales y propios por el otro cónyuge
+Corresponde a ambos cónyuges la administración del patrimonio social. Sin embargo, cualquiera de ellos puede facultar al otro para que asuma exclusivamente dicha administración respecto de todos o de algunos de los bienes. En este caso, el cónyuge administrador indemnizará al otro por los daños y perjuicios que sufra a consecuencia de actos dolosos o culposos.
+
+Administración de bienes sociales y propios por el otro cónyuge
 
 ###### Artículo 314º
 
@@ -1940,11 +2164,15 @@ Disposición de los bienes sociales
 
 Para disponer de los bienes sociales o gravarlos, se requiere la intervención del marido y la mujer. Empero, cualquiera de ellos puede ejercitar tal facultad, si tiene poder especial del otro.
 
-Lo dispuesto en el párrafo anterior no rige para los actos de adquisición de bienes muebles, los cuales pueden ser efectuados por cualquiera de los cónyuges. Tampoco rige en los casos considerados en las leyes especiales. Cargas de la sociedad
+Lo dispuesto en el párrafo anterior no rige para los actos de adquisición de bienes muebles, los cuales pueden ser efectuados por cualquiera de los cónyuges. Tampoco rige en los casos considerados en las leyes especiales.
+
+Cargas de la sociedad
 
 ###### Artículo 316º
 
-Son de cargo de la sociedad: 1.- El sostenimiento de la familia y la educación de los hijos comunes. 2.- Los alimentos que uno de los cónyuges esté obligado por ley a dar a otras personas. 3.- El importe de lo donado o prometido a los hijos comunes por ambos cónyuges. 4.- Las mejoras necesarias y las reparaciones de mera conservación o mantenimiento hechas en los predios propios, así como las retribuciones y tributos que los afecten. 5.- Las mejoras útiles y de recreo que la sociedad decida introducir en bienes propios de uno de los cónyuges con consentimiento de éste. 6.- Las mejoras y reparaciones realizadas en los bienes sociales, así como los tributos y retribuciones que los afecten. 7.- Los atrasos o réditos devengados de las obligaciones a que estuviesen afectos tanto los bienes propios como los sociales, cualquiera que sea la época a que correspondan.[^90] 8.- Las cargas que pesan sobre los usufructuarios respecto de los bienes propios de cada cónyuge. 9.- Los gastos que cause la administración de la sociedad. Responsabilidad por deudas de la sociedad
+Son de cargo de la sociedad: 1.- El sostenimiento de la familia y la educación de los hijos comunes. 2.- Los alimentos que uno de los cónyuges esté obligado por ley a dar a otras personas. 3.- El importe de lo donado o prometido a los hijos comunes por ambos cónyuges. 4.- Las mejoras necesarias y las reparaciones de mera conservación o mantenimiento hechas en los predios propios, así como las retribuciones y tributos que los afecten. 5.- Las mejoras útiles y de recreo que la sociedad decida introducir en bienes propios de uno de los cónyuges con consentimiento de éste. 6.- Las mejoras y reparaciones realizadas en los bienes sociales, así como los tributos y retribuciones que los afecten. 7.- Los atrasos o réditos devengados de las obligaciones a que estuviesen afectos tanto los bienes propios como los sociales, cualquiera que sea la época a que correspondan.[^90] 8.- Las cargas que pesan sobre los usufructuarios respecto de los bienes propios de cada cónyuge. 9.- Los gastos que cause la administración de la sociedad.
+
+Responsabilidad por deudas de la sociedad
 
 ###### Artículo 317º
 
@@ -1974,7 +2202,9 @@ Fenecida la sociedad de gananciales, se procede de inmediato a la formación del
 
 ###### Artículo 321º
 
-El menaje ordinario del hogar no comprende: 1.- Los vestidos y objetos de uso personal. 2.- El dinero. 3.- Los títulos valores y otros documentos de carácter patrimonial. 4.- Las joyas. 5.- Las medallas, condecoraciones, diplomas y otras distinciones. 6.- Las armas. 7.- Los instrumentos de uso profesional u ocupacional. 8.- Las colecciones científicas o artísticas. 9.- Los bienes culturales-históricos. 10.- Los libros, archivos y sus contenedores. 11.- Los vehículos motorizados. 12.- En general, los objetos que no son de uso doméstico. Liquidación de la sociedad de gananciales
+El menaje ordinario del hogar no comprende: 1.- Los vestidos y objetos de uso personal. 2.- El dinero. 3.- Los títulos valores y otros documentos de carácter patrimonial. 4.- Las joyas. 5.- Las medallas, condecoraciones, diplomas y otras distinciones. 6.- Las armas. 7.- Los instrumentos de uso profesional u ocupacional. 8.- Las colecciones científicas o artísticas. 9.- Los bienes culturales-históricos. 10.- Los libros, archivos y sus contenedores. 11.- Los vehículos motorizados. 12.- En general, los objetos que no son de uso doméstico.
+
+Liquidación de la sociedad de gananciales
 
 ###### Artículo 322º
 
@@ -2020,7 +2250,9 @@ En el régimen de separación de patrimonios, cada cónyuge conserva a plenitud 
 
 ###### Artículo 328º
 
-Cada cónyuge responde de sus deudas con sus propios bienes. Separación de patrimonio por declaración de insolvencia
+Cada cónyuge responde de sus deudas con sus propios bienes.
+
+Separación de patrimonio por declaración de insolvencia
 
 ###### Artículo 329º
 
@@ -2066,17 +2298,23 @@ Son causas de separación de cuerpos: 1.- El adulterio. 2.- La violencia física
 
 ###### Artículo 334º
 
-La acción de separación corresponde a los cónyuges. Si alguno es incapaz, por enfermedad mental o ausencia, la acción la puede ejercer cualquiera de sus ascendientes si se funda en causal específica. A falta de ellos el curador especial representa al incapaz.
+La acción de separación corresponde a los cónyuges.
+
+Si alguno es incapaz, por enfermedad mental o ausencia, la acción la puede ejercer cualquiera de sus ascendientes si se funda en causal específica. A falta de ellos el curador especial representa al incapaz.
 
 Prohibición de alegar hecho propio
 
 ###### Artículo 335º
 
-Ninguno de los cónyuges puede fundar la demanda en hecho propio. Improcedencia de separación de cuerpos por adulterio
+Ninguno de los cónyuges puede fundar la demanda en hecho propio.
+
+Improcedencia de separación de cuerpos por adulterio
 
 ###### Artículo 336º
 
-No puede intentarse la separación de cuerpos por adulterio si el ofendido lo provocó, consintió o perdonó. La cohabitación posterior al conocimiento del adulterio impide iniciar o proseguir la acción. Apreciación judicial de sevicia, injuria y conducta deshonrosa
+No puede intentarse la separación de cuerpos por adulterio si el ofendido lo provocó, consintió o perdonó. La cohabitación posterior al conocimiento del adulterio impide iniciar o proseguir la acción.
+
+Apreciación judicial de sevicia, injuria y conducta deshonrosa
 
 ###### Artículo 337º
 
@@ -2084,7 +2322,9 @@ La sevicia, la injuria grave y la conducta deshonrosa son apreciadas por el Juez
 
 ###### Artículo 338º
 
-No puede invocar la causal a que se refiere el inciso 10 del Artículo 333º, quien conoció el delito antes de casarse. Caducidad de la acción
+No puede invocar la causal a que se refiere el inciso 10 del Artículo 333º, quien conoció el delito antes de casarse.
+
+Caducidad de la acción
 
 ###### Artículo 339º
 
@@ -2098,7 +2338,9 @@ Efectos de la separación convencional respecto de los hijos
 
 Los hijos se confían al cónyuge que obtuvo la separación por causa específica, a no ser que el juez determine, por el bienestar de ellos, que se encargue de todos o de alguno el otro cónyuge o, si hay motivo grave, una tercera persona. Esta designación debe recaer por su orden, y siendo posible y conveniente, en alguno de los abuelos, hermanos o tíos.
 
-Si ambos cónyuges son culpables, los hijos varones mayores de siete años quedan a cargo del padre y las hijas menores de edad así como los hijos menores de siete años al cuidado de la madre, a no ser que el juez determine otra cosa. El padre o madre a quien se haya confiado los hijos ejerce la patria potestad respecto de ellos. El otro queda suspendido en el ejercicio, pero lo reasume de pleno derecho si el primero muere o resulta legalmente impedido. Providencia judiciales en beneficio de los hijos
+Si ambos cónyuges son culpables, los hijos varones mayores de siete años quedan a cargo del padre y las hijas menores de edad así como los hijos menores de siete años al cuidado de la madre, a no ser que el juez determine otra cosa. El padre o madre a quien se haya confiado los hijos ejerce la patria potestad respecto de ellos. El otro queda suspendido en el ejercicio, pero lo reasume de pleno derecho si el primero muere o resulta legalmente impedido.
+
+Providencia judiciales en beneficio de los hijos
 
 ###### Artículo 341º
 
@@ -2126,7 +2368,9 @@ En caso de separación convencional o de separación de hecho, el juez fija el r
 
 ###### Artículo 345º-A. Indemnización en caso de perjuicio[^101]
 
-Para invocar el supuesto del inciso 12 del Artículo 333º el demandante deberá acreditar que se encuentra al día en el pago de sus obligaciones alimentarias u otras que hayan sido pactadas por los cónyuges de mutuo acuerdo. El juez velará por la estabilidad económica del cónyuge que resulte perjudicado por la separación de hecho, así como la de sus hijos. Deberá señalar una indemnización DERECHO DE FAMILIA por daños, incluyendo el daño personal u ordenar la adjudicación preferente de bienes de la sociedad conyugal, independientemente de la pensión de alimentos que le pudiera corresponder.
+Para invocar el supuesto del inciso 12 del Artículo 333º el demandante deberá acreditar que se encuentra al día en el pago de sus obligaciones alimentarias u otras que hayan sido pactadas por los cónyuges de mutuo acuerdo.
+
+El juez velará por la estabilidad económica del cónyuge que resulte perjudicado por la separación de hecho, así como la de sus hijos. Deberá señalar una indemnización DERECHO DE FAMILIA por daños, incluyendo el daño personal u ordenar la adjudicación preferente de bienes de la sociedad conyugal, independientemente de la pensión de alimentos que le pudiera corresponder.
 
 Son aplicables a favor del cónyuge que resulte más perjudicado por la separación de hecho, las disposiciones contenidas en los Artículos 323º, 324º, 342º, 343º, 351º y 352º, en cuanto sean pertinentes.[^102] Efectos de la reconciliación de los cónyuges
 
@@ -2156,7 +2400,11 @@ Puede demandarse el divorcio por las causales señaladas en el Artículo 333º, 
 
 ###### Artículo 350º
 
-Por el divorcio cesa la obligación alimenticia entre marido y mujer. Si se declara el divorcio por culpa de uno de los cónyuges y el otro careciere de bienes propios o de gananciales suficientes o estuviere imposibilitado de trabajar o de subvenir a sus necesidades por otro medio, el juez le asignará una pensión alimenticia no mayor de la tercera parte de la renta de aquél. El ex-cónyuge puede, por causas graves, pedir la capitalización de la pensión alimenticia y la entrega del capital correspondiente. El indigente debe ser socorrido por su ex-cónyuge aunque hubiese dado motivos para el divorcio.
+Por el divorcio cesa la obligación alimenticia entre marido y mujer. Si se declara el divorcio por culpa de uno de los cónyuges y el otro careciere de bienes propios o de gananciales suficientes o estuviere imposibilitado de trabajar o de subvenir a sus necesidades por otro medio, el juez le asignará una pensión alimenticia no mayor de la tercera parte de la renta de aquél.
+
+El ex-cónyuge puede, por causas graves, pedir la capitalización de la pensión alimenticia y la entrega del capital correspondiente.
+
+El indigente debe ser socorrido por su ex-cónyuge aunque hubiese dado motivos para el divorcio.
 
 Las obligaciones a que se refiere este Artículo cesan automáticamente si el alimentista contrae nuevas nupcias. Cuando desaparece el estado de necesidad, el obligado puede demandar la exoneración y, en su caso, el reembolso.
 
@@ -2178,7 +2426,9 @@ Los cónyuges divorciados no tienen derecho a heredar entre sí.
 
 ###### Artículo 354º. Plazo de conversión[^105]
 
-Transcurridos dos meses desde notificada la sentencia, la resolución de alcaldía o el acta notarial de separación convencional, o la sentencia de separación de cuerpos por separación de hecho, cualquiera de los cónyuges, basándose en ellas, podrá pedir, según corresponda, al juez, al alcalde o al notario que conoció el proceso, que se declare disuelto el vínculo del matrimonio. DERECHO DE FAMILIA Igual derecho podrá ejercer el cónyuge inocente de la separación por causal específica.[^106] Reglas aplicadas al divorcio
+Transcurridos dos meses desde notificada la sentencia, la resolución de alcaldía o el acta notarial de separación convencional, o la sentencia de separación de cuerpos por separación de hecho, cualquiera de los cónyuges, basándose en ellas, podrá pedir, según corresponda, al juez, al alcalde o al notario que conoció el proceso, que se declare disuelto el vínculo del matrimonio.
+
+DERECHO DE FAMILIA Igual derecho podrá ejercer el cónyuge inocente de la separación por causal específica.[^106] Reglas aplicadas al divorcio
 
 ###### Artículo 355º
 
@@ -2194,7 +2444,9 @@ Variación de la demanda de divorcio
 
 ###### Artículo 357º
 
-El demandante puede, en cualquier estado de la causa, variar su demanda de divorcio convirtiéndola en una de separación. Facultad del juez de variar el petitorio
+El demandante puede, en cualquier estado de la causa, variar su demanda de divorcio convirtiéndola en una de separación.
+
+Facultad del juez de variar el petitorio
 
 ###### Artículo 358º
 
@@ -2218,7 +2470,9 @@ Presunción de paternidad
 
 ###### Artículo 361º
 
-El hijo nacido durante el matrimonio o dentro de los trescientos días siguientes a su disolución tiene por padre al marido. Presunción de hijo matrimonial
+El hijo nacido durante el matrimonio o dentro de los trescientos días siguientes a su disolución tiene por padre al marido.
+
+Presunción de hijo matrimonial
 
 ###### Artículo 362º
 
@@ -2238,7 +2492,9 @@ La acción contestatoria debe ser interpuesta por el marido dentro del plazo de 
 
 ###### Artículo 365º
 
-No se puede contestar la paternidad del hijo por nacer. Improcedencia de la acción contestatoria
+No se puede contestar la paternidad del hijo por nacer.
+
+Improcedencia de la acción contestatoria
 
 ###### Artículo 366º
 
@@ -2308,7 +2564,9 @@ Noción de la adopción
 
 ###### Artículo 377º
 
-Por la adopción el adoptado adquiere la calidad de hijo del adoptante y deja de pertenecer a su familia consanguínea. Requisitos de la adopción
+Por la adopción el adoptado adquiere la calidad de hijo del adoptante y deja de pertenecer a su familia consanguínea.
+
+Requisitos de la adopción
 
 ###### Artículo 378º
 
@@ -2316,7 +2574,9 @@ Para la adopción se requiere: 1.- Que el adoptante goce de solvencia moral. 2.-
 
 ###### Artículo 379º. Trámite de adopción[^113]
 
-La adopción se tramita con arreglo a lo dispuesto en el Código Procesal Civil, el Código de los Niños y Adolescentes, la Ley Nº 26981, Ley de Procedimiento Administrativo de Adopción de Menores de Edad Declarados Judicialmente en Abandono o la Ley Nº 26662, Ley de Competencia Notarial, según corresponda. Terminado el procedimiento, el juez, el funcionario competente de la Oficina de Adopciones o el Notario, que tramitó la adopción, oficiará al Registro del Estado Civil donde se inscribió el nacimiento, para que se extienda nueva partida en sustitución de la original, en cuyo margen se anotará la adopción. En la nueva partida de nacimiento se consignará como declarantes a los padres adoptantes, quienes firmarán la partida. Queda prohibida toda mención respecto de la adopción, bajo responsabilidad del registrador. DERECHO DE FAMILIA La partida original conserva vigencia sólo para el efecto de los impedimentos matrimoniales.[^114] Irrevocabilidad de la adopción
+La adopción se tramita con arreglo a lo dispuesto en el Código Procesal Civil, el Código de los Niños y Adolescentes, la Ley Nº 26981, Ley de Procedimiento Administrativo de Adopción de Menores de Edad Declarados Judicialmente en Abandono o la Ley Nº 26662, Ley de Competencia Notarial, según corresponda. Terminado el procedimiento, el juez, el funcionario competente de la Oficina de Adopciones o el Notario, que tramitó la adopción, oficiará al Registro del Estado Civil donde se inscribió el nacimiento, para que se extienda nueva partida en sustitución de la original, en cuyo margen se anotará la adopción. En la nueva partida de nacimiento se consignará como declarantes a los padres adoptantes, quienes firmarán la partida. Queda prohibida toda mención respecto de la adopción, bajo responsabilidad del registrador.
+
+DERECHO DE FAMILIA La partida original conserva vigencia sólo para el efecto de los impedimentos matrimoniales.[^114] Irrevocabilidad de la adopción
 
 ###### Artículo 380º
 
@@ -2326,7 +2586,9 @@ La adopción como acto puro
 
 ###### Artículo 381º
 
-La adopción no puede hacerse bajo modalidad alguna. Prohibición de pluralidad de adoptantes
+La adopción no puede hacerse bajo modalidad alguna.
+
+Prohibición de pluralidad de adoptantes
 
 ###### Artículo 382º
 
@@ -2360,7 +2622,9 @@ Son hijos extramatrimoniales los concebidos y nacidos fuera del matrimonio.
 
 ###### Artículo 387º. Medios probatorios en filiación extramatrimonial[^115]
 
-El reconocimiento y la sentencia declaratoria de la paternidad o la maternidad son los únicos medios de prueba de la filiación extramatrimonial. Dicho reconocimiento o sentencia declaratoria de la paternidad o maternidad obliga a asentar una nueva partida o acta de nacimiento, de conformidad con el procedimiento de expedición de estas.[^116] Reconocimiento del hijo extramatrimonial
+El reconocimiento y la sentencia declaratoria de la paternidad o la maternidad son los únicos medios de prueba de la filiación extramatrimonial.
+
+Dicho reconocimiento o sentencia declaratoria de la paternidad o maternidad obliga a asentar una nueva partida o acta de nacimiento, de conformidad con el procedimiento de expedición de estas.[^116] Reconocimiento del hijo extramatrimonial
 
 ###### Artículo 388º
 
@@ -2380,7 +2644,9 @@ DERECHO DE FAMILIA Reconocimiento en el registro de nacimiento
 
 ###### Artículo 391º
 
-El reconocimiento en el registro puede hacerse en el momento de inscribir el nacimiento o en declaración posterior mediante acta firmada por quien lo practica y autorizada por el funcionario correspondiente. Reconocimiento por uno de los progenitores
+El reconocimiento en el registro puede hacerse en el momento de inscribir el nacimiento o en declaración posterior mediante acta firmada por quien lo practica y autorizada por el funcionario correspondiente.
+
+Reconocimiento por uno de los progenitores
 
 ###### Artículo 392º. DEROGADO.[^118]
 
@@ -2392,19 +2658,27 @@ Toda persona que no se halle comprendida en las incapacidades señaladas en el A
 
 ###### Artículo 394º
 
-Puede reconocerse al hijo que ha muerto dejando descendientes. Irrevocabilidad del reconocimiento
+Puede reconocerse al hijo que ha muerto dejando descendientes.
+
+Irrevocabilidad del reconocimiento
 
 ###### Artículo 395º
 
-El reconocimiento no admite modalidad y es irrevocable. Reconocimiento de hijo extramatrimonial de mujer casada
+El reconocimiento no admite modalidad y es irrevocable.
+
+Reconocimiento de hijo extramatrimonial de mujer casada
 
 ###### Artículo 396º
 
-El hijo de mujer casada no puede ser reconocido sino después de que el marido lo hubiese negado y obtenido sentencia favorable. Asentimiento para que el hijo extramatrimonial viva en el hogar conyugal
+El hijo de mujer casada no puede ser reconocido sino después de que el marido lo hubiese negado y obtenido sentencia favorable.
+
+Asentimiento para que el hijo extramatrimonial viva en el hogar conyugal
 
 ###### Artículo 397º
 
-El hijo extramatrimonial reconocido por uno de los cónyuges no puede vivir en la casa conyugal sin el asentimiento del otro. Efectos del reconocimiento del hijo mayor de edad
+El hijo extramatrimonial reconocido por uno de los cónyuges no puede vivir en la casa conyugal sin el asentimiento del otro.
+
+Efectos del reconocimiento del hijo mayor de edad
 
 ###### Artículo 398º
 
@@ -2420,7 +2694,9 @@ Plazo para negar el reconocimiento
 
 ###### Artículo 400º
 
-El plazo para negar el reconocimiento es de noventa días, a partir de aquel en que se tuvo conocimiento del acto. Negación del reconocimiento al cesar la incapacidad
+El plazo para negar el reconocimiento es de noventa días, a partir de aquel en que se tuvo conocimiento del acto.
+
+Negación del reconocimiento al cesar la incapacidad
 
 ###### Artículo 401º
 
@@ -2434,7 +2710,9 @@ Procedencia de la declaración judicial de paternidad extramatrimonial
 
 [^120].- La paternidad extramatrimonial puede ser judicialmente declarada: 1.- Cuando exista escrito indubitado del padre que la admita. 2.- Cuando el hijo se halle, o se hubiese hallado hasta un año antes de la demanda, en la posesión constante del estado de hijo extramatrimonial, comprobado por actos directos del padre o de su familia. 3.- Cuando el presunto padre hubiera vivido en concubinato con la madre en la época de la concepción. Para este efecto se considera que hay concubinato cuando un varón y una mujer, sin estar casados entre sí, hacen vida de tales. 4.- En los casos de violación, rapto o retención violenta de la mujer, cuando la época del delito coincida con la de la concepción. 5.- En caso de seducción cumplida con promesa de matrimonio en época contemporánea con la concepción, siempre que la promesa conste de manera indubitable. 6.- Cuando se acredite el vínculo parental entre el presunto padre y el hijo a través de la prueba del ADN u otras pruebas genéticas o científicas con igual o mayor grado de certeza.
 
-DERECHO DE FAMILIA Lo dispuesto en el presente inciso no es aplicable respecto del hijo de la mujer casada cuyo marido no hubiese negado la paternidad. El juez desestimará las presunciones de los incisos precedentes cuando se hubiera realizado una prueba genética u otra de validez científica con igual o mayor grado de certeza.[^121] Improcedencia de la acción
+DERECHO DE FAMILIA Lo dispuesto en el presente inciso no es aplicable respecto del hijo de la mujer casada cuyo marido no hubiese negado la paternidad.
+
+El juez desestimará las presunciones de los incisos precedentes cuando se hubiera realizado una prueba genética u otra de validez científica con igual o mayor grado de certeza.[^121] Improcedencia de la acción
 
 ###### Artículo 403º. DEROGADO[^122]
 
@@ -2448,7 +2726,9 @@ Inicio de la acción antes del nacimiento
 
 ###### Artículo 405º
 
-La acción puede ejercitarse antes del nacimiento del hijo. Demandados en la declaración judicial de paternidad
+La acción puede ejercitarse antes del nacimiento del hijo.
+
+Demandados en la declaración judicial de paternidad
 
 ###### Artículo 406º
 
@@ -2490,7 +2770,11 @@ La sentencia que declara la paternidad o la maternidad extramatrimonial produce 
 
 ###### Artículo 413º
 
-En los procesos sobre declaración de paternidad o maternidad extramatrimonial es admisible la prueba biológica, genética u otra de validez científica con igual o mayor grado de certeza. También son admisibles estas pruebas a petición de la parte demandante en el caso del Artículo 402º, inciso 4), cuando fueren varios los autores del delito. La paternidad de uno de los demandados será declarada sólo si alguna de las pruebas descarta la posibilidad de que corresponda a los demás autores. Si uno de los demandados se niega a someterse a alguna de las pruebas, será declarada su paternidad, si el examen descarta a los demás. La obligación alimentaria es solidaria respecto de quienes se nieguen a someterse a alguna de las pruebas.[^123] DERECHO DE FAMILIA Alimentos para la madre e indemnización del daño moral
+En los procesos sobre declaración de paternidad o maternidad extramatrimonial es admisible la prueba biológica, genética u otra de validez científica con igual o mayor grado de certeza.
+
+También son admisibles estas pruebas a petición de la parte demandante en el caso del Artículo 402º, inciso 4), cuando fueren varios los autores del delito. La paternidad de uno de los demandados será declarada sólo si alguna de las pruebas descarta la posibilidad de que corresponda a los demás autores. Si uno de los demandados se niega a someterse a alguna de las pruebas, será declarada su paternidad, si el examen descarta a los demás.
+
+La obligación alimentaria es solidaria respecto de quienes se nieguen a someterse a alguna de las pruebas.[^123] DERECHO DE FAMILIA Alimentos para la madre e indemnización del daño moral
 
 ###### Artículo 414º
 
@@ -2522,7 +2806,9 @@ Noción de Patria Potestad
 
 ###### Artículo 418º
 
-Por la patria potestad los padres tienen el deber y el derecho de cuidar de la persona y bienes de sus hijos menores. Ejercicio conjunto de la patria potestad
+Por la patria potestad los padres tienen el deber y el derecho de cuidar de la persona y bienes de sus hijos menores.
+
+Ejercicio conjunto de la patria potestad
 
 ###### Artículo 419º
 
@@ -2530,11 +2816,15 @@ La patria potestad se ejerce conjuntamente por el padre y la madre durante el ma
 
 ###### Artículo 420º
 
-En caso de separación de cuerpos, de divorcio o de invalidación del matrimonio, la patria potestad se ejerce por el cónyuge a quien se confían los hijos. El otro queda, mientras tanto, suspendido en su ejercicio. Patria potestad de hijos extramatrimoniales
+En caso de separación de cuerpos, de divorcio o de invalidación del matrimonio, la patria potestad se ejerce por el cónyuge a quien se confían los hijos. El otro queda, mientras tanto, suspendido en su ejercicio.
+
+Patria potestad de hijos extramatrimoniales
 
 ###### Artículo 421º
 
-La patria potestad sobre los hijos extramatrimoniales se ejerce por el padre o por la madre que los ha reconocido. DERECHO DE FAMILIA Si ambos padres han reconocido al hijo, el juez de menores determina a quién corresponde la patria potestad, atendiendo a la edad y sexo del hijo, a la circunstancia de vivir juntos o separados los padres y, en todo caso, a los intereses del menor. Las normas contenidas en este artículo son de aplicación respecto de la madre aunque sea menor de edad. No obstante, el juez puede confiar a un curador la guarda de la persona o de los bienes del hijo, si así lo exige el interés de éste, cuando el padre no tenga la patria potestad.
+La patria potestad sobre los hijos extramatrimoniales se ejerce por el padre o por la madre que los ha reconocido.
+
+DERECHO DE FAMILIA Si ambos padres han reconocido al hijo, el juez de menores determina a quién corresponde la patria potestad, atendiendo a la edad y sexo del hijo, a la circunstancia de vivir juntos o separados los padres y, en todo caso, a los intereses del menor. Las normas contenidas en este artículo son de aplicación respecto de la madre aunque sea menor de edad. No obstante, el juez puede confiar a un curador la guarda de la persona o de los bienes del hijo, si así lo exige el interés de éste, cuando el padre no tenga la patria potestad.
 
 Relaciones personales con hijos no sujetos a patria potestad
 
@@ -2592,7 +2882,9 @@ Interés legal del saldo a favor de los padres
 
 ###### Artículo 431º
 
-Si resulta saldo en favor de los padres, sólo devenga intereses legales desde que el menor recibe sus bienes. Acción recíproca sobre pago
+Si resulta saldo en favor de los padres, sólo devenga intereses legales desde que el menor recibe sus bienes.
+
+Acción recíproca sobre pago
 
 ###### Artículo 432º
 
@@ -2626,7 +2918,9 @@ Cargas del usufructo legal
 
 ###### Artículo 437º
 
-Las cargas del usufructo legal son: 1.- Las obligaciones que pesan sobre todo usufructuario, excepto la de prestar garantía. 2.- Los gastos de los hijos comprendidos en el Artículo 472º. Pérdidas de empresa sujeta a usufructo legal
+Las cargas del usufructo legal son: 1.- Las obligaciones que pesan sobre todo usufructuario, excepto la de prestar garantía. 2.- Los gastos de los hijos comprendidos en el Artículo 472º.
+
+Pérdidas de empresa sujeta a usufructo legal
 
 ###### Artículo 438º
 
@@ -2678,7 +2972,9 @@ Pérdida de la administración y usufructo legal
 
 ###### Artículo 446º
 
-Quien pone en peligro los bienes de los hijos al ejercer la patria potestad pierde la administración y el usufructo legal. Prohibición de los padres de enajenar y gravar bienes del hijo
+Quien pone en peligro los bienes de los hijos al ejercer la patria potestad pierde la administración y el usufructo legal.
+
+Prohibición de los padres de enajenar y gravar bienes del hijo
 
 ###### Artículo 447º
 
@@ -2704,7 +3000,9 @@ DERECHO DE FAMILIA Depósito bancario del dinero de los hijos
 
 ###### Artículo 451º
 
-El dinero de los hijos, mientras se invierta con sujeción a lo dispuesto en el Artículo 453º, debe ser colocado en condiciones apropiadas en instituciones de crédito y a nombre del menor. Autorización judicial para retiro de dinero
+El dinero de los hijos, mientras se invierta con sujeción a lo dispuesto en el Artículo 453º, debe ser colocado en condiciones apropiadas en instituciones de crédito y a nombre del menor.
+
+Autorización judicial para retiro de dinero
 
 ###### Artículo 452º
 
@@ -2714,7 +3012,9 @@ Inversión del dinero del menor
 
 ###### Artículo 453º
 
-El dinero del menor, cualquiera fuere su procedencia, será invertido en predios o en cédulas hipotecarias. Para hacer otras inversiones, los padres necesitan autorización judicial. Esta autorización será otorgada cuando lo requieran o aconsejen los intereses del hijo. Deberes de los hijos
+El dinero del menor, cualquiera fuere su procedencia, será invertido en predios o en cédulas hipotecarias. Para hacer otras inversiones, los padres necesitan autorización judicial. Esta autorización será otorgada cuando lo requieran o aconsejen los intereses del hijo.
+
+Deberes de los hijos
 
 ###### Artículo 454º
 
@@ -2732,7 +3032,9 @@ Cuando el acto no es autorizado ni ratificado, el menor queda sujeto a la restit
 
 ###### Artículo 457º
 
-El menor capaz de discernimiento puede ser autorizado por sus padres para dedicarse a un trabajo, ocupación, industria u oficio. En este caso, puede practicar los actos que requiera el ejercicio regular de tal actividad, administrar los bienes que se le hubiese dejado con dicho objeto o que adquiera como producto de aquella actividad, usufructuarlos o disponer de ellos. La autorización puede ser revocada por razones justificadas. Responsabilidad del menor
+El menor capaz de discernimiento puede ser autorizado por sus padres para dedicarse a un trabajo, ocupación, industria u oficio. En este caso, puede practicar los actos que requiera el ejercicio regular de tal actividad, administrar los bienes que se le hubiese dejado con dicho objeto o que adquiera como producto de aquella actividad, usufructuarlos o disponer de ellos. La autorización puede ser revocada por razones justificadas.
+
+Responsabilidad del menor
 
 ###### Artículo 458º
 
@@ -2740,15 +3042,21 @@ El menor capaz de discernimiento responde por los daños y perjuicios que causa.
 
 ###### Artículo 459º
 
-Si es posible, los padres consultarán al menor que tenga más de dieciséis años los actos importantes de la administración. El asentimiento del menor no libera a los padres de responsabilidad. Nombramiento de curador especial
+Si es posible, los padres consultarán al menor que tenga más de dieciséis años los actos importantes de la administración. El asentimiento del menor no libera a los padres de responsabilidad.
+
+Nombramiento de curador especial
 
 ###### Artículo 460º
 
-Siempre que el padre o la madre tengan un interés opuesto al de sus hijos, se nombrará a éstos un curador especial. El juez, a petición del padre o de la madre, del Ministerio Público, de cualquier otra persona o de oficio, conferirá el cargo al pariente a quien corresponda la tutela legítima. A falta de éste, el consejo de familia elegirá a otro pariente o a un extraño. Causales de extinción de patria potestad
+Siempre que el padre o la madre tengan un interés opuesto al de sus hijos, se nombrará a éstos un curador especial.
+
+El juez, a petición del padre o de la madre, del Ministerio Público, de cualquier otra persona o de oficio, conferirá el cargo al pariente a quien corresponda la tutela legítima. A falta de éste, el consejo de familia elegirá a otro pariente o a un extraño. Causales de extinción de patria potestad
 
 ###### Artículo 461º
 
-La patria potestad se acaba: 1.- Por la muerte de los padres o del hijo. 2.- Por cesar la incapacidad del hijo conforme al Artículo 46º. 3.- Por cumplir el hijo dieciocho años de edad. Causales de pérdida de patria potestad
+La patria potestad se acaba: 1.- Por la muerte de los padres o del hijo. 2.- Por cesar la incapacidad del hijo conforme al Artículo 46º. 3.- Por cumplir el hijo dieciocho años de edad.
+
+Causales de pérdida de patria potestad
 
 ###### Artículo 462º
 
@@ -2766,7 +3074,9 @@ Autorización judicial a los hijos para vivir separados de sus padres
 
 ###### Artículo 465º
 
-El juez puede autorizar a los hijos, por causas graves, para que vivan separados del padre o de la madre que hubiese contraído matrimonio, poniéndolos bajo el cuidado de otra persona.[^136] El juez fija las atribuciones que ésta debe ejercer. Causales de suspensión de patria potestad
+El juez puede autorizar a los hijos, por causas graves, para que vivan separados del padre o de la madre que hubiese contraído matrimonio, poniéndolos bajo el cuidado de otra persona.[^136] El juez fija las atribuciones que ésta debe ejercer.
+
+Causales de suspensión de patria potestad
 
 ###### Artículo 466º
 
@@ -2834,7 +3144,9 @@ Entre los descendientes y los ascendientes se regula la gradación por el orden 
 
 ###### Artículo 477º
 
-Cuando sean dos o más los obligados a dar los alimentos, se divide entre todos el pago de la pensión en cantidad proporcional a sus respectivas posibilidades. Sin embargo, en caso de urgente necesidad y por circunstancias especiales, el juez puede obligar a uno solo a que los preste, sin perjuicio de su derecho a repetir de los demás la parte que les corresponda. Obligación alimenticia de los parientes
+Cuando sean dos o más los obligados a dar los alimentos, se divide entre todos el pago de la pensión en cantidad proporcional a sus respectivas posibilidades. Sin embargo, en caso de urgente necesidad y por circunstancias especiales, el juez puede obligar a uno solo a que los preste, sin perjuicio de su derecho a repetir de los demás la parte que les corresponda.
+
+Obligación alimenticia de los parientes
 
 ###### Artículo 478º
 
@@ -2944,11 +3256,15 @@ Requisitos para la constitución del patrimonio familiar
 
 ###### Artículo 496º
 
-Para la constitución del patrimonio familiar se requiere: 1.- Que el constituyente formalice solicitud ante el juez, en la que debe precisar su nombre y apellidos, edad, estado civil y domicilio; individualizar el predio que propone afectar; aportar la prueba instrumental de no hallarse el predio sujeto a hipoteca, anticresis o embargo registrado; y señalar a los beneficiarios con precisión del vínculo familiar que lo une a ellos. 2.- Que se acompañe a la solicitud, la minuta de constitución del patrimonio cuya autorización pide. 3.- Que se publique un extracto de la solicitud por dos días interdiarios en el periódico donde lo hubiere o por aviso en el local del juzgado donde no lo hubiere. 4.- Que sea aprobada por el Juez, conforme a lo dispuesto para el proceso no contencioso.[^147] 5.- Que la minuta sea elevada a escritura pública. 6.- Que sea inscrita en el registro respectivo. En los casos de constitución, modificación o extinción del patrimonio familiar, el juez oirá la opinión del Ministerio Público antes de expedir resolución. Administración de patrimonio familiar
+Para la constitución del patrimonio familiar se requiere: 1.- Que el constituyente formalice solicitud ante el juez, en la que debe precisar su nombre y apellidos, edad, estado civil y domicilio; individualizar el predio que propone afectar; aportar la prueba instrumental de no hallarse el predio sujeto a hipoteca, anticresis o embargo registrado; y señalar a los beneficiarios con precisión del vínculo familiar que lo une a ellos. 2.- Que se acompañe a la solicitud, la minuta de constitución del patrimonio cuya autorización pide. 3.- Que se publique un extracto de la solicitud por dos días interdiarios en el periódico donde lo hubiere o por aviso en el local del juzgado donde no lo hubiere. 4.- Que sea aprobada por el Juez, conforme a lo dispuesto para el proceso no contencioso.[^147] 5.- Que la minuta sea elevada a escritura pública. 6.- Que sea inscrita en el registro respectivo.
+
+En los casos de constitución, modificación o extinción del patrimonio familiar, el juez oirá la opinión del Ministerio Público antes de expedir resolución. Administración de patrimonio familiar
 
 ###### Artículo 497º
 
-La administración del patrimonio familiar corresponde al constituyente o a la persona que éste designe. Pérdida de la calidad de beneficiario
+La administración del patrimonio familiar corresponde al constituyente o a la persona que éste designe.
+
+Pérdida de la calidad de beneficiario
 
 ###### Artículo 498º
 
@@ -2992,7 +3308,9 @@ Tienen facultad de nombrar tutor, en testamento o por escritura pública: 1.- El
 
 ###### Artículo 504º
 
-Si uno de los padres fuere incapaz, valdrá el nombramiento de tutor que hiciere el otro, aunque éste muera primero. Pluralidad de tutores
+Si uno de los padres fuere incapaz, valdrá el nombramiento de tutor que hiciere el otro, aunque éste muera primero.
+
+Pluralidad de tutores
 
 ###### Artículo 505º
 
@@ -3006,7 +3324,9 @@ Tutela de hijos extramatrimoniales
 
 ###### Artículo 507º
 
-La tutela de que trata el Artículo 506º no tiene lugar respecto de los hijos extramatrimoniales si no la confirma el juez. Tutor dativo
+La tutela de que trata el Artículo 506º no tiene lugar respecto de los hijos extramatrimoniales si no la confirma el juez.
+
+Tutor dativo
 
 ###### Artículo 508º
 
@@ -3032,7 +3352,9 @@ La tutela de los niños, niñas y adolescentes en desprotección familiar o que 
 
 Los parientes interesados podrán solicitar la tutela mediante solicitud de acogimiento familiar al juez de familia o el juez mixto y la decisión judicial se fundamentará en base a los informes del equipo multidisciplinario de la Corte Superior.
 
-En caso que exista en curso un proceso de investigación tutelar y no se encuentren a los padres biológicos o éstos sean incapaces de asumir las obligaciones de la patria potestad, el juez competente ubicará a los parientes conforme al primer párrafo de este artículo. En el mismo proceso que se declare la suspensión o pérdida de la patria potestad y el otro progenitor no sea idóneo, el juez de familia deberá resolver conforme al primer párrafo de este artículo. En lo que es aplicable se rige además por las disposiciones pertinentes del Código de los Niños y Adolescentes.[^150] Derecho a discernir el cargo
+En caso que exista en curso un proceso de investigación tutelar y no se encuentren a los padres biológicos o éstos sean incapaces de asumir las obligaciones de la patria potestad, el juez competente ubicará a los parientes conforme al primer párrafo de este artículo. En el mismo proceso que se declare la suspensión o pérdida de la patria potestad y el otro progenitor no sea idóneo, el juez de familia deberá resolver conforme al primer párrafo de este artículo.
+
+En lo que es aplicable se rige además por las disposiciones pertinentes del Código de los Niños y Adolescentes.[^150] Derecho a discernir el cargo
 
 ###### Artículo 512º
 
@@ -3052,7 +3374,9 @@ Mientras no se nombre tutor o no se discierna la tutela, el juez, de oficio o a 
 
 ###### Artículo 515º
 
-No pueden ser tutores: 1.- Los menores de edad. Si fueran nombrados en testamento o por escritura pública, ejercerán el cargo cuando lleguen a la mayoría. 2.- Los sujetos a curatela. 3.- Los deudores o acreedores del menor, por cantidades de consideración, ni los fiadores de los primeros, a no ser que los padres los hubiesen nombrado sabiendo esta circunstancia. 4.- Los que tengan en un pleito propio, o de sus ascendientes, descendientes o cónyuge, interés contrario al del menor, a menos que con conocimiento de ello hubiesen sido nombrados por los padres. 5.- Los enemigos del menor o de sus ascendientes o hermanos. 6.- Los excluidos expresamente de la tutela por el padre o por la madre. 7.- Los quebrados y quienes están sujetos a un procedimiento de quiebra. 8.- Los condenados por homicidio, lesiones dolosas, riña, aborto, exposición o abandono de personas en peligro, supresión o alteración del estado civil, o por delitos contra el patrimonio o contra las buenas costumbres. 9.- Las personas de mala conducta notoria o que no tuvieren manera de vivir conocida. 10.- Los que fueron destituidos de la patria potestad. 11.- Los que fueron removidos de otra tutela. Impugnación de nombramiento de tutor
+No pueden ser tutores: 1.- Los menores de edad. Si fueran nombrados en testamento o por escritura pública, ejercerán el cargo cuando lleguen a la mayoría. 2.- Los sujetos a curatela. 3.- Los deudores o acreedores del menor, por cantidades de consideración, ni los fiadores de los primeros, a no ser que los padres los hubiesen nombrado sabiendo esta circunstancia. 4.- Los que tengan en un pleito propio, o de sus ascendientes, descendientes o cónyuge, interés contrario al del menor, a menos que con conocimiento de ello hubiesen sido nombrados por los padres. 5.- Los enemigos del menor o de sus ascendientes o hermanos. 6.- Los excluidos expresamente de la tutela por el padre o por la madre. 7.- Los quebrados y quienes están sujetos a un procedimiento de quiebra. 8.- Los condenados por homicidio, lesiones dolosas, riña, aborto, exposición o abandono de personas en peligro, supresión o alteración del estado civil, o por delitos contra el patrimonio o contra las buenas costumbres. 9.- Las personas de mala conducta notoria o que no tuvieren manera de vivir conocida. 10.- Los que fueron destituidos de la patria potestad. 11.- Los que fueron removidos de otra tutela.
+
+Impugnación de nombramiento de tutor
 
 ###### Artículo 516º
 
@@ -3074,7 +3398,9 @@ Plazo para excusar el cargo
 
 ###### Artículo 519º
 
-El tutor debe proponer su excusa dentro del plazo de quince días desde que tuvo noticia del nombramiento o desde que sobrevino la causal si está ejerciendo el cargo. No puede proponerla vencido ese plazo. Requisitos previos al ejercicio de la tutela
+El tutor debe proponer su excusa dentro del plazo de quince días desde que tuvo noticia del nombramiento o desde que sobrevino la causal si está ejerciendo el cargo. No puede proponerla vencido ese plazo.
+
+Requisitos previos al ejercicio de la tutela
 
 ###### Artículo 520º
 
@@ -3110,7 +3436,9 @@ Deberes del tutor
 
 ###### Artículo 526º
 
-El tutor debe alimentar y educar al menor de acuerdo a la condición de éste y proteger y defender su persona. Estos deberes se rigen por las disposiciones relativas a la patria potestad, bajo la vigilancia del consejo de familia.
+El tutor debe alimentar y educar al menor de acuerdo a la condición de éste y proteger y defender su persona.
+
+Estos deberes se rigen por las disposiciones relativas a la patria potestad, bajo la vigilancia del consejo de familia.
 
 Cuando el menor carezca de bienes o éstos no sean suficientes, el tutor demandará el pago de una pensión alimenticia.[^151] Representación del pupilo
 
@@ -3130,11 +3458,15 @@ El tutor está obligado a administrar los bienes del menor con la diligencia ord
 
 ###### Artículo 530º
 
-El menor que ha cumplido catorce años y cualquier interesado puede recurrir al juez contra los actos del tutor. Autorización para disponer de los bienes del pupilo
+El menor que ha cumplido catorce años y cualquier interesado puede recurrir al juez contra los actos del tutor.
+
+Autorización para disponer de los bienes del pupilo
 
 ###### Artículo 531º
 
-Los bienes del menor no pueden ser enajenados ni gravados sino con autorización judicial, concedida por necesidad o utilidad y con audiencia del consejo de familia. Se exceptúan de esta disposición los frutos en la medida que sean necesarios para la alimentación y educación del menor. Actos que requieren autorización judicial
+Los bienes del menor no pueden ser enajenados ni gravados sino con autorización judicial, concedida por necesidad o utilidad y con audiencia del consejo de familia. Se exceptúan de esta disposición los frutos en la medida que sean necesarios para la alimentación y educación del menor.
+
+Actos que requieren autorización judicial
 
 ###### Artículo 532º
 
@@ -3162,7 +3494,9 @@ Actos realizados sin autorización judicial
 
 ###### Artículo 536º
 
-Los actos practicados por el tutor sin la autorización judicial requerida por los Artículos 531º y 532º, no obligan al menor sino dentro de los límites del segundo párrafo del Artículo 456º. Acción de nulidad del pupilo por actos sin autorización
+Los actos practicados por el tutor sin la autorización judicial requerida por los Artículos 531º y 532º, no obligan al menor sino dentro de los límites del segundo párrafo del Artículo 456º.
+
+Acción de nulidad del pupilo por actos sin autorización
 
 ###### Artículo 537º
 
@@ -3172,17 +3506,23 @@ Actos prohibidos a los tutores
 
 ###### Artículo 538º
 
-Se prohíbe a los tutores: 1.- Comprar o tomar en arrendamiento los bienes del menor. 2.- Adquirir cualquier derecho o acción contra el menor. 3.- Disponer de los bienes del menor a título gratuito. 4.- Arrendar por más de tres años los bienes del menor. Fijación judicial de la retribución del tutor
+Se prohíbe a los tutores: 1.- Comprar o tomar en arrendamiento los bienes del menor. 2.- Adquirir cualquier derecho o acción contra el menor. 3.- Disponer de los bienes del menor a título gratuito. 4.- Arrendar por más de tres años los bienes del menor.
+
+Fijación judicial de la retribución del tutor
 
 ###### Artículo 539º
 
 El tutor tiene derecho a una retribución que fijará el juez teniendo en cuenta la importancia de los bienes del menor y el trabajo que ha demandado su administración en cada período.
 
-Nunca excederá dicha retribución del ocho por ciento de las rentas o productos líquidos consumidos ni del diez por ciento de los capitalizados. Obligación del tutor a dar cuenta
+Nunca excederá dicha retribución del ocho por ciento de las rentas o productos líquidos consumidos ni del diez por ciento de los capitalizados.
+
+Obligación del tutor a dar cuenta
 
 ###### Artículo 540º
 
-El tutor está obligado a dar cuenta de su administración: 1.- Anualmente. 2.- Al acabarse la tutela o cesar en el cargo. DERECHO DE FAMILIA Obligación del tutor legítimo de dar cuenta
+El tutor está obligado a dar cuenta de su administración: 1.- Anualmente. 2.- Al acabarse la tutela o cesar en el cargo.
+
+DERECHO DE FAMILIA Obligación del tutor legítimo de dar cuenta
 
 ###### Artículo 541º
 
@@ -3222,11 +3562,15 @@ Actos prohibidos del pupilo antes de rendición
 
 ###### Artículo 546º
 
-El menor, llegado a la mayoría, no podrá celebrar convenio alguno con su antiguo tutor antes de ser aprobada judicialmente la cuenta final. Las disposiciones testamentarias del menor en favor del tutor tampoco tendrán efecto sin tal requisito, salvo las referentes a la legítima. Interés legal del saldo contra el tutor
+El menor, llegado a la mayoría, no podrá celebrar convenio alguno con su antiguo tutor antes de ser aprobada judicialmente la cuenta final. Las disposiciones testamentarias del menor en favor del tutor tampoco tendrán efecto sin tal requisito, salvo las referentes a la legítima.
+
+Interés legal del saldo contra el tutor
 
 ###### Artículo 547º
 
-Son aplicables a los intereses del saldo de la cuenta final las disposiciones contenidas en el Artículo 430º. Prohibición de dispensa a obligaciones del tutor
+Son aplicables a los intereses del saldo de la cuenta final las disposiciones contenidas en el Artículo 430º.
+
+Prohibición de dispensa a obligaciones del tutor
 
 ###### Artículo 548º
 
@@ -3236,7 +3580,9 @@ Fin de la tutela
 
 ###### Artículo 549º
 
-La tutela se acaba: 1.- Por la muerte del menor. 2.- Por llegar el menor a los dieciocho años. 3.- Por cesar la incapacidad del menor conforme al Artículo 46º. 4.- Por cesar la incapacidad del padre o de la madre en el caso del Artículo 580º. 5.- Por ingresar el menor bajo la patria potestad. Causales de extinción del cargo del tutor
+La tutela se acaba: 1.- Por la muerte del menor. 2.- Por llegar el menor a los dieciocho años. 3.- Por cesar la incapacidad del menor conforme al Artículo 46º. 4.- Por cesar la incapacidad del padre o de la madre en el caso del Artículo 580º. 5.- Por ingresar el menor bajo la patria potestad.
+
+Causales de extinción del cargo del tutor
 
 ###### Artículo 550º
 
@@ -3246,7 +3592,9 @@ CONCORDANCIA: D.S. Nº 001-2005-MIMDES, Art. 8º Efectos de la muerte del tutor
 
 ###### Artículo 551º
 
-Los herederos del tutor, si son capaces, están obligados a continuar la gestión de su causante hasta que se nombre nuevo tutor. Facultad de renuncia del tutor dativo
+Los herederos del tutor, si son capaces, están obligados a continuar la gestión de su causante hasta que se nombre nuevo tutor.
+
+Facultad de renuncia del tutor dativo
 
 ###### Artículo 552º
 
@@ -3256,11 +3604,15 @@ Continuidad de la tutela
 
 ###### Artículo 553º
 
-El tutor que renuncie la tutela, así como aquél cuyo nombramiento sea impugnado, debe ejercer el cargo hasta que se le releve. DERECHO DE FAMILIA Causales de remoción del tutor
+El tutor que renuncie la tutela, así como aquél cuyo nombramiento sea impugnado, debe ejercer el cargo hasta que se le releve.
+
+DERECHO DE FAMILIA Causales de remoción del tutor
 
 ###### Artículo 554º
 
-Será removido de la tutela: 1.- El que incurra en alguno de los impedimentos del Artículo 515º, si no renuncia al cargo. 2.- El que cause perjuicio al menor en su persona o intereses. Suspensión provisional del tutor
+Será removido de la tutela: 1.- El que incurra en alguno de los impedimentos del Artículo 515º, si no renuncia al cargo. 2.- El que cause perjuicio al menor en su persona o intereses.
+
+Suspensión provisional del tutor
 
 ###### Artículo 555º
 
@@ -3290,7 +3642,9 @@ Convocatoria al consejo de familia
 
 ###### Artículo 560º
 
-Si el juez tiene conocimiento de algún perjuicio que el tutor cause al menor, convocará de oficio al consejo de familia para que proceda, según las circunstancias, a usar de sus facultades en beneficio de aquél. Acciones recíprocas del pupilo y tutor
+Si el juez tiene conocimiento de algún perjuicio que el tutor cause al menor, convocará de oficio al consejo de familia para que proceda, según las circunstancias, a usar de sus facultades en beneficio de aquél.
+
+Acciones recíprocas del pupilo y tutor
 
 ###### Artículo 561º
 
@@ -3306,7 +3660,9 @@ Tutor oficioso
 
 ###### Artículo 563º
 
-La persona que se encargue de los negocios de un menor, será responsable como si fuera tutor. Esta responsabilidad puede serle exigida por el Ministerio Público, de oficio o a pedido de cualquier persona. El juez, a solicitud del Ministerio Público, puede ordenar que se regularice la tutela. Si ello no fuera posible, dispondrá que el tutor oficioso asuma el cargo como dativo.
+La persona que se encargue de los negocios de un menor, será responsable como si fuera tutor. Esta responsabilidad puede serle exigida por el Ministerio Público, de oficio o a pedido de cualquier persona.
+
+El juez, a solicitud del Ministerio Público, puede ordenar que se regularice la tutela. Si ello no fuera posible, dispondrá que el tutor oficioso asuma el cargo como dativo.
 
 ##### CAPÍTULO SEGUNDO — Curatela
 
@@ -3336,7 +3692,9 @@ Normas supletorias aplicables a la curatela
 
 ###### Artículo 568º
 
-Rigen para la curatela las reglas relativas a la tutela, con las modificaciones establecidas en este capítulo. DERECHO DE FAMILIA
+Rigen para la curatela las reglas relativas a la tutela, con las modificaciones establecidas en este capítulo.
+
+DERECHO DE FAMILIA
 
 ###### Artículo 568º-A. Facultad para nombrar su propio curador[^156]
 
@@ -3372,11 +3730,15 @@ A falta de curador legítimo y de curador testamentario o escriturario, la curat
 
 ###### Artículo 574º
 
-Si el curador es el cónyuge, está exento de las obligaciones que imponen los Artículos 520º, inciso 1, y 540º, inciso 1. Curatela de los padres
+Si el curador es el cónyuge, está exento de las obligaciones que imponen los Artículos 520º, inciso 1, y 540º, inciso 1.
+
+Curatela de los padres
 
 ###### Artículo 575º
 
-Cuando la curatela corresponde a los padres se rige por las disposiciones referentes a la patria potestad. Funciones del curador
+Cuando la curatela corresponde a los padres se rige por las disposiciones referentes a la patria potestad.
+
+Funciones del curador
 
 ###### Artículo 576º
 
@@ -3386,7 +3748,9 @@ Destino de los frutos de los bienes del incapaz
 
 ###### Artículo 577º
 
-Los frutos de los bienes del incapaz se emplearán principalmente en su sostenimiento y en procurar su restablecimiento. En caso necesario se emplearán también los capitales, con autorización judicial. Autorización judicial para el internamiento del incapaz
+Los frutos de los bienes del incapaz se emplearán principalmente en su sostenimiento y en procurar su restablecimiento. En caso necesario se emplearán también los capitales, con autorización judicial.
+
+Autorización judicial para el internamiento del incapaz
 
 ###### Artículo 578º
 
@@ -3394,7 +3758,9 @@ Para internar al incapaz en un establecimiento especial, el curador necesita aut
 
 ###### Artículo 579º
 
-Los curadores legítimos están exentos de la obligación de garantizar su gestión, salvo lo dispuesto en el Artículo 426º. Tutela de los hijos del incapaz
+Los curadores legítimos están exentos de la obligación de garantizar su gestión, salvo lo dispuesto en el Artículo 426º.
+
+Tutela de los hijos del incapaz
 
 ###### Artículo 580
 
@@ -3404,7 +3770,9 @@ Extensión y límites de la curatela
 
 ###### Artículo 581º
 
-El juez, al declarar la interdicción del incapaz, fija la extensión y límites de la curatela según el grado de incapacidad de aquél. En caso de duda sobre los límites de la curatela, o si a juicio del curador fuere necesario extenderla, el juez resolverá observando los trámites prescritos para declarar la interdicción.
+El juez, al declarar la interdicción del incapaz, fija la extensión y límites de la curatela según el grado de incapacidad de aquél.
+
+En caso de duda sobre los límites de la curatela, o si a juicio del curador fuere necesario extenderla, el juez resolverá observando los trámites prescritos para declarar la interdicción.
 
 Anulabilidad de actos anteriores a interdicción
 
@@ -3420,17 +3788,23 @@ Pródigo
 
 ###### Artículo 584º
 
-Puede ser declarado pródigo el que teniendo cónyuge o herederos forzosos dilapida bienes que exceden de su porción disponible. Incapacidad por mala gestión
+Puede ser declarado pródigo el que teniendo cónyuge o herederos forzosos dilapida bienes que exceden de su porción disponible.
+
+Incapacidad por mala gestión
 
 ###### Artículo 585º
 
 Puede ser declarado incapaz por mala gestión el que por esta causa ha perdido más de la mitad de sus bienes, teniendo cónyuge o herederos forzosos.
 
-Queda al prudente arbitrio del juez apreciar la mala gestión. Curador para ebrios y toxicómanos
+Queda al prudente arbitrio del juez apreciar la mala gestión.
+
+Curador para ebrios y toxicómanos
 
 ###### Artículo 586º
 
-Será provisto de un curador quien por causa de su ebriedad habitual, o del uso de sustancias que puedan generar toxicomanía o de drogas alucinógenas, se exponga o exponga a su familia a caer en la miseria, necesite asistencia permanente o amenace la seguridad ajena. Facultados a solicitar curatela para pródigo o mal gestor
+Será provisto de un curador quien por causa de su ebriedad habitual, o del uso de sustancias que puedan generar toxicomanía o de drogas alucinógenas, se exponga o exponga a su familia a caer en la miseria, necesite asistencia permanente o amenace la seguridad ajena.
+
+Facultados a solicitar curatela para pródigo o mal gestor
 
 ###### Artículo 587º
 
@@ -3454,7 +3828,11 @@ El curador del ebrio habitual y del toxicómano debe proveer a la protección de
 
 ###### Artículo 591º
 
-El pródigo, el mal gestor, el ebrio habitual y el toxicómano no pueden litigar ni practicar actos que no sean de mera administración de su patrimonio, sin asentimiento especial del curador. El juez, al instituir la curatela, puede limitar también la capacidad del interdicto en cuanto a determinados actos de administración. Representación de los hijos del incapaz por el curador
+El pródigo, el mal gestor, el ebrio habitual y el toxicómano no pueden litigar ni practicar actos que no sean de mera administración de su patrimonio, sin asentimiento especial del curador.
+
+El juez, al instituir la curatela, puede limitar también la capacidad del interdicto en cuanto a determinados actos de administración.
+
+Representación de los hijos del incapaz por el curador
 
 ###### Artículo 592º
 
@@ -3462,7 +3840,9 @@ El curador de los incapaces a que se refiere el Artículo 591º representa legal
 
 ###### Artículo 593º
 
-Los actos del pródigo y del mal gestor anteriores al pedido de interdicción no pueden ser impugnados por esta causa. Los del ebrio habitual y del toxicómano pueden serlo si la causa de la incapacidad hubiese sido notoria.
+Los actos del pródigo y del mal gestor anteriores al pedido de interdicción no pueden ser impugnados por esta causa.
+
+Los del ebrio habitual y del toxicómano pueden serlo si la causa de la incapacidad hubiese sido notoria.
 
 DERECHO DE FAMILIA Acción de anulación de actos prohibidos al interdicto
 
@@ -3498,7 +3878,9 @@ Curatela especial de bienes
 
 ###### Artículo 599º. El juez de primera instancia, de oficio o a pedido del Ministerio
 
-Público o de cualquier persona que tenga legítimo interés, deberá proveer a la administración de los bienes cuyo cuidado no incumbe a nadie, e instituir una curatela, especialmente: 1.- Cuando los derechos sucesorios son inciertos. 2.- Cuando por cualquier causa, la asociación o el comité no puedan seguir funcionando, sin haberse previsto solución alguna en el estatuto respectivo. 3.- Cuando una persona sea incapaz de administrar por sí misma sus bienes o de escoger mandatario, sin que proceda el nombramiento de curador. Curatela de bienes en usufructo
+Público o de cualquier persona que tenga legítimo interés, deberá proveer a la administración de los bienes cuyo cuidado no incumbe a nadie, e instituir una curatela, especialmente: 1.- Cuando los derechos sucesorios son inciertos. 2.- Cuando por cualquier causa, la asociación o el comité no puedan seguir funcionando, sin haberse previsto solución alguna en el estatuto respectivo. 3.- Cuando una persona sea incapaz de administrar por sí misma sus bienes o de escoger mandatario, sin que proceda el nombramiento de curador.
+
+Curatela de bienes en usufructo
 
 ###### Artículo 600º
 
@@ -3544,7 +3926,9 @@ Funciones del curador especial
 
 ###### Artículo 608º
 
-Los curadores especialmente nombrados para determinados bienes se encargarán de la administración de éstos en el tiempo y forma señalados por el testador o el donante que los designó. Nombramiento de curador especial
+Los curadores especialmente nombrados para determinados bienes se encargarán de la administración de éstos en el tiempo y forma señalados por el testador o el donante que los designó.
+
+Nombramiento de curador especial
 
 ###### Artículo 609º
 
@@ -3556,7 +3940,11 @@ La curatela instituida conforme a los Artículos 43º, incisos 2 y 3, y 44º, in
 
 ###### Artículo 611º
 
-La curatela del condenado a pena que lleva anexa la interdicción civil acaba al mismo tiempo que la privación de la libertad. El liberado condicionalmente continúa bajo curatela. Rehabilitación del incapaz
+La curatela del condenado a pena que lleva anexa la interdicción civil acaba al mismo tiempo que la privación de la libertad.
+
+El liberado condicionalmente continúa bajo curatela.
+
+Rehabilitación del incapaz
 
 ###### Artículo 612º
 
@@ -3578,11 +3966,15 @@ Cese de curatela de bienes
 
 ###### Artículo 615º
 
-La curatela de los bienes cesa por la extinción de éstos o por haber desaparecido los motivos que la determinaron. Cese de curatela de bienes del desaparecido
+La curatela de los bienes cesa por la extinción de éstos o por haber desaparecido los motivos que la determinaron.
+
+Cese de curatela de bienes del desaparecido
 
 ###### Artículo 616º
 
-La curatela de los bienes del desaparecido cesa cuando reaparece o cuando se le declara ausente o presuntamente muerto. Cese de curatela de los bienes del concebido
+La curatela de los bienes del desaparecido cesa cuando reaparece o cuando se le declara ausente o presuntamente muerto.
+
+Cese de curatela de los bienes del concebido
 
 ###### Artículo 617º
 
@@ -3614,7 +4006,9 @@ Obligados a solicitar formación del Consejo
 
 ###### Artículo 621º
 
-El tutor testamentario o escriturario, los ascendientes llamados a la tutela legítima y los miembros natos del consejo, están obligados a poner en conocimiento del juez de menores o del juez de paz, en sus respectivos casos, el hecho que haga necesaria la formación del consejo, quedando responsables de la indemnización de daños y perjuicios si así no proceden. Formación del Consejo de Familia por mandato judicial
+El tutor testamentario o escriturario, los ascendientes llamados a la tutela legítima y los miembros natos del consejo, están obligados a poner en conocimiento del juez de menores o del juez de paz, en sus respectivos casos, el hecho que haga necesaria la formación del consejo, quedando responsables de la indemnización de daños y perjuicios si así no proceden.
+
+Formación del Consejo de Familia por mandato judicial
 
 ###### Artículo 622º
 
@@ -3626,23 +4020,31 @@ Composición del Consejo de Familia
 
 El consejo se compone de las personas que haya designado por testamento o en escritura pública el último de los padres que tuvo al hijo bajo su patria potestad o su curatela; y, en su defecto, por las personas designadas por el último de los abuelos o abuelas que hubiera tenido al menor o incapaz bajo su tutela o curatela.
 
-A falta de las personas mencionadas, forman el consejo los abuelos y abuelas, tíos y tías, hermanos y hermanas del menor o del incapaz. Los hijos del mayor incapaz, que no sean sus curadores, son miembros natos del consejo que se forme para él.
+A falta de las personas mencionadas, forman el consejo los abuelos y abuelas, tíos y tías, hermanos y hermanas del menor o del incapaz.
+
+Los hijos del mayor incapaz, que no sean sus curadores, son miembros natos del consejo que se forme para él.
 
 Casos en que los padres son miembros natos del Consejo de Familia
 
 ###### Artículo 624º
 
-Cuando los padres no tienen la administración de los bienes de sus hijos serán miembros natos del consejo que se conforme. Participación de hermanos en el Consejo de Familia
+Cuando los padres no tienen la administración de los bienes de sus hijos serán miembros natos del consejo que se conforme.
+
+Participación de hermanos en el Consejo de Familia
 
 ###### Artículo 625º
 
-Cuando, entre las personas hábiles para formar el consejo, hubiera menos hermanos enteros que medio hermanos, sólo asisten de éstos igual número al de aquéllos, excluyéndose a los de menor edad. Prelación para formación del Consejo de Familia
+Cuando, entre las personas hábiles para formar el consejo, hubiera menos hermanos enteros que medio hermanos, sólo asisten de éstos igual número al de aquéllos, excluyéndose a los de menor edad.
+
+Prelación para formación del Consejo de Familia
 
 ###### Artículo 626º
 
 Si no hay en el lugar donde debe formarse el consejo ni dentro de cincuenta kilómetros, cuatro miembros natos, el juez de menores o el de paz, según el caso, completará ese número llamando a los demás parientes consanguíneos, entre los cuales tiene preferencia el más próximo sobre el más remoto, y el de mayor edad cuando sean de igual grado.
 
-También llamará a los sobrinos y primos hermanos, siguiendo la misma regla de preferencia, cuando no hay ningún miembro nato. En defecto del número necesario de miembros del consejo, éste no se constituirá, y sus atribuciones las ejercerá el juez, oyendo a los miembros natos que hubiere. Personas no obligadas a formar parte del Consejo de Familia
+También llamará a los sobrinos y primos hermanos, siguiendo la misma regla de preferencia, cuando no hay ningún miembro nato.
+
+En defecto del número necesario de miembros del consejo, éste no se constituirá, y sus atribuciones las ejercerá el juez, oyendo a los miembros natos que hubiere. Personas no obligadas a formar parte del Consejo de Familia
 
 ###### Artículo 627º
 
@@ -3656,11 +4058,15 @@ El consejo de familia para un hijo extramatrimonial lo integran los parientes de
 
 ###### Artículo 629º
 
-El juez puede subsanar la inobservancia de los Artículos 623º a 628º, si no se debe a dolo ni causa perjuicio a la persona o bienes del sujeto a tutela o curatela. En caso contrario, es nula la formación del consejo. Improcedencia del Consejo de Familia para hijo extramatrimonial
+El juez puede subsanar la inobservancia de los Artículos 623º a 628º, si no se debe a dolo ni causa perjuicio a la persona o bienes del sujeto a tutela o curatela. En caso contrario, es nula la formación del consejo.
+
+Improcedencia del Consejo de Familia para hijo extramatrimonial
 
 ###### Artículo 630º
 
-No habrá consejo de familia para un hijo extramatrimonial, cuando el padre o la madre lo hayan prohibido en su testamento o por escritura pública. En este caso, el juez de menores o el de paz, según corresponda, asumirá las funciones del consejo, oyendo a los miembros natos que hubiera. Facultades de superiores sobre expósitos y huérfanos
+No habrá consejo de familia para un hijo extramatrimonial, cuando el padre o la madre lo hayan prohibido en su testamento o por escritura pública. En este caso, el juez de menores o el de paz, según corresponda, asumirá las funciones del consejo, oyendo a los miembros natos que hubiera.
+
+Facultades de superiores sobre expósitos y huérfanos
 
 ###### Artículo 631º
 
@@ -3682,13 +4088,19 @@ El apoderado no puede representar a más de un miembro del consejo. Formalidades
 
 La persona que solicita la formación del consejo debe precisar los nombres de quienes deban formarlo. El juez ordenará publicar la solicitud y los nombres por periódico o carteles.
 
-Durante los diez días siguientes a la publicación, cualquier interesado puede observar la inclusión o exclusión indebida. El juez resolverá dentro del plazo de cinco días teniendo a la vista las pruebas acompañadas. La reclamación no impide que el consejo inicie o prosiga sus funciones, a menos que el juez disponga lo contrario.
+Durante los diez días siguientes a la publicación, cualquier interesado puede observar la inclusión o exclusión indebida. El juez resolverá dentro del plazo de cinco días teniendo a la vista las pruebas acompañadas.
 
-Si el peticionario ignora los nombres de las personas que deben integrar el consejo, el aviso se limitará a llamar a quienes se crean con derecho. El juez dispondrá la publicación de los nombres de quienes se presenten, observándose lo dispuesto en los párrafos segundo y tercero de este Artículo. Instalación del Consejo
+La reclamación no impide que el consejo inicie o prosiga sus funciones, a menos que el juez disponga lo contrario.
+
+Si el peticionario ignora los nombres de las personas que deben integrar el consejo, el aviso se limitará a llamar a quienes se crean con derecho. El juez dispondrá la publicación de los nombres de quienes se presenten, observándose lo dispuesto en los párrafos segundo y tercero de este Artículo.
+
+Instalación del Consejo
 
 ###### Artículo 635º
 
-Transcurrido el plazo señalado en el Artículo 634º sin que se haya producido observación alguna, o resuelta ésta, el juez procederá a instalar formalmente el consejo, dejándose constancia en acta. Citación a miembros del Consejo
+Transcurrido el plazo señalado en el Artículo 634º sin que se haya producido observación alguna, o resuelta ésta, el juez procederá a instalar formalmente el consejo, dejándose constancia en acta.
+
+Citación a miembros del Consejo
 
 ###### Artículo 636º
 
@@ -3742,11 +4154,15 @@ Ningún miembro del consejo asistirá a su reunión ni emitirá voto cuando se t
 
 ###### Artículo 645º
 
-El tutor o el curador tienen la obligación de asistir a las reuniones del consejo cuando sean citados. También podrán asistir siempre que el consejo se reúna a su solicitud. En ambos casos carecerán de voto. Asistencia del curado
+El tutor o el curador tienen la obligación de asistir a las reuniones del consejo cuando sean citados. También podrán asistir siempre que el consejo se reúna a su solicitud. En ambos casos carecerán de voto.
+
+Asistencia del curado
 
 ###### Artículo 646º
 
-El sujeto a tutela que sea mayor de catorce años puede asistir a las reuniones del consejo, con voz pero sin voto. Facultades del Consejo de Familia
+El sujeto a tutela que sea mayor de catorce años puede asistir a las reuniones del consejo, con voz pero sin voto.
+
+Facultades del Consejo de Familia
 
 ###### Artículo 647º
 
@@ -3756,11 +4172,15 @@ Apelación de resoluciones del Consejo presidido por Juez de Paz
 
 ###### Artículo 648º
 
-De las resoluciones del consejo presidido por el juez de paz pueden apelar el juez de primera instancia: 1.- Cualquiera de sus miembros que haya disentido de la mayoría al votarse el acuerdo. 2.- El tutor o el curador. 3.- Cualquier pariente del menor. 4.- Cualquier otro interesado en la decisión. El plazo para apelar es de cinco días, salvo lo dispuesto en el Artículo 650º. Apelación de resoluciones del Consejo presidido por juez de Menores
+De las resoluciones del consejo presidido por el juez de paz pueden apelar el juez de primera instancia: 1.- Cualquiera de sus miembros que haya disentido de la mayoría al votarse el acuerdo. 2.- El tutor o el curador. 3.- Cualquier pariente del menor. 4.- Cualquier otro interesado en la decisión.
+
+El plazo para apelar es de cinco días, salvo lo dispuesto en el Artículo 650º. Apelación de resoluciones del Consejo presidido por juez de Menores
 
 ###### Artículo 649º
 
-De las resoluciones del consejo presidido por el juez de menores pueden apelar a la Sala Civil de la Corte Superior, dentro del mismo plazo y con la misma salvedad, las personas indicadas en el Artículo 648º. Impugnación de resoluciones del Consejo
+De las resoluciones del consejo presidido por el juez de menores pueden apelar a la Sala Civil de la Corte Superior, dentro del mismo plazo y con la misma salvedad, las personas indicadas en el Artículo 648º.
+
+Impugnación de resoluciones del Consejo
 
 ###### Artículo 650º
 
@@ -3770,7 +4190,9 @@ Responsabilidad solidaria de los miembros del Consejo
 
 ###### Artículo 651º
 
-Los miembros del consejo son solidariamente responsables de los daños y perjuicios que, por dolo o culpa, sufra el sujeto a tutela o curatela, a no ser que hubiesen disentido del acuerdo que los causó. Actas de las sesiones del Consejo
+Los miembros del consejo son solidariamente responsables de los daños y perjuicios que, por dolo o culpa, sufra el sujeto a tutela o curatela, a no ser que hubiesen disentido del acuerdo que los causó.
+
+Actas de las sesiones del Consejo
 
 ###### Artículo 652º
 
@@ -3780,11 +4202,17 @@ De las sesiones del consejo se extenderá acta en el libro de consejos de famili
 
 Por falta, impedimento u omisión del juez de paz en todo lo relativo a las atribuciones que le corresponden respecto del consejo de familia, cualquiera de los parientes del menor, del mayor incapaz o del ausente, puede pedir al juez de primera instancia que el mismo desempeñe esas funciones o que designe al juez de paz que deba hacerlo.
 
-DERECHO DE FAMILIA El juez, sin otro trámite que el informe del juez de paz, removerá de inmediato todo inconveniente y le impondrá a éste, según las circunstancias, una multa equivalente a no más del treinta por ciento del sueldo mínimo vital mensual. La remoción de inconvenientes e imposición de multa corresponden a la Sala Civil de la Corte Superior cuando se trate del juez de menores. En ambos casos, la multa no exime de responsabilidad funcional al juez negligente. Facultades especiales del Juez y Sala Civil
+DERECHO DE FAMILIA El juez, sin otro trámite que el informe del juez de paz, removerá de inmediato todo inconveniente y le impondrá a éste, según las circunstancias, una multa equivalente a no más del treinta por ciento del sueldo mínimo vital mensual.
+
+La remoción de inconvenientes e imposición de multa corresponden a la Sala Civil de la Corte Superior cuando se trate del juez de menores.
+
+En ambos casos, la multa no exime de responsabilidad funcional al juez negligente. Facultades especiales del Juez y Sala Civil
 
 ###### Artículo 654º
 
-Corresponde también al juez de primera instancia o, en su caso, a la Sala Civil de la Corte Superior, dictar en situación de urgencia, las providencias que favorezcan a la persona o intereses de los menores, mayores incapaces o ausentes, cuando haya retardo en la formación del consejo u obstáculos que impidan su reunión o que entorpezcan sus deliberaciones. Jueces competentes
+Corresponde también al juez de primera instancia o, en su caso, a la Sala Civil de la Corte Superior, dictar en situación de urgencia, las providencias que favorezcan a la persona o intereses de los menores, mayores incapaces o ausentes, cuando haya retardo en la formación del consejo u obstáculos que impidan su reunión o que entorpezcan sus deliberaciones.
+
+Jueces competentes
 
 ###### Artículo 655º
 
@@ -3840,7 +4268,9 @@ Responsabilidad ultra vires hereditatis
 
 ###### Artículo 662º
 
-Pierde el beneficio otorgado en el Artículo 661º el heredero que: 1.- Oculta dolosamente bienes hereditarios. 2.- Simula deudas o dispone de los bienes dejados por el causante, en perjuicio de los derechos de los acreedores de la sucesión. Juez competente en materia sucesoria
+Pierde el beneficio otorgado en el Artículo 661º el heredero que: 1.- Oculta dolosamente bienes hereditarios. 2.- Simula deudas o dispone de los bienes dejados por el causante, en perjuicio de los derechos de los acreedores de la sucesión.
+
+Juez competente en materia sucesoria
 
 ###### Artículo 663º
 
@@ -3852,7 +4282,9 @@ Acción de petición de herencia
 
 ###### Artículo 664º
 
-El derecho de petición de herencia corresponde al heredero que no posee los bienes que considera que le pertenecen, y se dirige contra quien los posea en todo o parte a título sucesorio, para excluirlo o para concurrir con él. A la pretensión a que se refiere el párrafo anterior, puede acumularse la de declarar heredero al peticionante si, habiéndose pronunciado declaración judicial de herederos, considera que con ella se han preterido sus derechos. Las pretensiones a que se refiere este Artículo son imprescriptibles y se tramitan como proceso de conocimiento.[^163] Acción reivindicatoria de bienes hereditarios
+El derecho de petición de herencia corresponde al heredero que no posee los bienes que considera que le pertenecen, y se dirige contra quien los posea en todo o parte a título sucesorio, para excluirlo o para concurrir con él. A la pretensión a que se refiere el párrafo anterior, puede acumularse la de declarar heredero al peticionante si, habiéndose pronunciado declaración judicial de herederos, considera que con ella se han preterido sus derechos.
+
+Las pretensiones a que se refiere este Artículo son imprescriptibles y se tramitan como proceso de conocimiento.[^163] Acción reivindicatoria de bienes hereditarios
 
 ###### Artículo 665º
 
@@ -3936,7 +4368,9 @@ Herencia futura
 
 ###### Artículo 678º
 
-No hay aceptación ni renuncia de herencia futura. Transmisibilidad del derecho de aceptar o renunciar a la herencia
+No hay aceptación ni renuncia de herencia futura.
+
+Transmisibilidad del derecho de aceptar o renunciar a la herencia
 
 ###### Artículo 679º
 
@@ -3960,7 +4394,9 @@ Representación en línea recta
 
 ###### Artículo 682º
 
-En la línea recta descendente la representación es ilimitada en favor de los descendientes de los hijos, sin distinción alguna. Representación en línea colateral
+En la línea recta descendente la representación es ilimitada en favor de los descendientes de los hijos, sin distinción alguna.
+
+Representación en línea colateral
 
 ###### Artículo 683º
 
@@ -3982,7 +4418,9 @@ Sucesión por testamento
 
 ###### Artículo 686º
 
-Por el testamento una persona puede disponer de sus bienes, total o parcialmente, para después de su muerte, y ordenar su propia sucesión dentro de los límites de la ley y con las formalidades que ésta señala. Son válidas las disposiciones de carácter no patrimonial contenidas en el testamento, aunque el acto se limite a ellas.
+Por el testamento una persona puede disponer de sus bienes, total o parcialmente, para después de su muerte, y ordenar su propia sucesión dentro de los límites de la ley y con las formalidades que ésta señala.
+
+Son válidas las disposiciones de carácter no patrimonial contenidas en el testamento, aunque el acto se limite a ellas.
 
 Incapacidad para otorgar testamento
 
@@ -4020,7 +4458,9 @@ CONCORDANCIA: Ley Nº 27261, Art. 74º DERECHO DE SUCESIONES Formalidad del Test
 
 ###### Artículo 692º
 
-Los analfabetos pueden testar solamente en escritura pública, con las formalidades adicionales indicadas en el Artículo 697º. Artículos 693º y 694º.- DEROGADOS[^166] Formalidades testamentarias
+Los analfabetos pueden testar solamente en escritura pública, con las formalidades adicionales indicadas en el Artículo 697º.
+
+Artículos 693º y 694º.- DEROGADOS[^166] Formalidades testamentarias
 
 ###### Artículo 695º
 
@@ -4052,7 +4492,11 @@ Formalidad del Testamento Cerrado
 
 ###### Artículo 699º
 
-Las formalidades esenciales del testamento cerrado son: 1.- Que el documento en que ha sido extendido esté firmado en cada una de sus páginas por el testador, bastando que lo haga al final si estuviera manuscrito por él mismo, y que sea colocado dentro de un sobre debidamente cerrado o de una cubierta clausurada, de manera que no pueda ser extraído el testamento sin rotura o alteración de la cubierta. DERECHO DE SUCESIONES Tratándose de un testamento otorgado por una persona con discapacidad por deficiencia visual, podrá ser otorgado en sistema braille o utilizando algún otro medio o formato alternativo de comunicación, debiendo contar cada folio con la impresión de su huella dactilar y su firma, colocado dentro de un sobre en las condiciones que detalla el primer párrafo.[^170] 2.- Que el testador entregue personalmente al notario el referido documento cerrado, ante dos testigos hábiles, manifestándole que contiene su testamento. Si el testador es mudo o está imposibilitado de hablar, esta manifestación la hará por escrito en la cubierta. 3.- Que el notario extienda en la cubierta del testamento un acta en que conste su otorgamiento por el testador y su recepción por el notario, la cual firmarán el testador, los testigos y el notario, quien la transcribirá en su registro, firmándola las mismas personas. 4.- Que el cumplimiento de las formalidades indicadas en los incisos 2 y 3 se efectúe estando reunidos en un solo acto el testador, los testigos y el notario, quien dará al testador copia certificada del acta. Revocación del testamento cerrado
+Las formalidades esenciales del testamento cerrado son: 1.- Que el documento en que ha sido extendido esté firmado en cada una de sus páginas por el testador, bastando que lo haga al final si estuviera manuscrito por él mismo, y que sea colocado dentro de un sobre debidamente cerrado o de una cubierta clausurada, de manera que no pueda ser extraído el testamento sin rotura o alteración de la cubierta.
+
+DERECHO DE SUCESIONES Tratándose de un testamento otorgado por una persona con discapacidad por deficiencia visual, podrá ser otorgado en sistema braille o utilizando algún otro medio o formato alternativo de comunicación, debiendo contar cada folio con la impresión de su huella dactilar y su firma, colocado dentro de un sobre en las condiciones que detalla el primer párrafo.[^170] 2.- Que el testador entregue personalmente al notario el referido documento cerrado, ante dos testigos hábiles, manifestándole que contiene su testamento. Si el testador es mudo o está imposibilitado de hablar, esta manifestación la hará por escrito en la cubierta. 3.- Que el notario extienda en la cubierta del testamento un acta en que conste su otorgamiento por el testador y su recepción por el notario, la cual firmarán el testador, los testigos y el notario, quien la transcribirá en su registro, firmándola las mismas personas. 4.- Que el cumplimiento de las formalidades indicadas en los incisos 2 y 3 se efectúe estando reunidos en un solo acto el testador, los testigos y el notario, quien dará al testador copia certificada del acta.
+
+Revocación del testamento cerrado
 
 ###### Artículo 700º
 
@@ -4140,7 +4584,11 @@ El testamento militar se hará llegar, a la brevedad posible y por conducto regu
 
 ###### Artículo 715º
 
-El testamento militar caduca a los tres meses desde que el testador deje de estar en campaña y llegue a un lugar del territorio nacional donde sea posible otorgar testamento en las formas ordinarias. El plazo de caducidad se computa a partir de la fecha del documento oficial que autoriza el retorno del testador, sin perjuicio del término de la distancia. Si el testador muere antes del plazo señalado para la caducidad, sus presuntos herederos o legatarios pedirán ante el juez en cuyo poder se encuentra el testamento, su comprobación judicial y protocolización notarial, conforme a las disposiciones de los Artículos 707º, segundo párrafo, a 711º. Si el testamento otorgado en las circunstancias a que se refiere el Artículo 712º tuviera los requisitos del testamento ológrafo, caduca al año de la muerte del testador.
+El testamento militar caduca a los tres meses desde que el testador deje de estar en campaña y llegue a un lugar del territorio nacional donde sea posible otorgar testamento en las formas ordinarias.
+
+El plazo de caducidad se computa a partir de la fecha del documento oficial que autoriza el retorno del testador, sin perjuicio del término de la distancia. Si el testador muere antes del plazo señalado para la caducidad, sus presuntos herederos o legatarios pedirán ante el juez en cuyo poder se encuentra el testamento, su comprobación judicial y protocolización notarial, conforme a las disposiciones de los Artículos 707º, segundo párrafo, a 711º.
+
+Si el testamento otorgado en las circunstancias a que se refiere el Artículo 712º tuviera los requisitos del testamento ológrafo, caduca al año de la muerte del testador.
 
 ##### CAPÍTULO SÉPTIMO — Testamento Marítimo
 
@@ -4156,7 +4604,11 @@ Formalidades del testamento marítimo
 
 ###### Artículo 717º
 
-El testamento marítimo será otorgado ante quien tenga el mando del buque o ante el oficial en quien éste delegue la función y en presencia de dos testigos. El testamento del comandante del buque de guerra o del capitán del barco mercante será otorgado ante quien le siga en el mando. Son formalidades de este testamento que conste por escrito y que sea firmado por el testador, por la persona ante la cual es otorgado y por los testigos. Se extenderá, además, un duplicado con las mismas firmas que el original. El testamento será anotado en el diario de bitácora, de lo cual se dejará constancia en ambos ejemplares con el visto bueno de quien ejerce el mando de la nave, y se conservará con los documentos de éste.
+El testamento marítimo será otorgado ante quien tenga el mando del buque o ante el oficial en quien éste delegue la función y en presencia de dos testigos. El testamento del comandante del buque de guerra o del capitán del barco mercante será otorgado ante quien le siga en el mando.
+
+Son formalidades de este testamento que conste por escrito y que sea firmado por el testador, por la persona ante la cual es otorgado y por los testigos. Se extenderá, además, un duplicado con las mismas firmas que el original.
+
+El testamento será anotado en el diario de bitácora, de lo cual se dejará constancia en ambos ejemplares con el visto bueno de quien ejerce el mando de la nave, y se conservará con los documentos de éste.
 
 Protección del testamento marítimo
 
@@ -4166,11 +4618,15 @@ Si antes de regresar al Perú la nave arriba a un puerto extranjero donde hubier
 
 ###### Artículo 719º
 
-Al retorno de la nave al Perú los dos ejemplares o el ejemplar restante en el caso del Artículo 718º, serán entregados al Ministerio de Marina, DERECHO DE SUCESIONES si el buque es de guerra; o a la Capitanía del Puerto de destino para su remisión a la Dirección General de Capitanías, si el barco es mercante. En uno u otro caso, la autoridad respectiva enviará un ejemplar al juez de primera instancia de la provincia donde el testador tuvo su último domicilio y archivará el otro. Si el testador fuere extranjero y no estuviera domiciliado en el Perú, un ejemplar será remitido al Ministerio de Relaciones Exteriores. En caso de muerte del testador durante el viaje, se agregará a cada ejemplar una copia certificada del acta que acredite la defunción. En igual caso, si se encuentra entre las prendas del difunto un testamento ológrafo, éste será guardado con los papeles de la nave, agregándosele copia certificada del acta que acredite la defunción y se le dará el mismo curso indicado en el párrafo anterior. Caducidad del testamento marítimo
+Al retorno de la nave al Perú los dos ejemplares o el ejemplar restante en el caso del Artículo 718º, serán entregados al Ministerio de Marina, DERECHO DE SUCESIONES si el buque es de guerra; o a la Capitanía del Puerto de destino para su remisión a la Dirección General de Capitanías, si el barco es mercante. En uno u otro caso, la autoridad respectiva enviará un ejemplar al juez de primera instancia de la provincia donde el testador tuvo su último domicilio y archivará el otro. Si el testador fuere extranjero y no estuviera domiciliado en el Perú, un ejemplar será remitido al Ministerio de Relaciones Exteriores.
+
+En caso de muerte del testador durante el viaje, se agregará a cada ejemplar una copia certificada del acta que acredite la defunción. En igual caso, si se encuentra entre las prendas del difunto un testamento ológrafo, éste será guardado con los papeles de la nave, agregándosele copia certificada del acta que acredite la defunción y se le dará el mismo curso indicado en el párrafo anterior. Caducidad del testamento marítimo
 
 ###### Artículo 720º
 
-El testamento marítimo caduca a los tres meses de haber desembarcado definitivamente el testador. Si muere antes del vencimiento de este plazo, sus presuntos herederos o legatarios, pedirán al juez cuyo poder se encuentre, su comprobación judicial y protocolización notarial, conforme a las disposiciones de los Artículos 707º, segundo párrafo, a 711º. Si el testamento otorgado a las circunstancias a que se refiere el Artículo 716º tuviera los requisitos del testamento ológrafo, caduca al año de la muerte del testador.
+El testamento marítimo caduca a los tres meses de haber desembarcado definitivamente el testador. Si muere antes del vencimiento de este plazo, sus presuntos herederos o legatarios, pedirán al juez cuyo poder se encuentre, su comprobación judicial y protocolización notarial, conforme a las disposiciones de los Artículos 707º, segundo párrafo, a 711º.
+
+Si el testamento otorgado a las circunstancias a que se refiere el Artículo 716º tuviera los requisitos del testamento ológrafo, caduca al año de la muerte del testador.
 
 ##### CAPÍTULO OCT AVO — Testamentos Otorgados en el Extranjero
 
@@ -4178,7 +4634,11 @@ Formalidad del Testamento otorgado en el extranjero
 
 ###### Artículo 721º
 
-Los peruanos que residen o se hallen en el extranjero pueden otorgar testamento ante el agente consular del Perú, por escritura pública o cerrado, según lo dispuesto en los Artículos 696º a 703º, respectivamente. En estos casos aquél cumplirá la función de notario público. Puede también otorgar testamento ológrafo, que será válido en el Perú, aunque la ley del respectivo país no admita esta clase de testamento. Validez de testamento otorgado en el extranjero
+Los peruanos que residen o se hallen en el extranjero pueden otorgar testamento ante el agente consular del Perú, por escritura pública o cerrado, según lo dispuesto en los Artículos 696º a 703º, respectivamente. En estos casos aquél cumplirá la función de notario público.
+
+Puede también otorgar testamento ológrafo, que será válido en el Perú, aunque la ley del respectivo país no admita esta clase de testamento.
+
+Validez de testamento otorgado en el extranjero
 
 ###### Artículo 722º
 
@@ -4198,7 +4658,9 @@ Son herederos forzosos los hijos y los demás descendientes, los padres y los de
 
 ###### Artículo 725º
 
-El que tiene hijos u otros descendientes, o cónyuge, puede disponer libremente hasta del tercio de sus bienes. Libre disposición de la mitad de los bienes
+El que tiene hijos u otros descendientes, o cónyuge, puede disponer libremente hasta del tercio de sus bienes.
+
+Libre disposición de la mitad de los bienes
 
 ###### Artículo 726º
 
@@ -4218,7 +4680,9 @@ Legítima de heredero forzoso
 
 ###### Artículo 729º
 
-La legítima de cada uno de los herederos forzosos es una cuota igual a la que les corresponde en la sucesión intestada, cuyas disposiciones rigen, asimismo, su concurrencia, participación o exclusión. Legítima del cónyuge
+La legítima de cada uno de los herederos forzosos es una cuota igual a la que les corresponde en la sucesión intestada, cuyas disposiciones rigen, asimismo, su concurrencia, participación o exclusión.
+
+Legítima del cónyuge
 
 ###### Artículo 730º
 
@@ -4240,7 +4704,9 @@ Derecho de usufructo del cónyuge supérstite
 
 Si en el caso del Artículo 731º el cónyuge sobreviviente no estuviere en situación económica que le permita sostener los gastos de la casahabitación, podrá, con autorización judicial, darla en arrendamiento, percibir para sí la renta y ejercer sobre la diferencia existente entre el valor del bien y el de sus derechos por concepto de legítima y gananciales los demás derechos inherentes al usufructuario. Si se extingue el arrendamiento, el cónyuge sobreviviente podrá readquirir a su sola voluntad el derecho de habitación a que se refiere el Artículo 731º.
 
-Mientras esté afectado por los derechos de habitación o de usufructo, en su caso, la casa-habitación tendrá la condición legal de patrimonio familiar. Si el cónyuge sobreviviente contrae nuevo matrimonio, vive en concubinato o muere, los derechos que le son concedidos en este Artículo y en el Artículo 731º se extinguen, quedando expedita la partición del bien. También se extinguen tales derechos cuando el cónyuge sobreviviente renuncia a ellos. Intangibilidad de la legítima
+Mientras esté afectado por los derechos de habitación o de usufructo, en su caso, la casa-habitación tendrá la condición legal de patrimonio familiar. Si el cónyuge sobreviviente contrae nuevo matrimonio, vive en concubinato o muere, los derechos que le son concedidos en este Artículo y en el Artículo 731º se extinguen, quedando expedita la partición del bien. También se extinguen tales derechos cuando el cónyuge sobreviviente renuncia a ellos.
+
+Intangibilidad de la legítima
 
 ###### Artículo 733º
 
@@ -4270,15 +4736,23 @@ La institución de heredero forzoso se hará en forma simple y absoluta. Las mod
 
 ###### Artículo 737º
 
-El testador que no tenga herederos forzosos, puede instituir uno o más herederos voluntarios y señalar la parte de la herencia que asigna a cada uno. Si no la determina, sucederán en partes iguales. Caudal disponible para legatarios
+El testador que no tenga herederos forzosos, puede instituir uno o más herederos voluntarios y señalar la parte de la herencia que asigna a cada uno. Si no la determina, sucederán en partes iguales.
+
+Caudal disponible para legatarios
 
 ###### Artículo 738º
 
-El testador puede instituir legatarios, con la parte disponible si tiene herederos forzosos, y no teniéndolos, hasta con la totalidad de sus bienes y señalar los que asigna a cada uno de los legatarios. El testador puede imponer tanto a los herederos voluntarios como a los legatarios, condiciones y cargos que no sean contrarios a la ley, a las buenas costumbres y al libre ejercicio de los derechos fundamentales de la persona. Remanente que corresponde a herederos legales
+El testador puede instituir legatarios, con la parte disponible si tiene herederos forzosos, y no teniéndolos, hasta con la totalidad de sus bienes y señalar los que asigna a cada uno de los legatarios.
+
+El testador puede imponer tanto a los herederos voluntarios como a los legatarios, condiciones y cargos que no sean contrarios a la ley, a las buenas costumbres y al libre ejercicio de los derechos fundamentales de la persona.
+
+Remanente que corresponde a herederos legales
 
 ###### Artículo 739º
 
-Si el testador que carece de herederos forzosos no ha instituido herederos voluntarios y dispone en legados de sólo parte de sus bienes, el remanente que hubiere corresponde a sus herederos legales. Igualdad de condiciones y cargos entre sustitutos y legatarios
+Si el testador que carece de herederos forzosos no ha instituido herederos voluntarios y dispone en legados de sólo parte de sus bienes, el remanente que hubiere corresponde a sus herederos legales.
+
+Igualdad de condiciones y cargos entre sustitutos y legatarios
 
 ###### Artículo 740º
 
@@ -4306,11 +4780,15 @@ Causales de desheredación de descendientes
 
 ###### Artículo 744º
 
-Son causales de desheredación de los descendientes: 1.- Haber maltratado de obra o injuriado grave y reiteradamente al ascendiente o a su cónyuge, si éste es también ascendiente del ofensor. 2.- Haberle negado sin motivo justificado los alimentos o haber abandonado al ascendiente encontrándose éste gravemente enfermo o sin poder valerse por sí mismo. 3.- Haberle privado de su libertad injustificadamente. 4.- Llevar el descendiente una vida deshonrosa o inmoral. Causales de desheredación de ascendientes
+Son causales de desheredación de los descendientes: 1.- Haber maltratado de obra o injuriado grave y reiteradamente al ascendiente o a su cónyuge, si éste es también ascendiente del ofensor. 2.- Haberle negado sin motivo justificado los alimentos o haber abandonado al ascendiente encontrándose éste gravemente enfermo o sin poder valerse por sí mismo. 3.- Haberle privado de su libertad injustificadamente. 4.- Llevar el descendiente una vida deshonrosa o inmoral.
+
+Causales de desheredación de ascendientes
 
 ###### Artículo 745º
 
-Son causales de desheredación de los ascendientes: 1.- Haber negado injustificadamente los alimentos a sus descendientes. 2.- Haber incurrido el ascendiente en alguna de las causas por las que se pierde la patria potestad o haber sido privado de ella. Causales de desheredación del cónyuge
+Son causales de desheredación de los ascendientes: 1.- Haber negado injustificadamente los alimentos a sus descendientes. 2.- Haber incurrido el ascendiente en alguna de las causas por las que se pierde la patria potestad o haber sido privado de ella.
+
+Causales de desheredación del cónyuge
 
 ###### Artículo 746º
 
@@ -4332,7 +4810,9 @@ No pueden ser desheredados los incapaces menores de edad, ni los mayores que por
 
 ###### Artículo 749º
 
-Los efectos de la desheredación se refieren a la legítima y no se extienden a las donaciones y legados otorgados al heredero, que el causante puede revocar, ni a los alimentos debidos por ley, ni a otros derechos que corresponden al heredero con motivo de la muerte del testador. Derecho de contradecir la desheredación
+Los efectos de la desheredación se refieren a la legítima y no se extienden a las donaciones y legados otorgados al heredero, que el causante puede revocar, ni a los alimentos debidos por ley, ni a otros derechos que corresponden al heredero con motivo de la muerte del testador.
+
+Derecho de contradecir la desheredación
 
 ###### Artículo 750º
 
@@ -4384,7 +4864,9 @@ Legado de bien indeterminado
 
 ###### Artículo 758º
 
-Es válido el legado de un bien mueble indeterminado, aunque no lo haya en la herencia. La elección, salvo disposición diversa del testador, corresponde al encargado de pagar el legado, quien cumplirá con dar un bien que no sea de calidad inferior ni superior a aquél, debiendo tener en consideración la parte disponible de la herencia y las necesidades del legatario. Legado de bien parcialmente ajeno
+Es válido el legado de un bien mueble indeterminado, aunque no lo haya en la herencia. La elección, salvo disposición diversa del testador, corresponde al encargado de pagar el legado, quien cumplirá con dar un bien que no sea de calidad inferior ni superior a aquél, debiendo tener en consideración la parte disponible de la herencia y las necesidades del legatario.
+
+Legado de bien parcialmente ajeno
 
 ###### Artículo 759º
 
@@ -4428,11 +4910,15 @@ Legado de alimentos
 
 ###### Artículo 766º
 
-El legado de alimentos, si el testador no determinó su cuantía y forma de pago, se cumple asignando al legatario una pensión que se regirá por lo establecido en las disposiciones de los Artículos 472º a 487º. Legado remuneratorio
+El legado de alimentos, si el testador no determinó su cuantía y forma de pago, se cumple asignando al legatario una pensión que se regirá por lo establecido en las disposiciones de los Artículos 472º a 487º.
+
+Legado remuneratorio
 
 ###### Artículo 767º
 
-El legado remuneratorio se considera como pago, en la parte en que corresponda razonablemente al servicio prestado por el beneficiario del testador y como acto de liberalidad en cuanto al exceso. DERECHO DE SUCESIONES Legado sujeto a modalidad
+El legado remuneratorio se considera como pago, en la parte en que corresponda razonablemente al servicio prestado por el beneficiario del testador y como acto de liberalidad en cuanto al exceso.
+
+DERECHO DE SUCESIONES Legado sujeto a modalidad
 
 ###### Artículo 768º
 
@@ -4476,7 +4962,9 @@ Si varios herederos son instituidos en la totalidad de los bienes sin determinac
 
 ###### Artículo 775º
 
-Cuando un mismo bien es legado a varias personas, sin determinación de partes y alguna de ellas no quiera o no pueda recibir la que le corresponde, ésta acrecerá las partes de los demás. Reintegro del legado a la masa hereditaria
+Cuando un mismo bien es legado a varias personas, sin determinación de partes y alguna de ellas no quiera o no pueda recibir la que le corresponde, ésta acrecerá las partes de los demás.
+
+Reintegro del legado a la masa hereditaria
 
 ###### Artículo 776º
 
@@ -4498,7 +4986,9 @@ Formalidad del nombramiento
 
 ###### Artículo 779º
 
-El nombramiento de albacea debe constar en testamento. Pluralidad de albaceas
+El nombramiento de albacea debe constar en testamento.
+
+Pluralidad de albaceas
 
 ###### Artículo 780º
 
@@ -4508,7 +4998,9 @@ Responsabilidad solidaria de los albaceas
 
 ###### Artículo 781º
 
-Es solidaria la responsabilidad de los albaceas que ejercen conjuntamente el cargo, salvo disposición distinta del testador. DERECHO DE SUCESIONES Ejercicio concurrente o sucesivo del albacea
+Es solidaria la responsabilidad de los albaceas que ejercen conjuntamente el cargo, salvo disposición distinta del testador.
+
+DERECHO DE SUCESIONES Ejercicio concurrente o sucesivo del albacea
 
 ###### Artículo 782º
 
@@ -4570,11 +5062,17 @@ Remuneración del albacea
 
 El cargo de albacea es remunerado, salvo que el testador disponga su gratuidad.
 
-La remuneración no será mayor del cuatro por ciento de la masa líquida. En defecto de la determinación de la remuneración por el testador, lo hará el juez, quien también señalará la del albacea dativo. DERECHO DE SUCESIONES Rendición de cuenta del albacea
+La remuneración no será mayor del cuatro por ciento de la masa líquida. En defecto de la determinación de la remuneración por el testador, lo hará el juez, quien también señalará la del albacea dativo.
+
+DERECHO DE SUCESIONES Rendición de cuenta del albacea
 
 ###### Artículo 794º
 
-Aunque el testador le hubiera eximido de este deber, dentro de los sesenta días de terminado el albaceazgo, el albacea debe presentar a los sucesores un informe escrito de su gestión y, de ser el caso, las cuentas correspondientes, con los documentos del caso u ofreciendo otro medio probatorio. Las cuentas no requieren la observancia de formalidad especial en cuanto a su contenido, siempre que figure una relación ordenada de ingresos y gastos. También cumplirá este deber durante el ejercicio del cargo, con frecuencia no inferior a seis meses, cuando lo ordene el Juez Civil a pedido de cualquier sucesor. La solicitud se tramita como proceso no contencioso. El informe y las cuentas se entienden aprobados si dentro del plazo de caducidad de sesenta días de presentados no se solicita judicialmente su desaprobación, como proceso de conocimiento.
+Aunque el testador le hubiera eximido de este deber, dentro de los sesenta días de terminado el albaceazgo, el albacea debe presentar a los sucesores un informe escrito de su gestión y, de ser el caso, las cuentas correspondientes, con los documentos del caso u ofreciendo otro medio probatorio. Las cuentas no requieren la observancia de formalidad especial en cuanto a su contenido, siempre que figure una relación ordenada de ingresos y gastos.
+
+También cumplirá este deber durante el ejercicio del cargo, con frecuencia no inferior a seis meses, cuando lo ordene el Juez Civil a pedido de cualquier sucesor. La solicitud se tramita como proceso no contencioso.
+
+El informe y las cuentas se entienden aprobados si dentro del plazo de caducidad de sesenta días de presentados no se solicita judicialmente su desaprobación, como proceso de conocimiento.
 
 Las reglas contenidas en este artículo son de aplicación supletoria a todos los demás casos en los que exista deber legal o convencional de presentar cuentas de ingresos y gastos o informes de gestión.[^185] Remoción del albacea
 
@@ -4584,7 +5082,9 @@ Puede solicitarse, como proceso sumarísimo, la remoción del albacea que no ha 
 
 ###### Artículo 796º
 
-El cargo de albacea termina: 1.- Por haber transcurrido dos años desde su aceptación, salvo el mayor plazo que señale el testador, o que conceda el juez con acuerdo de la mayoría de los herederos. 2.- Por haber concluido sus funciones. 3.- Por renuncia con aprobación judicial. 4.- Por incapacidad legal o física que impida el desempeño de la función. 5.- Por remoción judicial, a petición de parte debidamente fundamentada. 6.- Por muerte, desaparición o declaración de ausencia. Obligación de albacea de cumplir con la voluntad del testador
+El cargo de albacea termina: 1.- Por haber transcurrido dos años desde su aceptación, salvo el mayor plazo que señale el testador, o que conceda el juez con acuerdo de la mayoría de los herederos. 2.- Por haber concluido sus funciones. 3.- Por renuncia con aprobación judicial. 4.- Por incapacidad legal o física que impida el desempeño de la función. 5.- Por remoción judicial, a petición de parte debidamente fundamentada. 6.- Por muerte, desaparición o declaración de ausencia.
+
+Obligación de albacea de cumplir con la voluntad del testador
 
 ###### Artículo 797º
 
@@ -4670,23 +5170,33 @@ Es anulable el testamento obtenido por la violencia, la intimidación o el dolo.
 
 ###### Artículo 810º
 
-Cuando un testamento ha sido otorgado expresando como causa la muerte del heredero instituido en uno anterior, valdrá éste y se tendrá por no otorgado aquél, si resulta falsa la noticia de la muerte. Nulidad por defectos de forma
+Cuando un testamento ha sido otorgado expresando como causa la muerte del heredero instituido en uno anterior, valdrá éste y se tendrá por no otorgado aquél, si resulta falsa la noticia de la muerte.
+
+Nulidad por defectos de forma
 
 ###### Artículo 811º
 
-El testamento es nulo de pleno derecho, por defectos de forma, si es infractorio de lo dispuesto en el Artículo 695º o, en su caso, de los Artículos 696º, 699º y 707º, salvo lo previsto en el Artículo 697º. Anulabilidad por defectos de forma
+El testamento es nulo de pleno derecho, por defectos de forma, si es infractorio de lo dispuesto en el Artículo 695º o, en su caso, de los Artículos 696º, 699º y 707º, salvo lo previsto en el Artículo 697º.
+
+Anulabilidad por defectos de forma
 
 ###### Artículo 812º
 
-El testamento es anulable por defectos de forma cuando no han sido cumplidas las demás formalidades señaladas para la clase de testamento empleada por el testador. La acción no puede ser ejercida en este caso por quienes ejecutaron voluntariamente el testamento, y caduca a los dos años contados desde la fecha en que el heredero tuvo conocimiento del mismo. Nulidad y anulabilidad de testamentos especiales
+El testamento es anulable por defectos de forma cuando no han sido cumplidas las demás formalidades señaladas para la clase de testamento empleada por el testador. La acción no puede ser ejercida en este caso por quienes ejecutaron voluntariamente el testamento, y caduca a los dos años contados desde la fecha en que el heredero tuvo conocimiento del mismo.
+
+Nulidad y anulabilidad de testamentos especiales
 
 ###### Artículo 813º
 
-Los testamentos especiales son nulos de pleno derecho cuando falta la forma escrita, la firma del testador o de la persona autorizada para recibirlos. Son anulables en el caso del Artículo 812º. Nulidad de testamento común
+Los testamentos especiales son nulos de pleno derecho cuando falta la forma escrita, la firma del testador o de la persona autorizada para recibirlos. Son anulables en el caso del Artículo 812º.
+
+Nulidad de testamento común
 
 ###### Artículo 814º
 
-Es nulo el testamento otorgado en común por dos o más personas. DERECHO DE SUCESIONES
+Es nulo el testamento otorgado en común por dos o más personas.
+
+DERECHO DE SUCESIONES
 
 ### SECCIÓN TERCERA — SUCESIÓN INTEST ADA
 
@@ -4742,15 +5252,21 @@ Concurrencia del cónyuge con descendientes
 
 ###### Artículo 822º
 
-El cónyuge que concurre con hijos o con otros descendientes del causante, hereda una parte igual a la de un hijo. Opción usufructuaria del cónyuge
+El cónyuge que concurre con hijos o con otros descendientes del causante, hereda una parte igual a la de un hijo.
+
+Opción usufructuaria del cónyuge
 
 ###### Artículo 823º
 
-En los casos del Artículo 822º el cónyuge puede optar por el usufructo de la tercera parte de la herencia, salvo que hubiere obtenido los derechos que le conceden los Artículos 731º y 732º. Concurrencia del cónyuge con ascendientes
+En los casos del Artículo 822º el cónyuge puede optar por el usufructo de la tercera parte de la herencia, salvo que hubiere obtenido los derechos que le conceden los Artículos 731º y 732º.
+
+Concurrencia del cónyuge con ascendientes
 
 ###### Artículo 824º
 
-El cónyuge que concurra con los padres o con otros ascendientes del causante, hereda una parte igual a la de uno de ellos. Sucesión exclusiva del cónyuge
+El cónyuge que concurra con los padres o con otros ascendientes del causante, hereda una parte igual a la de uno de ellos.
+
+Sucesión exclusiva del cónyuge
 
 ###### Artículo 825º
 
@@ -4786,7 +5302,9 @@ Sucesión del Estado y de la Beneficencia Pública
 
 A falta de sucesores testamentarios o legales el juez o notario que conoce del proceso o trámite de sucesión intestada, adjudicará los bienes que integran la masa hereditaria, a la Sociedad de Beneficencia o a falta de ésta, a la Junta de Participación Social del lugar del último domicilio del causante en el país o a la Sociedad de Beneficencia de Lima Metropolitana si estuvo domiciliado en el extranjero.
 
-Es obligación de la entidad adjudicataria pagar las deudas del causante si las hubiera, hasta donde alcance el valor de los bienes adjudicados. Corresponde al gestor del proceso o trámite de sucesión intestada, el diez por ciento del valor neto de los bienes adjudicados, el mismo que será abonado por la entidad respectiva, con el producto de la venta de dichos bienes u otros, mediante la adjudicación de alguno de ellos.[^190]
+Es obligación de la entidad adjudicataria pagar las deudas del causante si las hubiera, hasta donde alcance el valor de los bienes adjudicados.
+
+Corresponde al gestor del proceso o trámite de sucesión intestada, el diez por ciento del valor neto de los bienes adjudicados, el mismo que será abonado por la entidad respectiva, con el producto de la venta de dichos bienes u otros, mediante la adjudicación de alguno de ellos.[^190]
 
 ### SECCIÓN CUART A — MASA HEREDIT ARIA
 
@@ -4812,15 +5330,21 @@ Colación en especie
 
 ###### Artículo 834º
 
-El que colaciona en especie deducirá en su favor el valor de las mejoras que hubiere hecho, y resarcirá a la masa hereditaria el valor de los deterioros que el bien haya sufrido por culpa suya. Colación de dinero, créditos o títulos valores
+El que colaciona en especie deducirá en su favor el valor de las mejoras que hubiere hecho, y resarcirá a la masa hereditaria el valor de los deterioros que el bien haya sufrido por culpa suya.
+
+Colación de dinero, créditos o títulos valores
 
 ###### Artículo 835º
 
-Si la liberalidad consistió en dinero, créditos, o títulos valores, se hará un equitativo reajuste, según las circunstancias del caso, para determinar el valor colacionable al tiempo de la apertura de la sucesión. En caso de discrepancia entre los herederos, el valor será determinado, en la vía incidental, por el juez a quien corresponde conocer de la sucesión. Bienes no colacionables
+Si la liberalidad consistió en dinero, créditos, o títulos valores, se hará un equitativo reajuste, según las circunstancias del caso, para determinar el valor colacionable al tiempo de la apertura de la sucesión.
+
+En caso de discrepancia entre los herederos, el valor será determinado, en la vía incidental, por el juez a quien corresponde conocer de la sucesión. Bienes no colacionables
 
 ###### Artículo 836º
 
-No son colacionables los bienes que por causas no imputables al heredero, hubieren perecido antes de la apertura de la sucesión. Gastos no colacionables
+No son colacionables los bienes que por causas no imputables al heredero, hubieren perecido antes de la apertura de la sucesión.
+
+Gastos no colacionables
 
 ###### Artículo 837º
 
@@ -4872,7 +5396,9 @@ El estado de indivisión hereditaria se rige por las disposiciones relativas a l
 
 ###### Artículo 846º
 
-El testador puede establecer la indivisión de cualquier empresa comprendida en la herencia, hasta por un plazo de cuatro años, sin perjuicio de que los herederos se distribuyan normalmente las utilidades. Tratándose de explotaciones agrícolas y ganaderas se estará a lo dispuesto por la ley de la materia.
+El testador puede establecer la indivisión de cualquier empresa comprendida en la herencia, hasta por un plazo de cuatro años, sin perjuicio de que los herederos se distribuyan normalmente las utilidades.
+
+Tratándose de explotaciones agrícolas y ganaderas se estará a lo dispuesto por la ley de la materia.
 
 Asimismo, a partir de la publicación e inscripción registral del sometimiento de la sucesión a cualquiera de los procedimientos concursales previstos en la DERECHO DE SUCESIONES legislación nacional se producirá la indivisión de la masa hereditaria testamentaria o intestada.[^191] Indivisión pactada entre herederos
 
@@ -4920,7 +5446,9 @@ Si no existe régimen de indivisión, la partición judicial de la herencia pued
 
 ###### Artículo 855º
 
-La partición judicial es obligatoria en los siguientes casos: 1.- Cuando hay heredero incapaz, a solicitud de su representante. 2.- Cuando hay heredero declarado ausente, a solicitud de las personas a quienes se haya dado posesión temporal de sus bienes. Suspensión de la participación por heredero concebido
+La partición judicial es obligatoria en los siguientes casos: 1.- Cuando hay heredero incapaz, a solicitud de su representante. 2.- Cuando hay heredero declarado ausente, a solicitud de las personas a quienes se haya dado posesión temporal de sus bienes.
+
+Suspensión de la participación por heredero concebido
 
 ###### Artículo 856º
 
@@ -4928,7 +5456,9 @@ La partición que comprende los derechos de un heredero concebido, será suspend
 
 ###### Artículo 857º
 
-Puede también diferirse o suspenderse la partición respecto de todos los bienes o de parte de ellos, por acuerdo de todos los herederos o por resolución judicial y por un plazo no mayor de dos años, cuando la ejecución inmediata pueda ocasionar notable perjuicio al patrimonio hereditario, o si es preciso para asegurar el pago de deudas o legados. Partición con garantías
+Puede también diferirse o suspenderse la partición respecto de todos los bienes o de parte de ellos, por acuerdo de todos los herederos o por resolución judicial y por un plazo no mayor de dos años, cuando la ejecución inmediata pueda ocasionar notable perjuicio al patrimonio hereditario, o si es preciso para asegurar el pago de deudas o legados.
+
+Partición con garantías
 
 ###### Artículo 858º
 
@@ -4964,7 +5494,9 @@ Los créditos que constituyen parte del activo hereditario, se dividirán entre 
 
 ###### Artículo 864º
 
-La omisión de algunos bienes en la partición no es motivo para que ésta no continúe, para dejarla sin efecto, ni para pedir la nulidad de la practicada. Los bienes omitidos deben ser partidos complementariamente. Nulidad de partición por preterición
+La omisión de algunos bienes en la partición no es motivo para que ésta no continúe, para dejarla sin efecto, ni para pedir la nulidad de la practicada. Los bienes omitidos deben ser partidos complementariamente.
+
+Nulidad de partición por preterición
 
 ###### Artículo 865º
 
@@ -5026,7 +5558,9 @@ Pago de deuda alimentaria
 
 La pensión alimenticia a que se refiere el Artículo 728º es deuda hereditaria que grava en lo que fuere necesario la parte de libre disposición de la herencia en favor del alimentista y se pagará, según los casos: 1.- Asumiendo uno de los herederos la obligación alimentaria por disposición del testador o por acuerdo entre ellos. Puede asegurarse su pago mediante hipoteca u otra garantía. 2.- Calculando el monto de la pensión alimenticia durante el tiempo que falta para su extinción, y entregando al alimentista o a su representante legal, el capital representativo de la renta.
 
-La elección de las indicadas alternativas corresponde a los herederos; si hubiere desacuerdo entre ellos, el juez decidirá su forma de pago. Oposición del acreedor a la partición
+La elección de las indicadas alternativas corresponde a los herederos; si hubiere desacuerdo entre ellos, el juez decidirá su forma de pago.
+
+Oposición del acreedor a la partición
 
 ###### Artículo 875º
 
@@ -5036,7 +5570,9 @@ La oposición se ejerce a través de demanda, o como tercero con interés en el 
 
 ###### Artículo 876º
 
-Si no obstante la oposición prevista en el Artículo 875º se procede a la partición, sin pagar la deuda ni asegurar su pago, la partición se reputará no hecha en cuanto se refiere a los derechos del oponente. Resarcimiento a heredero por pago de deuda
+Si no obstante la oposición prevista en el Artículo 875º se procede a la partición, sin pagar la deuda ni asegurar su pago, la partición se reputará no hecha en cuanto se refiere a los derechos del oponente.
+
+Resarcimiento a heredero por pago de deuda
 
 ###### Artículo 877º
 
@@ -5046,7 +5582,9 @@ Perjuicio de los coherederos por insolvencia
 
 ###### Artículo 878º
 
-La insolvencia de cualquiera de los coherederos obligados a resarcir al que pagó una deuda hereditaria, o que sufrió un embargo por ella, perjudica a prorrata al que la pagó y a los demás coherederos responsables, cuando la insolvencia existía en el momento del pago. Inexigibilidad del legatario de pagar deuda de la herencia
+La insolvencia de cualquiera de los coherederos obligados a resarcir al que pagó una deuda hereditaria, o que sufrió un embargo por ella, perjudica a prorrata al que la pagó y a los demás coherederos responsables, cuando la insolvencia existía en el momento del pago.
+
+Inexigibilidad del legatario de pagar deuda de la herencia
 
 ###### Artículo 879º
 
@@ -5068,11 +5606,15 @@ Noción de Derechos Reales
 
 ###### Artículo 881º
 
-Son derechos reales los regulados en este Libro y otras leyes. Improcedencia de prohibición de enajenar o gravar
+Son derechos reales los regulados en este Libro y otras leyes.
+
+Improcedencia de prohibición de enajenar o gravar
 
 ###### Artículo 882º
 
-No se puede establecer contractualmente la prohibición de enajenar o gravar, salvo que la ley lo permita. Normas que rigen los predios rústicos
+No se puede establecer contractualmente la prohibición de enajenar o gravar, salvo que la ley lo permita.
+
+Normas que rigen los predios rústicos
 
 ###### Artículo 883º. DEROGADO[^197]
 
@@ -5110,7 +5652,9 @@ DERECHO REALES Las partes integrantes no pueden ser objeto de derechos singulare
 
 Son accesorios los bienes que, sin perder su individualidad, están permanentemente afectados a un fin económico u ornamental con respecto a otro bien.
 
-La afectación sólo puede realizarla el propietario del bien principal o quien tenga derecho a disponer de él, respetándose los derechos adquiridos por terceros. Los accesorios pueden ser materia de derechos singulares. El aprovechamiento pasajero de un bien para la finalidad económica de otro no le otorga la calidad de accesorio.
+La afectación sólo puede realizarla el propietario del bien principal o quien tenga derecho a disponer de él, respetándose los derechos adquiridos por terceros. Los accesorios pueden ser materia de derechos singulares.
+
+El aprovechamiento pasajero de un bien para la finalidad económica de otro no le otorga la calidad de accesorio.
 
 La separación provisional del accesorio para servir a la finalidad económica de otro bien, no le suprime su calidad.
 
@@ -5132,7 +5676,9 @@ Clases de frutos
 
 ###### Artículo 891º
 
-Los frutos son naturales, industriales y civiles. Son frutos naturales los que provienen del bien, sin intervención humana. Son frutos industriales los que produce el bien, por la intervención humana. Son frutos civiles los que el bien produce como consecuencia de una relación jurídica. Percepción de frutos naturales, industriales y civiles
+Los frutos son naturales, industriales y civiles. Son frutos naturales los que provienen del bien, sin intervención humana. Son frutos industriales los que produce el bien, por la intervención humana. Son frutos civiles los que el bien produce como consecuencia de una relación jurídica.
+
+Percepción de frutos naturales, industriales y civiles
 
 ###### Artículo 892º
 
@@ -5144,7 +5690,9 @@ Cómputo de frutos industriales o civiles
 
 ###### Artículo 893º
 
-Para el cómputo de los frutos industriales o civiles, se rebajarán los gastos y desembolsos realizados para obtenerlos. Concepto de productos
+Para el cómputo de los frutos industriales o civiles, se rebajarán los gastos y desembolsos realizados para obtenerlos.
+
+Concepto de productos
 
 ###### Artículo 894º
 
@@ -5248,11 +5796,15 @@ Posesión de buena fe y los frutos
 
 ###### Artículo 908º
 
-El poseedor de buena fe hace suyos los frutos. Responsabilidad del poseedor de mala fe
+El poseedor de buena fe hace suyos los frutos.
+
+Responsabilidad del poseedor de mala fe
 
 ###### Artículo 909º
 
-El poseedor de mala fe responde de la pérdida o detrimento del bien aun por caso fortuito o fuerza mayor, salvo que éste también se hubiese producido en caso de haber estado en poder de su titular. Obligación del poseedor de mala fe a restituir frutos
+El poseedor de mala fe responde de la pérdida o detrimento del bien aun por caso fortuito o fuerza mayor, salvo que éste también se hubiese producido en caso de haber estado en poder de su titular.
+
+Obligación del poseedor de mala fe a restituir frutos
 
 ###### Artículo 910º
 
@@ -5282,7 +5834,9 @@ DERECHO REALES Presunción de buena fe del poseedor
 
 ###### Artículo 914º
 
-Se presume la buena fe del poseedor, salvo prueba en contrario. La presunción a que se refiere este artículo no favorece al poseedor del bien inscrito a nombre de otra persona.
+Se presume la buena fe del poseedor, salvo prueba en contrario.
+
+La presunción a que se refiere este artículo no favorece al poseedor del bien inscrito a nombre de otra persona.
 
 Presunción de posesión continua
 
@@ -5306,7 +5860,9 @@ Derecho al valor o al retiro de las mejoras
 
 ###### Artículo 917º
 
-El poseedor tiene derecho a valor actual de las mejoras necesarias y útiles que existan al tiempo de la restitución y a retirar las de recreo que puedan separarse sin daño, salvo que el dueño opte por pagar por su valor actual. La regla del párrafo anterior no es aplicable a las mejoras hechas después de la citación judicial sino cuando se trata de las necesarias. Derecho de retención
+El poseedor tiene derecho a valor actual de las mejoras necesarias y útiles que existan al tiempo de la restitución y a retirar las de recreo que puedan separarse sin daño, salvo que el dueño opte por pagar por su valor actual. La regla del párrafo anterior no es aplicable a las mejoras hechas después de la citación judicial sino cuando se trata de las necesarias.
+
+Derecho de retención
 
 ###### Artículo 918º
 
@@ -5416,7 +5972,9 @@ Búsqueda de tesoro en terreno ajeno
 
 ###### Artículo 934º
 
-No está permitido buscar tesoro en terreno ajeno cercado, sembrado o edificado, salvo autorización expresa del propietario. El tesoro hallado en contravención de este artículo pertenece íntegramente al dueño del suelo. DERECHO REALES Quien buscare tesoro sin autorización expresa del propietario está obligado al pago de la indemnización de daños y perjuicios resultantes. División de tesoro encontrado en terreno ajeno
+No está permitido buscar tesoro en terreno ajeno cercado, sembrado o edificado, salvo autorización expresa del propietario. El tesoro hallado en contravención de este artículo pertenece íntegramente al dueño del suelo. DERECHO REALES Quien buscare tesoro sin autorización expresa del propietario está obligado al pago de la indemnización de daños y perjuicios resultantes.
+
+División de tesoro encontrado en terreno ajeno
 
 ###### Artículo 935º
 
@@ -5430,7 +5988,11 @@ Los Artículos 934º y 935º son aplicables sólo cuando no sean opuestos a las 
 
 ###### Artículo 937º
 
-El objeto que se hace de buena fe con materia ajena pertenece al artífice, pagando el valor de la cosa empleada. La especie que resulta de la unión o mezcla de otras de diferentes dueños, pertenece a éstos en proporción a sus valores respectivos. SUB-CAPÍTULO III Accesión Noción de accesión
+El objeto que se hace de buena fe con materia ajena pertenece al artífice, pagando el valor de la cosa empleada.
+
+La especie que resulta de la unión o mezcla de otras de diferentes dueños, pertenece a éstos en proporción a sus valores respectivos.
+
+SUB-CAPÍTULO III Accesión Noción de accesión
 
 ###### Artículo 938º
 
@@ -5492,7 +6054,9 @@ La transferencia de propiedad de una cosa mueble determinada se efectúa con la 
 
 ###### Artículo 948º
 
-Quien de buena fe y como propietario recibe de otro la posesión de una cosa mueble, adquiere el dominio, aunque el enajenante de la posesión carezca de facultad para hacerlo. Se exceptúan de esta regla los bienes perdidos y los adquiridos con infracción de la ley penal. Transferencia de propiedad de bien inmueble
+Quien de buena fe y como propietario recibe de otro la posesión de una cosa mueble, adquiere el dominio, aunque el enajenante de la posesión carezca de facultad para hacerlo. Se exceptúan de esta regla los bienes perdidos y los adquiridos con infracción de la ley penal.
+
+Transferencia de propiedad de bien inmueble
 
 ###### Artículo 949º
 
@@ -5524,7 +6088,9 @@ SUB-CAPÍTULO I Disposiciones Generales Extensión del derecho de propiedad
 
 ###### Artículo 954º
 
-La propiedad del predio se extiende al subsuelo y al sobresuelo, comprendidos dentro de los planos verticales del perímetro superficial y hasta donde sea útil al propietario el ejercicio de su derecho. La propiedad del subsuelo no comprende los recursos naturales, los yacimientos y restos arqueológicos, ni otros bienes regidos por leyes especiales.
+La propiedad del predio se extiende al subsuelo y al sobresuelo, comprendidos dentro de los planos verticales del perímetro superficial y hasta donde sea útil al propietario el ejercicio de su derecho.
+
+La propiedad del subsuelo no comprende los recursos naturales, los yacimientos y restos arqueológicos, ni otros bienes regidos por leyes especiales.
 
 CONCORDANCIA: R. Nº 340-2008-SUNARP-SN Propiedad del suelo, subsuelo y sobresuelo
 
@@ -5568,19 +6134,27 @@ Al propietario de un inmueble no le está permitido abrir o cavar en su terreno 
 
 ###### Artículo 963º
 
-Si cerca de un lindero se construye horno, chimenea, establo u otros similares o depósito para agua o materias húmedas, penetrantes, explosivas o radioactivas o se instala maquinaria o análogos, deben observarse las distancias y precauciones establecidas por los reglamentos respectivos y, a falta de éstos, las que sean necesarias para preservar la solidez o la salubridad de los predios vecinos. La inobservancia de esta disposición puede dar lugar al cierre o retiro de la obra y a la indemnización de daños y perjuicios. Paso de aguas por predio vecino
+Si cerca de un lindero se construye horno, chimenea, establo u otros similares o depósito para agua o materias húmedas, penetrantes, explosivas o radioactivas o se instala maquinaria o análogos, deben observarse las distancias y precauciones establecidas por los reglamentos respectivos y, a falta de éstos, las que sean necesarias para preservar la solidez o la salubridad de los predios vecinos. La inobservancia de esta disposición puede dar lugar al cierre o retiro de la obra y a la indemnización de daños y perjuicios.
+
+Paso de aguas por predio vecino
 
 ###### Artículo 964º
 
-El propietario no puede hacer que las aguas correspondientes al predio discurran en los predios vecinos, salvo pacto distinto. SUB-CAPÍTULO III Derechos del Propietario Derecho a cercar un predio
+El propietario no puede hacer que las aguas correspondientes al predio discurran en los predios vecinos, salvo pacto distinto.
+
+SUB-CAPÍTULO III Derechos del Propietario Derecho a cercar un predio
 
 ###### Artículo 965º
 
-El propietario de un predio tiene derecho a cercarlo. Obligación de deslinde y amojonamiento
+El propietario de un predio tiene derecho a cercarlo.
+
+Obligación de deslinde y amojonamiento
 
 ###### Artículo 966º
 
-El propietario de un predio puede obligar a los vecinos, sean propietarios o poseedores, al deslinde y al amojonamiento. Derecho al corte de ramas y raíces invasoras del predio
+El propietario de un predio puede obligar a los vecinos, sean propietarios o poseedores, al deslinde y al amojonamiento.
+
+Derecho al corte de ramas y raíces invasoras del predio
 
 ###### Artículo 967º
 
@@ -5618,7 +6192,9 @@ Decisiones sobre el bien común
 
 Las decisiones sobre el bien común se adoptarán por: 1.- Unanimidad, para disponer, gravar o arrendar el bien, darlo en comodato o introducir modificaciones en él. 2.- Mayoría absoluta, para los actos de administración ordinaria. Los votos se computan por el valor de las cuotas.
 
-En caso de empate, decide el juez por la vía incidental. Régimen aplicable a la administración judicial de los bienes comunes
+En caso de empate, decide el juez por la vía incidental.
+
+Régimen aplicable a la administración judicial de los bienes comunes
 
 ###### Artículo 972º. La administración judicial de los bienes comunes se rige por el
 
@@ -5660,7 +6236,9 @@ Si un copropietario practica sobre todo o parte de un bien, acto que importe el 
 
 ###### Artículo 979º
 
-Cualquier copropietario puede reivindicar el bien común. Asimismo, puede promover las acciones posesorias, los interdictos, las acciones de desahucio, aviso de despedida y las demás que determine la ley.
+Cualquier copropietario puede reivindicar el bien común.
+
+Asimismo, puede promover las acciones posesorias, los interdictos, las acciones de desahucio, aviso de despedida y las demás que determine la ley.
 
 CONCORDANCIA: R.SMV Nº 013-2013-SMV, Núm. 3.2 Mejoras necesarias y útiles en la copropiedad
 
@@ -5676,7 +6254,9 @@ DERECHO REALES Saneamiento por evicción del bien común
 
 ###### Artículo 982º
 
-Los copropietarios están recíprocamente obligados al saneamiento en caso de evicción, en proporción a la parte de cada uno. SUB-CAPÍTULO III Partición Noción de partición
+Los copropietarios están recíprocamente obligados al saneamiento en caso de evicción, en proporción a la parte de cada uno.
+
+SUB-CAPÍTULO III Partición Noción de partición
 
 ###### Artículo 983º
 
@@ -5686,7 +6266,9 @@ Obligatoriedad de la partición
 
 ###### Artículo 984º
 
-Los copropietarios están obligados a hacer partición cuando uno de ellos o el acreedor de cualquiera lo pida, salvo los casos de indivisión forzosa, de acto jurídico o de ley que fije plazo para la partición. Imprescriptibilidad de la acción de partición
+Los copropietarios están obligados a hacer partición cuando uno de ellos o el acreedor de cualquiera lo pida, salvo los casos de indivisión forzosa, de acto jurídico o de ley que fije plazo para la partición.
+
+Imprescriptibilidad de la acción de partición
 
 ###### Artículo 985º
 
@@ -5696,7 +6278,9 @@ Partición convencional
 
 ###### Artículo 986º
 
-Los copropietarios pueden hacer partición por convenio unánime. La partición convencional puede ser hecha también mediante sorteo. Partición convencional especial
+Los copropietarios pueden hacer partición por convenio unánime.
+
+La partición convencional puede ser hecha también mediante sorteo. Partición convencional especial
 
 ###### Artículo 987º
 
@@ -5706,7 +6290,9 @@ La solicitud de aprobación se sujeta al trámite del proceso no contencioso, co
 
 ###### Artículo 988º
 
-Los bienes comunes que no son susceptibles de división material pueden ser adjudicados, en común, a dos o más copropietarios que convengan en ello, o se venderán por acuerdo de todos ellos y se dividirá el precio. Si los copropietarios no estuvieran de acuerdo con la adjudicación en común o en la venta contractual, se venderán en pública subasta. Derecho de preferencia del copropietario
+Los bienes comunes que no son susceptibles de división material pueden ser adjudicados, en común, a dos o más copropietarios que convengan en ello, o se venderán por acuerdo de todos ellos y se dividirá el precio. Si los copropietarios no estuvieran de acuerdo con la adjudicación en común o en la venta contractual, se venderán en pública subasta.
+
+Derecho de preferencia del copropietario
 
 ###### Artículo 989º
 
@@ -5724,7 +6310,9 @@ Puede diferirse o suspenderse la partición por acuerdo unánime de los copropie
 
 ###### Artículo 992º
 
-La copropiedad se extingue por: 1.- División y partición del bien común. 2.- Reunión de todas las cuotas partes en un solo propietario. 3.- Destrucción total o pérdida del bien. 4.- Enajenación del bien a un tercero. 5.- Pérdida del derecho de propiedad de los copropietarios. DERECHO REALES SUB-CAPÍTULO V Pacto de Indivisión Plazo y efectos del pacto de indivisión
+La copropiedad se extingue por: 1.- División y partición del bien común. 2.- Reunión de todas las cuotas partes en un solo propietario. 3.- Destrucción total o pérdida del bien. 4.- Enajenación del bien a un tercero. 5.- Pérdida del derecho de propiedad de los copropietarios.
+
+DERECHO REALES SUB-CAPÍTULO V Pacto de Indivisión Plazo y efectos del pacto de indivisión
 
 ###### Artículo 993º
 
@@ -5738,7 +6326,9 @@ SUB-CAPÍTULO VI Medianería Presunción de medianería
 
 ###### Artículo 994º
 
-Las paredes, cercos o zanjas situados entre dos predios se presumen comunes, mientras no se pruebe lo contrario. Obtención de medianería
+Las paredes, cercos o zanjas situados entre dos predios se presumen comunes, mientras no se pruebe lo contrario.
+
+Obtención de medianería
 
 ###### Artículo 995º
 
@@ -5842,7 +6432,9 @@ Obligación del usufructuario de pagar tributos y rentas
 
 ###### Artículo 1010º
 
-El usufructuario debe pagar los tributos, las rentas vitalicias y las pensiones de alimentos que graven los bienes. Derecho de subrogación del usufructuario
+El usufructuario debe pagar los tributos, las rentas vitalicias y las pensiones de alimentos que graven los bienes.
+
+Derecho de subrogación del usufructuario
 
 ###### Artículo 1011º
 
@@ -5872,7 +6464,9 @@ Aplicación supletoria de las normas sobre mejoras
 
 ###### Artículo 1015º
 
-Las reglas sobre mejoras necesarias, útiles y de recreo establecidas para la posesión se aplican al usufructo. Propiedad de frutos pendientes
+Las reglas sobre mejoras necesarias, útiles y de recreo establecidas para la posesión se aplican al usufructo.
+
+Propiedad de frutos pendientes
 
 ###### Artículo 1016º
 
@@ -5888,7 +6482,9 @@ Usufructo de dinero
 
 ###### Artículo 1018º
 
-El usufructo de dinero sólo da derecho a percibir la renta. Usufructo de un crédito
+El usufructo de dinero sólo da derecho a percibir la renta.
+
+Usufructo de un crédito
 
 ###### Artículo 1019º
 
@@ -5910,7 +6506,9 @@ Usufructo a favor de varias personas
 
 ###### Artículo 1022º
 
-El usufructo constituido en favor de varias personas en forma sucesiva se extingue a la muerte de la última. Si el usufructo fuera constituido en favor de varias personas en forma conjunta, la muerte de alguna de éstas determinará que las demás acrezcan su derecho. Este usufructo también se extingue con la muerte de la última persona.[^211] Destrucción del bien usufructuado
+El usufructo constituido en favor de varias personas en forma sucesiva se extingue a la muerte de la última.
+
+Si el usufructo fuera constituido en favor de varias personas en forma conjunta, la muerte de alguna de éstas determinará que las demás acrezcan su derecho. Este usufructo también se extingue con la muerte de la última persona.[^211] Destrucción del bien usufructuado
 
 ###### Artículo 1023º
 
@@ -5926,7 +6524,9 @@ Usufructo sobre fundo o edificio
 
 ###### Artículo 1025º
 
-Si el usufructo se establece sobre un fundo del cual forma parte un edificio que llega a destruirse por vetustez o accidente, el usufructuario tiene derecho a gozar del suelo y de los materiales. Pero si el usufructo se encuentra establecido solamente sobre un edificio que llega a destruirse, el usufructuario no tiene derecho al suelo ni a los materiales, ni al edificio que el propietario reconstruya a su costa.
+Si el usufructo se establece sobre un fundo del cual forma parte un edificio que llega a destruirse por vetustez o accidente, el usufructuario tiene derecho a gozar del suelo y de los materiales.
+
+Pero si el usufructo se encuentra establecido solamente sobre un edificio que llega a destruirse, el usufructuario no tiene derecho al suelo ni a los materiales, ni al edificio que el propietario reconstruya a su costa.
 
 #### TÍTULO IV — Uso y Habitación
 
@@ -5956,7 +6556,9 @@ Superficie: Noción y plazo
 
 ###### Artículo 1030º
 
-Puede constituirse el derecho de superficie por el cual el superficiario goza de la facultad de tener temporalmente una construcción en propiedad separada sobre o bajo la superficie del suelo. Este derecho no puede durar más de noventinueve años. A su vencimiento, el propietario del suelo adquiere la propiedad de lo construido reembolsando su valor, salvo pacto distinto.
+Puede constituirse el derecho de superficie por el cual el superficiario goza de la facultad de tener temporalmente una construcción en propiedad separada sobre o bajo la superficie del suelo.
+
+Este derecho no puede durar más de noventinueve años. A su vencimiento, el propietario del suelo adquiere la propiedad de lo construido reembolsando su valor, salvo pacto distinto.
 
 Constitución o transmisibilidad
 
@@ -5992,7 +6594,9 @@ Características de la servidumbre
 
 ###### Artículo 1036º
 
-Las servidumbres son inseparables de ambos predios. Sólo pueden trasmitirse con ellos y subsisten cualquiera sea su propietario. Perpetuidad de la servidumbre
+Las servidumbres son inseparables de ambos predios. Sólo pueden trasmitirse con ellos y subsisten cualquiera sea su propietario.
+
+Perpetuidad de la servidumbre
 
 ###### Artículo 1037º
 
@@ -6024,13 +6628,17 @@ El usufructuario puede constituir servidumbres por el plazo del usufructo, con c
 
 ###### Artículo 1042º
 
-El predio sujeto a copropiedad sólo puede ser gravado con servidumbres si prestan su asentimiento todos los copropietarios. Si hubiere copropietarios incapaces, se requerirá autorización judicial, observándose las reglas del Artículo 987º en cuanto sean aplicables. El copropietario puede adquirir servidumbres en beneficio del predio común, aunque lo ignoren los demás copropietarios.
+El predio sujeto a copropiedad sólo puede ser gravado con servidumbres si prestan su asentimiento todos los copropietarios. Si hubiere copropietarios incapaces, se requerirá autorización judicial, observándose las reglas del Artículo 987º en cuanto sean aplicables.
+
+El copropietario puede adquirir servidumbres en beneficio del predio común, aunque lo ignoren los demás copropietarios.
 
 Extensión y condiciones de la servidumbre
 
 ###### Artículo 1043º
 
-La extensión y demás condiciones de las servidumbres se rigen por el título de su constitución y, en su defecto, por las disposiciones de este Código. Toda duda sobre la existencia de una servidumbre, sobre su extensión o modo de ejercerla, se interpreta en el sentido menos gravoso para el predio sirviente, pero sin imposibilitar o dificultar el uso de la servidumbre. Obras para ejercicio de servidumbre
+La extensión y demás condiciones de las servidumbres se rigen por el título de su constitución y, en su defecto, por las disposiciones de este Código. Toda duda sobre la existencia de una servidumbre, sobre su extensión o modo de ejercerla, se interpreta en el sentido menos gravoso para el predio sirviente, pero sin imposibilitar o dificultar el uso de la servidumbre.
+
+Obras para ejercicio de servidumbre
 
 ###### Artículo 1044º
 
@@ -6040,15 +6648,21 @@ Conservación de la servidumbre
 
 ###### Artículo 1045º
 
-La servidumbre se conserva por el uso de una persona extraña, si lo hace en consideración al predio dominante. Prohibición de aumentar gravamen
+La servidumbre se conserva por el uso de una persona extraña, si lo hace en consideración al predio dominante.
+
+Prohibición de aumentar gravamen
 
 ###### Artículo 1046º
 
-El propietario del predio dominante no puede aumentar el gravamen del predio sirviente por hecho o acto propio. Prohibición de impedir el uso de servidumbre
+El propietario del predio dominante no puede aumentar el gravamen del predio sirviente por hecho o acto propio.
+
+Prohibición de impedir el uso de servidumbre
 
 ###### Artículo 1047º
 
-El propietario del predio sirviente no puede impedir el ejercicio o menoscabar el uso de la servidumbre. Si por razón de lugar o modo la servidumbre le es incómoda, podrá ser variada si no perjudica su uso. Servidumbre sobre bien propio
+El propietario del predio sirviente no puede impedir el ejercicio o menoscabar el uso de la servidumbre. Si por razón de lugar o modo la servidumbre le es incómoda, podrá ser variada si no perjudica su uso.
+
+Servidumbre sobre bien propio
 
 ###### Artículo 1048º
 
@@ -6070,7 +6684,9 @@ Servidumbre legal de paso
 
 ###### Artículo 1051º
 
-La servidumbre legal de paso se establece en beneficio de los predios que no tengan salida a los caminos públicos. Esta servidumbre cesa cuando el propietario del predio dominante adquiere otro que le de salida o cuando se abre un camino que de acceso inmediato a dicho predio.
+La servidumbre legal de paso se establece en beneficio de los predios que no tengan salida a los caminos públicos.
+
+Esta servidumbre cesa cuando el propietario del predio dominante adquiere otro que le de salida o cuando se abre un camino que de acceso inmediato a dicho predio.
 
 Onerosidad de la servidumbre legal de paso
 
@@ -6154,7 +6770,11 @@ CONCORDANCIAS: Ley Nº 28698 Ley Nº 28971 Noción de hipoteca
 
 ###### Artículo 1097º
 
-Por la hipoteca se afecta un inmueble en garantía del cumplimiento de cualquier obligación, propia o de un tercero. La garantía no determina la desposesión y otorga al acreedor los derechos de persecución, preferencia y venta judicial del bien hipotecado. Formalidad de la hipoteca
+Por la hipoteca se afecta un inmueble en garantía del cumplimiento de cualquier obligación, propia o de un tercero.
+
+La garantía no determina la desposesión y otorga al acreedor los derechos de persecución, preferencia y venta judicial del bien hipotecado.
+
+Formalidad de la hipoteca
 
 ###### Artículo 1098º
 
@@ -6194,11 +6814,15 @@ Garantía de obligación futura o eventual
 
 ###### Artículo 1104º
 
-La hipoteca puede garantizar una obligación futura o eventual. Hipoteca sujeta a modalidad
+La hipoteca puede garantizar una obligación futura o eventual.
+
+Hipoteca sujeta a modalidad
 
 ###### Artículo 1105º
 
-La hipoteca puede ser constituida bajo condición o plazo. Prohibición de hipotecar bienes futuros
+La hipoteca puede ser constituida bajo condición o plazo.
+
+Prohibición de hipotecar bienes futuros
 
 ###### Artículo 1106º
 
@@ -6236,7 +6860,9 @@ Preferencia de hipotecas
 
 ###### Artículo 1112º
 
-Las hipotecas tendrán preferencia por razón de su antigüedad conforme a la fecha del registro, salvo cuando se ceda su rango. Hipotecas ulteriores
+Las hipotecas tendrán preferencia por razón de su antigüedad conforme a la fecha del registro, salvo cuando se ceda su rango.
+
+Hipotecas ulteriores
 
 ###### Artículo 1113º
 
@@ -6278,15 +6904,21 @@ Hipotecas legales
 
 ###### Artículo 1118º
 
-Además de las hipotecas legales establecidas en otras leyes, se reconocen las siguientes: 1.- La del inmueble enajenado sin que su precio haya sido pagado totalmente o lo haya sido con dinero de un tercero. 2.- La del inmueble para cuya fabricación o reparación se haya proporcionado trabajo o materiales por el contratista y por el monto que el comitente se haya obligado a pagarle. 3.- La de los inmuebles adquiridos en una partición con la obligación de hacer amortizaciones en dinero a otros de los copropietarios. Constitución e inscripción de hipoteca legal
+Además de las hipotecas legales establecidas en otras leyes, se reconocen las siguientes: 1.- La del inmueble enajenado sin que su precio haya sido pagado totalmente o lo haya sido con dinero de un tercero. 2.- La del inmueble para cuya fabricación o reparación se haya proporcionado trabajo o materiales por el contratista y por el monto que el comitente se haya obligado a pagarle. 3.- La de los inmuebles adquiridos en una partición con la obligación de hacer amortizaciones en dinero a otros de los copropietarios.
+
+Constitución e inscripción de hipoteca legal
 
 ###### Artículo 1119º
 
-Las hipotecas legales a que se refiere el Artículo 1118º se constituyen de pleno derecho y se inscriben de oficio, bajo responsabilidad del registrador, simultáneamente con los contratos de los cuales emanan. En los demás casos, el derecho del acreedor surge de la inscripción de las hipotecas legales en el registro. Las personas en cuyo favor se reconocen dichas hipotecas, pueden exigir el otorgamiento de los instrumentos necesarios para su inscripción. Renuncia y cesión de rango
+Las hipotecas legales a que se refiere el Artículo 1118º se constituyen de pleno derecho y se inscriben de oficio, bajo responsabilidad del registrador, simultáneamente con los contratos de los cuales emanan.
+
+En los demás casos, el derecho del acreedor surge de la inscripción de las hipotecas legales en el registro. Las personas en cuyo favor se reconocen dichas hipotecas, pueden exigir el otorgamiento de los instrumentos necesarios para su inscripción. Renuncia y cesión de rango
 
 ###### Artículo 1120º
 
-Las hipotecas legales son renunciables y también puede cederse su rango respecto a otras hipotecas legales y convencionales. La renuncia y la cesión pueden hacerse antelada y unilateralmente. Normas aplicables a la hipoteca legal
+Las hipotecas legales son renunciables y también puede cederse su rango respecto a otras hipotecas legales y convencionales.
+
+La renuncia y la cesión pueden hacerse antelada y unilateralmente. Normas aplicables a la hipoteca legal
 
 ###### Artículo 1121º
 
@@ -6318,7 +6950,9 @@ La retención no puede ejercerse sobre bienes que al momento de recibirse estén
 
 ###### Artículo 1125º
 
-El derecho de retención es indivisible. Puede ejercerse por todo el crédito o por el saldo pendiente, y sobre la totalidad de los bienes que estén en posesión del acreedor o sobre uno o varios de ellos. Límite y cese del derecho de retención
+El derecho de retención es indivisible. Puede ejercerse por todo el crédito o por el saldo pendiente, y sobre la totalidad de los bienes que estén en posesión del acreedor o sobre uno o varios de ellos.
+
+Límite y cese del derecho de retención
 
 ###### Artículo 1126º
 
@@ -6326,21 +6960,29 @@ La retención se ejercita en cuanto sea suficiente para satisfacer la deuda que 
 
 ###### Artículo 1127º
 
-El derecho de retención se ejercita: 1.- Extrajudicialmente, rehusando la entrega del bien hasta que se cumpla la obligación por la cual se invoca. 2.- Judicialmente, como excepción que se opone a la acción destinada a conseguir la entrega del bien. El juez puede autorizar que se sustituya el derecho de retención por una garantía suficiente. Inscripción o anotación preventiva del derecho de retención
+El derecho de retención se ejercita: 1.- Extrajudicialmente, rehusando la entrega del bien hasta que se cumpla la obligación por la cual se invoca. 2.- Judicialmente, como excepción que se opone a la acción destinada a conseguir la entrega del bien. El juez puede autorizar que se sustituya el derecho de retención por una garantía suficiente.
+
+Inscripción o anotación preventiva del derecho de retención
 
 ###### Artículo 1128º
 
 Para que el derecho de retención sobre inmuebles surta efecto contra terceros, debe ser inscrito en el registro de la propiedad inmueble. Sólo se puede ejercitar el derecho de retención frente al adquirente a título oneroso que tiene registrado su derecho de propiedad, si el derecho de retención estuvo inscrito con anterioridad a la adquisición.
 
-Respecto a los inmuebles no inscritos, el derecho de retención puede ser registrado mediante anotación preventiva extendida por mandato judicial. Embargo y remate del bien hipotecado
+Respecto a los inmuebles no inscritos, el derecho de retención puede ser registrado mediante anotación preventiva extendida por mandato judicial.
+
+Embargo y remate del bien hipotecado
 
 ###### Artículo 1129º
 
-El derecho de retención no impide el embargo y el remate del bien, pero el adquirente no puede retirarlo del poder del retenedor sino entregándole el precio de la subasta, en lo que baste para cubrir su crédito y salvo la preferencia hipotecaria que pueda existir. Nulidad del pacto comisorio
+El derecho de retención no impide el embargo y el remate del bien, pero el adquirente no puede retirarlo del poder del retenedor sino entregándole el precio de la subasta, en lo que baste para cubrir su crédito y salvo la preferencia hipotecaria que pueda existir.
+
+Nulidad del pacto comisorio
 
 ###### Artículo 1130º
 
-Aunque no se cumpla la obligación, el retenedor no adquiere la propiedad del bien retenido. Es nulo el pacto contrario. Aplicación del derecho de retención
+Aunque no se cumpla la obligación, el retenedor no adquiere la propiedad del bien retenido. Es nulo el pacto contrario.
+
+Aplicación del derecho de retención
 
 ###### Artículo 1131º
 
@@ -6370,11 +7012,15 @@ Alcances de la obligación de dar bien cierto
 
 La obligación de dar comprende también la de conservar el bien hasta su entrega.
 
-El bien debe entregarse con sus accesorios, salvo que lo contrario resulte de la ley, del título de la obligación o de las circunstancias del caso. Concurrencia de acreedores de bien inmueble
+El bien debe entregarse con sus accesorios, salvo que lo contrario resulte de la ley, del título de la obligación o de las circunstancias del caso.
+
+Concurrencia de acreedores de bien inmueble
 
 ###### Artículo 1135º
 
-Cuando el bien es inmueble y concurren diversos acreedores a quienes el mismo deudor se ha obligado a entregarlo, se prefiere al acreedor de buena fe cuyo título ha sido primeramente inscrito o, en defecto de inscripción, al acreedor cuyo título sea de fecha anterior. Se prefiere, en este último caso, el título que conste de documento de fecha cierta más antigua. Concurrencia de acreedores de bien mueble
+Cuando el bien es inmueble y concurren diversos acreedores a quienes el mismo deudor se ha obligado a entregarlo, se prefiere al acreedor de buena fe cuyo título ha sido primeramente inscrito o, en defecto de inscripción, al acreedor cuyo título sea de fecha anterior. Se prefiere, en este último caso, el título que conste de documento de fecha cierta más antigua.
+
+Concurrencia de acreedores de bien mueble
 
 ###### Artículo 1136º
 
@@ -6398,7 +7044,9 @@ Presunción de culpa del deudor
 
 ###### Artículo 1139º
 
-Se presume que la pérdida o deterioro del bien en posesión del deudor es por culpa suya, salvo prueba en contrario. Pérdida del bien en obligación proveniente de delito o falta
+Se presume que la pérdida o deterioro del bien en posesión del deudor es por culpa suya, salvo prueba en contrario.
+
+Pérdida del bien en obligación proveniente de delito o falta
 
 ###### Artículo 1140º
 
@@ -6424,7 +7072,9 @@ Plazo judicial para elección
 
 ###### Artículo 1144º
 
-A falta de plazo para la elección, corresponde al juez fijarlo. Si el deudor omite efectuar la elección dentro del plazo establecido o el fijado por el juez, ella corresponde al acreedor. Igual regla se aplica cuando la elección debe practicarla el acreedor.
+A falta de plazo para la elección, corresponde al juez fijarlo.
+
+Si el deudor omite efectuar la elección dentro del plazo establecido o el fijado por el juez, ella corresponde al acreedor. Igual regla se aplica cuando la elección debe practicarla el acreedor.
 
 Si la elección se confía a un tercero y éste no la efectúa, la hará el juez, sin perjuicio del derecho de las partes de exigir a aquél el pago de la indemnización que corresponda por su incumplimiento.
 
@@ -6438,7 +7088,9 @@ Efectos anteriores a la individualización de bien incierto
 
 ###### Artículo 1146º
 
-Antes de la individualización del bien, no puede el deudor eximirse de la entrega invocando la pérdida sin su culpa. Esta regla no se aplica cuando la elección debe efectuarse entre determinados bienes de la misma especie y todos ellos se pierden sin culpa del deudor. Reglas aplicables después de la elección
+Antes de la individualización del bien, no puede el deudor eximirse de la entrega invocando la pérdida sin su culpa.
+
+Esta regla no se aplica cuando la elección debe efectuarse entre determinados bienes de la misma especie y todos ellos se pierden sin culpa del deudor. Reglas aplicables después de la elección
 
 ###### Artículo 1147º
 
@@ -6496,7 +7148,9 @@ Si la prestación resulta imposible por culpa del acreedor, la obligación del d
 
 Igual regla se aplica cuando el cumplimiento de la obligación depende de una prestación previa del acreedor y, al presentarse la imposibilidad, éste hubiera sido constituido en mora.
 
-Si el deudor obtiene algún beneficio con la resolución de la obligación, su valor reduce la contraprestación a cargo del acreedor. Imposibilidad de prestación sin culpa de las partes
+Si el deudor obtiene algún beneficio con la resolución de la obligación, su valor reduce la contraprestación a cargo del acreedor.
+
+Imposibilidad de prestación sin culpa de las partes
 
 ###### Artículo 1156º
 
@@ -6538,9 +7192,13 @@ LAS OBLIGACIONES Reglas para elección de prestaciones alternativas
 
 ###### Artículo 1162º
 
-La elección de la prestación corresponde al deudor, si no se ha atribuido esta facultad al acreedor o a un tercero. Quien deba practicar la elección no podrá elegir parte de una prestación y parte de otra.
+La elección de la prestación corresponde al deudor, si no se ha atribuido esta facultad al acreedor o a un tercero.
 
-Son aplicables a estos casos las reglas del Artículo 1144º. Formas de realizar la elección
+Quien deba practicar la elección no podrá elegir parte de una prestación y parte de otra.
+
+Son aplicables a estos casos las reglas del Artículo 1144º.
+
+Formas de realizar la elección
 
 ###### Artículo 1163º
 
@@ -6574,7 +7232,9 @@ Obligación facultativa
 
 ###### Artículo 1168º
 
-La obligación facultativa se determina únicamente por la prestación principal que forma el objeto de ella. Extinción de obligación facultativa
+La obligación facultativa se determina únicamente por la prestación principal que forma el objeto de ella.
+
+Extinción de obligación facultativa
 
 ###### Artículo 1169º
 
@@ -6584,7 +7244,9 @@ Conversión de obligación facultativa en simple
 
 ###### Artículo 1170º
 
-La obligación facultativa se convierte en simple si la prestación accesoria resulta nula o imposible de cumplir. Presunción de obligación facultativa
+La obligación facultativa se convierte en simple si la prestación accesoria resulta nula o imposible de cumplir.
+
+Presunción de obligación facultativa
 
 ###### Artículo 1171º
 
@@ -6610,7 +7272,9 @@ El beneficio de la división no puede ser opuesto por el heredero del deudor enc
 
 ###### Artículo 1175º
 
-La obligación es indivisible cuando no resulta susceptible de división o de cumplimiento parcial por mandato de la ley, por la naturaleza de la prestación o por el modo en que fue considerada al constituirse. Derechos de acreedor de obligación indivisa
+La obligación es indivisible cuando no resulta susceptible de división o de cumplimiento parcial por mandato de la ley, por la naturaleza de la prestación o por el modo en que fue considerada al constituirse.
+
+Derechos de acreedor de obligación indivisa
 
 ###### Artículo 1176º
 
@@ -6670,11 +7334,15 @@ Pago del deudor a uno de los acreedores solidaridarios[^218]
 
 ###### Artículo 1185º
 
-El deudor puede efectuar el pago a cualquiera de los acreedores solidarios, aun cuando hubiese sido demandado sólo por alguno. LAS OBLIGACIONES Exigibilidad de deuda en caso de solidaridad pasiva
+El deudor puede efectuar el pago a cualquiera de los acreedores solidarios, aun cuando hubiese sido demandado sólo por alguno.
+
+LAS OBLIGACIONES Exigibilidad de deuda en caso de solidaridad pasiva
 
 ###### Artículo 1186º
 
-El acreedor puede dirigirse contra cualquiera de los deudores solidarios o contra todos ellos simultáneamente. Las reclamaciones entabladas contra uno, no serán obstáculo para las que posteriormente se dirijan contra los demás, mientras no resulte pagada la deuda por completo.
+El acreedor puede dirigirse contra cualquiera de los deudores solidarios o contra todos ellos simultáneamente.
+
+Las reclamaciones entabladas contra uno, no serán obstáculo para las que posteriormente se dirijan contra los demás, mientras no resulte pagada la deuda por completo.
 
 Transmisión de obligación solidaria
 
@@ -6714,11 +7382,15 @@ Efectos de la sentencia de juicio entre acreedores y deudores
 
 ###### Artículo 1193º
 
-La sentencia pronunciada en el juicio seguido entre el acreedor y uno de los deudores solidarios, o entre el deudor y uno de los acreedores solidarios, no surte efecto contra los demás codeudores o coacreedores, respectivamente. Sin embargo, los otros deudores pueden oponerla al acreedor, salvo que se fundamente en las relaciones personales del deudor que litigó. A su turno, los demás acreedores pueden hacerla valer contra el deudor, salvo las excepciones personales que éste pueda oponer a cada uno de ellos. Mora en obligaciones solidarias
+La sentencia pronunciada en el juicio seguido entre el acreedor y uno de los deudores solidarios, o entre el deudor y uno de los acreedores solidarios, no surte efecto contra los demás codeudores o coacreedores, respectivamente. Sin embargo, los otros deudores pueden oponerla al acreedor, salvo que se fundamente en las relaciones personales del deudor que litigó. A su turno, los demás acreedores pueden hacerla valer contra el deudor, salvo las excepciones personales que éste pueda oponer a cada uno de ellos.
+
+Mora en obligaciones solidarias
 
 ###### Artículo 1194º
 
-La constitución en mora de uno de los deudores o acreedores solidarios no surte efecto respecto a los demás. La constitución en mora del deudor por uno de los acreedores solidarios, o del acreedor por uno de los deudores solidarios, favorece a los otros. Efectos del incumplimiento culpable de uno o más codeudores
+La constitución en mora de uno de los deudores o acreedores solidarios no surte efecto respecto a los demás.
+
+La constitución en mora del deudor por uno de los acreedores solidarios, o del acreedor por uno de los deudores solidarios, favorece a los otros. Efectos del incumplimiento culpable de uno o más codeudores
 
 ###### Artículo 1195º
 
@@ -6734,7 +7406,9 @@ Efectos de suspensión de la prescripción
 
 ###### Artículo 1197º
 
-La suspensión de la prescripción respecto de uno de los deudores o acreedores solidarios no surte efecto para los demás. Sin embargo, el deudor constreñido a pagar puede repetir contra los codeudores, aun cuando éstos hayan sido liberados por prescripción. Y, a su turno, el acreedor que cobra, respecto al cual se hubiera suspendido la prescripción, responde ante sus coacreedores de la parte que les corresponde en la obligación. Efectos de renuncia de prescripción
+La suspensión de la prescripción respecto de uno de los deudores o acreedores solidarios no surte efecto para los demás.
+
+Sin embargo, el deudor constreñido a pagar puede repetir contra los codeudores, aun cuando éstos hayan sido liberados por prescripción. Y, a su turno, el acreedor que cobra, respecto al cual se hubiera suspendido la prescripción, responde ante sus coacreedores de la parte que les corresponde en la obligación. Efectos de renuncia de prescripción
 
 ###### Artículo 1198º
 
@@ -6744,13 +7418,17 @@ Reconocimiento de deuda por un deudor solidario
 
 ###### Artículo 1199º
 
-El reconocimiento de la deuda por uno de los deudores solidarios, no produce efecto respecto a los demás codeudores. Si se practica el reconocimiento por el deudor ante uno de los acreedores solidarios, favorece a los otros.
+El reconocimiento de la deuda por uno de los deudores solidarios, no produce efecto respecto a los demás codeudores.
+
+Si se practica el reconocimiento por el deudor ante uno de los acreedores solidarios, favorece a los otros.
 
 Renuncia del acreedor a la solidaridad a favor de un deudor
 
 ###### Artículo 1200º
 
-El acreedor que renuncia a la solidaridad en favor de uno de los deudores, conserva la acción solidaria contra los demás. El acreedor que otorga recibo a uno de los deudores o que acciona judicialmente contra él, por su parte y sin reserva, renuncia a la solidaridad. Prorrateo de insolvencia de un codeudor
+El acreedor que renuncia a la solidaridad en favor de uno de los deudores, conserva la acción solidaria contra los demás.
+
+El acreedor que otorga recibo a uno de los deudores o que acciona judicialmente contra él, por su parte y sin reserva, renuncia a la solidaridad. Prorrateo de insolvencia de un codeudor
 
 ###### Artículo 1201º
 
@@ -6788,11 +7466,17 @@ Cesión de derechos
 
 ###### Artículo 1206º
 
-La cesión es el acto de disposición en virtud del cual el cedente trasmite al cesionario el derecho a exigir la prestación a cargo de su deudor, que se ha obligado a transferir por un título distinto. La cesión puede hacerse aun sin el asentimiento del deudor. Formalidad de cesión de derechos
+La cesión es el acto de disposición en virtud del cual el cedente trasmite al cesionario el derecho a exigir la prestación a cargo de su deudor, que se ha obligado a transferir por un título distinto.
+
+La cesión puede hacerse aun sin el asentimiento del deudor.
+
+Formalidad de cesión de derechos
 
 ###### Artículo 1207º
 
-La cesión debe constar por escrito, bajo sanción de nulidad. Cuando el acto o contrato que constituye el título de la transferencia del derecho conste por escrito, este documento sirve de constancia de la cesión. LAS OBLIGACIONES Derechos que pueden ser cedidos
+La cesión debe constar por escrito, bajo sanción de nulidad.
+
+Cuando el acto o contrato que constituye el título de la transferencia del derecho conste por escrito, este documento sirve de constancia de la cesión. LAS OBLIGACIONES Derechos que pueden ser cedidos
 
 ###### Artículo 1208º
 
@@ -6806,11 +7490,17 @@ También puede cederse el derecho a participar en un patrimonio hereditario ya c
 
 ###### Artículo 1210º
 
-La cesión no puede efectuarse cuando se opone a la ley, a la naturaleza de la obligación o al pacto con el deudor. El pacto por el que se prohíbe o restringe la cesión es oponible al cesionario de buena fe, si consta del instrumento por el que se constituyó la obligación o se prueba que el cesionario lo conocía al momento de la cesión. Alcance de la cesión de derechos
+La cesión no puede efectuarse cuando se opone a la ley, a la naturaleza de la obligación o al pacto con el deudor.
+
+El pacto por el que se prohíbe o restringe la cesión es oponible al cesionario de buena fe, si consta del instrumento por el que se constituyó la obligación o se prueba que el cesionario lo conocía al momento de la cesión.
+
+Alcance de la cesión de derechos
 
 ###### Artículo 1211º
 
-La cesión de derechos comprende la trasmisión al cesionario de los privilegios, las garantías reales y personales, así como los accesorios del derecho trasmitido, salvo pacto en contrario. En el caso de un bien dado en prenda, debe ser entregado al cesionario si estuviese en poder del cedente, mas no si estuviese en poder de un tercero. Garantía del derecho cedido
+La cesión de derechos comprende la trasmisión al cesionario de los privilegios, las garantías reales y personales, así como los accesorios del derecho trasmitido, salvo pacto en contrario.
+
+En el caso de un bien dado en prenda, debe ser entregado al cesionario si estuviese en poder del cedente, mas no si estuviese en poder de un tercero. Garantía del derecho cedido
 
 ###### Artículo 1212º
 
@@ -6824,11 +7514,15 @@ El cedente no está obligado a garantizar la solvencia del deudor, pero si lo ha
 
 ###### Artículo 1214º
 
-Cuando la cesión opera por ministerio de la ley, el cedente no responde de su realidad, ni de la solvencia del deudor. Inicio de los efectos de la cesión
+Cuando la cesión opera por ministerio de la ley, el cedente no responde de su realidad, ni de la solvencia del deudor.
+
+Inicio de los efectos de la cesión
 
 ###### Artículo 1215º
 
-La cesión produce efecto contra el deudor cedido desde que éste la acepta o le es comunicada fehacientemente. Excepción de la liberación del deudor por cumplimiento de la prestación
+La cesión produce efecto contra el deudor cedido desde que éste la acepta o le es comunicada fehacientemente.
+
+Excepción de la liberación del deudor por cumplimiento de la prestación
 
 ###### Artículo 1216º
 
@@ -6850,7 +7544,9 @@ La obligación se trasmite a los herederos, salvo cuando es inherente a la perso
 
 ###### Artículo 1219º
 
-Es efecto de las obligaciones autorizar al acreedor para lo siguiente: 1.- Emplear las medidas legales a fin de que el deudor le procure aquello a que está obligado. 2.- Procurarse la prestación o hacérsela procurar por otro, a costa del deudor. 3.- Obtener del deudor la indemnización correspondiente. 4.- Ejercer los derechos del deudor, sea en vía de acción o para asumir su defensa, con excepción de los que sean inherentes a la persona o cuando lo prohíba la ley. El acreedor para el ejercicio de los derechos mencionados en este inciso, no necesita recabar previamente autorización judicial, pero deberá hacer citar a su deudor en el juicio que promueva. Es posible ejercitar simultáneamente los derechos previstos en este artículo, salvo los casos de los incisos 1 y 2.
+Es efecto de las obligaciones autorizar al acreedor para lo siguiente: 1.- Emplear las medidas legales a fin de que el deudor le procure aquello a que está obligado. 2.- Procurarse la prestación o hacérsela procurar por otro, a costa del deudor. 3.- Obtener del deudor la indemnización correspondiente. 4.- Ejercer los derechos del deudor, sea en vía de acción o para asumir su defensa, con excepción de los que sean inherentes a la persona o cuando lo prohíba la ley. El acreedor para el ejercicio de los derechos mencionados en este inciso, no necesita recabar previamente autorización judicial, pero deberá hacer citar a su deudor en el juicio que promueva.
+
+Es posible ejercitar simultáneamente los derechos previstos en este artículo, salvo los casos de los incisos 1 y 2.
 
 LAS OBLIGACIONES
 
@@ -6888,7 +7584,9 @@ Aptitud legal para recibir el pago
 
 ###### Artículo 1224º
 
-Sólo es válido el pago que se efectúe al acreedor o al designado por el juez, por la ley o por el propio acreedor, salvo que, hecho a persona no autorizada, el acreedor lo ratifique o se aproveche de él. Pago a persona con derecho a cobrar
+Sólo es válido el pago que se efectúe al acreedor o al designado por el juez, por la ley o por el propio acreedor, salvo que, hecho a persona no autorizada, el acreedor lo ratifique o se aproveche de él.
+
+Pago a persona con derecho a cobrar
 
 ###### Artículo 1225º
 
@@ -6910,13 +7608,17 @@ El pago efectuado por el deudor después de notificado judicialmente para que no
 
 ###### Artículo 1229º
 
-La prueba del pago incumbe a quien pretende haberlo efectuado. Retención del pago
+La prueba del pago incumbe a quien pretende haberlo efectuado.
+
+Retención del pago
 
 ###### Artículo 1230º
 
 El deudor puede retener el pago mientras no le sea otorgado el recibo correspondiente.
 
-Tratándose de deudas cuyo recibo sea la devolución del título, perdido éste, quien se encuentre en aptitud de verificar el pago puede retenerlo y exigir del acreedor la declaración judicial que inutilice el título extraviado. Presunción de pago total
+Tratándose de deudas cuyo recibo sea la devolución del título, perdido éste, quien se encuentre en aptitud de verificar el pago puede retenerlo y exigir del acreedor la declaración judicial que inutilice el título extraviado.
+
+Presunción de pago total
 
 ###### Artículo 1231º
 
@@ -6926,7 +7628,9 @@ Presunción de pago de intereses
 
 ###### Artículo 1232º
 
-El recibo de pago del capital otorgado sin reserva de intereses, hace presumir el pago de éstos, salvo prueba en contrario. Pago con títulos valores
+El recibo de pago del capital otorgado sin reserva de intereses, hace presumir el pago de éstos, salvo prueba en contrario.
+
+Pago con títulos valores
 
 ###### Artículo 1233º
 
@@ -6976,7 +7680,9 @@ Plazo para el pago
 
 ###### Artículo 1240º
 
-Si no hubiese plazo designado, el acreedor puede exigir el pago inmediatamente después de contraída la obligación. Gastos del pago
+Si no hubiese plazo designado, el acreedor puede exigir el pago inmediatamente después de contraída la obligación.
+
+Gastos del pago
 
 ###### Artículo 1241º
 
@@ -6988,11 +7694,15 @@ Interés compensatorio y moratorio
 
 ###### Artículo 1242º
 
-El interés es compensatorio cuando constituye la contraprestación por el uso del dinero o de cualquier otro bien. Es moratorio cuanto tiene por finalidad indemnizar la mora en el pago. LAS OBLIGACIONES Tasa máxima de interés convencional
+El interés es compensatorio cuando constituye la contraprestación por el uso del dinero o de cualquier otro bien.
+
+Es moratorio cuanto tiene por finalidad indemnizar la mora en el pago. LAS OBLIGACIONES Tasa máxima de interés convencional
 
 ###### Artículo 1243º
 
-La tasa máxima del interés convencional compensatorio o moratorio, es fijada por el Banco Central de Reserva del Perú. Cualquier exceso sobre la tasa máxima da lugar a la devolución o a la imputación al capital, a voluntad del deudor.
+La tasa máxima del interés convencional compensatorio o moratorio, es fijada por el Banco Central de Reserva del Perú.
+
+Cualquier exceso sobre la tasa máxima da lugar a la devolución o a la imputación al capital, a voluntad del deudor.
 
 CONCORDANCIA: Ley Nº 29571, Art. 94º Tasa de interés legal
 
@@ -7016,7 +7726,9 @@ Intereses en obligaciones no pecuniarias
 
 ###### Artículo 1247º
 
-En la obligación no pecuniaria, el interés se fija de acuerdo al valor que tengan los bienes materia de la obligación en la plaza donde deba pagarse al día siguiente del vencimiento, o con el que determinen los peritos si el bien ha perecido al momento de hacerse la evaluación. Intereses en obligaciones consistentes en títulos valores
+En la obligación no pecuniaria, el interés se fija de acuerdo al valor que tengan los bienes materia de la obligación en la plaza donde deba pagarse al día siguiente del vencimiento, o con el que determinen los peritos si el bien ha perecido al momento de hacerse la evaluación.
+
+Intereses en obligaciones consistentes en títulos valores
 
 ###### Artículo 1248º
 
@@ -7042,7 +7754,9 @@ El deudor queda libre de su obligación si consigna la prestación debida y conc
 
 ###### Artículo 1252º
 
-El ofrecimiento puede ser judicial o extrajudicial. Es judicial en los casos que así se hubiera pactado y además: cuando no estuviera establecida contractual o legalmente la forma de hacer el pago, cuando por causa que no le sea imputable el deudor estuviera impedido de cumplir la prestación de la manera prevista, cuando el acreedor no realiza los actos de colaboración necesarios para que el deudor pueda cumplir la que le compete, cuando el acreedor no sea conocido o fuese incierto, cuando se ignore su domicilio, cuando se encuentre ausente o fuera incapaz sin tener representante o curador designado, cuando el crédito fuera litigioso o lo reclamaran varios acreedores y en situaciones análogas que impidan al deudor ofrecer o efectuar directamente un pago válido. El ofrecimiento extrajudicial debe efectuarse de la manera que estuviera pactada la obligación y, en su defecto, mediante carta notarial cursada al acreedor con una anticipación no menor de cinco días anteriores a la fecha de cumplimiento debido, LAS OBLIGACIONES si estuviera determinado. Si no lo estuviera, la anticipación debe ser de diez días anteriores a la fecha de cumplimiento que el deudor señale.[^223] Ofrecimiento judicial de pago, consignación y oposición
+El ofrecimiento puede ser judicial o extrajudicial.
+
+Es judicial en los casos que así se hubiera pactado y además: cuando no estuviera establecida contractual o legalmente la forma de hacer el pago, cuando por causa que no le sea imputable el deudor estuviera impedido de cumplir la prestación de la manera prevista, cuando el acreedor no realiza los actos de colaboración necesarios para que el deudor pueda cumplir la que le compete, cuando el acreedor no sea conocido o fuese incierto, cuando se ignore su domicilio, cuando se encuentre ausente o fuera incapaz sin tener representante o curador designado, cuando el crédito fuera litigioso o lo reclamaran varios acreedores y en situaciones análogas que impidan al deudor ofrecer o efectuar directamente un pago válido. El ofrecimiento extrajudicial debe efectuarse de la manera que estuviera pactada la obligación y, en su defecto, mediante carta notarial cursada al acreedor con una anticipación no menor de cinco días anteriores a la fecha de cumplimiento debido, LAS OBLIGACIONES si estuviera determinado. Si no lo estuviera, la anticipación debe ser de diez días anteriores a la fecha de cumplimiento que el deudor señale.[^223] Ofrecimiento judicial de pago, consignación y oposición
 
 ###### Artículo 1253º
 
@@ -7136,7 +7850,9 @@ El que por error de hecho o de derecho entrega a otro algún bien o cantidad en 
 
 ###### Artículo 1268º
 
-Queda exento de la obligación de restituir quien, creyendo de buena fe que el pago se hacía por cuenta de un crédito legítimo y subsistente, hubiese inutilizado el título, limitado o cancelado las garantías de su derecho o dejado prescribir la acción contra el verdadero deudor. El que pagó indebidamente sólo podrá dirigirse contra el verdadero deudor. Pago indebido recibido de mala fe
+Queda exento de la obligación de restituir quien, creyendo de buena fe que el pago se hacía por cuenta de un crédito legítimo y subsistente, hubiese inutilizado el título, limitado o cancelado las garantías de su derecho o dejado prescribir la acción contra el verdadero deudor. El que pagó indebidamente sólo podrá dirigirse contra el verdadero deudor.
+
+Pago indebido recibido de mala fe
 
 ###### Artículo 1269º
 
@@ -7148,7 +7864,11 @@ Enajenación del bien recibido como pago indebido de mala fe
 
 ###### Artículo 1270º
 
-Si quien acepta un pago indebido de mala fe, enajena el bien a un tercero que también actúa de mala fe, quien efectúo el pago puede exigir la restitución, y a ambos, solidariamente, la indemnización de daños y perjuicios. LAS OBLIGACIONES En caso que la enajenación hubiese sido a título oneroso pero el tercero hubiera procedido de buena fe, quien recibió el pago indebido deberá devolver el valor del bien, más la indemnización de daños y perjuicios. Si la enajenación se hizo a título gratuito y el tercero procedió de buena fe, quien efectuó el pago indebido puede exigir la restitución del bien. En este caso, sin embargo, sólo está obligado a pagar la correspondiente indemnización de daños y perjuicios quien recibió el pago indebido de mala fe. Restitución de intereses o frutos por pago indebido de buena fe
+Si quien acepta un pago indebido de mala fe, enajena el bien a un tercero que también actúa de mala fe, quien efectúo el pago puede exigir la restitución, y a ambos, solidariamente, la indemnización de daños y perjuicios. LAS OBLIGACIONES En caso que la enajenación hubiese sido a título oneroso pero el tercero hubiera procedido de buena fe, quien recibió el pago indebido deberá devolver el valor del bien, más la indemnización de daños y perjuicios.
+
+Si la enajenación se hizo a título gratuito y el tercero procedió de buena fe, quien efectuó el pago indebido puede exigir la restitución del bien. En este caso, sin embargo, sólo está obligado a pagar la correspondiente indemnización de daños y perjuicios quien recibió el pago indebido de mala fe.
+
+Restitución de intereses o frutos por pago indebido de buena fe
 
 ###### Artículo 1271º
 
@@ -7166,7 +7886,9 @@ Carga de la prueba del error
 
 ###### Artículo 1273º
 
-Corre a cargo de quien pretende haber efectuado el pago probar el error con que lo hizo, a menos que el demandado negara haber recibido el bien que se le reclame. En este caso, justificada por el demandante la entrega, queda relevado de toda otra prueba. Esto no limita el derecho del demandado para acreditar que le era debido lo que se supone recibió. Sin embargo, se presume que hubo error en el pago cuando se cumple con una prestación que nunca se debió o que ya estaba pagada. Aquel a quien se pide la devolución, puede probar que la entrega se efectuó a título de liberalidad o por otra causa justificada.
+Corre a cargo de quien pretende haber efectuado el pago probar el error con que lo hizo, a menos que el demandado negara haber recibido el bien que se le reclame. En este caso, justificada por el demandante la entrega, queda relevado de toda otra prueba. Esto no limita el derecho del demandado para acreditar que le era debido lo que se supone recibió.
+
+Sin embargo, se presume que hubo error en el pago cuando se cumple con una prestación que nunca se debió o que ya estaba pagada. Aquel a quien se pide la devolución, puede probar que la entrega se efectuó a título de liberalidad o por otra causa justificada.
 
 Prescripción de la acción por pago indebido
 
@@ -7196,7 +7918,9 @@ definición: requisitos
 
 ###### Artículo 1277º
 
-Por la novación se sustituye una obligación por otra. Para que exista novación es preciso que la voluntad de novar se manifieste indubitablemente en la nueva obligación, o que la existencia de la anterior sea incompatible con la nueva.
+Por la novación se sustituye una obligación por otra.
+
+Para que exista novación es preciso que la voluntad de novar se manifieste indubitablemente en la nueva obligación, o que la existencia de la anterior sea incompatible con la nueva.
 
 Novación objetiva
 
@@ -7226,7 +7950,9 @@ LAS OBLIGACIONES Intransmisibilidad de garantía a la nueva obligación
 
 ###### Artículo 1283º
 
-En la novación no se trasmiten a la nueva obligación las garantías de la obligación extinguida, salvo pacto en contrario. Sin embargo, en la novación por delegación la obligación es exigible contra el deudor primitivo y sus garantes, en caso que la insolvencia del nuevo deudor hubiese sido anterior y pública, o conocida del deudor al delegar su deuda. Novación de obligación sujeta a condición suspensiva
+En la novación no se trasmiten a la nueva obligación las garantías de la obligación extinguida, salvo pacto en contrario.
+
+Sin embargo, en la novación por delegación la obligación es exigible contra el deudor primitivo y sus garantes, en caso que la insolvencia del nuevo deudor hubiese sido anterior y pública, o conocida del deudor al delegar su deuda. Novación de obligación sujeta a condición suspensiva
 
 ###### Artículo 1284º
 
@@ -7244,7 +7970,11 @@ Novación de obligación nula o anulable
 
 ###### Artículo 1286º
 
-Si la obligación primitiva fuera nula, no existe novación. Si la obligación primitiva fuera anulable, la novación tiene validez si el deudor, conociendo del vicio, asume la nueva obligación. Nulidad o anulabilidad de la nueva obligación
+Si la obligación primitiva fuera nula, no existe novación.
+
+Si la obligación primitiva fuera anulable, la novación tiene validez si el deudor, conociendo del vicio, asume la nueva obligación.
+
+Nulidad o anulabilidad de la nueva obligación
 
 ###### Artículo 1287º
 
@@ -7292,11 +8022,15 @@ Extinción de obligación por condonación
 
 ###### Artículo 1295º
 
-De cualquier modo que se pruebe la condonación de la deuda efectuada de común acuerdo entre el acreedor y el deudor, se extingue la obligación, sin perjuicio del derecho de tercero. Efectos de la condonación a uno de los garantes
+De cualquier modo que se pruebe la condonación de la deuda efectuada de común acuerdo entre el acreedor y el deudor, se extingue la obligación, sin perjuicio del derecho de tercero.
+
+Efectos de la condonación a uno de los garantes
 
 ###### Artículo 1296º
 
-La condonación a uno de los garantes no extingue la obligación del deudor principal, ni la de los demás garantes. LAS OBLIGACIONES La condonación efectuada a uno de los garantes sin asentimiento de los otros aprovecha a todos, hasta donde alcance la parte del garante en cuyo favor se realizó. Condonación de deuda
+La condonación a uno de los garantes no extingue la obligación del deudor principal, ni la de los demás garantes.
+
+LAS OBLIGACIONES La condonación efectuada a uno de los garantes sin asentimiento de los otros aprovecha a todos, hasta donde alcance la parte del garante en cuyo favor se realizó. Condonación de deuda
 
 ###### Artículo 1297º
 
@@ -7326,7 +8060,9 @@ Efectos del cese de la consolidación
 
 ###### Artículo 1301º
 
-Si la consolidación cesa, se restablece la separación de las calidades de acreedor y deudor reunidas en la misma persona. En tal caso, la obligación extinguida renace con todos sus accesorios, sin perjuicio del derecho de terceros.
+Si la consolidación cesa, se restablece la separación de las calidades de acreedor y deudor reunidas en la misma persona.
+
+En tal caso, la obligación extinguida renace con todos sus accesorios, sin perjuicio del derecho de terceros.
 
 #### TÍTULO VII — Transacción
 
@@ -7334,7 +8070,9 @@ Noción
 
 ###### Artículo 1302º
 
-Por la transacción las partes, haciéndose concesiones recíprocas, deciden sobre algún asunto dudoso o litigioso, evitando el pleito que podría promoverse o finalizando el que está iniciado. Con las concesiones recíprocas, también se pueden crear, regular, modificar o extinguir relaciones diversas de aquellas que han constituido objeto de controversia entre las partes.
+Por la transacción las partes, haciéndose concesiones recíprocas, deciden sobre algún asunto dudoso o litigioso, evitando el pleito que podría promoverse o finalizando el que está iniciado.
+
+Con las concesiones recíprocas, también se pueden crear, regular, modificar o extinguir relaciones diversas de aquellas que han constituido objeto de controversia entre las partes.
 
 La transacción tiene valor de cosa juzgada.
 
@@ -7346,7 +8084,9 @@ La transacción debe contener la renuncia de las partes a cualquier acción que 
 
 ###### Artículo 1304º
 
-La transacción debe hacerse por escrito, bajo sanción de nulidad, o por petición al juez que conoce el litigio. Derechos transigibles
+La transacción debe hacerse por escrito, bajo sanción de nulidad, o por petición al juez que conoce el litigio.
+
+Derechos transigibles
 
 ###### Artículo 1305º
 
@@ -7420,7 +8160,9 @@ La obligación se extingue si la prestación no se ejecuta por causa no imputabl
 
 Si dicha causa es temporal, el deudor no es responsable por el retardo mientras ella perdure. Sin embargo, la obligación se extingue si la causa que determina la inejecución persiste hasta que al deudor, de acuerdo al título de la obligación o a la naturaleza de la prestación, ya no se le pueda considerar obligado a ejecutarla; o hasta que el acreedor justificadamente pierda interés en su cumplimiento o ya no le sea útil.
 
-También se extingue la obligación que sólo es susceptible de ejecutarse parcialmente, si ella no fuese útil para el acreedor o si éste no tuviese justificado interés en su ejecución parcial. En caso contrario, el deudor queda obligado a ejecutarla con reducción de la contraprestación, si la hubiere. Daños y perjuicios por inejecución no imputable
+También se extingue la obligación que sólo es susceptible de ejecutarse parcialmente, si ella no fuese útil para el acreedor o si éste no tuviese justificado interés en su ejecución parcial. En caso contrario, el deudor queda obligado a ejecutarla con reducción de la contraprestación, si la hubiere.
+
+Daños y perjuicios por inejecución no imputable
 
 ###### Artículo 1317º
 
@@ -7430,7 +8172,9 @@ Dolo
 
 ###### Artículo 1318º
 
-Procede con dolo quien deliberadamente no ejecuta la obligación. Culpa inexcusable
+Procede con dolo quien deliberadamente no ejecuta la obligación.
+
+Culpa inexcusable
 
 ###### Artículo 1319º
 
@@ -7446,7 +8190,9 @@ Indemnización por dolo, culpa leve e inexcusable
 
 ###### Artículo 1321º
 
-Queda sujeto a la indemnización de daños y perjuicios quien no ejecuta sus obligaciones por dolo, culpa inexcusable o culpa leve. El resarcimiento por la inejecución de la obligación o por su cumplimiento parcial, tardío o defectuoso, comprende tanto el daño emergente como el lucro cesante, en cuanto sean consecuencia inmediata y directa de tal inejecución. Si la inejecución o el cumplimiento parcial, tardío o defectuoso de la obligación, obedecieran a culpa leve, el resarcimiento se limita al daño que podía preverse al tiempo en que ella fue contraída.
+Queda sujeto a la indemnización de daños y perjuicios quien no ejecuta sus obligaciones por dolo, culpa inexcusable o culpa leve. El resarcimiento por la inejecución de la obligación o por su cumplimiento parcial, tardío o defectuoso, comprende tanto el daño emergente como el lucro cesante, en cuanto sean consecuencia inmediata y directa de tal inejecución.
+
+Si la inejecución o el cumplimiento parcial, tardío o defectuoso de la obligación, obedecieran a culpa leve, el resarcimiento se limita al daño que podía preverse al tiempo en que ella fue contraída.
 
 Indemnización por daño moral
 
@@ -7458,7 +8204,9 @@ Incumplimiento de pago de cuota
 
 ###### Artículo 1323º
 
-Cuando el pago deba efectuarse en cuotas periódicas, el incumplimiento de tres cuotas, sucesivas o no, concede al acreedor el derecho de exigir al deudor el inmediato pago del saldo, dándose por vencidas las cuotas que estuviesen pendientes, salvo pacto en contrario. LAS OBLIGACIONES Efectos de la inejecución de obligaciones dinerarias
+Cuando el pago deba efectuarse en cuotas periódicas, el incumplimiento de tres cuotas, sucesivas o no, concede al acreedor el derecho de exigir al deudor el inmediato pago del saldo, dándose por vencidas las cuotas que estuviesen pendientes, salvo pacto en contrario.
+
+LAS OBLIGACIONES Efectos de la inejecución de obligaciones dinerarias
 
 ###### Artículo 1324º
 
@@ -7510,7 +8258,9 @@ Constitución en mora
 
 ###### Artículo 1333º
 
-Incurre en mora el obligado desde que el acreedor le exija, judicial o extrajudicialmente, el cumplimiento de su obligación. No es necesaria la intimación para que la mora exista: 1.- Cuando la ley o el pacto lo declaren expresamente. 2.- Cuando de la naturaleza y circunstancias de la obligación resultare que la designación del tiempo en que había de entregarse el bien, o practicarse el servicio, hubiese sido motivo determinante para contraerla. 3.- Cuando el deudor manifieste por escrito su negativa a cumplir la obligación. 4.- Cuando la intimación no fuese posible por causa imputable al deudor. Mora en obligaciones de dar sumas de dinero
+Incurre en mora el obligado desde que el acreedor le exija, judicial o extrajudicialmente, el cumplimiento de su obligación.
+
+No es necesaria la intimación para que la mora exista: 1.- Cuando la ley o el pacto lo declaren expresamente. 2.- Cuando de la naturaleza y circunstancias de la obligación resultare que la designación del tiempo en que había de entregarse el bien, o practicarse el servicio, hubiese sido motivo determinante para contraerla. 3.- Cuando el deudor manifieste por escrito su negativa a cumplir la obligación. 4.- Cuando la intimación no fuese posible por causa imputable al deudor. Mora en obligaciones de dar sumas de dinero
 
 ###### Artículo 1334º
 
@@ -7532,7 +8282,9 @@ Indemnización en caso de mora que inutiliza la obligación
 
 ###### Artículo 1337º
 
-Cuando por efecto de la morosidad del deudor, la obligación resultase sin utilidad para el acreedor, éste puede rehusar su ejecución y exigir el pago de la indemnización de daños y perjuicios compensatorios. Mora del acreedor
+Cuando por efecto de la morosidad del deudor, la obligación resultase sin utilidad para el acreedor, éste puede rehusar su ejecución y exigir el pago de la indemnización de daños y perjuicios compensatorios.
+
+Mora del acreedor
 
 ###### Artículo 1338º
 
@@ -7556,11 +8308,15 @@ Cláusula penal compensatoria
 
 ###### Artículo 1341º
 
-El pacto por el que se acuerda que, en caso de incumplimiento, uno de los contratantes queda obligado al pago de una penalidad, tiene el efecto de limitar el resarcimiento a esta prestación y a que se devuelva la contraprestación, si la hubiere; salvo que se haya estipulado la indemnización del daño ulterior. En este último caso, el deudor deberá pagar el íntegro de la penalidad, pero ésta se computa como parte de los daños y perjuicios si fueran mayores. Exigibilidad de la penalidad y de la obligación
+El pacto por el que se acuerda que, en caso de incumplimiento, uno de los contratantes queda obligado al pago de una penalidad, tiene el efecto de limitar el resarcimiento a esta prestación y a que se devuelva la contraprestación, si la hubiere; salvo que se haya estipulado la indemnización del daño ulterior. En este último caso, el deudor deberá pagar el íntegro de la penalidad, pero ésta se computa como parte de los daños y perjuicios si fueran mayores.
+
+Exigibilidad de la penalidad y de la obligación
 
 ###### Artículo 1342º
 
-Cuando la cláusula penal se estipula para el caso de mora o en seguridad de un pacto determinado, el acreedor tiene derecho para exigir, además de la penalidad, el cumplimiento de la obligación. Exigibilidad de pena
+Cuando la cláusula penal se estipula para el caso de mora o en seguridad de un pacto determinado, el acreedor tiene derecho para exigir, además de la penalidad, el cumplimiento de la obligación.
+
+Exigibilidad de pena
 
 ###### Artículo 1343º
 
@@ -7580,19 +8336,27 @@ Reducción judicial de la pena
 
 ###### Artículo 1346º
 
-El juez, a solicitud del deudor, puede reducir equitativamente la pena cuando sea manifiestamente excesiva o cuando la obligación principal hubiese sido en parte o irregularmente cumplida. Cláusula penal divisible
+El juez, a solicitud del deudor, puede reducir equitativamente la pena cuando sea manifiestamente excesiva o cuando la obligación principal hubiese sido en parte o irregularmente cumplida.
+
+Cláusula penal divisible
 
 ###### Artículo 1347º
 
-Cada uno de los deudores o de los herederos del deudor está obligado a satisfacer la pena en proporción a su parte, siempre que la cláusula penal sea divisible, aunque la obligación sea indivisible. Cláusula penal indivisible
+Cada uno de los deudores o de los herederos del deudor está obligado a satisfacer la pena en proporción a su parte, siempre que la cláusula penal sea divisible, aunque la obligación sea indivisible.
+
+Cláusula penal indivisible
 
 ###### Artículo 1348º
 
-Si la cláusula penal es indivisible, cada uno de los deudores y de sus herederos queda obligado a satisfacer íntegramente la pena. Cláusula penal solidaria y divisible
+Si la cláusula penal es indivisible, cada uno de los deudores y de sus herederos queda obligado a satisfacer íntegramente la pena.
+
+Cláusula penal solidaria y divisible
 
 ###### Artículo 1349º
 
-Si la cláusula penal fuese solidaria, pero divisible, cada uno de los deudores queda obligado a satisfacerla íntegramente. En caso de muerte de un codeudor, la penalidad se divide entre sus herederos en proporción a las participaciones que les corresponda en la herencia. Derecho de codeudores no culpables
+Si la cláusula penal fuese solidaria, pero divisible, cada uno de los deudores queda obligado a satisfacerla íntegramente.
+
+En caso de muerte de un codeudor, la penalidad se divide entre sus herederos en proporción a las participaciones que les corresponda en la herencia. Derecho de codeudores no culpables
 
 ###### Artículo 1350º
 
@@ -7608,7 +8372,9 @@ Noción de contrato
 
 ###### Artículo 1351º
 
-El contrato es el acuerdo de dos o más partes para crear, regular, modificar o extinguir una relación jurídica patrimonial. Perfección de contratos
+El contrato es el acuerdo de dos o más partes para crear, regular, modificar o extinguir una relación jurídica patrimonial.
+
+Perfección de contratos
 
 ###### Artículo 1352º
 
@@ -7630,7 +8396,9 @@ La ley, por consideraciones de interés social, público o ético puede imponer 
 
 ###### Artículo 1356º
 
-Las disposiciones de la ley sobre contratos son supletorias de la voluntad de las partes, salvo que sean imperativas. Garantía y seguridad del Estado
+Las disposiciones de la ley sobre contratos son supletorias de la voluntad de las partes, salvo que sean imperativas.
+
+Garantía y seguridad del Estado
 
 ###### Artículo 1357º
 
@@ -7644,7 +8412,9 @@ Los incapaces no privados de discernimiento pueden celebrar contratos relacionad
 
 ###### Artículo 1359º
 
-No hay contrato mientras las partes no estén conformes sobre todas sus estipulaciones, aunque la discrepancia sea secundaria. Validez del contrato con reserva
+No hay contrato mientras las partes no estén conformes sobre todas sus estipulaciones, aunque la discrepancia sea secundaria.
+
+Validez del contrato con reserva
 
 ###### Artículo 1360º
 
@@ -7660,7 +8430,9 @@ Se presume que la declaración expresada en el contrato responde a la voluntad c
 
 ###### Artículo 1362º
 
-Los contratos deben negociarse, celebrarse y ejecutarse según las reglas de la buena fe y común intención de las partes. Efectos del contrato
+Los contratos deben negociarse, celebrarse y ejecutarse según las reglas de la buena fe y común intención de las partes.
+
+Efectos del contrato
 
 ###### Artículo 1363º
 
@@ -7738,7 +8510,9 @@ El contrato queda perfeccionado en el momento y lugar en que la aceptación es c
 
 ###### Artículo 1374º. Conocimiento y contratación entre ausentes[^233]
 
-La oferta, su revocación, la aceptación y cualquier otra declaración contractual dirigida a determinada persona se consideran conocidas en el momento en que llegan a la dirección del destinatario, a no ser que este pruebe haberse encontrado, sin su culpa, en la imposibilidad de conocerla. Si se realiza a través de medios electrónicos, ópticos u otro análogo, se presumirá la recepción de la declaración contractual, cuando el remitente reciba el acuse de recibo.[^234] Oportunidad de la aceptación
+La oferta, su revocación, la aceptación y cualquier otra declaración contractual dirigida a determinada persona se consideran conocidas en el momento en que llegan a la dirección del destinatario, a no ser que este pruebe haberse encontrado, sin su culpa, en la imposibilidad de conocerla.
+
+Si se realiza a través de medios electrónicos, ópticos u otro análogo, se presumirá la recepción de la declaración contractual, cuando el remitente reciba el acuse de recibo.[^234] Oportunidad de la aceptación
 
 ###### Artículo 1375º
 
@@ -7778,7 +8552,9 @@ Aceptación excepcional
 
 ###### Artículo 1381º
 
-Si la operación es de aquellas en que no se acostumbra la aceptación expresa o si el destinatario ha hecho una invitación a ofrecer, se reputa concluido el contrato si la oferta no fue rehusada sin dilación. La prueba de la costumbre y de la invitación a ofrecer corresponde al oferente. Obligatoriedad de la oferta
+Si la operación es de aquellas en que no se acostumbra la aceptación expresa o si el destinatario ha hecho una invitación a ofrecer, se reputa concluido el contrato si la oferta no fue rehusada sin dilación.
+
+La prueba de la costumbre y de la invitación a ofrecer corresponde al oferente. Obligatoriedad de la oferta
 
 ###### Artículo 1382º
 
@@ -7796,7 +8572,9 @@ La oferta deja de ser obligatoria si antes o simultáneamente con su recepción 
 
 ###### Artículo 1385º
 
-La oferta caduca: 1.- Si se hizo sin conceder plazo determinado o determinable a una persona con la que el oferente está en comunicación inmediata y no fue seguidamente aceptada. 2.- Si se hizo sin conceder plazo determinado o determinable a una persona con la que el oferente no está en comunicación inmediata y hubiese transcurrido el tiempo suficiente para llegar la respuesta a conocimiento del oferente, por el mismo medio de comunicación utilizado por éste. 3.- Si antes de recibida la oferta o simultáneamente con ésta llega a conocimiento del destinatario la retractación del oferente. Revocación de la aceptación
+La oferta caduca: 1.- Si se hizo sin conceder plazo determinado o determinable a una persona con la que el oferente está en comunicación inmediata y no fue seguidamente aceptada. 2.- Si se hizo sin conceder plazo determinado o determinable a una persona con la que el oferente no está en comunicación inmediata y hubiese transcurrido el tiempo suficiente para llegar la respuesta a conocimiento del oferente, por el mismo medio de comunicación utilizado por éste. 3.- Si antes de recibida la oferta o simultáneamente con ésta llega a conocimiento del destinatario la retractación del oferente.
+
+Revocación de la aceptación
 
 ###### Artículo 1386º
 
@@ -7818,7 +8596,9 @@ Subasta
 
 En la subasta, la convocatoria es una invitación a ofrecer y las posturas son las ofertas.
 
-La obligatoriedad de cada postura cesa desde que se formula otra mejor. El contrato se celebra cuando el subastador adjudica la buena pro al postor que hasta ese momento ha formulado la mejor postura válida. Contrato por adhesión
+La obligatoriedad de cada postura cesa desde que se formula otra mejor. El contrato se celebra cuando el subastador adjudica la buena pro al postor que hasta ese momento ha formulado la mejor postura válida.
+
+Contrato por adhesión
 
 ###### Artículo 1390º
 
@@ -7834,7 +8614,9 @@ Cláusulas generales de contratación
 
 ###### Artículo 1392º
 
-Las cláusulas generales de contratación son aquéllas redactadas previa y unilateralmente por una persona o entidad, en forma general y abstracta, con el objeto de fijar el contenido normativo de una serie indefinida de futuros contratos particulares, con elementos propios de ellos. Cláusulas generales aprobadas por autoridad administrativa
+Las cláusulas generales de contratación son aquéllas redactadas previa y unilateralmente por una persona o entidad, en forma general y abstracta, con el objeto de fijar el contenido normativo de una serie indefinida de futuros contratos particulares, con elementos propios de ellos.
+
+Cláusulas generales aprobadas por autoridad administrativa
 
 ###### Artículo 1393º
 
@@ -7898,7 +8680,9 @@ Obligación ilícita y prestación posible
 
 ###### Artículo 1403º
 
-La obligación que es objeto del contrato debe ser lícita. La prestación en que consiste la obligación y el bien que es objeto de ella deben ser posibles.
+La obligación que es objeto del contrato debe ser lícita.
+
+La prestación en que consiste la obligación y el bien que es objeto de ella deben ser posibles.
 
 Contratos sujetos a condición o plazo suspensivo
 
@@ -7908,7 +8692,9 @@ La licitud de la obligación o la posibilidad de la prestación o del bien que e
 
 ###### Artículo 1405º
 
-Es nulo todo contrato sobre el derecho de suceder en los bienes de una persona que no ha muerto o cuya muerte se ignora. Nulidad de disposición de patrimonio futuro
+Es nulo todo contrato sobre el derecho de suceder en los bienes de una persona que no ha muerto o cuya muerte se ignora.
+
+Nulidad de disposición de patrimonio futuro
 
 ###### Artículo 1406º
 
@@ -7982,7 +8768,9 @@ Negativa injustificada de celebrar contrato definitivo
 
 ###### Artículo 1418º
 
-La injustificada negativa del obligado a celebrar el contrato definitivo otorga a la otra parte alternativamente el derecho a: 1.- Exigir judicialmente la celebración del contrato. 2.- Solicitar se deje sin efecto el compromiso de contratar. En uno u otro caso hay lugar a la indemnización de daños y perjuicios. Contrato de opción
+La injustificada negativa del obligado a celebrar el contrato definitivo otorga a la otra parte alternativamente el derecho a: 1.- Exigir judicialmente la celebración del contrato. 2.- Solicitar se deje sin efecto el compromiso de contratar.
+
+En uno u otro caso hay lugar a la indemnización de daños y perjuicios. Contrato de opción
 
 ###### Artículo 1419º
 
@@ -8058,7 +8846,9 @@ En los contratos con prestaciones recíprocas, si la prestación a cargo de una 
 
 ###### Artículo 1432º
 
-Si la prestación resulta imposible por culpa del deudor, el contrato queda resuelto de pleno derecho y éste no puede exigir la contraprestación y está sujeto a la indemnización de daños y perjuicios. Cuando la imposibilidad sea imputable al acreedor, el contrato queda resuelto de pleno derecho. Sin embargo, dicho acreedor deberá satisfacer la contraprestación, correspondiéndole los derechos y acciones que hubieren quedado relativos a la prestación.
+Si la prestación resulta imposible por culpa del deudor, el contrato queda resuelto de pleno derecho y éste no puede exigir la contraprestación y está sujeto a la indemnización de daños y perjuicios.
+
+Cuando la imposibilidad sea imputable al acreedor, el contrato queda resuelto de pleno derecho. Sin embargo, dicho acreedor deberá satisfacer la contraprestación, correspondiéndole los derechos y acciones que hubieren quedado relativos a la prestación.
 
 Incumplimiento por imposibilidad parcial
 
@@ -8080,7 +8870,9 @@ Cesión
 
 En los contratos con prestaciones no ejecutadas total o parcialmente, cualquiera de las partes puede ceder a un tercero su posición contractual. Se requiere que la otra parte preste su conformidad antes, simultáneamente o después del acuerdo de cesión.
 
-Si la conformidad del cedido hubiera sido prestada previamente al acuerdo entre cedente y cesionario, el contrato sólo tendrá efectos desde que dicho acuerdo haya sido comunicado al cedido por escrito de fecha cierta. Reglas aplicables a cesión de posición contractual
+Si la conformidad del cedido hubiera sido prestada previamente al acuerdo entre cedente y cesionario, el contrato sólo tendrá efectos desde que dicho acuerdo haya sido comunicado al cedido por escrito de fecha cierta.
+
+Reglas aplicables a cesión de posición contractual
 
 ###### Artículo 1436º
 
@@ -8098,7 +8890,9 @@ Garantía de existencia y validez del contrato
 
 El cedente garantiza al cesionario la existencia y validez del contrato, salvo pacto en contrario. Este pacto no surte efecto si la invalidez se debe a hecho propio del cedente.
 
-Es válido el pacto por el cual el cedente garantiza el cumplimiento de la obligación del deudor, en cuyo caso responde como fiador. El cedido puede oponer al cesionario y éste a aquél las excepciones y medidas de defensa derivadas del contrato, pero no las fundadas en otras relaciones con el cedente, salvo que expresamente hubiera hecho reserva de ellas en el momento en que aceptó la cesión.
+Es válido el pacto por el cual el cedente garantiza el cumplimiento de la obligación del deudor, en cuyo caso responde como fiador.
+
+El cedido puede oponer al cesionario y éste a aquél las excepciones y medidas de defensa derivadas del contrato, pero no las fundadas en otras relaciones con el cedente, salvo que expresamente hubiera hecho reserva de ellas en el momento en que aceptó la cesión.
 
 Garantías de terceros en el contrato de cesión
 
@@ -8114,15 +8908,21 @@ definición
 
 En los contratos conmutativos de ejecución continuada, periódica o diferida, si la prestación llega a ser excesivamente onerosa por acontecimientos extraordinarios e imprevisibles, la parte perjudicada puede solicitar al juez que la reduzca o que aumente la contraprestación, a fin de que cese la excesiva onerosidad.
 
-Si ello no fuera posible por la naturaleza de la prestación, por las circunstancias o si lo solicitara el demandado, el juez decidirá la resolución del contrato. La resolución no se extiende a las prestaciones ejecutadas. Extensión de la excesiva onerosidad de la prestación
+Si ello no fuera posible por la naturaleza de la prestación, por las circunstancias o si lo solicitara el demandado, el juez decidirá la resolución del contrato. La resolución no se extiende a las prestaciones ejecutadas.
+
+Extensión de la excesiva onerosidad de la prestación
 
 ###### Artículo 1441º
 
-Las disposiciones contenidas en el Artículo 1440º se aplican: 1.- A los contratos conmutativos de ejecución inmediata, cuando la prestación a cargo de una de las partes ha sido diferida por causa no imputable a ella. 2.- A los contratos aleatorios, cuando la excesiva onerosidad se produce por causas extrañas al riesgo propio del contrato. FUENTES DE LAS OBLIGACIONES Excesiva onerosidad en contratos con prestación de una parte
+Las disposiciones contenidas en el Artículo 1440º se aplican: 1.- A los contratos conmutativos de ejecución inmediata, cuando la prestación a cargo de una de las partes ha sido diferida por causa no imputable a ella. 2.- A los contratos aleatorios, cuando la excesiva onerosidad se produce por causas extrañas al riesgo propio del contrato.
+
+FUENTES DE LAS OBLIGACIONES Excesiva onerosidad en contratos con prestación de una parte
 
 ###### Artículo 1442º
 
-Cuando se trate de contratos en que una sola de las partes hubiera asumido obligaciones, le es privativo solicitar judicialmente la reducción de la prestación a fin de que cese su excesiva onerosidad. Si no se puede reducir la prestación, rige lo dispuesto en el segundo párrafo del
+Cuando se trate de contratos en que una sola de las partes hubiera asumido obligaciones, le es privativo solicitar judicialmente la reducción de la prestación a fin de que cese su excesiva onerosidad.
+
+Si no se puede reducir la prestación, rige lo dispuesto en el segundo párrafo del
 
 ###### Artículo 1440º
 
@@ -8154,7 +8954,9 @@ Acción por lesión
 
 ###### Artículo 1447º
 
-La acción rescisoria por lesión sólo puede ejercitarse cuando la desproporción entre las prestaciones al momento de celebrarse el contrato es mayor de las dos quintas partes y siempre que tal desproporción resulte del aprovechamiento por uno de los contratantes de la necesidad apremiante del otro. Procede también en los contratos aleatorios, cuando se produzca la desproporción por causas extrañas al riesgo propio de ellos. Presunción de aprovechamiento
+La acción rescisoria por lesión sólo puede ejercitarse cuando la desproporción entre las prestaciones al momento de celebrarse el contrato es mayor de las dos quintas partes y siempre que tal desproporción resulte del aprovechamiento por uno de los contratantes de la necesidad apremiante del otro. Procede también en los contratos aleatorios, cuando se produzca la desproporción por causas extrañas al riesgo propio de ellos.
+
+Presunción de aprovechamiento
 
 ###### Artículo 1448º
 
@@ -8164,11 +8966,15 @@ Apreciación de la desproporción
 
 ###### Artículo 1449º
 
-La desproporción entre las prestaciones se apreciará según el valor que tengan al tiempo de celebrarse el contrato. Consignación del exceso
+La desproporción entre las prestaciones se apreciará según el valor que tengan al tiempo de celebrarse el contrato.
+
+Consignación del exceso
 
 ###### Artículo 1450º
 
-Fenece el proceso si el demandado, dentro del plazo para contestar la demanda, consigna la diferencia del valor. Reajuste del valor
+Fenece el proceso si el demandado, dentro del plazo para contestar la demanda, consigna la diferencia del valor.
+
+Reajuste del valor
 
 ###### Artículo 1451º
 
@@ -8178,7 +8984,9 @@ Acción de reajuste
 
 ###### Artículo 1452º
 
-En los casos en que la acción rescisoria a que se refiere el Artículo 1447º fuere inútil para el lesionado, por no ser posible que el demandado devuelva la prestación recibida, procederá la acción de reajuste. Nulidad de la renuncia a la acción por lesión
+En los casos en que la acción rescisoria a que se refiere el Artículo 1447º fuere inútil para el lesionado, por no ser posible que el demandado devuelva la prestación recibida, procederá la acción de reajuste.
+
+Nulidad de la renuncia a la acción por lesión
 
 ###### Artículo 1453º
 
@@ -8194,7 +9002,9 @@ Improcedencia de la acción por lesión
 
 ###### Artículo 1455º
 
-No procede la acción por lesión: 1.- En la transacción. 2.- En las ventas hechas por remate público. Lesión en la partición
+No procede la acción por lesión: 1.- En la transacción. 2.- En las ventas hechas por remate público.
+
+Lesión en la partición
 
 ###### Artículo 1456º
 
@@ -8210,11 +9020,15 @@ Por el contrato en favor de tercero, el promitente se obliga frente al estipulan
 
 ###### Artículo 1458º
 
-El derecho del tercero surge directa e inmediatamente de la celebración del contrato. Empero, será necesario que el tercero haga conocer al estipulante y al promitente su voluntad de hacer uso de ese derecho, para que sea exigible, operando esta declaración retroactivamente. 244 La declaración del beneficiario puede ser previa al contrato. Declaración de herederos
+El derecho del tercero surge directa e inmediatamente de la celebración del contrato. Empero, será necesario que el tercero haga conocer al estipulante y al promitente su voluntad de hacer uso de ese derecho, para que sea exigible, operando esta declaración retroactivamente. 244 La declaración del beneficiario puede ser previa al contrato.
+
+Declaración de herederos
 
 ###### Artículo 1459º
 
-La declaración de hacer uso del derecho puede ser efectuada por los herederos del tercero beneficiario, salvo pacto distinto. Falta de aceptación del tercero
+La declaración de hacer uso del derecho puede ser efectuada por los herederos del tercero beneficiario, salvo pacto distinto.
+
+Falta de aceptación del tercero
 
 ###### Artículo 1460º
 
@@ -8224,7 +9038,9 @@ Exigibilidad de cumplimiento al promitente
 
 ###### Artículo 1461º
 
-El estipulante tiene derecho a exigir el cumplimiento de la obligación por el promitente. El mismo derecho le corresponde al tercero beneficiario una vez que haya efectuado la declaración a que se refiere el Artículo 1458º y a los herederos del mismo en el caso del Artículo 1459º. Exclusividad del tercero para exigir el cumplimiento
+El estipulante tiene derecho a exigir el cumplimiento de la obligación por el promitente. El mismo derecho le corresponde al tercero beneficiario una vez que haya efectuado la declaración a que se refiere el Artículo 1458º y a los herederos del mismo en el caso del Artículo 1459º.
+
+Exclusividad del tercero para exigir el cumplimiento
 
 ###### Artículo 1462º
 
@@ -8256,7 +9072,9 @@ Extinción del contrato por revocación
 
 ###### Artículo 1467º
 
-La revocación de la estipulación en favor del tercero produce la extinción del contrato, salvo pacto distinto. Renuncia a la facultad de revocar, modificar o sustituir el contrato
+La revocación de la estipulación en favor del tercero produce la extinción del contrato, salvo pacto distinto.
+
+Renuncia a la facultad de revocar, modificar o sustituir el contrato
 
 ###### Artículo 1468º
 
@@ -8284,7 +9102,9 @@ Pacto anticipado de indemnización
 
 ###### Artículo 1472º
 
-Puede pactarse anticipadamente el monto de la indemnización. FUENTES DE LAS OBLIGACIONES
+Puede pactarse anticipadamente el monto de la indemnización.
+
+FUENTES DE LAS OBLIGACIONES
 
 #### TÍTULO XII — Contrato por Persona a Nombrar
 
@@ -8292,7 +9112,9 @@ Facultad de partes de nombrar a tercero
 
 ###### Artículo 1473º
 
-Al celebrar el contrato puede convenirse que cualquiera de las partes se reserve la facultad de nombrar posteriormente a un tercero que asuma los derechos y las obligaciones derivadas de aquel acto. La reserva de nombramiento no procede en los casos en que no es admitida la representación o es indispensable la determinación de los contratantes. Plazo para nombramiento de tercero
+Al celebrar el contrato puede convenirse que cualquiera de las partes se reserve la facultad de nombrar posteriormente a un tercero que asuma los derechos y las obligaciones derivadas de aquel acto.
+
+La reserva de nombramiento no procede en los casos en que no es admitida la representación o es indispensable la determinación de los contratantes. Plazo para nombramiento de tercero
 
 ###### Artículo 1474º
 
@@ -8304,11 +9126,15 @@ Formalidad de la declaración de nombramiento
 
 ###### Artículo 1475º
 
-La declaración de nombramiento y la aceptación por la persona nombrada deben revestir la misma forma que las partes hayan usado para el contrato, aunque no esté prescrita por la ley. Efectos de la declaración de nombramiento
+La declaración de nombramiento y la aceptación por la persona nombrada deben revestir la misma forma que las partes hayan usado para el contrato, aunque no esté prescrita por la ley.
+
+Efectos de la declaración de nombramiento
 
 ###### Artículo 1476º
 
-Si la declaración de nombramiento se hizo válidamente, la persona nombrada asume los derechos y las obligaciones derivadas del contrato, con efecto desde el momento de la celebración de éste. En caso contrario o cuando no se efectúa la declaración de nombramiento dentro del plazo, el contrato produce efecto entre los contratantes originarios.
+Si la declaración de nombramiento se hizo válidamente, la persona nombrada asume los derechos y las obligaciones derivadas del contrato, con efecto desde el momento de la celebración de éste.
+
+En caso contrario o cuando no se efectúa la declaración de nombramiento dentro del plazo, el contrato produce efecto entre los contratantes originarios.
 
 #### TÍTULO XIII — Arras Confirmatorias
 
@@ -8316,7 +9142,9 @@ Entrega y devolución de arras
 
 ###### Artículo 1477º
 
-La entrega de arras confirmatorias importa la conclusión del contrato. En caso de cumplimiento, quien recibió las arras las devolverá o las imputará sobre su crédito, según la naturaleza de la prestación. Arras penales
+La entrega de arras confirmatorias importa la conclusión del contrato. En caso de cumplimiento, quien recibió las arras las devolverá o las imputará sobre su crédito, según la naturaleza de la prestación.
+
+Arras penales
 
 ###### Artículo 1478º
 
@@ -8360,11 +9188,15 @@ Aplicación de saneamiento
 
 ###### Artículo 1484º
 
-Hay lugar a saneamiento en los contratos relativos a la transferencia de la propiedad, la posesión o el uso de un bien. Saneamiento
+Hay lugar a saneamiento en los contratos relativos a la transferencia de la propiedad, la posesión o el uso de un bien.
+
+Saneamiento
 
 ###### Artículo 1485º
 
-En virtud del saneamiento el transferente está obligado a responder frente al adquirente por la evicción, por los vicios ocultos del bien o por FUENTES DE LAS OBLIGACIONES sus hechos propios, que no permitan destinar el bien transferido a la finalidad para la cual fue adquirido o que disminuyan su valor. Destino normal
+En virtud del saneamiento el transferente está obligado a responder frente al adquirente por la evicción, por los vicios ocultos del bien o por FUENTES DE LAS OBLIGACIONES sus hechos propios, que no permitan destinar el bien transferido a la finalidad para la cual fue adquirido o que disminuyan su valor.
+
+Destino normal
 
 ###### Artículo 1486º
 
@@ -8380,7 +9212,9 @@ Caducidad de la acción de saneamiento
 
 ###### Artículo 1488º
 
-El adquirente puede exigir el saneamiento tanto a su inmediato transferente como a los anteriores a éste, en la medida que éstos hubieran estado obligados a ello con respecto a sus inmediatos adquirentes. Los plazos de caducidad de las acciones de saneamiento contra los transferentes anteriores al inmediato se cuentan a partir de la celebración de sus respectivos contratos.
+El adquirente puede exigir el saneamiento tanto a su inmediato transferente como a los anteriores a éste, en la medida que éstos hubieran estado obligados a ello con respecto a sus inmediatos adquirentes.
+
+Los plazos de caducidad de las acciones de saneamiento contra los transferentes anteriores al inmediato se cuentan a partir de la celebración de sus respectivos contratos.
 
 Facultad de los contratantes respecto del saneamiento
 
@@ -8444,7 +9278,9 @@ Intervención sustitutoria y coadyuvante en el proceso
 
 ###### Artículo 1499º
 
-Si el transferente sale a juicio ocupará el lugar del adquirente como demandado hasta la conclusión del juicio.[^245] Cuando el adquirente lo solicite puede coadyuvar en la defensa. Pérdida del derecho al saneamiento
+Si el transferente sale a juicio ocupará el lugar del adquirente como demandado hasta la conclusión del juicio.[^245] Cuando el adquirente lo solicite puede coadyuvar en la defensa.
+
+Pérdida del derecho al saneamiento
 
 ###### Artículo 1500º
 
@@ -8454,7 +9290,9 @@ Evicción parcial
 
 ###### Artículo 1501º
 
-En caso de evicción parcial, el adquirente tiene derecho a recibir el valor de la parte del bien cuyo derecho se pierde. Sin embargo, puede optar por la resolución del contrato, si esa parte es de tal importancia con respecto al todo que la haga inútil para la finalidad de la adquisición. Evicción en bienes interdependientes
+En caso de evicción parcial, el adquirente tiene derecho a recibir el valor de la parte del bien cuyo derecho se pierde. Sin embargo, puede optar por la resolución del contrato, si esa parte es de tal importancia con respecto al todo que la haga inútil para la finalidad de la adquisición.
+
+Evicción en bienes interdependientes
 
 ###### Artículo 1502º
 
@@ -8466,7 +9304,9 @@ Obligación de saneamiento por vicios ocultos
 
 ###### Artículo 1503º
 
-El transferente está obligado al saneamiento por los vicios ocultos existentes al momento de la transferencia. Vicios conocibles por el adquirente
+El transferente está obligado al saneamiento por los vicios ocultos existentes al momento de la transferencia.
+
+Vicios conocibles por el adquirente
 
 ###### Artículo 1504º
 
@@ -8502,11 +9342,15 @@ Hay lugar al saneamiento cuando existan cargas, limitaciones o gravámenes ocult
 
 ###### Artículo 1510º
 
-También hay lugar al saneamiento cuando no existen las servidumbres activas declaradas por el transferente al celebrarse el contrato, que harían apto el bien para la finalidad de su adquisición. FUENTES DE LAS OBLIGACIONES Acción redhibitoria
+También hay lugar al saneamiento cuando no existen las servidumbres activas declaradas por el transferente al celebrarse el contrato, que harían apto el bien para la finalidad de su adquisición.
+
+FUENTES DE LAS OBLIGACIONES Acción redhibitoria
 
 ###### Artículo 1511º
 
-El adquirente puede pedir, en razón del saneamiento a que está obligado el transferente, la resolución del contrato. Efectos de la resolución
+El adquirente puede pedir, en razón del saneamiento a que está obligado el transferente, la resolución del contrato.
+
+Efectos de la resolución
 
 ###### Artículo 1512º
 
@@ -8530,15 +9374,21 @@ Perjuicio del transferente por pérdida del bien
 
 ###### Artículo 1516º
 
-El transferente sufre el perjuicio de la pérdida del bien si éste perece totalmente por los vicios ocultos que tenía. Pérdida por culpa del adquirente
+El transferente sufre el perjuicio de la pérdida del bien si éste perece totalmente por los vicios ocultos que tenía.
+
+Pérdida por culpa del adquirente
 
 ###### Artículo 1517º
 
-El transferente queda libre de responsabilidad si el vicio que causó la pérdida del bien tuvo este efecto exclusivamente por culpa del adquirente, aunque hubiera ya existido en el momento de la transferencia. Pérdida por caso fortuito o fuerza mayor
+El transferente queda libre de responsabilidad si el vicio que causó la pérdida del bien tuvo este efecto exclusivamente por culpa del adquirente, aunque hubiera ya existido en el momento de la transferencia.
+
+Pérdida por caso fortuito o fuerza mayor
 
 ###### Artículo 1518º
 
-El transferente queda libre de responsabilidad si el bien que adolece de vicio se pierde por caso fortuito o fuerza mayor. Renuncia a saneamiento por vicios ocultos
+El transferente queda libre de responsabilidad si el bien que adolece de vicio se pierde por caso fortuito o fuerza mayor.
+
+Renuncia a saneamiento por vicios ocultos
 
 ###### Artículo 1519º
 
@@ -8548,11 +9398,15 @@ Nulidad de renuncia al saneamiento
 
 ###### Artículo 1520º
 
-La renuncia al saneamiento es nula cuando el transferente actúa con dolo o culpa inexcusable respecto a la existencia de vicios del bien al momento de celebrarse el contrato o de pactarse la renuncia. Vicios ocultos en transferencia de animales
+La renuncia al saneamiento es nula cuando el transferente actúa con dolo o culpa inexcusable respecto a la existencia de vicios del bien al momento de celebrarse el contrato o de pactarse la renuncia.
+
+Vicios ocultos en transferencia de animales
 
 ###### Artículo 1521º
 
-En la transferencia de animales, el saneamiento por vicios ocultos se regula por las leyes especiales o, en su defecto, por los usos. A falta de estos últimos, se observarán las normas que anteceden. Improcedencia del saneamiento en la transferencia de animales
+En la transferencia de animales, el saneamiento por vicios ocultos se regula por las leyes especiales o, en su defecto, por los usos. A falta de estos últimos, se observarán las normas que anteceden.
+
+Improcedencia del saneamiento en la transferencia de animales
 
 ###### Artículo 1522º
 
@@ -8588,7 +9442,9 @@ Excepción de saneamiento
 
 ###### Artículo 1527º
 
-Si el transferente entabla acción judicial destinada a enervar cualesquiera de los derechos sobre el bien que corresponden al adquirente en virtud del contrato, tiene éste la facultad de deducir la excepción de saneamiento, cuyo objeto es poner definitivamente fin al juicio. Nulidad del pacto de liberación o limitación del saneamiento
+Si el transferente entabla acción judicial destinada a enervar cualesquiera de los derechos sobre el bien que corresponden al adquirente en virtud del contrato, tiene éste la facultad de deducir la excepción de saneamiento, cuyo objeto es poner definitivamente fin al juicio.
+
+Nulidad del pacto de liberación o limitación del saneamiento
 
 ###### Artículo 1528º
 
@@ -8628,7 +9484,9 @@ Perecimiento parcial del bien
 
 ###### Artículo 1533º
 
-Si cuando se hizo la venta había perecido una parte del bien, el comprador tiene derecho a retractarse del contrato o a una rebaja por el menoscabo, en proporción al precio que se fijó por el todo. Compra venta de bien futuro
+Si cuando se hizo la venta había perecido una parte del bien, el comprador tiene derecho a retractarse del contrato o a una rebaja por el menoscabo, en proporción al precio que se fijó por el todo.
+
+Compra venta de bien futuro
 
 ###### Artículo 1534º
 
@@ -8672,7 +9530,9 @@ Efectos de la rescisión
 
 ###### Artículo 1541º
 
-En los casos de rescisión a que se refieren los Artículos 1539º y 1540º, el vendedor debe restituir al comprador el precio recibido, y pagar la indemnización de daños y perjuicios sufridos. Debe reembolsar igualmente los gastos, intereses y tributos del contrato efectivamente pagados por el comprador y todas las mejoras introducidas por éste. Adquisición de bienes en locales abiertos al público
+En los casos de rescisión a que se refieren los Artículos 1539º y 1540º, el vendedor debe restituir al comprador el precio recibido, y pagar la indemnización de daños y perjuicios sufridos.
+
+Debe reembolsar igualmente los gastos, intereses y tributos del contrato efectivamente pagados por el comprador y todas las mejoras introducidas por éste. Adquisición de bienes en locales abiertos al público
 
 ###### Artículo 1542º
 
@@ -8724,11 +9584,15 @@ Estado del bien al momento de la entrega
 
 ###### Artículo 1550º
 
-El bien debe ser entregado en el estado en que se encuentre en el momento de celebrarse el contrato, incluyendo sus accesorios. Entrega de documentos y títulos del bien vendido
+El bien debe ser entregado en el estado en que se encuentre en el momento de celebrarse el contrato, incluyendo sus accesorios.
+
+Entrega de documentos y títulos del bien vendido
 
 ###### Artículo 1551º
 
-El vendedor debe entregar los documentos y títulos relativos a la propiedad o al uso del bien vendido, salvo pacto distinto. Oportunidad de la entrega del bien
+El vendedor debe entregar los documentos y títulos relativos a la propiedad o al uso del bien vendido, salvo pacto distinto.
+
+Oportunidad de la entrega del bien
 
 ###### Artículo 1552º
 
@@ -8744,15 +9608,21 @@ Entrega de frutos del bien
 
 ###### Artículo 1554º
 
-El vendedor responde ante el comprador por los frutos del bien, en caso de ser culpable de la demora de su entrega. Si no hay culpa, responde por los frutos sólo en caso de haberlos percibido. FUENTES DE LAS OBLIGACIONES Demora en entrega de frutos
+El vendedor responde ante el comprador por los frutos del bien, en caso de ser culpable de la demora de su entrega. Si no hay culpa, responde por los frutos sólo en caso de haberlos percibido.
+
+FUENTES DE LAS OBLIGACIONES Demora en entrega de frutos
 
 ###### Artículo 1555º
 
-Si al tiempo de celebrarse el contrato el comprador conocía el obstáculo que demora la entrega, no se aplica el Artículo 1554º ni es responsable el vendedor de la indemnización por los daños y perjuicios. Resolución por falta de entrega
+Si al tiempo de celebrarse el contrato el comprador conocía el obstáculo que demora la entrega, no se aplica el Artículo 1554º ni es responsable el vendedor de la indemnización por los daños y perjuicios.
+
+Resolución por falta de entrega
 
 ###### Artículo 1556º
 
-Cuando se resuelve la compraventa por falta de entrega, el vendedor debe reembolsar al comprador los tributos y gastos del contrato que hubiera pagado e indemnizarle los daños y perjuicios. Prórroga de plazos por demora en entrega del bien
+Cuando se resuelve la compraventa por falta de entrega, el vendedor debe reembolsar al comprador los tributos y gastos del contrato que hubiera pagado e indemnizarle los daños y perjuicios.
+
+Prórroga de plazos por demora en entrega del bien
 
 ###### Artículo 1557º
 
@@ -8766,7 +9636,9 @@ Tiempo, forma y lugar del pago del precio
 
 El comprador está obligado a pagar el precio en el momento, de la manera y en el lugar pactados.
 
-A falta de convenio y salvo usos diversos, debe ser pagado al contado en el momento y lugar de la entrega del bien. Si el pago no puede hacerse en el lugar de la entrega del bien, se hará en el domicilio del comprador. Resolución por falta de pago del saldo
+A falta de convenio y salvo usos diversos, debe ser pagado al contado en el momento y lugar de la entrega del bien. Si el pago no puede hacerse en el lugar de la entrega del bien, se hará en el domicilio del comprador.
+
+Resolución por falta de pago del saldo
 
 ###### Artículo 1559º
 
@@ -8816,7 +9688,9 @@ Transferencia del riesgo
 
 ###### Artículo 1567º
 
-El riesgo de pérdida de bienes ciertos, no imputables a los contratantes, pasa al comprador en el momento de su entrega. FUENTES DE LAS OBLIGACIONES Transferencia del riesgo antes de la entrega
+El riesgo de pérdida de bienes ciertos, no imputables a los contratantes, pasa al comprador en el momento de su entrega.
+
+FUENTES DE LAS OBLIGACIONES Transferencia del riesgo antes de la entrega
 
 ###### Artículo 1568º
 
@@ -8848,7 +9722,9 @@ La compraventa a prueba se considera hecha bajo la condición suspensiva de que 
 
 La prueba debe realizarse en el plazo y según las condiciones establecidas en el contrato o por los usos.
 
-Si no se realiza la prueba o el resultado de ésta no es comunicado al vendedor dentro del plazo indicado, la condición se tendrá por cumplida. Compraventa sobre muestra
+Si no se realiza la prueba o el resultado de ésta no es comunicado al vendedor dentro del plazo indicado, la condición se tendrá por cumplida.
+
+Compraventa sobre muestra
 
 ###### Artículo 1573º
 
@@ -8872,7 +9748,9 @@ Plazo para pago del exceso o devolución
 
 ###### Artículo 1576º
 
-Cuando en el caso del Artículo 1574º el comprador no pueda pagar inmediatamente el precio del exceso que resultó, el vendedor está obligado a concederle un plazo no menor de treinta días para el pago. Si no lo hace, el plazo será determinado por el juez, en la vía incidental, con arreglo a las circunstancias.
+Cuando en el caso del Artículo 1574º el comprador no pueda pagar inmediatamente el precio del exceso que resultó, el vendedor está obligado a concederle un plazo no menor de treinta días para el pago.
+
+Si no lo hace, el plazo será determinado por el juez, en la vía incidental, con arreglo a las circunstancias.
 
 Igual regla se aplica, en su caso, para que el vendedor devuelva la diferencia resultante.
 
@@ -8888,7 +9766,9 @@ Compraventa de bienes homogéneos
 
 Si en la compraventa de varios bienes homogéneos por un solo y mismo precio, pero con indicación de sus respectivas extensiones o cabidas, se encuentra que la extensión o cabida es superior en alguno o algunos e inferior en FUENTES DE LAS OBLIGACIONES otro u otros, se hará la compensación entre las faltas y los excesos, hasta el límite de su concurrencia.
 
-Si el precio fue pactado por unidad de extensión o medida, el derecho al suplemento, o a la disminución del precio que resulta después de efectuada la compensación, se regula por los Artículos 1574º a 1576º. Caducidad de la acción rescisoria
+Si el precio fue pactado por unidad de extensión o medida, el derecho al suplemento, o a la disminución del precio que resulta después de efectuada la compensación, se regula por los Artículos 1574º a 1576º.
+
+Caducidad de la acción rescisoria
 
 ###### Artículo 1579º
 
@@ -8900,7 +9780,9 @@ Compraventa sobre documentos
 
 ###### Artículo 1580º
 
-En la compraventa sobre documentos, la entrega del bien queda sustituida por la de su título representativo y por los otros documentos exigidos por el contrato o, en su defecto, por los usos. Oportunidad y lugar de pago
+En la compraventa sobre documentos, la entrega del bien queda sustituida por la de su título representativo y por los otros documentos exigidos por el contrato o, en su defecto, por los usos.
+
+Oportunidad y lugar de pago
 
 ###### Artículo 1581º
 
@@ -8924,7 +9806,9 @@ Oponibilidad del pacto de reserva de propiedad
 
 ###### Artículo 1584º
 
-La reserva de la propiedad es oponible a los acreedores del comprador sólo si consta por escrito que tenga fecha cierta anterior al embargo. Si se trata de bienes inscritos, la reserva de la propiedad es oponible a terceros siempre que el pacto haya sido previamente registrado. Reserva de propiedad en arrendamiento - venta
+La reserva de la propiedad es oponible a los acreedores del comprador sólo si consta por escrito que tenga fecha cierta anterior al embargo. Si se trata de bienes inscritos, la reserva de la propiedad es oponible a terceros siempre que el pacto haya sido previamente registrado.
+
+Reserva de propiedad en arrendamiento - venta
 
 ###### Artículo 1585º
 
@@ -8932,23 +9816,33 @@ Las disposiciones de los Artículos 1583º y 1584º son aplicables a los contrat
 
 ###### Artículo 1586º
 
-Por la retroventa, el vendedor adquiere el derecho de resolver unilateralmente el contrato, sin necesidad de decisión judicial. Nulidad de estipulaciones en el pacto de retroventa
+Por la retroventa, el vendedor adquiere el derecho de resolver unilateralmente el contrato, sin necesidad de decisión judicial.
+
+Nulidad de estipulaciones en el pacto de retroventa
 
 ###### Artículo 1587º
 
-Es nula la estipulación que impone al vendedor, como contrapartida de la resolución del contrato, la obligación de pagar al comprador una cantidad de dinero u otra ventaja para éste. También es nula, en cuanto al exceso, la estipulación que obliga al vendedor a devolver, en caso de resolución del contrato, una suma adicional que no sea la destinada a conservar el valor adquisitivo del precio. FUENTES DE LAS OBLIGACIONES Plazo para ejercitar el derecho de resolución
+Es nula la estipulación que impone al vendedor, como contrapartida de la resolución del contrato, la obligación de pagar al comprador una cantidad de dinero u otra ventaja para éste.
+
+También es nula, en cuanto al exceso, la estipulación que obliga al vendedor a devolver, en caso de resolución del contrato, una suma adicional que no sea la destinada a conservar el valor adquisitivo del precio.
+
+FUENTES DE LAS OBLIGACIONES Plazo para ejercitar el derecho de resolución
 
 ###### Artículo 1588º
 
 El plazo para ejercitar el derecho de resolución es de dos años tratándose de inmuebles y de un año en el caso de muebles, salvo que las partes estipulen un plazo menor.
 
-El plazo se computa a partir de la celebración de la compraventa. Si las partes convienen un plazo mayor que el indicado en el primer párrafo de este artículo o prorrogan el plazo para que sea mayor de dos años o de un año, según el caso, el plazo o la prórroga se consideran reducidos al plazo legal. El comprador tiene derecho a retener el bien hasta que el vendedor le reembolse las mejoras necesarias y útiles.
+El plazo se computa a partir de la celebración de la compraventa. Si las partes convienen un plazo mayor que el indicado en el primer párrafo de este artículo o prorrogan el plazo para que sea mayor de dos años o de un año, según el caso, el plazo o la prórroga se consideran reducidos al plazo legal.
+
+El comprador tiene derecho a retener el bien hasta que el vendedor le reembolse las mejoras necesarias y útiles.
 
 Retroventa en bienes indivisos
 
 ###### Artículo 1589º
 
-Los que han vendido conjuntamente un bien indiviso con pacto de retroventa, y los herederos del que ha vendido con el mismo pacto, no pueden usar su derecho separadamente, sino conjuntamente. Retroventa en venta separada
+Los que han vendido conjuntamente un bien indiviso con pacto de retroventa, y los herederos del que ha vendido con el mismo pacto, no pueden usar su derecho separadamente, sino conjuntamente.
+
+Retroventa en venta separada
 
 ###### Artículo 1590º
 
@@ -8968,11 +9862,15 @@ Derecho de retracto definición
 
 El derecho de retracto es el que la ley otorga a determinadas personas para subrogarse en el lugar del comprador y en todas las estipulaciones del contrato de compraventa.
 
-El retrayente debe reembolsar al adquiriente el precio, los tributos y gastos pagados por éste y, en su caso, los intereses pactados. Es improcedente el retracto en las ventas hechas por remate público. Retracto en dación en pago
+El retrayente debe reembolsar al adquiriente el precio, los tributos y gastos pagados por éste y, en su caso, los intereses pactados.
+
+Es improcedente el retracto en las ventas hechas por remate público. Retracto en dación en pago
 
 ###### Artículo 1593º
 
-El derecho de retracto también procede en la dación en pago. Procedencia del derecho de retracto
+El derecho de retracto también procede en la dación en pago.
+
+Procedencia del derecho de retracto
 
 ###### Artículo 1594º
 
@@ -8998,7 +9896,9 @@ Si el retrayente conoce la transferencia por cualquier medio distinto del indica
 
 ###### Artículo 1598º
 
-Cuando el precio del bien fue pactado a plazos es obligatorio el otorgamiento de una garantía para el pago del precio pendiente, aunque en el contrato que da lugar al retracto no se hubiera convenido. FUENTES DE LAS OBLIGACIONES Titulares del derecho de retracto
+Cuando el precio del bien fue pactado a plazos es obligatorio el otorgamiento de una garantía para el pago del precio pendiente, aunque en el contrato que da lugar al retracto no se hubiera convenido.
+
+FUENTES DE LAS OBLIGACIONES Titulares del derecho de retracto
 
 ###### Artículo 1599º
 
@@ -9032,7 +9932,9 @@ definición
 
 ###### Artículo 1604º
 
-Por el suministro, el suministrante se obliga a ejecutar en favor de otra persona prestaciones periódicas o continuadas de bienes. Prueba y formalidad del contrato de suministro
+Por el suministro, el suministrante se obliga a ejecutar en favor de otra persona prestaciones periódicas o continuadas de bienes.
+
+Prueba y formalidad del contrato de suministro
 
 ###### Artículo 1605º
 
@@ -9052,7 +9954,9 @@ Si los contratantes determinan únicamente los límites mínimos y máximos para
 
 ###### Artículo 1608º
 
-En el suministro periódico, el precio se abona en el acto de las prestaciones singulares y en proporción a cada una de ellas. Determinación del precio en el suministro periódico
+En el suministro periódico, el precio se abona en el acto de las prestaciones singulares y en proporción a cada una de ellas.
+
+Determinación del precio en el suministro periódico
 
 ###### Artículo 1609º
 
@@ -9072,7 +9976,9 @@ FUENTES DE LAS OBLIGACIONES Vencimiento de prestaciones singulares
 
 ###### Artículo 1612º
 
-Cuando el beneficiario del suministro tiene la facultad de fijar el vencimiento de las prestaciones singulares, debe comunicar su fecha al suministrante con un aviso previo no menor de siete días. Suministro de plazo indeterminado
+Cuando el beneficiario del suministro tiene la facultad de fijar el vencimiento de las prestaciones singulares, debe comunicar su fecha al suministrante con un aviso previo no menor de siete días.
+
+Suministro de plazo indeterminado
 
 ###### Artículo 1613º
 
@@ -9152,17 +10058,23 @@ Compromiso de donar bien ajeno
 
 ###### Artículo 1627º
 
-El contrato en virtud del cual una persona se obliga a obtener que otra adquiera gratuitamente la propiedad de un bien que ambos saben que es ajeno, se rige por los Artículos 1470º, 1471º y 1472º. Donación a favor de tutor o curador
+El contrato en virtud del cual una persona se obliga a obtener que otra adquiera gratuitamente la propiedad de un bien que ambos saben que es ajeno, se rige por los Artículos 1470º, 1471º y 1472º.
+
+Donación a favor de tutor o curador
 
 ###### Artículo 1628º
 
-La donación en favor de quien ha sido tutor o curador del donante está sujeta a la condición suspensiva de ser aprobadas las cuentas y pagado el saldo resultante de la administración. Límites de la donación
+La donación en favor de quien ha sido tutor o curador del donante está sujeta a la condición suspensiva de ser aprobadas las cuentas y pagado el saldo resultante de la administración.
+
+Límites de la donación
 
 ###### Artículo 1629º
 
 Nadie puede dar por vía de donación, más de lo que puede disponer por testamento.
 
-La donación es inválida en todo lo que exceda de esta medida. El exceso se regula por el valor que tengan o debían tener los bienes al momento de la muerte del donante.
+La donación es inválida en todo lo que exceda de esta medida.
+
+El exceso se regula por el valor que tengan o debían tener los bienes al momento de la muerte del donante.
 
 Donación conjunta
 
@@ -9198,7 +10110,9 @@ Invalidada la donación se restituye al donante el bien donado, o su valor de re
 
 ###### Artículo 1636º
 
-No queda invalidada de pleno derecho la donación en el caso del Artículo 1634º cuando el valor del bien donado no exceda de la décima parte de los bienes que tuvo el donante al tiempo de hacer la donación. En este caso, es necesario que el donante la declare sin efecto. Revocación de donación
+No queda invalidada de pleno derecho la donación en el caso del Artículo 1634º cuando el valor del bien donado no exceda de la décima parte de los bienes que tuvo el donante al tiempo de hacer la donación. En este caso, es necesario que el donante la declare sin efecto.
+
+Revocación de donación
 
 ###### Artículo 1637º
 
@@ -9208,11 +10122,15 @@ FUENTES DE LAS OBLIGACIONES Intrasmisibilidad de la revocación
 
 ###### Artículo 1638º
 
-No pasa a los herederos la facultad de revocar la donación. Caducidad de la revocación
+No pasa a los herederos la facultad de revocar la donación.
+
+Caducidad de la revocación
 
 ###### Artículo 1639º
 
-La facultad de revocar la donación caduca a los seis meses desde que sobrevino alguna de las causas del Artículo 1637º. Comunicación de la revocación
+La facultad de revocar la donación caduca a los seis meses desde que sobrevino alguna de las causas del Artículo 1637º.
+
+Comunicación de la revocación
 
 ###### Artículo 1640º
 
@@ -9226,7 +10144,9 @@ El donatario o sus herederos pueden contradecir las causas de la revocación par
 
 ###### Artículo 1642º
 
-En el caso de donaciones remuneratorias o sujetas a cargo, su invalidación o revocación determina la obligación del donante de abonar al donatario el valor del servicio prestado o del cargo satisfecho. Frutos por revocación o invalidación
+En el caso de donaciones remuneratorias o sujetas a cargo, su invalidación o revocación determina la obligación del donante de abonar al donatario el valor del servicio prestado o del cargo satisfecho.
+
+Frutos por revocación o invalidación
 
 ###### Artículo 1643º
 
@@ -9260,7 +10180,9 @@ definición
 
 ###### Artículo 1648º
 
-Por el mutuo, el mutuante se obliga a entregar al mutuatario una determinada cantidad de dinero o de bienes consumibles, a cambio de que se le devuelvan otros de la misma especie, calidad o cantidad. Prueba y formalidad del mutuo
+Por el mutuo, el mutuante se obliga a entregar al mutuatario una determinada cantidad de dinero o de bienes consumibles, a cambio de que se le devuelvan otros de la misma especie, calidad o cantidad.
+
+Prueba y formalidad del mutuo
 
 ###### Artículo 1649º
 
@@ -9292,7 +10214,9 @@ FUENTES DE LAS OBLIGACIONES Presunción del buen estado del bien
 
 ###### Artículo 1655º
 
-Recibido el bien por el mutuatario, se presume que se halla en estado de servir para el uso a que se destinó. Plazo legal de devolución
+Recibido el bien por el mutuatario, se presume que se halla en estado de servir para el uso a que se destinó.
+
+Plazo legal de devolución
 
 ###### Artículo 1656º
 
@@ -9322,7 +10246,9 @@ Pago por imposibilidad de devolver el bien
 
 ###### Artículo 1661º
 
-Si el mutuatario no pudiese devolver bien similar en especie, cantidad y calidad al que recibió, satisfará su prestación pagando el valor que tenía al momento y lugar en que debió hacerse el pago. Pago previa evaluación del bien
+Si el mutuatario no pudiese devolver bien similar en especie, cantidad y calidad al que recibió, satisfará su prestación pagando el valor que tenía al momento y lugar en que debió hacerse el pago.
+
+Pago previa evaluación del bien
 
 ###### Artículo 1662º
 
@@ -9372,23 +10298,33 @@ El copropietario de un bien indiviso no puede arrendarlo sin consentimiento de l
 
 ###### Artículo 1670º
 
-Cuando se arrienda un mismo bien a dos o más personas, se prefiere al arrendatario de buena fe cuyo título ha sido primeramente inscrito o, en defecto de inscripción, al que ha empezado a poseerlo. Si ninguno ha empezado a poseerlo, será preferido el arrendatario cuyo título sea de fecha anterior, salvo que el de alguno conste de documento de fecha cierta. FUENTES DE LAS OBLIGACIONES Arrendamiento de bien ajeno
+Cuando se arrienda un mismo bien a dos o más personas, se prefiere al arrendatario de buena fe cuyo título ha sido primeramente inscrito o, en defecto de inscripción, al que ha empezado a poseerlo. Si ninguno ha empezado a poseerlo, será preferido el arrendatario cuyo título sea de fecha anterior, salvo que el de alguno conste de documento de fecha cierta.
+
+FUENTES DE LAS OBLIGACIONES Arrendamiento de bien ajeno
 
 ###### Artículo 1671º
 
-Si el arrendatario sabía que el bien era ajeno, el contrato se rige por lo dispuesto en los Artículos 1470º, 1471º y 1472º. Prohibición de arrendatarios
+Si el arrendatario sabía que el bien era ajeno, el contrato se rige por lo dispuesto en los Artículos 1470º, 1471º y 1472º.
+
+Prohibición de arrendatarios
 
 ###### Artículo 1672º
 
-El arrendador no puede realizar en el bien innovaciones que disminuyan el uso por parte del arrendatario. Reparaciones de bien arrendado
+El arrendador no puede realizar en el bien innovaciones que disminuyan el uso por parte del arrendatario.
+
+Reparaciones de bien arrendado
 
 ###### Artículo 1673º
 
-Si en el curso del arrendamiento el bien requiere reparaciones que no pueden diferirse hasta el fin del contrato, el arrendatario debe tolerarlas aun cuando importen privación del uso de una parte de él. Resolución o rebaja de renta
+Si en el curso del arrendamiento el bien requiere reparaciones que no pueden diferirse hasta el fin del contrato, el arrendatario debe tolerarlas aun cuando importen privación del uso de una parte de él.
+
+Resolución o rebaja de renta
 
 ###### Artículo 1674º
 
-Cuando para reparar el bien se impide al arrendatario que use una parte de él, éste tiene derecho a dar por resuelto el contrato o a la rebaja en la renta proporcional al tiempo y a la parte que no utiliza. Restitución de bien mueble arrendado
+Cuando para reparar el bien se impide al arrendatario que use una parte de él, éste tiene derecho a dar por resuelto el contrato o a la rebaja en la renta proporcional al tiempo y a la parte que no utiliza.
+
+Restitución de bien mueble arrendado
 
 ###### Artículo 1675º
 
@@ -9418,7 +10354,9 @@ Presunción de buen estado
 
 ###### Artículo 1679º
 
-Entregado el bien al arrendatario, se presume que se halla en estado de servir y con todo lo necesario para su uso. Obligaciones adicionales al arrendador
+Entregado el bien al arrendatario, se presume que se halla en estado de servir y con todo lo necesario para su uso.
+
+Obligaciones adicionales al arrendador
 
 ###### Artículo 1680º
 
@@ -9438,17 +10376,23 @@ FUENTES DE LAS OBLIGACIONES 10.- A devolver el bien al arrendador al vencerse el
 
 El arrendatario está obligado a dar aviso inmediato al arrendador de las reparaciones que haya que efectuar, bajo responsabilidad por los daños y perjuicios resultantes.
 
-Si se trata de reparaciones urgentes, el arrendatario debe realizarlas directamente con derecho a reembolso, siempre que avise al mismo tiempo al arrendador. En los demás casos, los gastos de conservación y de mantenimiento ordinario son de cargo del arrendatario, salvo pacto distinto. Responsabilidad por pérdida y deterioro del bien
+Si se trata de reparaciones urgentes, el arrendatario debe realizarlas directamente con derecho a reembolso, siempre que avise al mismo tiempo al arrendador. En los demás casos, los gastos de conservación y de mantenimiento ordinario son de cargo del arrendatario, salvo pacto distinto.
+
+Responsabilidad por pérdida y deterioro del bien
 
 ###### Artículo 1683º
 
-El arrendatario es responsable por la pérdida y el deterioro del bien que ocurran en el curso del arrendamiento, aun cuando deriven de incendio, si no prueba que han ocurrido por causa no imputable a él. Es también responsable por la pérdida y el deterioro ocasionados por causas imputables a las personas que ha admitido, aunque sea temporalmente, al uso del bien.
+El arrendatario es responsable por la pérdida y el deterioro del bien que ocurran en el curso del arrendamiento, aun cuando deriven de incendio, si no prueba que han ocurrido por causa no imputable a él.
+
+Es también responsable por la pérdida y el deterioro ocasionados por causas imputables a las personas que ha admitido, aunque sea temporalmente, al uso del bien.
 
 Pérdida y deterioro de bienes asegurados
 
 ###### Artículo 1684º
 
-Si el bien destruido o deteriorado por incendio había sido asegurado por el arrendador o por cuenta de éste, la responsabilidad del arrendatario frente al arrendador se limita a la diferencia entre la indemnización abonada o por abonar por el asegurador y el daño efectivo. Si se trata del bien valorizado y el seguro se ha fijado en una cantidad igual a la tasación, no hay responsabilidad del arrendatario frente al arrendador, si éste es indemnizado por el asegurador.
+Si el bien destruido o deteriorado por incendio había sido asegurado por el arrendador o por cuenta de éste, la responsabilidad del arrendatario frente al arrendador se limita a la diferencia entre la indemnización abonada o por abonar por el asegurador y el daño efectivo.
+
+Si se trata del bien valorizado y el seguro se ha fijado en una cantidad igual a la tasación, no hay responsabilidad del arrendatario frente al arrendador, si éste es indemnizado por el asegurador.
 
 Quedan a salvo, en todo caso, las normas concernientes al derecho de subrogación del asegurador.
 
@@ -9496,7 +10440,9 @@ Arrendamiento de duración indeterminada
 
 ###### Artículo 1690º
 
-El arrendamiento de duración indeterminada se reputa por meses u otro período, según se pague la renta. Períodos forzosos y voluntarios
+El arrendamiento de duración indeterminada se reputa por meses u otro período, según se pague la renta.
+
+Períodos forzosos y voluntarios
 
 ###### Artículo 1691º
 
@@ -9508,7 +10454,9 @@ definición
 
 ###### Artículo 1692º
 
-El subarrendamiento es el arrendamiento total o parcial del bien arrendado que celebra el arrendatario en favor de un tercero, a cambio de una renta, con asentimiento escrito del arrendador. Obligación solidaria de las partes
+El subarrendamiento es el arrendamiento total o parcial del bien arrendado que celebra el arrendatario en favor de un tercero, a cambio de una renta, con asentimiento escrito del arrendador.
+
+Obligación solidaria de las partes
 
 ###### Artículo 1693º
 
@@ -9522,7 +10470,9 @@ A la conclusión del arrendamiento se extinguen los subarrendamientos cuyos plaz
 
 ###### Artículo 1695º
 
-El subarrendamiento no termina si el arrendamiento cesa por consolidación en la persona del arrendatario y del arrendador. Cesión del arrendamiento
+El subarrendamiento no termina si el arrendamiento cesa por consolidación en la persona del arrendatario y del arrendador.
+
+Cesión del arrendamiento
 
 ###### Artículo 1696º
 
@@ -9558,7 +10508,9 @@ Vencido el plazo del contrato, si el arrendatario permanece en el uso del bien a
 
 ###### Artículo 1701º
 
-En el arrendamiento cuya duración se pacta por períodos forzosos para ambas partes y voluntarios a opción de una de ellas, los períodos voluntarios se irán convirtiendo uno a uno en forzosos si la parte a la que se concedió la opción no avisa a la otra que el arrendamiento concluirá al finalizar los períodos forzosos o cada uno de los voluntarios. El aviso a que se refiere el párrafo anterior debe cursarse con no menos de dos meses de anticipación al día del vencimiento del respectivo período, si se trata de inmuebles, y de no menos de un mes, en el caso de los demás bienes. Períodos voluntarios para ambas partes
+En el arrendamiento cuya duración se pacta por períodos forzosos para ambas partes y voluntarios a opción de una de ellas, los períodos voluntarios se irán convirtiendo uno a uno en forzosos si la parte a la que se concedió la opción no avisa a la otra que el arrendamiento concluirá al finalizar los períodos forzosos o cada uno de los voluntarios.
+
+El aviso a que se refiere el párrafo anterior debe cursarse con no menos de dos meses de anticipación al día del vencimiento del respectivo período, si se trata de inmuebles, y de no menos de un mes, en el caso de los demás bienes. Períodos voluntarios para ambas partes
 
 ###### Artículo 1702º
 
@@ -9568,7 +10520,9 @@ Fin del arrendamiento de duración indeterminada
 
 ###### Artículo 1703º
 
-Se pone fin a un arrendamiento de duración indeterminada dando aviso judicial o extrajudicial al otro contratante. Exigibilidad de devolución del bien y cobro de penalidad
+Se pone fin a un arrendamiento de duración indeterminada dando aviso judicial o extrajudicial al otro contratante.
+
+Exigibilidad de devolución del bien y cobro de penalidad
 
 ###### Artículo 1704º
 
@@ -9580,7 +10534,9 @@ Además concluye el arrendamiento, sin necesidad de declaración judicial, en lo
 
 ###### Artículo 1706º
 
-En todo caso de conclusión del arrendamiento o teniendo el arrendatario derecho para resolverlo, si pone el bien a disposición del arrendador y éste no puede o no quiere recibirlo, aquél podrá consignarlo. Extinción de responsabilidad por consignación
+En todo caso de conclusión del arrendamiento o teniendo el arrendatario derecho para resolverlo, si pone el bien a disposición del arrendador y éste no puede o no quiere recibirlo, aquél podrá consignarlo.
+
+Extinción de responsabilidad por consignación
 
 ###### Artículo 1707º
 
@@ -9604,7 +10560,11 @@ Continuación del arrendamiento con herederos del arrendatario
 
 ###### Artículo 1710º
 
-Si dos o más herederos del arrendatario usan el bien, y la mitad o el mayor número de ellos no manifiesta su voluntad de extinguirlo, continúa el contrato para éstos, sin ninguna responsabilidad de los otros. En tal caso, no subsisten las garantías que estaban constituidas en favor del arrendador. Este tiene, sin embargo, el derecho de exigir nuevas garantías; si no se le otorgan dentro de quince días, concluye el contrato. Autorización para desocupar bien arrendado
+Si dos o más herederos del arrendatario usan el bien, y la mitad o el mayor número de ellos no manifiesta su voluntad de extinguirlo, continúa el contrato para éstos, sin ninguna responsabilidad de los otros.
+
+En tal caso, no subsisten las garantías que estaban constituidas en favor del arrendador. Este tiene, sin embargo, el derecho de exigir nuevas garantías; si no se le otorgan dentro de quince días, concluye el contrato.
+
+Autorización para desocupar bien arrendado
 
 ###### Artículo 1711º
 
@@ -9614,7 +10574,9 @@ Arrendamiento especial
 
 ###### Artículo 1712º
 
-Los contratos de arrendamiento regulados por leyes especiales se rigen supletoriamente por las normas de este título. FUENTES DE LAS OBLIGACIONES
+Los contratos de arrendamiento regulados por leyes especiales se rigen supletoriamente por las normas de este título.
+
+FUENTES DE LAS OBLIGACIONES
 
 #### TÍTULO VII — Hospedaje
 
@@ -9642,7 +10604,9 @@ Los establecimientos destinados a hospedaje exhibirán en lugar visible las tari
 
 ###### Artículo 1717º
 
-Los equipajes y demás bienes entregados o introducidos por el huésped responden preferencialmente por el pago de la retribución del hospedaje y por los daños y perjuicios que aquél hubiese causado al establecimiento, pudiendo el hospedante retenerlos hasta su cancelación. Responsabilidad del hospedante como depositario
+Los equipajes y demás bienes entregados o introducidos por el huésped responden preferencialmente por el pago de la retribución del hospedaje y por los daños y perjuicios que aquél hubiese causado al establecimiento, pudiendo el hospedante retenerlos hasta su cancelación.
+
+Responsabilidad del hospedante como depositario
 
 ###### Artículo 1718º
 
@@ -9650,11 +10614,15 @@ El hospedante responde como depositario por el dinero, joyas, documentos y otros
 
 ###### Artículo 1719º
 
-El hospedante responde igualmente de los objetos de uso corriente introducidos por el huésped, siempre que éste cumpla las prescripciones del aviso que estará fijado en lugar visible de las habitaciones. La autoridad competente fijará el límite de la responsabilidad. Declaración de objetos de uso común
+El hospedante responde igualmente de los objetos de uso corriente introducidos por el huésped, siempre que éste cumpla las prescripciones del aviso que estará fijado en lugar visible de las habitaciones. La autoridad competente fijará el límite de la responsabilidad.
+
+Declaración de objetos de uso común
 
 ###### Artículo 1720º
 
-El hospedante tiene derecho a solicitar del huésped, dentro de las veinticuatro horas de su ingreso, una declaración escrita de los objetos de uso común introducidos, así como a comprobar su exactitud. Negativa a la custodia de bienes
+El hospedante tiene derecho a solicitar del huésped, dentro de las veinticuatro horas de su ingreso, una declaración escrita de los objetos de uso común introducidos, así como a comprobar su exactitud.
+
+Negativa a la custodia de bienes
 
 ###### Artículo 1721º
 
@@ -9676,11 +10644,15 @@ Liberación de responsabilidad del hospedante
 
 ###### Artículo 1724º
 
-El hospedante no tiene responsabilidad si prueba que la sustracción, pérdida o deterioro de los bienes introducidos por el huésped se debe a su culpa exclusiva o de quienes le visiten, acompañen o sean dependientes suyos o si tiene como causa la naturaleza o vicio de ellos. Caducidad del crédito del hospedante
+El hospedante no tiene responsabilidad si prueba que la sustracción, pérdida o deterioro de los bienes introducidos por el huésped se debe a su culpa exclusiva o de quienes le visiten, acompañen o sean dependientes suyos o si tiene como causa la naturaleza o vicio de ellos.
+
+Caducidad del crédito del hospedante
 
 ###### Artículo 1725º
 
-El crédito del hospedante caduca a los seis meses contados a partir del momento de la terminación del contrato. Servicio de estacionamiento y similares
+El crédito del hospedante caduca a los seis meses contados a partir del momento de la terminación del contrato.
+
+Servicio de estacionamiento y similares
 
 ###### Artículo 1726º
 
@@ -9688,7 +10660,9 @@ El servicio adicional de estacionamiento de vehículos o similares, se rige por 
 
 ###### Artículo 1727º
 
-Las disposiciones de los Artículos 1713º a 1725º comprenden a los hospitales, clínicas y casas de salud o de reposo, establecimientos comerciales o de espectáculos públicos, balnearios, restaurantes, clubes, naves, aeronaves, coches-cama y similares, en lo que les sean aplicables. FUENTES DE LAS OBLIGACIONES
+Las disposiciones de los Artículos 1713º a 1725º comprenden a los hospitales, clínicas y casas de salud o de reposo, establecimientos comerciales o de espectáculos públicos, balnearios, restaurantes, clubes, naves, aeronaves, coches-cama y similares, en lo que les sean aplicables.
+
+FUENTES DE LAS OBLIGACIONES
 
 #### TÍTULO VIII — Comodato
 
@@ -9714,7 +10688,9 @@ Presunción del buen estado del bien recibido
 
 ###### Artículo 1731º
 
-Se presume que el comodatario recibe el bien en buen estado de uso y conservación, salvo prueba en contrario. Aumento, menoscabo y pérdida del bien
+Se presume que el comodatario recibe el bien en buen estado de uso y conservación, salvo prueba en contrario.
+
+Aumento, menoscabo y pérdida del bien
 
 ###### Artículo 1732º
 
@@ -9722,11 +10698,15 @@ Corresponde al comodante el aumento y el menoscabo o pérdida del bien, salvo cu
 
 ###### Artículo 1733º
 
-Las obligaciones y derechos que resulten del comodato no se trasmiten a los herederos del comodatario, salvo que el bien haya sido dado en comodato para una finalidad que no pueda suspenderse. Prohibición de ceder uso del bien
+Las obligaciones y derechos que resulten del comodato no se trasmiten a los herederos del comodatario, salvo que el bien haya sido dado en comodato para una finalidad que no pueda suspenderse.
+
+Prohibición de ceder uso del bien
 
 ###### Artículo 1734º
 
-El comodatario no puede ceder el uso del bien a un tercero sin autorización escrita del comodante, bajo sanción de nulidad. Obligaciones del comodante
+El comodatario no puede ceder el uso del bien a un tercero sin autorización escrita del comodante, bajo sanción de nulidad.
+
+Obligaciones del comodante
 
 ###### Artículo 1735º
 
@@ -9752,7 +10732,9 @@ Eximencia de responsabilidad por uso ordinario
 
 ###### Artículo 1739º
 
-El comodatario no responde si el bien se deteriora o modifica por efecto del uso para el que ha sido entregado. Gastos de recepción y restitución del bien
+El comodatario no responde si el bien se deteriora o modifica por efecto del uso para el que ha sido entregado.
+
+Gastos de recepción y restitución del bien
 
 ###### Artículo 1740º
 
@@ -9806,13 +10788,17 @@ Enajenación del bien por herederos del comodatario
 
 ###### Artículo 1749º
 
-Si los herederos del comodatario hubiesen enajenado el bien sin tener conocimiento del comodato, el comodante puede exigir que le paguen su valor o le cedan los derechos que en virtud de la enajenación le corresponden, salvo que haya hecho uso de la acción reinvindicatoria. Si los herederos hubiesen conocido del comodato, indemnizarán además los daños y perjuicios.
+Si los herederos del comodatario hubiesen enajenado el bien sin tener conocimiento del comodato, el comodante puede exigir que le paguen su valor o le cedan los derechos que en virtud de la enajenación le corresponden, salvo que haya hecho uso de la acción reinvindicatoria.
+
+Si los herederos hubiesen conocido del comodato, indemnizarán además los daños y perjuicios.
 
 Pago por imposibilidad de restituir el bien
 
 ###### Artículo 1750º
 
-Cuando sea imposible devolver el bien, el comodatario pagará, a elección del comodante, otro de la misma especie y calidad, o su valor, de acuerdo con las circunstancias y lugar en que debía haberse restituido. Hallazgo del bien dado en comodato
+Cuando sea imposible devolver el bien, el comodatario pagará, a elección del comodante, otro de la misma especie y calidad, o su valor, de acuerdo con las circunstancias y lugar en que debía haberse restituido.
+
+Hallazgo del bien dado en comodato
 
 ###### Artículo 1751º
 
@@ -9822,7 +10808,9 @@ Si el hallazgo lo realiza el comodante, puede retenerlo devolviendo el bien o va
 
 ###### Artículo 1752º
 
-Si el bien se ha dado en comodato a dos o más personas para que lo usen al mismo tiempo, todas son responsables solidariamente. Caducidad de la acción por deterioro o modificación del bien
+Si el bien se ha dado en comodato a dos o más personas para que lo usen al mismo tiempo, todas son responsables solidariamente.
+
+Caducidad de la acción por deterioro o modificación del bien
 
 ###### Artículo 1753º
 
@@ -9844,7 +10832,9 @@ definición
 
 ###### Artículo 1755º
 
-Por la prestación de servicios se conviene que éstos o su resultado sean proporcionados por el prestador al comitente. Modalidades de las prestación de servicios
+Por la prestación de servicios se conviene que éstos o su resultado sean proporcionados por el prestador al comitente.
+
+Modalidades de las prestación de servicios
 
 ###### Artículo 1756º
 
@@ -9872,7 +10862,9 @@ Límites de la prestación
 
 El que presta los servicios no puede exceder los límites del encargo.
 
-Empero, puede apartarse de las instrucciones recibidas si llena el encargo de una manera más ventajosa que la expresada en el contrato o cuando sea razonable suponer que el comitente aprobaría su conducta si conociese ciertas circunstancias que no fue posible comunicarle en tiempo oportuno. Aprobación tácita de excesos de la prestación
+Empero, puede apartarse de las instrucciones recibidas si llena el encargo de una manera más ventajosa que la expresada en el contrato o cuando sea razonable suponer que el comitente aprobaría su conducta si conociese ciertas circunstancias que no fue posible comunicarle en tiempo oportuno.
+
+Aprobación tácita de excesos de la prestación
 
 ###### Artículo 1761º
 
@@ -9894,7 +10886,9 @@ definición
 
 ###### Artículo 1764º
 
-Por la locación de servicios el locador se obliga, sin estar subordinado al comitente, a prestarle sus servicios por cierto tiempo o para un trabajo determinado, a cambio de una retribución. Objeto
+Por la locación de servicios el locador se obliga, sin estar subordinado al comitente, a prestarle sus servicios por cierto tiempo o para un trabajo determinado, a cambio de una retribución.
+
+Objeto
 
 ###### Artículo 1765º
 
@@ -9904,7 +10898,9 @@ Carácter personal del servicio
 
 ###### Artículo 1766º
 
-El locador debe prestar personalmente el servicio, pero puede valerse, bajo su propia dirección y responsabilidad, de auxiliares y sustitutos si la colaboración de otros está permitida por el contrato o por los usos y no es incompatible con la naturaleza de la prestación. Determinación de la retribución
+El locador debe prestar personalmente el servicio, pero puede valerse, bajo su propia dirección y responsabilidad, de auxiliares y sustitutos si la colaboración de otros está permitida por el contrato o por los usos y no es incompatible con la naturaleza de la prestación.
+
+Determinación de la retribución
 
 ###### Artículo 1767º
 
@@ -9940,7 +10936,11 @@ Por el contrato de obra el contratista se obliga a hacer una obra determinada y 
 
 ###### Artículo 1772º
 
-El contratista no puede subcontratar íntegramente la realización de la obra, salvo autorización escrita del comitente. La responsabilidad frente al comitente es solidaria entre el contratista y el subcontratista, respecto de la materia del subcontrato. Obligación del comitente
+El contratista no puede subcontratar íntegramente la realización de la obra, salvo autorización escrita del comitente.
+
+La responsabilidad frente al comitente es solidaria entre el contratista y el subcontratista, respecto de la materia del subcontrato.
+
+Obligación del comitente
 
 ###### Artículo 1773º
 
@@ -9962,7 +10962,9 @@ El obligado a hacer una obra por ajuste alzado tiene derecho a compensación por
 
 ###### Artículo 1777º
 
-El comitente tiene derecho a inspeccionar, por cuenta propia, la ejecución de la obra. Cuando en el curso de ella se compruebe que no se ejecuta conforme a lo convenido y según las reglas del arte, el comitente puede fijar un plazo adecuado para que el contratista se ajuste a tales reglas. Transcurrido el plazo establecido, el comitente puede solicitar la resolución del contrato, sin perjuicio del pago de la indemnización de daños y perjuicios. Tratándose de un edificio o de un inmueble destinado por su naturaleza a larga duración, el inspector deber ser un técnico calificado y no haber participado en la elaboración de los estudios, planos y demás documentos necesarios para la ejecución de la obra.
+El comitente tiene derecho a inspeccionar, por cuenta propia, la ejecución de la obra. Cuando en el curso de ella se compruebe que no se ejecuta conforme a lo convenido y según las reglas del arte, el comitente puede fijar un plazo adecuado para que el contratista se ajuste a tales reglas. Transcurrido el plazo establecido, el comitente puede solicitar la resolución del contrato, sin perjuicio del pago de la indemnización de daños y perjuicios.
+
+Tratándose de un edificio o de un inmueble destinado por su naturaleza a larga duración, el inspector deber ser un técnico calificado y no haber participado en la elaboración de los estudios, planos y demás documentos necesarios para la ejecución de la obra.
 
 Comprobación de la obra
 
@@ -9972,11 +10974,15 @@ El comitente, antes de la recepción de la obra, tiene derecho a su comprobació
 
 ###### Artículo 1779º
 
-Se entiende aceptada la obra, si el comitente la recibe sin reserva, aun cuando no se haya procedido a su verificación. Obra a satisfacción del comitente
+Se entiende aceptada la obra, si el comitente la recibe sin reserva, aun cuando no se haya procedido a su verificación.
+
+Obra a satisfacción del comitente
 
 ###### Artículo 1780º
 
-Cuando se estipula que la obra se ha de hacer a satisfacción del comitente, a falta de conformidad, se entiende reservada la aceptación a la pericia correspondiente. Todo pacto distinto es nulo. Si la persona que debe aceptar la obra es un tercero, se estará a lo dispuesto en los Artículos 1407º y 1408º.
+Cuando se estipula que la obra se ha de hacer a satisfacción del comitente, a falta de conformidad, se entiende reservada la aceptación a la pericia correspondiente. Todo pacto distinto es nulo.
+
+Si la persona que debe aceptar la obra es un tercero, se estará a lo dispuesto en los Artículos 1407º y 1408º.
 
 Obra por pieza o medida
 
@@ -9996,7 +11002,9 @@ La recepción de la obra, sin reserva del comitente, descarga de responsabilidad
 
 El comitente puede solicitar, a su elección, que las diversidades o los vicios de la obra se eliminen a costa del contratista, o bien que la retribución sea disminuida proporcionalmente, sin perjuicio del resarcimiento del daño. Si las diversidades o los vicios son tales que hagan inútil la obra para la finalidad convenida, el comitente puede pedir la resolución del contrato y la indemnización por los daños y perjuicios.
 
-El comitente debe comunicar al contratista las diversidades o los vicios dentro de los sesenta días de recepcionada la obra. Este plazo es de caducidad. La acción contra el contratista prescribe al año de construida la obra. Responsabilidad del contratista por destrucción, vicios o ruina
+El comitente debe comunicar al contratista las diversidades o los vicios dentro de los sesenta días de recepcionada la obra. Este plazo es de caducidad. La acción contra el contratista prescribe al año de construida la obra.
+
+Responsabilidad del contratista por destrucción, vicios o ruina
 
 ###### Artículo 1784º
 
@@ -10008,11 +11016,15 @@ Supuesto de ausencia de responsabilidad de contratista
 
 ###### Artículo 1785º
 
-No existe responsabilidad del contratista en los casos a que se refiere el Artículo 1784º, si prueba que la obra se ejecutó de acuerdo a las reglas del arte y en estricta conformidad con las instrucciones de los profesionales que elaboraron los estudios, planos y demás documentos necesarios para la realización de la obra, cuando ellos le son proporcionados por el comitente. Facultad del comitente
+No existe responsabilidad del contratista en los casos a que se refiere el Artículo 1784º, si prueba que la obra se ejecutó de acuerdo a las reglas del arte y en estricta conformidad con las instrucciones de los profesionales que elaboraron los estudios, planos y demás documentos necesarios para la realización de la obra, cuando ellos le son proporcionados por el comitente.
+
+Facultad del comitente
 
 ###### Artículo 1786º
 
-El comitente puede separarse del contrato, aun cuando se haya iniciado la ejecución de la obra, indemnizando al contratista por los trabajos realizados, los gastos soportados, los materiales preparados y lo que hubiere podido ganar si la obra hubiera sido concluida. Obligación de pago a la muerte del contratista
+El comitente puede separarse del contrato, aun cuando se haya iniciado la ejecución de la obra, indemnizando al contratista por los trabajos realizados, los gastos soportados, los materiales preparados y lo que hubiere podido ganar si la obra hubiera sido concluida.
+
+Obligación de pago a la muerte del contratista
 
 ###### Artículo 1787º
 
@@ -10022,7 +11034,9 @@ En caso de terminarse el contrato por muerte del contratista, el comitente está
 
 Si la obra se pierde sin culpa de las partes, el contrato se resuelve de pleno derecho.
 
-FUENTES DE LAS OBLIGACIONES Si los materiales son suministrados por el comitente, el contratista está obligado a devolverle los que no se hubieren perdido y el comitente no está obligado a pagar la retribución de la parte de la obra no ejecutada. Cuando se trate de un contrato por ajuste alzado o por unidad de medida, el contratista debe devolver la retribución proporcional correspondiente a la parte de la obra no ejecutada, pero no está obligado a reponerla o restaurarla. Por su parte, el comitente no está obligado a pagar la retribución proporcional de la parte de la obra no ejecutada.
+FUENTES DE LAS OBLIGACIONES Si los materiales son suministrados por el comitente, el contratista está obligado a devolverle los que no se hubieren perdido y el comitente no está obligado a pagar la retribución de la parte de la obra no ejecutada.
+
+Cuando se trate de un contrato por ajuste alzado o por unidad de medida, el contratista debe devolver la retribución proporcional correspondiente a la parte de la obra no ejecutada, pero no está obligado a reponerla o restaurarla. Por su parte, el comitente no está obligado a pagar la retribución proporcional de la parte de la obra no ejecutada.
 
 Deterioro sustancial de la obra
 
@@ -10036,7 +11050,9 @@ SUB-CAPÍTULO I Disposiciones Generales definición
 
 ###### Artículo 1790º
 
-Por el mandato el mandatario se obliga a realizar uno o más actos jurídicos, por cuenta y en interés del mandante. Presunción de onerosidad
+Por el mandato el mandatario se obliga a realizar uno o más actos jurídicos, por cuenta y en interés del mandante.
+
+Presunción de onerosidad
 
 ###### Artículo 1791º
 
@@ -10048,7 +11064,9 @@ Extensión del mandato
 
 ###### Artículo 1792º
 
-El mandato comprende no sólo los actos para los cuales ha sido conferido, sino también aquellos que son necesarios para su cumplimiento. El mandato general no comprende los actos que excedan de la administración ordinaria, si no están indicados expresamente. SUB-CAPÍTULO II Obligaciones del Mandatario Obligaciones del mandatario
+El mandato comprende no sólo los actos para los cuales ha sido conferido, sino también aquellos que son necesarios para su cumplimiento. El mandato general no comprende los actos que excedan de la administración ordinaria, si no están indicados expresamente.
+
+SUB-CAPÍTULO II Obligaciones del Mandatario Obligaciones del mandatario
 
 ###### Artículo 1793º
 
@@ -10064,7 +11082,9 @@ Solidaridad en mandato conjunto
 
 ###### Artículo 1795º
 
-Si son varios los mandatarios y están obligados a actuar conjuntamente, su responsabilidad es solidaria. SUB-CAPÍTULO III Obligaciones del Mandante Obligaciones del mandante
+Si son varios los mandatarios y están obligados a actuar conjuntamente, su responsabilidad es solidaria.
+
+SUB-CAPÍTULO III Obligaciones del Mandante Obligaciones del mandante
 
 ###### Artículo 1796º
 
@@ -10122,11 +11142,15 @@ Cuando hubiera varios mandatarios con la obligación de actuar conjuntamente, el
 
 Si el mandatario fuere representante por haber recibido poder para actuar en nombre del mandante, son también aplicables al mandato las normas del título III del Libro II.
 
-En este caso, el mandatario debe actuar en nombre del mandante. Presunción de representación
+En este caso, el mandatario debe actuar en nombre del mandante.
+
+Presunción de representación
 
 ###### Artículo 1807º
 
-Se presume que el mandato es con representación. Extinción por revocación o renuncia de poder
+Se presume que el mandato es con representación.
+
+Extinción por revocación o renuncia de poder
 
 ###### Artículo 1808º
 
@@ -10150,7 +11174,9 @@ Responsabilidad de mandatario por incumplimiento de tercero
 
 ###### Artículo 1812º
 
-El mandatario no es responsable frente al mandante por la falta de cumplimiento de las obligaciones asumidas por las personas con quienes haya contratado, a no ser que al momento de la celebración del contrato conociese o debiese serle conocida su insolvencia, salvo pacto distinto. Inafectación de bienes por deudas del mandatario
+El mandatario no es responsable frente al mandante por la falta de cumplimiento de las obligaciones asumidas por las personas con quienes haya contratado, a no ser que al momento de la celebración del contrato conociese o debiese serle conocida su insolvencia, salvo pacto distinto.
+
+Inafectación de bienes por deudas del mandatario
 
 ###### Artículo 1813º
 
@@ -10234,11 +11260,15 @@ Si se han roto los sellos o forzado las cerraduras por culpa del depositario, se
 
 ###### Artículo 1827º
 
-El depositario no debe violar el secreto de un depósito, ni podrá ser obligado a revelarlo, salvo mandato judicial. Depósito de títulos valores
+El depositario no debe violar el secreto de un depósito, ni podrá ser obligado a revelarlo, salvo mandato judicial.
+
+Depósito de títulos valores
 
 ###### Artículo 1828º
 
-Los depositarios de títulos valores, o documentos que devenguen intereses, están obligados a realizar su cobro en las épocas de sus vencimientos, así como a practicar los actos que sean necesarios para que dichos documentos conserven el valor y los derechos que les correspondan. FUENTES DE LAS OBLIGACIONES Depósito irregular
+Los depositarios de títulos valores, o documentos que devenguen intereses, están obligados a realizar su cobro en las épocas de sus vencimientos, así como a practicar los actos que sean necesarios para que dichos documentos conserven el valor y los derechos que les correspondan.
+
+FUENTES DE LAS OBLIGACIONES Depósito irregular
 
 ###### Artículo 1829º
 
@@ -10256,7 +11286,9 @@ Depósito a plazo indeterminado
 
 ###### Artículo 1832º
 
-Si en el contrato no se hubiere fijado plazo, el depositario puede efectuar la restitución del bien en cualquier momento, siempre que le avise al depositante con prudente anticipación para que lo reciba. Devolución anticipada del bien
+Si en el contrato no se hubiere fijado plazo, el depositario puede efectuar la restitución del bien en cualquier momento, siempre que le avise al depositante con prudente anticipación para que lo reciba.
+
+Devolución anticipada del bien
 
 ###### Artículo 1833º
 
@@ -10272,7 +11304,9 @@ Incapacidad sobreviniente del depositario
 
 ###### Artículo 1835º
 
-Si el depositario deviene incapaz, la persona que asume la administración de sus bienes procederá de inmediato a la restitución del bien o lo consignará si el depositante no quiere recibirlo. Consignación del bien de procedencia delictuosa
+Si el depositario deviene incapaz, la persona que asume la administración de sus bienes procederá de inmediato a la restitución del bien o lo consignará si el depositante no quiere recibirlo.
+
+Consignación del bien de procedencia delictuosa
 
 ###### Artículo 1836º
 
@@ -10302,7 +11336,9 @@ El depositario que pierde la posesión del bien como consecuencia de un hecho qu
 
 ###### Artículo 1842º
 
-El depositario que pierde sin culpa el bien y recibe otro en su lugar, está obligado a entregarlo al depositante. Responsabilidad de herederos por enajenación del bien
+El depositario que pierde sin culpa el bien y recibe otro en su lugar, está obligado a entregarlo al depositante.
+
+Responsabilidad de herederos por enajenación del bien
 
 ###### Artículo 1843º
 
@@ -10374,7 +11410,9 @@ El depósito necesario es el que se hace en cumplimiento de una obligación lega
 
 ###### Artículo 1855º
 
-Toda persona está obligada a recibir el depósito necesario, a menos que tenga impedimento físico u otra justificación. Normas aplicables al depósito necesario
+Toda persona está obligada a recibir el depósito necesario, a menos que tenga impedimento físico u otra justificación.
+
+Normas aplicables al depósito necesario
 
 ###### Artículo 1856º
 
@@ -10390,7 +11428,9 @@ Por el secuestro, dos o más depositantes confían al depositario la custodia y 
 
 ###### Artículo 1858º
 
-El contrato debe constar por escrito, bajo sanción de nulidad. Administración del bien
+El contrato debe constar por escrito, bajo sanción de nulidad.
+
+Administración del bien
 
 ###### Artículo 1859º
 
@@ -10400,7 +11440,9 @@ Conclusión de contratos celebrados por el depositario - administrador
 
 ###### Artículo 1860º
 
-Cualquier contrato que celebre el depositario de conformidad con lo dispuesto en el Artículo 1859º, concluye de pleno derecho si, antes del vencimiento del plazo, se pusiere fin a la controversia. Enajenación del bien secuestrado
+Cualquier contrato que celebre el depositario de conformidad con lo dispuesto en el Artículo 1859º, concluye de pleno derecho si, antes del vencimiento del plazo, se pusiere fin a la controversia.
+
+Enajenación del bien secuestrado
 
 ###### Artículo 1861º
 
@@ -10422,7 +11464,9 @@ Reclamo del bien por desposesión
 
 ###### Artículo 1864º
 
-El depositario que sea desposeído del bien puede reclamarlo a quien lo tenga en su poder, incluyendo cualquiera de los depositantes que lo haya tomado sin consentimiento de los demás o sin mandato del juez. Liberación del depositario
+El depositario que sea desposeído del bien puede reclamarlo a quien lo tenga en su poder, incluyendo cualquiera de los depositantes que lo haya tomado sin consentimiento de los demás o sin mandato del juez.
+
+Liberación del depositario
 
 ###### Artículo 1865º
 
@@ -10462,11 +11506,15 @@ Los representantes de las personas jurídicas pueden otorgar fianza en nombre de
 
 ###### Artículo 1871º
 
-La fianza debe constar por escrito, bajo sanción de nulidad. Fianza de obligaciones futuras
+La fianza debe constar por escrito, bajo sanción de nulidad.
+
+Fianza de obligaciones futuras
 
 ###### Artículo 1872º
 
-Puede prestarse fianza en garantía de obligaciones futuras determinadas o determinables cuyo importe no sea aún conocido, pero no se puede reclamar contra el fiador hasta que la deuda sea líquida. Es igualmente válida la fianza por una obligación condicional o a plazo. Extensión de la obligación del fiador
+Puede prestarse fianza en garantía de obligaciones futuras determinadas o determinables cuyo importe no sea aún conocido, pero no se puede reclamar contra el fiador hasta que la deuda sea líquida.
+
+Es igualmente válida la fianza por una obligación condicional o a plazo. Extensión de la obligación del fiador
 
 ###### Artículo 1873º
 
@@ -10474,7 +11522,9 @@ Sólo queda obligado el fiador por aquello a que expresamente se hubiese comprom
 
 ###### Artículo 1874º
 
-Si se produce el exceso a que se refiere el Artículo 1873º la fianza vale dentro de los límites de la obligación principal. Carácter accesorio de la fianza
+Si se produce el exceso a que se refiere el Artículo 1873º la fianza vale dentro de los límites de la obligación principal.
+
+Carácter accesorio de la fianza
 
 ###### Artículo 1875º
 
@@ -10492,7 +11542,9 @@ Cuando el fiador ha devenido insolvente, el deudor debe reemplazarlo por otro qu
 
 ###### Artículo 1878º
 
-La fianza, si no fuere limitada, se extiende a todos los accesorios de la obligación principal, así como a las costas del juicio contra el fiador, que se hubiesen devengado después de ser requerido para el pago. FUENTES DE LAS OBLIGACIONES Beneficio de excusión
+La fianza, si no fuere limitada, se extiende a todos los accesorios de la obligación principal, así como a las costas del juicio contra el fiador, que se hubiesen devengado después de ser requerido para el pago.
+
+FUENTES DE LAS OBLIGACIONES Beneficio de excusión
 
 ###### Artículo 1879º
 
@@ -10556,7 +11608,9 @@ Si ha transigido con el acreedor, no puede pedir al deudor más de lo que realme
 
 ###### Artículo 1890º
 
-La indemnización que debe serle pagada al fiador comprende: 1.- El total de lo pagado por el fiador. 2.- El interés legal desde que hubiese hecho saber el pago al deudor, aunque no lo produjese para el acreedor. 3.- Los gastos ocasionados al fiador, después de poner éste en conocimiento del deudor que ha sido requerido para el pago. 4.- Los daños y perjuicios, cuando procedan. Subrogación del fiador de codeudores solidarios
+La indemnización que debe serle pagada al fiador comprende: 1.- El total de lo pagado por el fiador. 2.- El interés legal desde que hubiese hecho saber el pago al deudor, aunque no lo produjese para el acreedor. 3.- Los gastos ocasionados al fiador, después de poner éste en conocimiento del deudor que ha sido requerido para el pago. 4.- Los daños y perjuicios, cuando procedan.
+
+Subrogación del fiador de codeudores solidarios
 
 ###### Artículo 1891º
 
@@ -10570,7 +11624,9 @@ El fiador no tiene acción contra el deudor si, por haber omitido comunicarle el
 
 ###### Artículo 1893º
 
-Cuando varias personas otorgan fianza a un mismo deudor por la misma deuda, el fiador que haya pagado tiene acción contra los demás fiadores por su parte respectiva. Si alguno de ellos resulta insolvente, la parte de éste se distribuye proporcionalmente entre los demás. Excepciones del deudor contra fiador
+Cuando varias personas otorgan fianza a un mismo deudor por la misma deuda, el fiador que haya pagado tiene acción contra los demás fiadores por su parte respectiva. Si alguno de ellos resulta insolvente, la parte de éste se distribuye proporcionalmente entre los demás.
+
+Excepciones del deudor contra fiador
 
 ###### Artículo 1894º
 
@@ -10604,7 +11660,9 @@ Si la fianza se ha otorgado sin plazo determinado, puede el fiador pedir al acre
 
 ###### Artículo 1900º
 
-Que liberado el fiador si el acreedor acepta del deudor un bien en pago de la deuda, aunque después lo pierda por evicción. Extinción de la fianza por prórroga al deudor
+Que liberado el fiador si el acreedor acepta del deudor un bien en pago de la deuda, aunque después lo pierda por evicción.
+
+Extinción de la fianza por prórroga al deudor
 
 ###### Artículo 1901º
 
@@ -10666,7 +11724,11 @@ Causales de nulidad de la Renta Vitalicia
 
 ###### Artículo 1927º
 
-Es nula la renta vitalicia cuya duración se fijó en cabeza de una persona que hubiera muerto a la fecha de la escritura pública. También es nula la renta vitalicia constituida en cabeza de una persona que padece de enfermedad, si murió por efecto directo de ella dentro de los treinta días siguientes a la fecha de la escritura pública. Muerte de acreedor en renta a favor de tercero
+Es nula la renta vitalicia cuya duración se fijó en cabeza de una persona que hubiera muerto a la fecha de la escritura pública.
+
+También es nula la renta vitalicia constituida en cabeza de una persona que padece de enfermedad, si murió por efecto directo de ella dentro de los treinta días siguientes a la fecha de la escritura pública.
+
+Muerte de acreedor en renta a favor de tercero
 
 ###### Artículo 1928º
 
@@ -10708,7 +11770,9 @@ La falta de pago de las pensiones vencidas da al acreedor el derecho a reclamar 
 
 ###### Artículo 1935º
 
-El beneficiario para quien se constituyó la renta vitalicia a título oneroso puede solicitar la resolución del contrato si el que recibió el bien y se obligó a pagar la pensión, no da las garantías estipuladas. Pago por plazo adelantado
+El beneficiario para quien se constituyó la renta vitalicia a título oneroso puede solicitar la resolución del contrato si el que recibió el bien y se obligó a pagar la pensión, no da las garantías estipuladas.
+
+Pago por plazo adelantado
 
 ###### Artículo 1936º
 
@@ -10728,7 +11792,9 @@ El obligado a pagar la renta vitalicia que causa intencionalmente la muerte de l
 
 ###### Artículo 1939º
 
-Si se constituye la renta en cabeza de quien paga y éste pierde la vida por suicidio, el acreedor tiene derecho a que se devuelvan los bienes con sus frutos, deducidas las cantidades que hubiese recibido por renta. Derecho de acrecer en renta vitalicia
+Si se constituye la renta en cabeza de quien paga y éste pierde la vida por suicidio, el acreedor tiene derecho a que se devuelvan los bienes con sus frutos, deducidas las cantidades que hubiese recibido por renta.
+
+Derecho de acrecer en renta vitalicia
 
 ###### Artículo 1940º
 
@@ -10744,13 +11810,19 @@ definición
 
 ###### Artículo 1942º
 
-Por el juego y la apuesta permitidos, el perdedor queda obligado a satisfacer la prestación convenida, como resultado de un acontecimiento futuro o de uno realizado, pero desconocido para las partes. El juez puede reducir equitativamente el monto de la prestación cuando resulta excesiva en relación con la situación económica del perdedor. Juego y apuesta no autorizado
+Por el juego y la apuesta permitidos, el perdedor queda obligado a satisfacer la prestación convenida, como resultado de un acontecimiento futuro o de uno realizado, pero desconocido para las partes.
+
+El juez puede reducir equitativamente el monto de la prestación cuando resulta excesiva en relación con la situación económica del perdedor.
+
+Juego y apuesta no autorizado
 
 ###### Artículo 1943º
 
 El juego y la apuesta no autorizados son aquellos que tienen carácter lucrativo, sin estar prohibidos por la ley, y no otorgan acción para reclamar por su resultado.
 
-El que paga voluntariamente una deuda emanada del juego y la apuesta no autorizados, no puede solicitar su repetición, salvo que haya mediado dolo en la obtención de la ganancia o que el repitente sea incapaz. Juego y apuesta prohibidos
+El que paga voluntariamente una deuda emanada del juego y la apuesta no autorizados, no puede solicitar su repetición, salvo que haya mediado dolo en la obtención de la ganancia o que el repitente sea incapaz.
+
+Juego y apuesta prohibidos
 
 ###### Artículo 1944º
 
@@ -10764,7 +11836,9 @@ Artículos 1943º y 1944º no pueden ser materia de novación, otorgamiento de g
 
 ###### Artículo 1946º
 
-El tercero que sin asentimiento del perdedor paga la deuda de un juego o apuesta no autorizados no tiene acción para reclamar su reintegro. Empero, si el perdedor le cancela el importe abonado, quedará sujeto a la disposición contenida en el segundo párrafo del Artículo 1943º. Juego y apuesta masiva
+El tercero que sin asentimiento del perdedor paga la deuda de un juego o apuesta no autorizados no tiene acción para reclamar su reintegro. Empero, si el perdedor le cancela el importe abonado, quedará sujeto a la disposición contenida en el segundo párrafo del Artículo 1943º.
+
+Juego y apuesta masiva
 
 ###### Artículo 1947º
 
@@ -10774,11 +11848,15 @@ Autorización para rifas y concursos
 
 ###### Artículo 1948º
 
-Las rifas y demás concursos públicos eventuales serán autorizados previamente por la autoridad correspondiente. Caducidad de la acción de cobro
+Las rifas y demás concursos públicos eventuales serán autorizados previamente por la autoridad correspondiente.
+
+Caducidad de la acción de cobro
 
 ###### Artículo 1949º
 
-La acción para reclamar la deuda derivada de los juegos y apuestas permitidos caduca al año de haber sido puesto su resultado en conocimiento público, salvo plazo distinto señalado por ley especial. FUENTES DE LAS OBLIGACIONES
+La acción para reclamar la deuda derivada de los juegos y apuestas permitidos caduca al año de haber sido puesto su resultado en conocimiento público, salvo plazo distinto señalado por ley especial.
+
+FUENTES DE LAS OBLIGACIONES
 
 ### SECCIÓN TERCERA — Gestión de Negocios
 
@@ -10794,7 +11872,9 @@ Cuando los actos a que se refiere el Artículo 1950º fueran asumidos conjuntame
 
 ###### Artículo 1952º
 
-Aunque no hubiese ratificación expresa, el dueño de bienes o negocios que aproveche las ventajas de la gestión, debe cumplir las obligaciones que el gestor ha asumido por él en nombre propio y hacerse responsable de ellas; reembolsar los gastos efectuados por el gestor con los intereses legales generados a partir del día en que se han realizado; e indemnizar los daños y perjuicios que haya sufrido el gestor en el desempeño de la gestión. La misma obligación le concierne cuando la gestión hubiese tenido por objeto evitar algún perjuicio inminente, aunque de ello no resultase provecho alguno. Responsabilidad del gestor
+Aunque no hubiese ratificación expresa, el dueño de bienes o negocios que aproveche las ventajas de la gestión, debe cumplir las obligaciones que el gestor ha asumido por él en nombre propio y hacerse responsable de ellas; reembolsar los gastos efectuados por el gestor con los intereses legales generados a partir del día en que se han realizado; e indemnizar los daños y perjuicios que haya sufrido el gestor en el desempeño de la gestión.
+
+La misma obligación le concierne cuando la gestión hubiese tenido por objeto evitar algún perjuicio inminente, aunque de ello no resultase provecho alguno. Responsabilidad del gestor
 
 ###### Artículo 1953º
 
@@ -10830,7 +11910,9 @@ La promesa unilateral sólo obliga a la prestación prometida en los casos previ
 
 ###### Artículo 1958º
 
-La persona en favor de la cual se hace por declaración unilateral una promesa de pago o un reconocimiento de deuda, queda dispensada de probar la relación fundamental, cuya existencia se presume. Promesa pública
+La persona en favor de la cual se hace por declaración unilateral una promesa de pago o un reconocimiento de deuda, queda dispensada de probar la relación fundamental, cuya existencia se presume.
+
+Promesa pública
 
 ###### Artículo 1959º
 
@@ -10846,7 +11928,9 @@ Si varias personas tuvieran derecho a dicha prestación, ésta corresponde a aqu
 
 ###### Artículo 1961º
 
-Si varias personas cooperan al objeto para el cual se prometió públicamente la prestación, ésta será dividida equitativamente entre todas, atendiendo a la parte que cada una tuviera en el resultado. FUENTES DE LAS OBLIGACIONES Promesa pública sin plazo determinado
+Si varias personas cooperan al objeto para el cual se prometió públicamente la prestación, ésta será dividida equitativamente entre todas, atendiendo a la parte que cada una tuviera en el resultado.
+
+FUENTES DE LAS OBLIGACIONES Promesa pública sin plazo determinado
 
 ###### Artículo 1962º
 
@@ -10858,7 +11942,9 @@ Revocación de promesa pública
 
 Toda promesa al público puede ser revocada por el promitente en cualquier momento.
 
-Empero, si fuese con plazo de validez determinado, sólo por justo motivo podrá ser revocada por el promitente dentro del indicado plazo, con cargo de indemnizar los daños y perjuicios que la revocación ha causado a quienes justificadamente depositaron su confianza en la vigencia de la promesa. Invalidez de la revocación
+Empero, si fuese con plazo de validez determinado, sólo por justo motivo podrá ser revocada por el promitente dentro del indicado plazo, con cargo de indemnizar los daños y perjuicios que la revocación ha causado a quienes justificadamente depositaron su confianza en la vigencia de la promesa.
+
+Invalidez de la revocación
 
 ###### Artículo 1964º
 
@@ -10930,7 +12016,9 @@ No hay responsabilidad por el daño causado por persona incapaz que haya actuado
 
 ###### Artículo 1977º
 
-Si la víctima no ha podido obtener reparación en el supuesto anterior, puede el juez, en vista de la situación económica de las partes, considerar una indemnización equitativa a cargo del autor directo. Responsabilidad por incitación y/o coautoría
+Si la víctima no ha podido obtener reparación en el supuesto anterior, puede el juez, en vista de la situación económica de las partes, considerar una indemnización equitativa a cargo del autor directo.
+
+Responsabilidad por incitación y/o coautoría
 
 ###### Artículo 1978º
 
@@ -10940,7 +12028,9 @@ Responsabilidad por daño causado por animal
 
 ###### Artículo 1979º
 
-El dueño de un animal o aquél que lo tiene a su cuidado debe reparar el daño que éste cause, aunque se haya perdido o extraviado, a no ser que pruebe que el evento tuvo lugar por obra o causa de un tercero. Responsabilidad por caída de edificio
+El dueño de un animal o aquél que lo tiene a su cuidado debe reparar el daño que éste cause, aunque se haya perdido o extraviado, a no ser que pruebe que el evento tuvo lugar por obra o causa de un tercero.
+
+Responsabilidad por caída de edificio
 
 ###### Artículo 1980º
 
@@ -10960,19 +12050,27 @@ Responsabilidad solidaria
 
 ###### Artículo 1983º
 
-Si varios son responsables del daño, responderán solidariamente. Empero, aquel que pagó la totalidad de la indemnización puede repetir contra los otros, correspondiendo al juez fijar la proporción según la gravedad de la falta de cada uno de los participantes. Cuando no sea posible discriminar el grado de responsabilidad de cada uno, la repartición se hará por partes iguales. Daño moral
+Si varios son responsables del daño, responderán solidariamente.
+
+Empero, aquel que pagó la totalidad de la indemnización puede repetir contra los otros, correspondiendo al juez fijar la proporción según la gravedad de la falta de cada uno de los participantes. Cuando no sea posible discriminar el grado de responsabilidad de cada uno, la repartición se hará por partes iguales. Daño moral
 
 ###### Artículo 1984º
 
-El daño moral es indemnizado considerando su magnitud y el menoscabo producido a la víctima o a su familia. Contenido de la indemnización
+El daño moral es indemnizado considerando su magnitud y el menoscabo producido a la víctima o a su familia.
+
+Contenido de la indemnización
 
 ###### Artículo 1985º
 
-La indemnización comprende las consecuencias que deriven de la acción u omisión generadora del daño, incluyendo el lucro cesante, el daño a la persona y el daño moral, debiendo existir una relación de causalidad adecuada entre el hecho y el daño producido. El monto de la indemnización devenga intereses legales desde la fecha en que se produjo el daño. Nulidad de límites de la responsabilidad
+La indemnización comprende las consecuencias que deriven de la acción u omisión generadora del daño, incluyendo el lucro cesante, el daño a la persona y el daño moral, debiendo existir una relación de causalidad adecuada entre el hecho y el daño producido. El monto de la indemnización devenga intereses legales desde la fecha en que se produjo el daño.
+
+Nulidad de límites de la responsabilidad
 
 ###### Artículo 1986º
 
-Son nulos los convenios que excluyan o limiten anticipadamente la responsabilidad por dolo o culpa inexcusable. Responsabilidad del asegurador
+Son nulos los convenios que excluyan o limiten anticipadamente la responsabilidad por dolo o culpa inexcusable.
+
+Responsabilidad del asegurador
 
 ###### Artículo 1987º
 
@@ -10994,17 +12092,23 @@ Prescripción extintiva
 
 ###### Artículo 1989º
 
-La prescripción extingue la acción pero no el derecho mismo. Irrenunciabilidad de la prescripción
+La prescripción extingue la acción pero no el derecho mismo.
+
+Irrenunciabilidad de la prescripción
 
 ###### Artículo 1990º
 
-El derecho de prescribir es irrenunciable. Es nulo todo pacto destinado a impedir los efectos de la prescripción. Renuncia a la prescripción ganada
+El derecho de prescribir es irrenunciable. Es nulo todo pacto destinado a impedir los efectos de la prescripción.
+
+Renuncia a la prescripción ganada
 
 ###### Artículo 1991º
 
 Puede renunciarse expresa o tácitamente a la prescripción ya ganada.
 
-Se entiende que hay renuncia tácita cuando resulta de la ejecución de un acto incompatible con la voluntad de favorecerse con la prescripción. Prohibición de declarar de oficio la prescripción
+Se entiende que hay renuncia tácita cuando resulta de la ejecución de un acto incompatible con la voluntad de favorecerse con la prescripción.
+
+Prohibición de declarar de oficio la prescripción
 
 ###### Artículo 1992º
 
@@ -11022,7 +12126,9 @@ Se suspende la prescripción: 1.- Cuando los incapaces no están bajo la guarda 
 
 ###### Artículo 1995º
 
-Desaparecida la causa de la suspensión, la prescripción reanuda su curso adicionándose el tiempo transcurrido anteriormente. Interrupción de la prescripción
+Desaparecida la causa de la suspensión, la prescripción reanuda su curso adicionándose el tiempo transcurrido anteriormente.
+
+Interrupción de la prescripción
 
 ###### Artículo 1996º
 
@@ -11050,7 +12156,9 @@ Principio de legalidad en plazos prescriptorios
 
 ###### Artículo 2000º
 
-Sólo la ley puede fijar los plazos de prescripción. Plazos de prescripción
+Sólo la ley puede fijar los plazos de prescripción.
+
+Plazos de prescripción
 
 ###### Artículo 2001º
 
@@ -11070,7 +12178,9 @@ Efectos de la caducidad
 
 ###### Artículo 2003º
 
-La caducidad extingue el derecho y la acción correspondiente. Legalidad en plazos de caducidad
+La caducidad extingue el derecho y la acción correspondiente.
+
+Legalidad en plazos de caducidad
 
 ###### Artículo 2004º
 
@@ -11110,7 +12220,9 @@ Régimen legal de los registros
 
 Los registros públicos se sujetan a lo dispuesto en este Código, a sus leyes y reglamentos especiales.
 
-Quedan comprendidos en el párrafo anterior los registros de naves, de aeronaves, de prenda agrícola y los demás regulados por leyes especiales. Título que da mérito a la inscripción
+Quedan comprendidos en el párrafo anterior los registros de naves, de aeronaves, de prenda agrícola y los demás regulados por leyes especiales.
+
+Título que da mérito a la inscripción
 
 ###### Artículo 2010º
 
@@ -11124,7 +12236,9 @@ Lo dispuesto en el párrafo anterior no se aplica, bajo responsabilidad del Regi
 
 ###### Artículo 2012º
 
-Se presume, sin admitirse prueba en contrario, que toda persona tiene conocimiento del contenido de las inscripciones. Principio de legitimación
+Se presume, sin admitirse prueba en contrario, que toda persona tiene conocimiento del contenido de las inscripciones.
+
+Principio de legitimación
 
 ###### Artículo 2013º
 
@@ -11142,11 +12256,15 @@ Principio de Tracto Sucesivo
 
 ###### Artículo 2015º
 
-Ninguna inscripción, salvo la primera, se hace sin que esté inscrito o se inscriba el derecho de donde emane. REGISTROS PÚBLICOS Principio de prioridad
+Ninguna inscripción, salvo la primera, se hace sin que esté inscrito o se inscriba el derecho de donde emane.
+
+REGISTROS PÚBLICOS Principio de prioridad
 
 ###### Artículo 2016º
 
-La prioridad en el tiempo de la inscripción determina la preferencia de los derechos que otorga el registro. Principio de impenetrabilidad
+La prioridad en el tiempo de la inscripción determina la preferencia de los derechos que otorga el registro.
+
+Principio de impenetrabilidad
 
 ###### Artículo 2017º
 
@@ -11170,7 +12288,9 @@ Anotación preventiva
 
 ###### Artículo 2020º
 
-El reglamento indica los casos en que los actos o contratos a que refiere el Artículo 2019º son materia de anotación preventiva. Actos o títulos no inscribibles
+El reglamento indica los casos en que los actos o contratos a que refiere el Artículo 2019º son materia de anotación preventiva.
+
+Actos o títulos no inscribibles
 
 ###### Artículo 2021º
 
@@ -11178,7 +12298,9 @@ Los actos o títulos referentes a la sola posesión, que aún no han cumplido co
 
 ###### Artículo 2022º
 
-Para oponer derechos reales sobre inmuebles a quienes también tienen derechos reales sobre los mismos, es preciso que el derecho que se opone esté inscrito con anterioridad al de aquél a quien se opone. Si se trata de derechos de diferente naturaleza se aplican las disposiciones del derecho común.
+Para oponer derechos reales sobre inmuebles a quienes también tienen derechos reales sobre los mismos, es preciso que el derecho que se opone esté inscrito con anterioridad al de aquél a quien se opone.
+
+Si se trata de derechos de diferente naturaleza se aplican las disposiciones del derecho común.
 
 Inscripción de contrato de opción
 
@@ -11206,7 +12328,9 @@ Personas jurídicas regidas por leyes especiales
 
 ###### Artículo 2026º
 
-La inscripción de las comunidades campesinas y nativas, cooperativas, empresas de propiedad social y demás personas jurídicas regidas por leyes especiales, se efectúa a solicitud de éstas. Actos inscribibles en el libro de empresas de derecho público
+La inscripción de las comunidades campesinas y nativas, cooperativas, empresas de propiedad social y demás personas jurídicas regidas por leyes especiales, se efectúa a solicitud de éstas.
+
+Actos inscribibles en el libro de empresas de derecho público
 
 ###### Artículo 2027º
 
@@ -11284,7 +12408,9 @@ Actos y resoluciones inscribibles
 
 Se inscriben en este registro:
 
-REGISTROS PÚBLICOS 1.- Los testamentos. 2.- Las modificaciones y ampliaciones de los mismos. 3.- Las revocaciones de los actos a que se refieren los incisos 1 y 2. 4.- Las sentencias ejecutoriadas sobre nulidad, falsedad o caducidad de los testamentos. 5.- Las sentencias ejecutoriadas en los juicios sobre justificación o contradicción de la desheredación. 6.- Las escrituras revocatorias de la desheredación. Lugar de Inscripción
+REGISTROS PÚBLICOS 1.- Los testamentos. 2.- Las modificaciones y ampliaciones de los mismos. 3.- Las revocaciones de los actos a que se refieren los incisos 1 y 2. 4.- Las sentencias ejecutoriadas sobre nulidad, falsedad o caducidad de los testamentos. 5.- Las sentencias ejecutoriadas en los juicios sobre justificación o contradicción de la desheredación. 6.- Las escrituras revocatorias de la desheredación.
+
+Lugar de Inscripción
 
 ###### Artículo 2040º
 
@@ -11318,7 +12444,9 @@ Actos y contratos inscribibles
 
 ###### Artículo 2045º
 
-Son inscribibles en estos registros, todos los actos y contratos establecidos en el Artículo 2019º, en cuanto sean aplicables. DERECHO INTERNACIONAL PRIVADO Código Civil - DECRETO LEGISLATIVO Nº 295 Código Civil DecRetO LegIsLatIvO Nº 295
+Son inscribibles en estos registros, todos los actos y contratos establecidos en el Artículo 2019º, en cuanto sean aplicables.
+
+DERECHO INTERNACIONAL PRIVADO Código Civil - DECRETO LEGISLATIVO Nº 295 Código Civil DecRetO LegIsLatIvO Nº 295
 
 ## LIBRO X — DERECHO INTERNACIONAL PRIVADO
 
@@ -11334,7 +12462,9 @@ Los derechos civiles son comunes a peruanos y extranjeros, salvo las prohibicion
 
 El derecho aplicable para regular relaciones jurídicas vinculadas con ordenamientos jurídicos extranjeros se determina de acuerdo con los tratados internacionales ratificados por el Perú que sean pertinentes y, si estos no lo fueran, conforme a las normas del presente Libro.
 
-Además son aplicables, supletoriamente, los principios y criterios consagrados por la doctrina del Derecho Internacional Privado. Competencia de jueces peruanos
+Además son aplicables, supletoriamente, los principios y criterios consagrados por la doctrina del Derecho Internacional Privado.
+
+Competencia de jueces peruanos
 
 ###### Artículo 2048º
 
@@ -11344,7 +12474,9 @@ Los jueces aplicarán únicamente el derecho interno del Estado declarado compet
 
 Las disposiciones de la ley extranjera pertinente según las normas peruanas de Derecho Internacional Privado, serán excluidas sólo cuando su aplicación sea incompatible con el orden público internacional o con las buenas costumbres.
 
-Rigen, en este caso, las normas del derecho interno peruano. Reconocimiento de derechos adquiridos en el extranjero
+Rigen, en este caso, las normas del derecho interno peruano.
+
+Reconocimiento de derechos adquiridos en el extranjero
 
 ###### Artículo 2050º
 
@@ -11384,7 +12516,9 @@ Competencia sobre personas domiciliadas en el Perú
 
 ###### Artículo 2057º
 
-Los tribunales peruanos son competentes para conocer de las acciones contra personas domiciliadas en el territorio nacional. Competencia en acciones patrimoniales
+Los tribunales peruanos son competentes para conocer de las acciones contra personas domiciliadas en el territorio nacional.
+
+Competencia en acciones patrimoniales
 
 ###### Artículo 2058º
 
@@ -11426,7 +12560,9 @@ Unidad del Foro
 
 ###### Artículo 2065º
 
-El tribunal peruano que conoce válidamente de la demanda es también competente para conocer de la reconvención. Litispendencia y cosa juzgada
+El tribunal peruano que conoce válidamente de la demanda es también competente para conocer de la reconvención.
+
+Litispendencia y cosa juzgada
 
 ###### Artículo 2066º
 
@@ -11486,11 +12622,15 @@ Existencia y capacidad de personas jurídicas de derecho privado
 
 ###### Artículo 2073º
 
-La existencia y la capacidad de las personas jurídicas de derecho privado se rigen por la ley del país en que fueron constituidas. Las personas jurídicas de derecho privado constituidas en el extranjero son reconocidas de pleno derecho en el Perú, y se reputan hábiles para ejercer en el territorio del país, eventual o aisladamente, todas las acciones y derechos que les correspondan.
+La existencia y la capacidad de las personas jurídicas de derecho privado se rigen por la ley del país en que fueron constituidas.
+
+Las personas jurídicas de derecho privado constituidas en el extranjero son reconocidas de pleno derecho en el Perú, y se reputan hábiles para ejercer en el territorio del país, eventual o aisladamente, todas las acciones y derechos que les correspondan.
 
 Para el ejercicio habitual en el territorio del país de actos comprendidos en el objeto de su constitución, se sujetan a las prescripciones establecidas por las leyes peruanas.
 
-La capacidad reconocida a las personas jurídicas extranjeras no puede ser más extensa que la concedida por la ley peruana a las nacionales. Fusión de personas jurídicas
+La capacidad reconocida a las personas jurídicas extranjeras no puede ser más extensa que la concedida por la ley peruana a las nacionales.
+
+Fusión de personas jurídicas
 
 ###### Artículo 2074º
 
@@ -11560,11 +12700,17 @@ Reconocimiento de hijo
 
 ###### Artículo 2085º
 
-El reconocimiento del hijo se rige por la ley de su domicilio. Legitimación
+El reconocimiento del hijo se rige por la ley de su domicilio.
+
+Legitimación
 
 ###### Artículo 2086º
 
-La legitimación por subsecuente matrimonio, se rige por la ley del lugar de celebración de éste. Sin embargo, si la ley del domicilio del hijo exige el consentimiento de éste, debe ser también aplicada. La capacidad para legitimar por declaración estatal o judicial, se rige por la ley del domicilio del legitimante; y la capacidad para ser estatal o judicialmente legitimado, por la ley del domicilio del hijo; requiriendo la legitimación la concurrencia de las condiciones exigidas en ambas. La acción para impugnar la legitimación, se somete a la ley del domicilio del hijo. Adopción
+La legitimación por subsecuente matrimonio, se rige por la ley del lugar de celebración de éste. Sin embargo, si la ley del domicilio del hijo exige el consentimiento de éste, debe ser también aplicada.
+
+La capacidad para legitimar por declaración estatal o judicial, se rige por la ley del domicilio del legitimante; y la capacidad para ser estatal o judicialmente legitimado, por la ley del domicilio del hijo; requiriendo la legitimación la concurrencia de las condiciones exigidas en ambas.
+
+La acción para impugnar la legitimación, se somete a la ley del domicilio del hijo. Adopción
 
 ###### Artículo 2087º
 
@@ -11574,7 +12720,9 @@ a.- La capacidad para adoptar.
 
 b.- La edad y estado civil del adoptante.
 
-c.- El consentimiento eventual del cónyuge del adoptante. Código Civil DecRetO LegIsLatIvO Nº 295 d.- Las demás condiciones que debe llenar el adoptante para obtener la adopción. 3.- A la ley del domicilio del adoptado corresponde regular:
+c.- El consentimiento eventual del cónyuge del adoptante.
+
+Código Civil DecRetO LegIsLatIvO Nº 295 d.- Las demás condiciones que debe llenar el adoptante para obtener la adopción. 3.- A la ley del domicilio del adoptado corresponde regular:
 
 a.- La capacidad para ser adoptado.
 
@@ -11584,7 +12732,9 @@ c.- El consentimiento de los progenitores o de los representantes legales del me
 
 d.- La eventual ruptura del parentesco del adoptado con la familia sanguínea.
 
-e.- La autorización al menor para salir del país. Derechos sobre bienes corporales
+e.- La autorización al menor para salir del país.
+
+Derechos sobre bienes corporales
 
 ###### Artículo 2088º
 
@@ -11598,7 +12748,9 @@ Los bienes corporales en tránsito se consideran situados en el lugar de su dest
 
 Las partes pueden someter la adquisición y la pérdida de los derechos reales sobre bienes corporales en tránsito a la ley que regula el acto jurídico originario de la constitución o de la pérdida de dichos derechos, o a la ley del lugar de expedición de los bienes corporales.
 
-La elección de las partes no es oponible a terceros. Desplazamiento de bienes corporales
+La elección de las partes no es oponible a terceros.
+
+Desplazamiento de bienes corporales
 
 ###### Artículo 2090º
 
@@ -11650,7 +12802,9 @@ Código Civil DecRetO LegIsLatIvO Nº 295 Responsabilidad extracontractual
 
 La responsabilidad extracontractual se regula por la ley del país donde se realice la principal actividad que origina el perjuicio. En caso de responsabilidad por omisión, es aplicable la ley del lugar donde el presunto responsable debió haber actuado.
 
-Si la ley del lugar donde se produjo el perjuicio considera responsable al agente, pero no la ley del lugar donde se produjo la actividad u omisión que provocó el perjuicio, es aplicable la primera ley, si el agente debió prever la producción del daño en dicho lugar, como consecuencia de su acto u omisión. Obligaciones originadas por la ley y demás fuentes
+Si la ley del lugar donde se produjo el perjuicio considera responsable al agente, pero no la ley del lugar donde se produjo la actividad u omisión que provocó el perjuicio, es aplicable la primera ley, si el agente debió prever la producción del daño en dicho lugar, como consecuencia de su acto u omisión.
+
+Obligaciones originadas por la ley y demás fuentes
 
 ###### Artículo 2098º
 
@@ -11662,7 +12816,9 @@ La prescripción extintiva de las acciones personales se rige por la ley que reg
 
 ###### Artículo 2100º
 
-La sucesión se rige, cualquiera que sea el lugar de situación de los bienes, por la ley del último domicilio del causante. Sucesión de bienes ubicados en el Perú
+La sucesión se rige, cualquiera que sea el lugar de situación de los bienes, por la ley del último domicilio del causante.
+
+Sucesión de bienes ubicados en el Perú
 
 ###### Artículo 2101º. La ley peruana rige la sucesión de los bienes situados en la
 
@@ -11690,11 +12846,17 @@ Sentencia extranjera en materia de quiebra
 
 ###### Artículo 2105º
 
-El tribunal peruano que conoce del reconocimiento de una sentencia extranjera de quiebra, puede dictar las medidas preventivas pertinentes desde la presentación de la solicitud de reconocimiento. Código Civil DecRetO LegIsLatIvO Nº 295 El reconocimiento en el Perú de una sentencia extranjera de quiebra debe cumplir con los requisitos de notificación y publicidad previstos en la ley peruana para las quiebras de carácter nacional.
+El tribunal peruano que conoce del reconocimiento de una sentencia extranjera de quiebra, puede dictar las medidas preventivas pertinentes desde la presentación de la solicitud de reconocimiento.
+
+Código Civil DecRetO LegIsLatIvO Nº 295 El reconocimiento en el Perú de una sentencia extranjera de quiebra debe cumplir con los requisitos de notificación y publicidad previstos en la ley peruana para las quiebras de carácter nacional.
 
 Los efectos de la quiebra decretada en el extranjero y reconocida en el Perú, se ajustarán a la ley peruana en lo que respecta a los bienes situados en el Perú y a los derechos de los acreedores.
 
-El juez procederá de acuerdo a lo establecido en la ley peruana en cuanto a la formación, administración y liquidación de la masa en el Perú, satisfaciendo los derechos de los acreedores domiciliados y las acreencias inscritas en el Perú, según la graduación señalada en la ley de quiebras. Si no hay acreedores domiciliados ni acreencias inscritas en el Perú, o si, después de satisfechos éstos conforme a los párrafos precedentes, resulta un saldo positivo en el patrimonio del fallido, dicho saldo será remitido al administrador de la quiebra en el extranjero, previo exequátur ante el juez peruano de la verificación y graduación de los créditos realizados en el extranjero. Ejecución de sentencia extranjera
+El juez procederá de acuerdo a lo establecido en la ley peruana en cuanto a la formación, administración y liquidación de la masa en el Perú, satisfaciendo los derechos de los acreedores domiciliados y las acreencias inscritas en el Perú, según la graduación señalada en la ley de quiebras.
+
+Si no hay acreedores domiciliados ni acreencias inscritas en el Perú, o si, después de satisfechos éstos conforme a los párrafos precedentes, resulta un saldo positivo en el patrimonio del fallido, dicho saldo será remitido al administrador de la quiebra en el extranjero, previo exequátur ante el juez peruano de la verificación y graduación de los créditos realizados en el extranjero.
+
+Ejecución de sentencia extranjera
 
 ###### Artículo 2106º
 
@@ -11728,7 +12890,9 @@ La autoridad de cosa juzgada de una sentencia extranjera puede hacerse valer den
 
 ###### Artículo 2111º
 
-Lo dispuesto en este título rige, en cuanto sea aplicable, también para resoluciones extranjeras que ponen término al proceso y, especialmente, para las sentencias penales en lo referente a la reparación civil. Tratándose de laudos arbitrales, serán de aplicación exclusiva las disposiciones de la Ley General de Arbitraje.[^300][^301]
+Lo dispuesto en este título rige, en cuanto sea aplicable, también para resoluciones extranjeras que ponen término al proceso y, especialmente, para las sentencias penales en lo referente a la reparación civil.
+
+Tratándose de laudos arbitrales, serán de aplicación exclusiva las disposiciones de la Ley General de Arbitraje.[^300][^301]
 
 #### TÍTULO FINAL
 
@@ -11768,7 +12932,9 @@ Ley aplicable a derechos sucesorios anteriores y posteriores a la vigencia del C
 
 ###### Artículo 2117º
 
-Los derechos de los herederos de quien haya muerto antes de la vigencia de este Código se rigen por las leyes anteriores. La sucesión abierta desde que rige este Código se regula por las normas que contiene; pero se cumplirán las disposiciones testamentarias en cuanto éste lo permita. Revocación del testamento cerrado
+Los derechos de los herederos de quien haya muerto antes de la vigencia de este Código se rigen por las leyes anteriores. La sucesión abierta desde que rige este Código se regula por las normas que contiene; pero se cumplirán las disposiciones testamentarias en cuanto éste lo permita.
+
+Revocación del testamento cerrado
 
 ###### Artículo 2118º
 

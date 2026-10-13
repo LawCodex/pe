@@ -194,7 +194,9 @@ Toda información sobre productos de manufactura nacional proporcionada a los co
 
 ###### Artículo 9
 
-Información acerca de las limitaciones en el suministro de partes y accesorios En el caso de la producción, fabricación, ensamble, importación, distribución o comercialización de productos respecto de los que no se brinde el suministro oportuno de partes y accesorios o servicios de reparación y mantenimiento o en los que dichos suministros o servicios se brinden con limitaciones, los proveedores deben informar de tales circunstancias de manera clara e inequívoca al consumidor. De no brindar dicha información, quedan obligados y son responsables por el oportuno suministro de partes y accesorios, servicios de reparación y de mantenimiento de los bienes que produzcan, fabriquen, ensamblen, importen o distribuyan, durante el lapso en que los comercialicen en el mercado nacional y, posteriormente, durante un lapso razonable en función de la durabilidad de los productos. La responsabilidad de probar la comunicación previa a la configuración de la relación de consumo sobre las limitaciones en el suministro de partes y accesorios, corresponde al proveedor.
+Información acerca de las limitaciones en el suministro de partes y accesorios En el caso de la producción, fabricación, ensamble, importación, distribución o comercialización de productos respecto de los que no se brinde el suministro oportuno de partes y accesorios o servicios de reparación y mantenimiento o en los que dichos suministros o servicios se brinden con limitaciones, los proveedores deben informar de tales circunstancias de manera clara e inequívoca al consumidor. De no brindar dicha información, quedan obligados y son responsables por el oportuno suministro de partes y accesorios, servicios de reparación y de mantenimiento de los bienes que produzcan, fabriquen, ensamblen, importen o distribuyan, durante el lapso en que los comercialicen en el mercado nacional y, posteriormente, durante un lapso razonable en función de la durabilidad de los productos.
+
+La responsabilidad de probar la comunicación previa a la configuración de la relación de consumo sobre las limitaciones en el suministro de partes y accesorios, corresponde al proveedor.
 
 El cumplimiento de la obligación de informar a cargo del proveedor no debe implicar una afectación a sus derechos protegidos bajo las normas de propiedad industrial.
 
@@ -434,7 +436,9 @@ a. Concreción, claridad y sencillez en la redacción, con posibilidad de compre
 
 b. Accesibilidad y legibilidad, de forma que permita al consumidor y usuario el conocimiento previo del contenido del contrato antes de su suscripción.
 
-c. Buena fe y equilibrio necesario en los derechos y obligaciones de las partes, lo que en todo caso excluye la utilización de cláusulas abusivas. Lo dispuesto en el presente artículo resulta de aplicación a los contratos celebrados en base a cláusulas generales de contratación, se encuentren o no sometidas a aprobación administrativa.
+c. Buena fe y equilibrio necesario en los derechos y obligaciones de las partes, lo que en todo caso excluye la utilización de cláusulas abusivas.
+
+Lo dispuesto en el presente artículo resulta de aplicación a los contratos celebrados en base a cláusulas generales de contratación, se encuentren o no sometidas a aprobación administrativa.
 
 ### Capítulo II — Cláusulas abusivas
 
@@ -548,7 +552,9 @@ El consumidor tiene derecho a la restitución inmediata de las prestaciones mate
 
 Para tal efecto, el consumidor cuenta con un plazo de siete (7) días calendario, contados a partir del día en que se produjo la contratación del producto o servicio, o desde el día de su recepción o inicio de su ejecución, lo que ocurra con posterioridad, sin perjuicio de su derecho a ejercer las acciones administrativas pertinentes conforme a las disposiciones del presente Código o a solicitar la anulación del contrato en la vía jurisdiccional correspondiente.
 
-El derecho a la restitución se considera válidamente ejercido cuando el consumidor comunique fehacientemente al proveedor sobre ello y proceda a la devolución de los productos recibidos o solicite la interrupción del servicio contratado. Ejercido este derecho, el consumidor no asume reducción alguna del monto a ser devuelto en caso de que haya efectuado un uso normal del producto o disfrute del servicio, salvo que se haya generado un manifiesto deterioro o pérdida de su valor. Corresponde al consumidor probar la causal que sustenta su derecho a la restitución y el ejercicio de este derecho conforme a lo dispuesto en el presente artículo.
+El derecho a la restitución se considera válidamente ejercido cuando el consumidor comunique fehacientemente al proveedor sobre ello y proceda a la devolución de los productos recibidos o solicite la interrupción del servicio contratado. Ejercido este derecho, el consumidor no asume reducción alguna del monto a ser devuelto en caso de que haya efectuado un uso normal del producto o disfrute del servicio, salvo que se haya generado un manifiesto deterioro o pérdida de su valor.
+
+Corresponde al consumidor probar la causal que sustenta su derecho a la restitución y el ejercicio de este derecho conforme a lo dispuesto en el presente artículo.
 
 ###### Artículo 60. Irrenunciabilidad del derecho a la restitución
 
@@ -622,7 +628,9 @@ Las instancias competentes, sus facultades y los procedimientos que rigen su act
 
 Sin perjuicio de ello, los prestadores de los servicios públicos deben implementar un sistema en el que deben registrarse todas las reclamaciones que presenten los usuarios de los servicios públicos. Este registro debe permitir hacer un seguimiento de estas desde su inicio hasta la emisión de la resolución correspondiente por parte de la empresa proveedora del servicio público.
 
-Registrada una reclamación, la empresa proveedora del servicio público informa al usuario respecto del número o código de registro de la misma. La empresa proveedora del servicio público debe remitir al organismo regulador correspondiente, periódicamente, un reporte de las reclamaciones presentadas, de acuerdo a su respectiva regulación sectorial.
+Registrada una reclamación, la empresa proveedora del servicio público informa al usuario respecto del número o código de registro de la misma.
+
+La empresa proveedora del servicio público debe remitir al organismo regulador correspondiente, periódicamente, un reporte de las reclamaciones presentadas, de acuerdo a su respectiva regulación sectorial.
 
 ###### Artículo 66
 
@@ -852,7 +860,9 @@ Transparencia en la información de los productos o servicios financieros Los pr
 
 La TCEA es aquella tasa que permite igualar el valor actual de todas las cuotas y demás pagos que serán efectuados por el cliente con el monto que efectivamente ha recibido del préstamo y la TREA es aquella tasa que permite igualar el monto que se ha depositado con el valor actual del monto que efectivamente se recibe al vencimiento. La TCEA y la TREA deben comprender tanto la tasa de interés como todos los costos directos e indirectos que, bajo cualquier denominación, influyan en su determinación, de conformidad con lo dispuesto por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones mediante norma de carácter general.
 
-La TCEA, en el caso de operaciones bajo el sistema de cuotas, corresponde al costo del crédito; y, en el caso de créditos otorgados bajo el sistema revolvente, atendiendo a sus características, a un patrón estandarizado de comparación de costos del producto. La TREA, en el caso de depósitos a plazo fijo, corresponde al rendimiento del depósito realizado; y, en el caso de depósitos distintos al previamente indicado, a un patrón estandarizado de comparación de rendimiento del producto. La TCEA y TREA se presentan de acuerdo a los parámetros que para tal efecto fije la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
+La TCEA, en el caso de operaciones bajo el sistema de cuotas, corresponde al costo del crédito; y, en el caso de créditos otorgados bajo el sistema revolvente, atendiendo a sus características, a un patrón estandarizado de comparación de costos del producto. La TREA, en el caso de depósitos a plazo fijo, corresponde al rendimiento del depósito realizado; y, en el caso de depósitos distintos al previamente indicado, a un patrón estandarizado de comparación de rendimiento del producto.
+
+La TCEA y TREA se presentan de acuerdo a los parámetros que para tal efecto fije la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones.
 
 La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones regula la información que las instituciones financieras deben proporcionar al consumidor o usuario en cualquier operación que conlleve el cobro de intereses, comisiones y gastos y la forma en que dicha información debe ser presentada a lo largo de toda la relación contractual[^11].
 
@@ -864,7 +874,11 @@ Publicidad en los productos o servicios financieros de crédito En la publicidad
 
 ###### Artículo 84
 
-Publicidad en los productos o servicios financieros pasivos En la publicidad de productos o servicios financieros que anuncien tasas de interés pasivas, el proveedor debe anunciar la tasa de rendimiento efectivo anual (TREA) calculada para un año de trescientos sesenta (360) días. No está permitido, bajo ninguna denominación, hacer referencia a tasas de interés distintas a la indicada en el cuerpo principal del anuncio, las que podrán incluirse en las notas explicativas, en caso de que corresponda. Las empresas del sistema financiero no pueden denominar a un producto o servicio financiero pasivo como “libre” o “sin costo”, o presentar algún otro término que implique gratuidad si bajo algún supuesto es posible que se trasladen conceptos a los consumidores como cargos por mantenimiento, actividad u otros[^13].
+Publicidad en los productos o servicios financieros pasivos En la publicidad de productos o servicios financieros que anuncien tasas de interés pasivas, el proveedor debe anunciar la tasa de rendimiento efectivo anual (TREA) calculada para un año de trescientos sesenta (360) días.
+
+No está permitido, bajo ninguna denominación, hacer referencia a tasas de interés distintas a la indicada en el cuerpo principal del anuncio, las que podrán incluirse en las notas explicativas, en caso de que corresponda.
+
+Las empresas del sistema financiero no pueden denominar a un producto o servicio financiero pasivo como “libre” o “sin costo”, o presentar algún otro término que implique gratuidad si bajo algún supuesto es posible que se trasladen conceptos a los consumidores como cargos por mantenimiento, actividad u otros[^13].
 
 ###### Artículo 85
 
@@ -942,11 +956,19 @@ Obligación de difundir la intervención de un tercero en el financiamiento Los 
 
 ###### Artículo 93
 
-Aplicación supletoria de la regulación de las empresas supervisadas Los proveedores deben brindar a los usuarios toda la información que estos soliciten de manera previa a la celebración de cualquier contrato, tales como la referida a las condiciones que se apliquen a la relación crediticia. En el momento de la contratación, los proveedores deben entregar una copia de los contratos suscritos, adicionándoles la hoja resumen y el cronograma de pagos en el caso de créditos bajo el sistema de cuotas. Para dichos efectos, los proveedores deben observar las disposiciones establecidas en este Código. Las modificaciones a las estipulaciones contractuales, intereses, comisiones y gastos que se hayan acordado en los respectivos contratos deben observar lo previsto en la Ley núm. 28587, Ley Complementaria a la Ley de Protección al Consumidor en Materia de Servicios Financieros, respecto a los mecanismos y plazos para su modificación, garantizando que el envío de comunicación sea a través de medios idóneos que permitan al consumidor un conocimiento de la comunicación previa.
+Aplicación supletoria de la regulación de las empresas supervisadas Los proveedores deben brindar a los usuarios toda la información que estos soliciten de manera previa a la celebración de cualquier contrato, tales como la referida a las condiciones que se apliquen a la relación crediticia.
+
+En el momento de la contratación, los proveedores deben entregar una copia de los contratos suscritos, adicionándoles la hoja resumen y el cronograma de pagos en el caso de créditos bajo el sistema de cuotas. Para dichos efectos, los proveedores deben observar las disposiciones establecidas en este Código.
+
+Las modificaciones a las estipulaciones contractuales, intereses, comisiones y gastos que se hayan acordado en los respectivos contratos deben observar lo previsto en la Ley núm. 28587, Ley Complementaria a la Ley de Protección al Consumidor en Materia de Servicios Financieros, respecto a los mecanismos y plazos para su modificación, garantizando que el envío de comunicación sea a través de medios idóneos que permitan al consumidor un conocimiento de la comunicación previa.
 
 ###### Artículo 94. Determinación de las tasas de interés
 
-Los proveedores, de conformidad con lo dispuesto en el artículo 1243 del Código Civil, deben determinar la tasa del interés convencional compensatorio o moratorio en atención a los límites establecidos por el Banco Central de Reserva del Perú. Los proveedores deben presentar la tasa de costo efectivo anual (TCEA), de acuerdo con los parámetros que para tal efecto establezca la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, en concordancia con lo dispuesto en el artículo 82 del presente código. Si los proveedores emplean tasas que dependan de un factor variable, se debe especificar de manera precisa e inequívoca la forma en que se determina en cada momento, incluyendo su periodicidad de cambio, de ser aplicable. El cobro de comisiones y gastos debe implicar la prestación de un servicio efectivo, debidamente justificado, y sustentarse en un gasto real y demostrable para el proveedor del servicio.
+Los proveedores, de conformidad con lo dispuesto en el artículo 1243 del Código Civil, deben determinar la tasa del interés convencional compensatorio o moratorio en atención a los límites establecidos por el Banco Central de Reserva del Perú. Los proveedores deben presentar la tasa de costo efectivo anual (TCEA), de acuerdo con los parámetros que para tal efecto establezca la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones, en concordancia con lo dispuesto en el artículo 82 del presente código.
+
+Si los proveedores emplean tasas que dependan de un factor variable, se debe especificar de manera precisa e inequívoca la forma en que se determina en cada momento, incluyendo su periodicidad de cambio, de ser aplicable.
+
+El cobro de comisiones y gastos debe implicar la prestación de un servicio efectivo, debidamente justificado, y sustentarse en un gasto real y demostrable para el proveedor del servicio.
 
 En caso de que los proveedores diferencien el precio del producto o servicio, o se establezcan promociones o rebajas en función del medio de pago o forma de financiamiento otorgado por una empresa supervisada o no, la TCEA debe calcularse exclusivamente sobre el precio al contado, en efectivo o cualquier otra definición similar, del producto o servicio ofertado[^17].
 
@@ -1010,7 +1032,9 @@ En caso de que se adquiera un producto con una garantía voluntaria, se sujeta a
 
 ###### Artículo 97-A
 
-Derechos de los consumidores en situación de emergencia En situación de emergencia, prevista en el artículo 137 de la Constitución Política es prohibido el acaparamiento y la especulación de bien o servicio declarado oficialmente como esencial. Esta prohibición rige en el tiempo y espacio geográfico señalado en la norma que fije la declaración del régimen de excepción. Acaparamiento es la acción por la cual el productor, fabricante, proveedor o comerciante sustrae del mercado bien o servicio considerado oficialmente esencial en situación de emergencia, con el fin de alterar el precio, provocar escasez u obtener lucro indebido poniendo en riesgo la vida o salud de las personas. Especulación es la acción por la cual el productor, fabricante, proveedor o comerciante pone en venta producto o servicio considerado oficialmente esencial a precio superior que el habitual, sin que exista justificación económica para ello. El acaparamiento y la especulación son acciones ilícitas que alteran el orden económico y ponen en riesgo la vida o salud de los consumidores y son sancionadas por los artículos 233 y 234 del Código Penal, aprobado por Decreto Legislativo 63518.
+Derechos de los consumidores en situación de emergencia En situación de emergencia, prevista en el artículo 137 de la Constitución Política es prohibido el acaparamiento y la especulación de bien o servicio declarado oficialmente como esencial. Esta prohibición rige en el tiempo y espacio geográfico señalado en la norma que fije la declaración del régimen de excepción.
+
+Acaparamiento es la acción por la cual el productor, fabricante, proveedor o comerciante sustrae del mercado bien o servicio considerado oficialmente esencial en situación de emergencia, con el fin de alterar el precio, provocar escasez u obtener lucro indebido poniendo en riesgo la vida o salud de las personas. Especulación es la acción por la cual el productor, fabricante, proveedor o comerciante pone en venta producto o servicio considerado oficialmente esencial a precio superior que el habitual, sin que exista justificación económica para ello. El acaparamiento y la especulación son acciones ilícitas que alteran el orden económico y ponen en riesgo la vida o salud de los consumidores y son sancionadas por los artículos 233 y 234 del Código Penal, aprobado por Decreto Legislativo 63518.
 
 ###### Artículo 98
 
@@ -1018,7 +1042,11 @@ Derechos del consumidor frente a los defectos en la cantidad Los consumidores ti
 
 a. Cuando, considerados los límites de tolerancia permitidos, el contenido neto de un producto sea inferior al que debiera ser o menor al indicado en el envase o empaque.
 
-b. Cuando el consumidor advierta que un instrumento empleado para la medición opera o ha sido utilizado en su perjuicio, fuera de los límites de tolerancia fijados por la autoridad competente para este tipo de instrumentos. La reclamación del derecho establecido en los literales a y b debe presentarse al proveedor dentro de los diez ([^10]) días hábiles siguientes a la fecha en que se advierta la deficiencia de la medición o del instrumento empleado para ella. El proveedor incurre en mora si no satisface la reclamación dentro de un plazo de quince ([^15]) días hábiles.
+b. Cuando el consumidor advierta que un instrumento empleado para la medición opera o ha sido utilizado en su perjuicio, fuera de los límites de tolerancia fijados por la autoridad competente para este tipo de instrumentos.
+
+La reclamación del derecho establecido en los literales a y b debe presentarse al proveedor dentro de los diez ([^10]) días hábiles siguientes a la fecha en que se advierta la deficiencia de la medición o del instrumento empleado para ella.
+
+El proveedor incurre en mora si no satisface la reclamación dentro de un plazo de quince ([^15]) días hábiles.
 
 ###### Artículo 99. Pagos en exceso
 
@@ -1056,7 +1084,9 @@ La indemnización comprende todas las consecuencias causadas por el defecto, inc
 
 ###### Artículo 104. Responsabilidad administrativa del proveedor
 
-El proveedor es administrativamente responsable por la falta de idoneidad o calidad, el riesgo injustificado o la omisión o defecto de información, o cualquier otra infracción a lo establecido en el presente Código y demás normas complementarias de protección al consumidor, sobre un producto o servicio determinado. El proveedor es exonerado de responsabilidad administrativa si logra acreditar la existencia de una causa objetiva, justificada y no previsible que configure ruptura del nexo causal por caso fortuito o fuerza mayor, de hecho determinante de un tercero o de la imprudencia del propio consumidor afectado. En la prestación de servicios, la autoridad administrativa considera, para analizar la idoneidad del servicio, si la prestación asumida por el proveedor es de medios o de resultado, conforme al artículo 18.
+El proveedor es administrativamente responsable por la falta de idoneidad o calidad, el riesgo injustificado o la omisión o defecto de información, o cualquier otra infracción a lo establecido en el presente Código y demás normas complementarias de protección al consumidor, sobre un producto o servicio determinado. El proveedor es exonerado de responsabilidad administrativa si logra acreditar la existencia de una causa objetiva, justificada y no previsible que configure ruptura del nexo causal por caso fortuito o fuerza mayor, de hecho determinante de un tercero o de la imprudencia del propio consumidor afectado.
+
+En la prestación de servicios, la autoridad administrativa considera, para analizar la idoneidad del servicio, si la prestación asumida por el proveedor es de medios o de resultado, conforme al artículo 18.
 
 ###### Artículo 105. Autoridad competente
 
@@ -1110,7 +1140,9 @@ Formas de conclusión anticipada del procedimiento de oficio promovido por denun
 
 1. Cuando el denunciante formule desistimiento del procedimiento o de la pretensión antes de la notificación de la resolución que agota la vía administrativa.
 
-2. Cuando las partes lleguen a un acuerdo mediante conciliación, mediación, transacción o cualquier otro acuerdo que, de forma indubitable, deje constancia que se ha solucionado la controversia materia de denuncia antes de la notificación de la resolución que pone fin a la misma. Cualquiera de las partes podrá acreditar ante el órgano resolutivo la solución de la controversia, para que la autoridad declare la conclusión anticipada del procedimiento. El procedimiento continuará respecto de aquellos denunciados o pretensiones no comprendidos en dicha conclusión anticipada.
+2. Cuando las partes lleguen a un acuerdo mediante conciliación, mediación, transacción o cualquier otro acuerdo que, de forma indubitable, deje constancia que se ha solucionado la controversia materia de denuncia antes de la notificación de la resolución que pone fin a la misma.
+
+Cualquiera de las partes podrá acreditar ante el órgano resolutivo la solución de la controversia, para que la autoridad declare la conclusión anticipada del procedimiento. El procedimiento continuará respecto de aquellos denunciados o pretensiones no comprendidos en dicha conclusión anticipada.
 
 La autoridad podrá continuar de oficio el procedimiento si del análisis de los hechos denunciados considera que podría estarse afectando intereses de terceros o la acción suscitada por la iniciación del procedimiento entrañase interés general[^26].
 
@@ -1168,7 +1200,9 @@ b. Infracciones graves, con una multa de hasta ciento cincuenta (150) UIT.
 
 c. Infracciones muy graves, con una multa de hasta cuatrocientos cincuenta (450) UIT.
 
-En el caso de las microempresas, la multa no puede superar el diez por ciento (10%) de las ventas o ingresos brutos percibidos por el infractor, relativos a todas sus actividades económicas, correspondientes al ejercicio inmediato anterior al de la expedición de la resolución de primera instancia, siempre que se haya acreditado dichos ingresos, no se encuentre en una situación de reincidencia y el caso no verse sobre la vida, salud o integridad de los consumidores. Para el caso de las pequeñas empresas, la multa no puede superar el veinte por ciento (20%) de las ventas o ingresos brutos percibidos por el infractor, conforme a los requisitos señalados anteriormente. La cuantía de las multas por las infracciones previstas en el Decreto Legislativo Nº 807, Ley sobre Facultades, Normas y Organización del Indecopi, se rige por lo establecido en dicha norma, salvo disposición distinta del presente Código. En caso que el proveedor incumpla un acuerdo conciliatorio o cualquier otro acuerdo que de forma indubitable deje constancia de la manifestación de voluntad expresa de las partes de dar por culminada la controversia, o un laudo arbitral, el órgano resolutivo puede sancionar con una multa entre una ([^1]) Unidad Impositiva Tributaria y doscientos (200) Unidades Impositivas Tributarias. Para la graduación se observan los criterios establecidos en el presente Código y supletoriamente, los criterios que establece la Ley Nº 27444, Ley del Procedimiento Administrativo General o la norma que la sustituya o complemente.
+En el caso de las microempresas, la multa no puede superar el diez por ciento (10%) de las ventas o ingresos brutos percibidos por el infractor, relativos a todas sus actividades económicas, correspondientes al ejercicio inmediato anterior al de la expedición de la resolución de primera instancia, siempre que se haya acreditado dichos ingresos, no se encuentre en una situación de reincidencia y el caso no verse sobre la vida, salud o integridad de los consumidores. Para el caso de las pequeñas empresas, la multa no puede superar el veinte por ciento (20%) de las ventas o ingresos brutos percibidos por el infractor, conforme a los requisitos señalados anteriormente. La cuantía de las multas por las infracciones previstas en el Decreto Legislativo Nº 807, Ley sobre Facultades, Normas y Organización del Indecopi, se rige por lo establecido en dicha norma, salvo disposición distinta del presente Código.
+
+En caso que el proveedor incumpla un acuerdo conciliatorio o cualquier otro acuerdo que de forma indubitable deje constancia de la manifestación de voluntad expresa de las partes de dar por culminada la controversia, o un laudo arbitral, el órgano resolutivo puede sancionar con una multa entre una ([^1]) Unidad Impositiva Tributaria y doscientos (200) Unidades Impositivas Tributarias. Para la graduación se observan los criterios establecidos en el presente Código y supletoriamente, los criterios que establece la Ley Nº 27444, Ley del Procedimiento Administrativo General o la norma que la sustituya o complemente.
 
 Las sanciones administrativas son impuestas sin perjuicio de las medidas correctivas que ordene el órgano resolutivo y de la responsabilidad civil o penal que correspondan[^30].
 
@@ -1206,7 +1240,9 @@ Se consideran circunstancias agravantes especiales, las siguientes:
 
 5. Cuando la conducta infractora haya afectado el interés colectivo o difuso de los consumidores.
 
-6. Otras circunstancias de características o efectos equivalentes a las anteriormente mencionadas, dependiendo de cada caso particular. Se consideran circunstancias atenuantes especiales, las siguientes:
+6. Otras circunstancias de características o efectos equivalentes a las anteriormente mencionadas, dependiendo de cada caso particular.
+
+Se consideran circunstancias atenuantes especiales, las siguientes:
 
 1. La presentación por el proveedor de una propuesta conciliatoria dentro del procedimiento administrativo que coincida con la medida correctiva ordenada por el órgano resolutivo.
 
@@ -1232,11 +1268,15 @@ f. Que los eventuales incumplimientos son aislados y no obedecen a una conducta 
 
 ###### Artículo 113. Cálculo y rebaja del monto de la multa
 
-Para calcularse el monto de las multas a aplicarse, se utiliza el valor de la Unidad Impositiva Tributaria (UIT) vigente a la fecha de pago efectivo o en la fecha que se haga efectiva la cobranza coactiva. Las multas constituyen en su integridad recursos propios del Indecopi, sin perjuicio de lo establecido en el artículo 156. La multa aplicable es rebajada en un veinticinco por ciento (25%) cuando el infractor cancele el monto de la misma con anterioridad a la culminación del término para impugnar la resolución que puso fin a la instancia y en tanto no interponga recurso alguno contra dicha resolución.
+Para calcularse el monto de las multas a aplicarse, se utiliza el valor de la Unidad Impositiva Tributaria (UIT) vigente a la fecha de pago efectivo o en la fecha que se haga efectiva la cobranza coactiva. Las multas constituyen en su integridad recursos propios del Indecopi, sin perjuicio de lo establecido en el artículo 156.
+
+La multa aplicable es rebajada en un veinticinco por ciento (25%) cuando el infractor cancele el monto de la misma con anterioridad a la culminación del término para impugnar la resolución que puso fin a la instancia y en tanto no interponga recurso alguno contra dicha resolución.
 
 ###### Artículo 114. Medidas correctivas
 
-Sin perjuicio de la sanción administrativa que corresponda al proveedor por una infracción al presente Código, el Indecopi puede dictar, en calidad de mandatos, medidas correctivas reparadoras y complementarias. Las medidas correctivas reparadoras pueden dictarse a pedido de parte o de oficio, siempre y cuando sean expresamente informadas sobre esa posibilidad en la notificación de cargo al proveedor por la autoridad encargada del procedimiento. Las medidas correctivas complementarias pueden dictarse de oficio o a pedido de parte.
+Sin perjuicio de la sanción administrativa que corresponda al proveedor por una infracción al presente Código, el Indecopi puede dictar, en calidad de mandatos, medidas correctivas reparadoras y complementarias.
+
+Las medidas correctivas reparadoras pueden dictarse a pedido de parte o de oficio, siempre y cuando sean expresamente informadas sobre esa posibilidad en la notificación de cargo al proveedor por la autoridad encargada del procedimiento. Las medidas correctivas complementarias pueden dictarse de oficio o a pedido de parte.
 
 Se consideran circunstancias atenuantes especiales, las siguientes:
 
@@ -1348,15 +1388,21 @@ No cabe la impugnación de las multas coercitivas previstas en el presente artí
 
 ###### Artículo 118
 
-Multas coercitivas por incumplimiento del pago de costas y costos Si el obligado a cumplir la orden de pago de costas y costos no lo hace, se le impone una multa no menor de una ([^1]) Unidad Impositiva Tributaria (UIT). En caso de persistir el incumplimiento de lo ordenado, el órgano resolutivo puede imponer una nueva multa, duplicando sucesivamente el monto de la última multa impuesta hasta el límite de cincuenta (50) Unidades Impositivas Tributarias (UIT). La multa que corresponda debe ser pagada dentro del plazo de cinco (5) días hábiles, vencidos los cuales se ordena su cobranza coactiva. No cabe la impugnación de las multas coercitivas previstas en el presente artículo[^35].”
+Multas coercitivas por incumplimiento del pago de costas y costos Si el obligado a cumplir la orden de pago de costas y costos no lo hace, se le impone una multa no menor de una ([^1]) Unidad Impositiva Tributaria (UIT). En caso de persistir el incumplimiento de lo ordenado, el órgano resolutivo puede imponer una nueva multa, duplicando sucesivamente el monto de la última multa impuesta hasta el límite de cincuenta (50) Unidades Impositivas Tributarias (UIT). La multa que corresponda debe ser pagada dentro del plazo de cinco (5) días hábiles, vencidos los cuales se ordena su cobranza coactiva.
+
+No cabe la impugnación de las multas coercitivas previstas en el presente artículo[^35].”
 
 ###### Artículo 119. Registro de infracciones y sanciones
 
-El Indecopi lleva un registro de infracciones y sanciones a las disposiciones del presente Código con la finalidad de contribuir a la transparencia de las transacciones entre proveedores y consumidores y orientar a estos en la toma de sus decisiones de consumo. Los proveedores que sean sancionados mediante resolución firme en sede administrativa quedan automáticamente registrados por el lapso de cuatro (4) años contados a partir de la fecha de dicha resolución. La información del registro es de acceso público y gratuito.
+El Indecopi lleva un registro de infracciones y sanciones a las disposiciones del presente Código con la finalidad de contribuir a la transparencia de las transacciones entre proveedores y consumidores y orientar a estos en la toma de sus decisiones de consumo. Los proveedores que sean sancionados mediante resolución firme en sede administrativa quedan automáticamente registrados por el lapso de cuatro (4) años contados a partir de la fecha de dicha resolución.
+
+La información del registro es de acceso público y gratuito.
 
 ###### Artículo 120. Comiso de productos y destino de los mismos
 
-En el caso de que se ordene el comiso de productos, sea de manera provisional o definitiva, estos son depositados en el lugar que, para el efecto, señale el Indecopi, por cuenta, costo y riesgo del infractor, debiendo designarse al depositario en el propio acto de la diligencia. El depositario, al aceptar el cargo, es instruido de sus obligaciones y responsabilidades. Los gastos incurridos por el accionante para el comiso de productos son considerados costas del procedimiento. Consentida la resolución de primera o segunda instancia, o confirmada esta por el Poder Judicial, los productos comisados son adjudicados por el Consejo Directivo del Indecopi a entidades estatales que desarrollan labores o programas de apoyo social, Ministerio de la Mujer y Desarrollo Social, sus unidades ejecutoras, el Consejo Nacional para la Integración de la Persona con Discapacidad o a instituciones privadas sin fines de lucro o a actividades benéficas, las que deben garantizar que dichos productos no sean comercializados. En caso de atentar contra la salud o el orden público, los productos deben ser destruidos.
+En el caso de que se ordene el comiso de productos, sea de manera provisional o definitiva, estos son depositados en el lugar que, para el efecto, señale el Indecopi, por cuenta, costo y riesgo del infractor, debiendo designarse al depositario en el propio acto de la diligencia. El depositario, al aceptar el cargo, es instruido de sus obligaciones y responsabilidades. Los gastos incurridos por el accionante para el comiso de productos son considerados costas del procedimiento.
+
+Consentida la resolución de primera o segunda instancia, o confirmada esta por el Poder Judicial, los productos comisados son adjudicados por el Consejo Directivo del Indecopi a entidades estatales que desarrollan labores o programas de apoyo social, Ministerio de la Mujer y Desarrollo Social, sus unidades ejecutoras, el Consejo Nacional para la Integración de la Persona con Discapacidad o a instituciones privadas sin fines de lucro o a actividades benéficas, las que deben garantizar que dichos productos no sean comercializados. En caso de atentar contra la salud o el orden público, los productos deben ser destruidos.
 
 ###### Artículo 121. Plazo de prescripción de la infracción administrativa
 
@@ -1366,7 +1412,9 @@ Las infracciones al presente Código prescriben a los dos (2) años contados a p
 
 La acción para que la autoridad administrativa pueda exigir el cumplimiento de las sanciones impuestas por infracciones al presente Código prescribe a los tres (3) años contados desde el día siguiente a aquel en que la resolución por la que se impone la sanción queda firme.
 
-Interrumpe la prescripción de la sanción, la iniciación, con conocimiento del interesado, del procedimiento de ejecución coactiva. El cómputo del plazo se vuelve a iniciar si el procedimiento de ejecución coactiva permanece paralizado durante más de treinta (30) días hábiles por causa no imputable al infractor. La prescripción se suspende cuando se haya dictado una medida cautelar o concurra cualquier otra situación equivalente que impida el inicio o suspenda el procedimiento de ejecución coactiva.
+Interrumpe la prescripción de la sanción, la iniciación, con conocimiento del interesado, del procedimiento de ejecución coactiva. El cómputo del plazo se vuelve a iniciar si el procedimiento de ejecución coactiva permanece paralizado durante más de treinta (30) días hábiles por causa no imputable al infractor.
+
+La prescripción se suspende cuando se haya dictado una medida cautelar o concurra cualquier otra situación equivalente que impida el inicio o suspenda el procedimiento de ejecución coactiva.
 
 ###### Artículo 123. Recopilación de información por la autoridad
 
@@ -1382,7 +1430,13 @@ consumidor[^36]
 
 ###### Artículo 125
 
-Competencia de los órganos resolutivos de procedimientos sumarísimos de protección al consumidor. Cada órgano resolutivo de procedimientos sumarísimos de protección al Consumidor es competente para conocer, en primera instancia administrativa, denuncias cuya cuantía, determinada por el valor del producto o servicio materia de controversia, no supere tres ([^3]) Unidades Impositivas Tributarias (UIT); así como aquellas denuncias que versen exclusivamente sobre incumplimientos de acuerdos conciliatorios, falta de atención a reclamos y requerimientos de información, métodos abusivos de cobranza, demora y falta de entrega del producto, con independencia de su cuantía[^37]. Asimismo, es competente para conocer los procedimientos por incumplimiento de medida correctiva, incumplimiento de medida cautelar e incumplimiento y liquidación de pago de costas y costos. No puede conocer denuncias que involucren reclamos por productos o sustancias peligrosas, actos de discriminación o trato diferenciado, servicios médicos, actos que afecten intereses colectivos o difusos y los que versen sobre productos o servicios cuya estimación patrimonial supera tres ([^3]) Unidades Impositivas Tributarias (UIT) o son inapreciables en dinero[^38]. La Comisión de Protección al Consumidor del Indecopi o la comisión con facultades desconcentradas en esta materia, según corresponda, constituye la segunda instancia administrativa en este procedimiento sumarísimo, que se tramita bajo las reglas establecidas por el presente subcapítulo y por la directiva que para tal efecto debe aprobar y publicar el Consejo Directivo del Indecopi. La resolución que emita la correspondiente Comisión agota la vía administrativa y puede ser cuestionada mediante el proceso contencioso administrativo[^39].
+Competencia de los órganos resolutivos de procedimientos sumarísimos de protección al consumidor.
+
+Cada órgano resolutivo de procedimientos sumarísimos de protección al Consumidor es competente para conocer, en primera instancia administrativa, denuncias cuya cuantía, determinada por el valor del producto o servicio materia de controversia, no supere tres ([^3]) Unidades Impositivas Tributarias (UIT); así como aquellas denuncias que versen exclusivamente sobre incumplimientos de acuerdos conciliatorios, falta de atención a reclamos y requerimientos de información, métodos abusivos de cobranza, demora y falta de entrega del producto, con independencia de su cuantía[^37]. Asimismo, es competente para conocer los procedimientos por incumplimiento de medida correctiva, incumplimiento de medida cautelar e incumplimiento y liquidación de pago de costas y costos. No puede conocer denuncias que involucren reclamos por productos o sustancias peligrosas, actos de discriminación o trato diferenciado, servicios médicos, actos que afecten intereses colectivos o difusos y los que versen sobre productos o servicios cuya estimación patrimonial supera tres ([^3]) Unidades Impositivas Tributarias (UIT) o son inapreciables en dinero[^38].
+
+La Comisión de Protección al Consumidor del Indecopi o la comisión con facultades desconcentradas en esta materia, según corresponda, constituye la segunda instancia administrativa en este procedimiento sumarísimo, que se tramita bajo las reglas establecidas por el presente subcapítulo y por la directiva que para tal efecto debe aprobar y publicar el Consejo Directivo del Indecopi.
+
+La resolución que emita la correspondiente Comisión agota la vía administrativa y puede ser cuestionada mediante el proceso contencioso administrativo[^39].
 
 ###### Artículo 126
 
@@ -1424,7 +1478,9 @@ c. La resolución de la correspondiente comisión o, de ser el caso, del Tribuna
 
 ###### Artículo 129
 
-Procedimientos administrativos en defensa colectiva de los consumidores Las asociaciones de consumidores debidamente reconocidas por el Indecopi están legitimadas para formular denuncias ante la Comisión de Protección al Consumidor y ante los demás órganos funcionales competentes del Indecopi, en defensa de intereses colectivos o difusos de los consumidores o de los potencialmente afectados. El órgano funcional competente del Indecopi califica la denuncia y otros elementos y decide el inicio del procedimiento administrativo en defensa colectiva de los consumidores. De igual manera, por propia iniciativa, puede iniciar este tipo de procedimiento o continuar de oficio cualquier otro cuando considera que puede estar afectándose el interés colectivo de los consumidores. Las asociaciones de consumidores debidamente reconocidas están también legitimadas para formular denuncias en defensa de intereses difusos o colectivos ante los organismos reguladores de los servicios públicos.
+Procedimientos administrativos en defensa colectiva de los consumidores Las asociaciones de consumidores debidamente reconocidas por el Indecopi están legitimadas para formular denuncias ante la Comisión de Protección al Consumidor y ante los demás órganos funcionales competentes del Indecopi, en defensa de intereses colectivos o difusos de los consumidores o de los potencialmente afectados. El órgano funcional competente del Indecopi califica la denuncia y otros elementos y decide el inicio del procedimiento administrativo en defensa colectiva de los consumidores. De igual manera, por propia iniciativa, puede iniciar este tipo de procedimiento o continuar de oficio cualquier otro cuando considera que puede estar afectándose el interés colectivo de los consumidores.
+
+Las asociaciones de consumidores debidamente reconocidas están también legitimadas para formular denuncias en defensa de intereses difusos o colectivos ante los organismos reguladores de los servicios públicos.
 
 ###### Artículo 130
 
@@ -1470,7 +1526,9 @@ k. Tres (3) representantes de las asociaciones de consumidores.
 
 l. Un (1) representante de los gremios empresariales.
 
-m. Un (1) representante de la Defensoría del Pueblo, que actúa como observador. Para la aplicación de lo señalado en el presente artículo, se dictan las medidas reglamentarias por las cuales se establecen los mecanismos para la propuesta y designación de los representantes de las entidades y gremios. La participación en el Consejo Nacional de Protección del Consumidor es ad honórem, no genera pago alguno, ni de dieta, honorario o remuneración por parte del Estado a favor de sus integrantes.
+m. Un (1) representante de la Defensoría del Pueblo, que actúa como observador. Para la aplicación de lo señalado en el presente artículo, se dictan las medidas reglamentarias por las cuales se establecen los mecanismos para la propuesta y designación de los representantes de las entidades y gremios.
+
+La participación en el Consejo Nacional de Protección del Consumidor es ad honórem, no genera pago alguno, ni de dieta, honorario o remuneración por parte del Estado a favor de sus integrantes.
 
 ###### Artículo 134. Funciones del Consejo Nacional de Protección del
 
@@ -1560,7 +1618,9 @@ En cualquier caso y aun cuando en la mediación o conciliación las partes arrib
 
 ###### Artículo 144. Exigibilidad de los laudos arbitrales y acuerdos
 
-El laudo arbitral firme y el acta suscrita por las partes que contiene un acuerdo conciliatorio celebrado entre consumidor y proveedor, conforme a los mecanismos señalados en el presente capítulo, constituyen título ejecutivo, conforme a lo dispuesto en el artículo 688 del Código Procesal Civil. El incumplimiento de un acuerdo conciliatorio o laudo celebrado entre consumidor y proveedor constituye una infracción al presente Código. En estos casos, si el obligado a cumplir con un acuerdo o laudo no lo hace, se le impone automáticamente una sanción de hasta el máximo de la multa permitida, para cuya graduación se toman en cuenta los criterios establecidos en el artículo 112 de este Código. Dicha multa debe ser pagada dentro del plazo de cinco (5) días de notificada, vencido el cual se ordena su cobranza coactiva. Si el obligado persiste en el incumplimiento, el Indecopi puede imponer una nueva multa duplicando sucesiva e ilimitadamente el monto de la última multa impuesta hasta que se cumpla con lo acordado. Las multas impuestas no impiden al Indecopi imponer una multa o sanción distinta al final de un procedimiento, de ser el caso. Asimismo, el Indecopi es competente para ordenar las medidas correctivas enunciadas en el presente Código. Este artículo es de aplicación para todos los acuerdos conciliatorios válidos celebrados entre consumidor y proveedor, incluidos aquellos obtenidos ante instituciones sin convenio con el Indecopi.
+El laudo arbitral firme y el acta suscrita por las partes que contiene un acuerdo conciliatorio celebrado entre consumidor y proveedor, conforme a los mecanismos señalados en el presente capítulo, constituyen título ejecutivo, conforme a lo dispuesto en el artículo 688 del Código Procesal Civil.
+
+El incumplimiento de un acuerdo conciliatorio o laudo celebrado entre consumidor y proveedor constituye una infracción al presente Código. En estos casos, si el obligado a cumplir con un acuerdo o laudo no lo hace, se le impone automáticamente una sanción de hasta el máximo de la multa permitida, para cuya graduación se toman en cuenta los criterios establecidos en el artículo 112 de este Código. Dicha multa debe ser pagada dentro del plazo de cinco (5) días de notificada, vencido el cual se ordena su cobranza coactiva. Si el obligado persiste en el incumplimiento, el Indecopi puede imponer una nueva multa duplicando sucesiva e ilimitadamente el monto de la última multa impuesta hasta que se cumpla con lo acordado. Las multas impuestas no impiden al Indecopi imponer una multa o sanción distinta al final de un procedimiento, de ser el caso. Asimismo, el Indecopi es competente para ordenar las medidas correctivas enunciadas en el presente Código. Este artículo es de aplicación para todos los acuerdos conciliatorios válidos celebrados entre consumidor y proveedor, incluidos aquellos obtenidos ante instituciones sin convenio con el Indecopi.
 
 #### Subcapítulo II — Mecanismos alternativos de solución de conflictos
 
@@ -1686,11 +1746,15 @@ Reglamentación posterior En el plazo de ciento ochenta (180) días calendario c
 
 Vigencia del Código El presente Código entra en vigencia a los treinta (30) días calendario contados a partir del día siguiente de su publicación en el Diario Oficial El Peruano, con excepción de lo señalado en los párrafos siguientes.
 
-Los artículos 36 y 37 entran en vigencia a los ciento ochenta (180) días calendario contados a partir de la entrada en vigencia del presente Código. El subcapítulo III del capítulo III del título V sobre el procedimiento sumarísimo en materia de protección al consumidor entra en vigencia a los sesenta (60) días calendario contados a partir de la entrada en vigencia del presente Código, y es de aplicación a los procedimientos que se inicien a partir de dicha fecha.
+Los artículos 36 y 37 entran en vigencia a los ciento ochenta (180) días calendario contados a partir de la entrada en vigencia del presente Código.
+
+El subcapítulo III del capítulo III del título V sobre el procedimiento sumarísimo en materia de protección al consumidor entra en vigencia a los sesenta (60) días calendario contados a partir de la entrada en vigencia del presente Código, y es de aplicación a los procedimientos que se inicien a partir de dicha fecha.
 
 ###### QUINTA
 
-Acciones necesarias para garantizar la protección de los derechos del consumidor a nivel nacional A efectos de adecuar la estructura organizativa del Indecopi para ejecutar las acciones requeridas para fortalecer la protección del consumidor, a nivel nacional, en cumplimiento de las normas dispuestas por este Código, facúltase al Indecopi a ejecutar las acciones de personal y la contratación de bienes y servicios que resulten necesarias, quedando para ello exceptuado de las normas sobre medidas de austeridad, racionalidad y disciplina en el gasto público contenidas en la Ley núm. 29465, Ley de Presupuesto del Sector Público para el Año Fiscal 2010, así como de las limitaciones establecidas en la Ley núm. 28411, Ley General del Sistema Nacional de Presupuesto. Para los mismos efectos, facúltase al Indecopi a ejecutar la contratación de bienes y servicios necesarios, así como a realizar las inversiones correspondientes, para viabilizar la adecuación prevista en el párrafo anterior, quedando exceptuado de las limitaciones previstas en el Decreto de Urgencia núm. 037-2010, que establece medidas en materia económica y financiera en los pliegos del Gobierno Nacional para el cumplimiento de las metas fiscales del año fiscal 2010. Las acciones que se realicen al amparo de la presente disposición no generan, en ningún caso, egresos al Tesoro Público, debiendo financiarse con cargo a recursos directamente recaudados. El Indecopi queda obligado a informar trimestralmente a la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República y a la Contraloría General de la República acerca de las acciones ejecutadas en el marco de la presente disposición.
+Acciones necesarias para garantizar la protección de los derechos del consumidor a nivel nacional A efectos de adecuar la estructura organizativa del Indecopi para ejecutar las acciones requeridas para fortalecer la protección del consumidor, a nivel nacional, en cumplimiento de las normas dispuestas por este Código, facúltase al Indecopi a ejecutar las acciones de personal y la contratación de bienes y servicios que resulten necesarias, quedando para ello exceptuado de las normas sobre medidas de austeridad, racionalidad y disciplina en el gasto público contenidas en la Ley núm. 29465, Ley de Presupuesto del Sector Público para el Año Fiscal 2010, así como de las limitaciones establecidas en la Ley núm. 28411, Ley General del Sistema Nacional de Presupuesto. Para los mismos efectos, facúltase al Indecopi a ejecutar la contratación de bienes y servicios necesarios, así como a realizar las inversiones correspondientes, para viabilizar la adecuación prevista en el párrafo anterior, quedando exceptuado de las limitaciones previstas en el Decreto de Urgencia núm. 037-2010, que establece medidas en materia económica y financiera en los pliegos del Gobierno Nacional para el cumplimiento de las metas fiscales del año fiscal 2010.
+
+Las acciones que se realicen al amparo de la presente disposición no generan, en ningún caso, egresos al Tesoro Público, debiendo financiarse con cargo a recursos directamente recaudados. El Indecopi queda obligado a informar trimestralmente a la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República y a la Contraloría General de la República acerca de las acciones ejecutadas en el marco de la presente disposición.
 
 La presente disposición entra en vigencia el día siguiente de la publicación del presente Código en el Diario Oficial El Peruano.
 
@@ -1738,11 +1802,17 @@ Derogación expresa Quedan derogadas expresamente a partir de la vigencia de la 
 
 - Ley núm. 27846, Ley que Precisa Alcances del artículo 40 del Decreto Supremo núm. 039-2000-ITINCI, Texto Único Ordenado de la Ley de Protección al Consumidor.
 
-- Decreto Supremo núm. 077-2010-PCM, que dispone la obligación de contar con un libro de reclamaciones en los establecimientos abiertos al público que provean bienes y servicios a los consumidores finales. Toda referencia al Decreto Legislativo núm. 716 o al Decreto Supremo núm. 006-2009- PCM se entenderá efectuada al presente Código a partir de su entrada en vigencia.
+- Decreto Supremo núm. 077-2010-PCM, que dispone la obligación de contar con un libro de reclamaciones en los establecimientos abiertos al público que provean bienes y servicios a los consumidores finales.
+
+Toda referencia al Decreto Legislativo núm. 716 o al Decreto Supremo núm. 006-2009- PCM se entenderá efectuada al presente Código a partir de su entrada en vigencia.
 
 ###### SEGUNDA
 
-Derogación genérica Deróganse todas las disposiciones legales o administrativas, de igual o inferior rango, que se opongan o contradigan lo dispuesto en el presente Código. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los catorce días del mes de agosto de dos mil diez. CÉSAR ZUMAETA FLORES Presidente del Congreso de la República ALDA LAZO RÍOS DE HORNUNG Segunda Vicepresidenta del Congreso de la República AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA POR TANTO:
+Derogación genérica Deróganse todas las disposiciones legales o administrativas, de igual o inferior rango, que se opongan o contradigan lo dispuesto en el presente Código.
+
+Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los catorce días del mes de agosto de dos mil diez.
+
+CÉSAR ZUMAETA FLORES Presidente del Congreso de la República ALDA LAZO RÍOS DE HORNUNG Segunda Vicepresidenta del Congreso de la República AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA POR TANTO:
 
 Mando se publique y cumpla.
 

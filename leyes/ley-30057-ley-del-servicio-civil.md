@@ -44,7 +44,9 @@ a) Interés general. El régimen del Servicio Civil se fundamenta en la necesida
 
 b) Eficacia y eficiencia. El Servicio Civil y su régimen buscan el logro de los objetivos del Estado y la realización de prestaciones de servicios públicos requeridos por el Estado y la optimización de los recursos destinados a este fin.
 
-c) Igualdad de oportunidades. Las reglas del Servicio Civil son generales, impersonales, objetivas, públicas y previamente determinadas, sin discriminación alguna por razones de origen, raza, sexo, idioma, religión, opinión, condición económica o de cualquier otra índole. CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil.
+c) Igualdad de oportunidades. Las reglas del Servicio Civil son generales, impersonales, objetivas, públicas y previamente determinadas, sin discriminación alguna por razones de origen, raza, sexo, idioma, religión, opinión, condición económica o de cualquier otra índole.
+
+CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil.
 
 ###### Artículo 224
 
@@ -126,7 +128,9 @@ i) Distribución de la valorización. Es el mecanismo por el cual se calcula la 
 
 ###### Artículo 4. Sistema administrativo de gestión de recursos humanos
 
-El sistema administrativo de gestión de recursos humanos establece, desarrolla y ejecuta la política de Estado respecto del Servicio Civil, a través del conjunto de normas, principios, recursos, métodos, procedimientos y técnicas utilizados por las entidades públicas en la gestión de los recursos humanos. El sistema está integrado por:
+El sistema administrativo de gestión de recursos humanos establece, desarrolla y ejecuta la política de Estado respecto del Servicio Civil, a través del conjunto de normas, principios, recursos, métodos, procedimientos y técnicas utilizados por las entidades públicas en la gestión de los recursos humanos.
+
+El sistema está integrado por:
 
 a) La Autoridad Nacional del Servicio Civil (Servir).
 
@@ -446,7 +450,9 @@ Las normas reglamentarias establecen la indemnización a que se refiere el prese
 
 ###### Artículo 37. Plazo de prescripción
 
-La prescripción de la acción de cobro de los ingresos, beneficios sociales y otros derechos derivados de la compensación económica de los servidores civiles tiene plazo de cuatro (4) años y su cómputo se inicia al término de la relación con la entidad en la que se generó el derecho que se invoque. En los demás casos de prescripción se aplica lo dispuesto en las normas reglamentarias. En ninguno de estos casos la prescripción puede ser mayor a seis
+La prescripción de la acción de cobro de los ingresos, beneficios sociales y otros derechos derivados de la compensación económica de los servidores civiles tiene plazo de cuatro (4) años y su cómputo se inicia al término de la relación con la entidad en la que se generó el derecho que se invoque.
+
+En los demás casos de prescripción se aplica lo dispuesto en las normas reglamentarias. En ninguno de estos casos la prescripción puede ser mayor a seis
 
 (6) meses contados desde la fecha en que ocurrió el acto que la motiva.
 
@@ -482,7 +488,9 @@ e) No emitir opiniones ni brindar declaraciones en nombre de la entidad, salvo a
 
 f) Informar a la autoridad superior o denunciar ante la autoridad correspondiente los actos delictivos, faltas disciplinarias o irregularidades que conozca.
 
-g) Actuar con imparcialidad y neutralidad política. CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil
+g) Actuar con imparcialidad y neutralidad política.
+
+CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil
 
 ###### Artículo 159
 
@@ -520,7 +528,9 @@ Se aplica supletoriamente lo establecido en el Texto Único Ordenado de la Ley d
 
 ###### Artículo 41. Normas específicas respecto a la sindicación
 
-Los servidores civiles tienen derecho a organizarse con fines de defensa de sus intereses. Las organizaciones de servidores civiles deben coadyuvar en el propósito de mejora continua del servicio al ciudadano y de no afectar el funcionamiento eficiente de la entidad o la prestación del servicio. La autoridad no debe promover actos que limiten la constitución de organismos sindicales o el ejercicio del derecho de sindicación.
+Los servidores civiles tienen derecho a organizarse con fines de defensa de sus intereses. Las organizaciones de servidores civiles deben coadyuvar en el propósito de mejora continua del servicio al ciudadano y de no afectar el funcionamiento eficiente de la entidad o la prestación del servicio.
+
+La autoridad no debe promover actos que limiten la constitución de organismos sindicales o el ejercicio del derecho de sindicación.
 
 ###### Artículo 42
 
@@ -562,7 +572,9 @@ Están prohibidos de representar intereses contrarios a los del Estado en proces
 
 ###### Artículo 45
 
-Ejercicio de la huelga 45.1. El derecho de huelga se ejerce una vez agotados los mecanismos de negociación o mediación. Para tal efecto, los representantes del personal deben notificar a la entidad sobre el ejercicio del citado derecho con una anticipación no menor a quince (15) días. Es ilegal el ejercicio del derecho de huelga que no haya cumplido con lo establecido en el presente artículo. 45.2. El ejercicio del derecho de huelga permite a la entidad pública la contratación temporal y directa del personal necesario para garantizar la prestación de los servicios mínimos de los servicios esenciales y mínimos de los servicios indispensables para el funcionamiento de la entidad, desde el inicio de la huelga y hasta su efectiva culminación. CONCORDANCIAS: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 79, 80 ,81 ,82 y 83
+Ejercicio de la huelga 45.1. El derecho de huelga se ejerce una vez agotados los mecanismos de negociación o mediación. Para tal efecto, los representantes del personal deben notificar a la entidad sobre el ejercicio del citado derecho con una anticipación no menor a quince (15) días. Es ilegal el ejercicio del derecho de huelga que no haya cumplido con lo establecido en el presente artículo. 45.2. El ejercicio del derecho de huelga permite a la entidad pública la contratación temporal y directa del personal necesario para garantizar la prestación de los servicios mínimos de los servicios esenciales y mínimos de los servicios indispensables para el funcionamiento de la entidad, desde el inicio de la huelga y hasta su efectiva culminación.
+
+CONCORDANCIAS: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 79, 80 ,81 ,82 y 83
 
 ### CAPÍTULO VII: CAUSAS DE SUSPENSIÓN Y TÉRMINO DEL SERVICIO CIVIL
 
@@ -582,7 +594,9 @@ b) El ejercicio de cargos políticos de elección popular o haber sido designado
 
 CONCORDANCIAS: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 153 y 194
 
-c) El permiso o licencia concedidos por la entidad. CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 195
+c) El permiso o licencia concedidos por la entidad.
+
+CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 195
 
 d) El ejercicio del derecho de huelga.
 
@@ -592,11 +606,15 @@ e) La sanción por la comisión de faltas de carácter disciplinario que conllev
 
 f) La inhabilitación para el ejercicio profesional o el ejercicio de la función pública, en ambos casos por un período no mayor a tres (3) meses.
 
-g) La detención del servidor por la autoridad competente. CONCORDANCIAS: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 198
+g) La detención del servidor por la autoridad competente.
+
+CONCORDANCIAS: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 198
 
 h) La sentencia de primera instancia por delitos de terrorismo, narcotráfico, corrupción o violación de la libertad sexual.
 
-i) El caso fortuito o fuerza mayor, debidamente sustentado. En los casos previstos en el literal h), de no confirmarse la sentencia contra el servidor, este puede reingresar al mismo nivel, una vez que dicha sentencia quede firme teniendo derecho a percibir únicamente las compensaciones económicas Principal y Ajustada, así como aguinaldos por Fiestas Patrias y Navidad; y Compensación por Tiempo de Servicios. 47.2. La relación de Servicio Civil se suspende de manera imperfecta en los siguientes casos:
+i) El caso fortuito o fuerza mayor, debidamente sustentado.
+
+En los casos previstos en el literal h), de no confirmarse la sentencia contra el servidor, este puede reingresar al mismo nivel, una vez que dicha sentencia quede firme teniendo derecho a percibir únicamente las compensaciones económicas Principal y Ajustada, así como aguinaldos por Fiestas Patrias y Navidad; y Compensación por Tiempo de Servicios. 47.2. La relación de Servicio Civil se suspende de manera imperfecta en los siguientes casos:
 
 a) La enfermedad y el accidente comprobados, de acuerdo al plazo establecido en la normatividad sobre seguridad social en salud.
 
@@ -610,7 +628,9 @@ e) El permiso o licencia concedidos por la entidad, por cuenta o interés de la 
 
 f) Licencias por paternidad, conforme a la ley de la materia.
 
-g) Por citación expresa judicial, militar, policial u otras citaciones derivadas de actos de administración interna de las entidades públicas. CONCORDANCIA: Decreto Supremo Nº 138-2014-EF – Reglamento de Compensaciones de la Ley Nº 30057, Ley del Servicio Civil Artículos 16 47.3. La participación en la formación para ser directivo público en la Escuela Nacional de Administración Pública puede originar suspensión perfecta o imperfecta según fuera el caso. La resolución debidamente fundamentada que autoriza la suspensión imperfecta se publica en el portal institucional de la respectiva entidad pública. 47.4. La imposición de una medida cautelar, de conformidad con las normas sobre el procedimiento sancionador disciplinario establecidos en la presente Ley y su Reglamento, puede originar suspensión perfecta o imperfecta según el caso.
+g) Por citación expresa judicial, militar, policial u otras citaciones derivadas de actos de administración interna de las entidades públicas.
+
+CONCORDANCIA: Decreto Supremo Nº 138-2014-EF – Reglamento de Compensaciones de la Ley Nº 30057, Ley del Servicio Civil Artículos 16 47.3. La participación en la formación para ser directivo público en la Escuela Nacional de Administración Pública puede originar suspensión perfecta o imperfecta según fuera el caso. La resolución debidamente fundamentada que autoriza la suspensión imperfecta se publica en el portal institucional de la respectiva entidad pública. 47.4. La imposición de una medida cautelar, de conformidad con las normas sobre el procedimiento sancionador disciplinario establecidos en la presente Ley y su Reglamento, puede originar suspensión perfecta o imperfecta según el caso.
 
 CONCORDANCIAS: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 178, inc. c) y 192.
 
@@ -638,7 +658,9 @@ f) Pérdida o renuncia a la nacionalidad peruana, en los casos en que la natural
 
 g) La sanción de destitución por la comisión de faltas de carácter disciplinario y la condena penal por delito doloso; así como la pena privativa de libertad efectiva por delito culposo por un plazo mayor a tres (3) meses[^14]. CONCORDANCIAS: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 213 y 231.
 
-h) La inhabilitación para el ejercicio profesional o el ejercicio de la función pública, en ambos casos por un período mayor a tres (3) meses. CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 231.
+h) La inhabilitación para el ejercicio profesional o el ejercicio de la función pública, en ambos casos por un período mayor a tres (3) meses.
+
+CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 231.
 
 i) Cese por causa relativa a la capacidad del servidor en los casos de desaprobación.
 
@@ -800,7 +822,9 @@ El directivo público tiene funciones de organización, dirección o toma de dec
 
 ###### Artículo 59. Incorporación y asignación de puestos a los directivos públicos
 
-El ingreso a un puesto directivo público se realiza por concurso público de méritos realizado por cada entidad, cumpliendo con el perfil del puesto respectivo. En el caso de los servidores de confianza, aun cuando no se requiere concurso, deben cumplir con el perfil establecido para el puesto. Los directivos públicos son asignados para desempeñar puestos hasta el tercer nivel orgánico consecutivo de la entidad. Mediante resolución del titular de Servir se pueden establecer excepciones a esta regla, en función del número de niveles organizativos de la entidad, el número total de servidores de la entidad o la naturaleza de las funciones de la entidad.
+El ingreso a un puesto directivo público se realiza por concurso público de méritos realizado por cada entidad, cumpliendo con el perfil del puesto respectivo. En el caso de los servidores de confianza, aun cuando no se requiere concurso, deben cumplir con el perfil establecido para el puesto.
+
+Los directivos públicos son asignados para desempeñar puestos hasta el tercer nivel orgánico consecutivo de la entidad. Mediante resolución del titular de Servir se pueden establecer excepciones a esta regla, en función del número de niveles organizativos de la entidad, el número total de servidores de la entidad o la naturaleza de las funciones de la entidad.
 
 ###### Artículo 60
 
@@ -832,7 +856,9 @@ c) Asunción de cargo de funcionario público o de servidor de confianza. El té
 
 ###### Artículo 64. Número de directivos de confianza en la entidad pública
 
-Sólo el veinte por ciento (20%) de los directivos públicos existentes en cada entidad pública puede ser ocupado por servidores de confianza, respetando el porcentaje previsto en el artículo 77 de la presente Ley. Mediante resolución de Presidencia Ejecutiva, Servir establece otros límites en consideración al número total de servidores civiles previstos en el cuadro de puestos de la entidad (CPE), así como a la naturaleza o funciones de la entidad, entre otros factores.
+Sólo el veinte por ciento (20%) de los directivos públicos existentes en cada entidad pública puede ser ocupado por servidores de confianza, respetando el porcentaje previsto en el artículo 77 de la presente Ley.
+
+Mediante resolución de Presidencia Ejecutiva, Servir establece otros límites en consideración al número total de servidores civiles previstos en el cuadro de puestos de la entidad (CPE), así como a la naturaleza o funciones de la entidad, entre otros factores.
 
 Cada tres (3) años Servir publica la lista de directivos públicos existentes en cada entidad y aquellas plazas que puedan ser ocupadas por servidores de confianza.
 
@@ -850,7 +876,9 @@ Los servidores civiles de carrera se incorporan al régimen del Servicio Civil p
 
 ###### Artículo 67. Incorporación al grupo de servidores civiles de carrera
 
-La incorporación al grupo de servidores civiles de carrera se efectúa mediante concurso público de méritos abierto o transversal. El concurso público de méritos transversal es el proceso por el que se accede a un puesto distinto en la propia entidad o en una entidad diferente y al que sólo pueden postular los servidores civiles de carrera, siempre que cumplan con el perfil del puesto.
+La incorporación al grupo de servidores civiles de carrera se efectúa mediante concurso público de méritos abierto o transversal.
+
+El concurso público de méritos transversal es el proceso por el que se accede a un puesto distinto en la propia entidad o en una entidad diferente y al que sólo pueden postular los servidores civiles de carrera, siempre que cumplan con el perfil del puesto.
 
 El concurso público de méritos abierto es el proceso por el que se accede a un puesto propio de la carrera pública y al que puede postular cualquier persona sea o no servidor civil de carrera siempre que cumpla con el perfil del puesto. El concurso público de méritos abierto procede:
 
@@ -878,7 +906,9 @@ b) Del mismo nivel, superior o inferior en otra familia de puestos. La progresi�
 
 ###### Artículo 70. Consecuencia de la progresión
 
-El servidor civil de carrera que gane el concurso público de méritos transversal solo tiene derecho a las compensaciones y a las prerrogativas establecidas para el puesto concursado y en tanto se mantenga en dicho puesto. Cada oportunidad de progresión genera derechos diferentes y no acumulables, con excepción del tiempo de servicios. La progresión únicamente da lugar al otorgamiento de la compensación del puesto concursado.
+El servidor civil de carrera que gane el concurso público de méritos transversal solo tiene derecho a las compensaciones y a las prerrogativas establecidas para el puesto concursado y en tanto se mantenga en dicho puesto.
+
+Cada oportunidad de progresión genera derechos diferentes y no acumulables, con excepción del tiempo de servicios. La progresión únicamente da lugar al otorgamiento de la compensación del puesto concursado.
 
 ###### Artículo 71
 
@@ -934,7 +964,9 @@ Consecuencias del incumplimiento de los límites de servidores de confianza La i
 
 El vínculo entre los servidores de confianza y la entidad se establece en un contrato escrito de naturaleza temporal, cuya vigencia se condiciona a la confianza de quien los designa, y donde se precisan las condiciones de empleo, el puesto a ocupar y la contraprestación a percibir, conforme a lo establecido en el artículo 31 de la presente Ley.
 
-El contrato puede resolverse, sin que ello genere el derecho a pago compensatorio, otorgamiento de suma a título de liberalidad ni indemnización alguna por la terminación del vínculo con la entidad pública. La designación de servidores de confianza se realiza mediante el acto administrativo que corresponda de acuerdo a ley o mediante el acto de administración contemplado en la presente Ley, según sea el caso. Dicha designación debe ser publicada en la página web de la entidad.
+El contrato puede resolverse, sin que ello genere el derecho a pago compensatorio, otorgamiento de suma a título de liberalidad ni indemnización alguna por la terminación del vínculo con la entidad pública.
+
+La designación de servidores de confianza se realiza mediante el acto administrativo que corresponda de acuerdo a ley o mediante el acto de administración contemplado en la presente Ley, según sea el caso. Dicha designación debe ser publicada en la página web de la entidad.
 
 ### CAPÍTULO VI: DISPOSICIONES COMUNES PARA LOS DIRECTIVOS
 
@@ -944,7 +976,9 @@ PÚBLICOS, SERVIDORES DE CARRERA Y SERVIDORES DE ACTIVIDADES COMPLEMENTARIAS
 
 El postulante que apruebe el concurso y a pesar de su calificación de apto no alcance vacante, se convierte en accesitario. Sólo habrá un accesitario por puesto concursado.
 
-En caso que el ganador del correspondiente proceso de selección no pudiera acceder al puesto obtenido o no hubiera superado el período de prueba, la entidad puede cubrir el puesto vacante con el accesitario. La condición de accesitario sólo es de aplicación respecto del puesto convocado y se extingue automáticamente en los casos en que el ganador del puesto supere el período de prueba o a los seis (6) meses de concluido el concurso. La condición de accesitario no da lugar a ningún derecho para el postulante, ni lo incorpora en forma alguna al Servicio Civil.
+En caso que el ganador del correspondiente proceso de selección no pudiera acceder al puesto obtenido o no hubiera superado el período de prueba, la entidad puede cubrir el puesto vacante con el accesitario.
+
+La condición de accesitario sólo es de aplicación respecto del puesto convocado y se extingue automáticamente en los casos en que el ganador del puesto supere el período de prueba o a los seis (6) meses de concluido el concurso. La condición de accesitario no da lugar a ningún derecho para el postulante, ni lo incorpora en forma alguna al Servicio Civil.
 
 ###### Artículo 81. Desplazamiento
 
@@ -972,7 +1006,9 @@ Se aplica las mismas reglas en el caso de convivientes o uniones de hecho.
 
 ###### Artículo 84. Contratación temporal
 
-Excepcionalmente se puede contratar de manera directa a plazo fijo en los casos de suspensión previstos en el artículo 47 de la presente Ley, así como en los casos de incremento extraordinario y temporal de actividades. Estas situaciones deben estar debidamente justificadas. Los contratos no pueden tener un plazo mayor a nueve (9) meses. Pueden renovarse por una sola vez antes de su vencimiento, hasta por un período de tres (3) meses. Cumplido el plazo, tales contratos concluyen de pleno derecho y son nulos los actos en contrario. El personal contratado bajo esta modalidad no pertenece al Servicio Civil de Carrera. CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 221
+Excepcionalmente se puede contratar de manera directa a plazo fijo en los casos de suspensión previstos en el artículo 47 de la presente Ley, así como en los casos de incremento extraordinario y temporal de actividades. Estas situaciones deben estar debidamente justificadas. Los contratos no pueden tener un plazo mayor a nueve (9) meses. Pueden renovarse por una sola vez antes de su vencimiento, hasta por un período de tres (3) meses. Cumplido el plazo, tales contratos concluyen de pleno derecho y son nulos los actos en contrario. El personal contratado bajo esta modalidad no pertenece al Servicio Civil de Carrera.
+
+CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil Artículos 221
 
 ## TÍTULO V: RÉGIMEN DISCIPLINARIO Y PROCEDIMIENTO
 
@@ -1048,7 +1084,9 @@ g) La reincidencia en la comisión de la falta.
 
 h) La continuidad en la comisión de la falta.
 
-i) El beneficio ilícitamente obtenido, de ser el caso. Las autoridades deben prever que la comisión de la conducta sancionable no resulte más ventajosa para el infractor que cumplir las normas infringidas o asumir la sanción.
+i) El beneficio ilícitamente obtenido, de ser el caso.
+
+Las autoridades deben prever que la comisión de la conducta sancionable no resulte más ventajosa para el infractor que cumplir las normas infringidas o asumir la sanción.
 
 La destitución acarrea la inhabilitación automática para el ejercicio de la función pública. El servidor civil que se encuentre en este supuesto, no puede reingresar a prestar servicios a favor del Estado por un plazo de cinco (5) años, contados a partir de que la resolución administrativa que causa estado es eficaz. Si un servidor civil es declarado responsable de un delito doloso, mediante sentencia que cause estado, o que haya quedado consentida, o ejecutoriada, culmina su relación con la entidad.
 
@@ -1090,7 +1128,9 @@ Los actos de la Administración Pública que impongan sanciones disciplinarias d
 
 La sanción corresponde a la magnitud de las faltas, según su menor o mayor gravedad. Su aplicación no es necesariamente correlativa ni automática. En cada caso la entidad pública debe contemplar no sólo la naturaleza de la infracción sino también los antecedentes del servidor.
 
-Los descuentos por tardanzas e inasistencia no tienen naturaleza disciplinaria, por lo que no eximen de la aplicación de la debida sanción. CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil
+Los descuentos por tardanzas e inasistencia no tienen naturaleza disciplinaria, por lo que no eximen de la aplicación de la debida sanción.
+
+CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General de la Ley Nº 30057, Ley del Servicio Civil
 
 ###### Artículo 103
 
@@ -1124,7 +1164,11 @@ CONCORDANCIA: Decreto Supremo Nº 040-2014-PCM – Aprueban Reglamento General d
 
 ###### Artículo 94. Prescripción
 
-La competencia para iniciar procedimientos administrativos disciplinarios contra los servidores civiles decae en el plazo de tres (3) años contados a partir de la comisión de la falta y uno (1) a partir de tomado conocimiento por la oficina de recursos humanos de la entidad, o de la que haga sus veces. La autoridad administrativa resuelve en un plazo de treinta (30) días hábiles. Si la complejidad del procedimiento ameritase un mayor plazo, la autoridad administrativa debe motivar debidamente la dilación. En todo caso, entre el inicio del procedimiento administrativo disciplinario y la emisión de la resolución no puede transcurrir un plazo mayor a un (1) año. Para el caso de los exservidores civiles, el plazo de prescripción es de dos (2) años contados a partir de que la entidad conoció de la comisión de la infracción.
+La competencia para iniciar procedimientos administrativos disciplinarios contra los servidores civiles decae en el plazo de tres (3) años contados a partir de la comisión de la falta y uno (1) a partir de tomado conocimiento por la oficina de recursos humanos de la entidad, o de la que haga sus veces.
+
+La autoridad administrativa resuelve en un plazo de treinta (30) días hábiles. Si la complejidad del procedimiento ameritase un mayor plazo, la autoridad administrativa debe motivar debidamente la dilación. En todo caso, entre el inicio del procedimiento administrativo disciplinario y la emisión de la resolución no puede transcurrir un plazo mayor a un (1) año.
+
+Para el caso de los exservidores civiles, el plazo de prescripción es de dos (2) años contados a partir de que la entidad conoció de la comisión de la infracción.
 
 ###### Artículo 95
 
@@ -1194,7 +1238,9 @@ Registro de la compensación por tiempo de servicios Créase el Registro de la C
 
 ###### SEXTA
 
-Obligación de informar de las entidades Los titulares de las entidades de la administración pública, incluidos los organismos constitucionalmente autónomos, las empresas públicas y los poderes del Estado, están obligados a remitir al Ministerio de Economía y Finanzas y a la Contraloría General de la Republica, dentro del primer trimestre del año, la información de los pagos realizados a su personal anualmente por toda fuente, desagregado por cada una de las personas que prestaron servicios durante el ejercicio fiscal anterior, bajo responsabilidad. SÉTIMA. Aplicativo informático para el registro centralizado de planillas y de datos de los recursos humanos del sector público Para fines de pago de las compensaciones, las entidades que se incorporen progresivamente a la presente Ley requieren que los datos personales de los beneficiarios y las planillas de pago se encuentren expresamente descritos y registrados mediante los procesos del “Aplicativo Informático para el Registro Centralizado de Planillas y de Datos de los Recursos Humanos del Sector Público
+Obligación de informar de las entidades Los titulares de las entidades de la administración pública, incluidos los organismos constitucionalmente autónomos, las empresas públicas y los poderes del Estado, están obligados a remitir al Ministerio de Economía y Finanzas y a la Contraloría General de la Republica, dentro del primer trimestre del año, la información de los pagos realizados a su personal anualmente por toda fuente, desagregado por cada una de las personas que prestaron servicios durante el ejercicio fiscal anterior, bajo responsabilidad.
+
+SÉTIMA. Aplicativo informático para el registro centralizado de planillas y de datos de los recursos humanos del sector público Para fines de pago de las compensaciones, las entidades que se incorporen progresivamente a la presente Ley requieren que los datos personales de los beneficiarios y las planillas de pago se encuentren expresamente descritos y registrados mediante los procesos del “Aplicativo Informático para el Registro Centralizado de Planillas y de Datos de los Recursos Humanos del Sector Público
 
 - Aplicativo Informático” a cargo del Ministerio de Economía y Finanzas. Los datos registrados en el referido aplicativo sirven de base para las fases de formulación, programación, ejecución y evaluación del proceso presupuestario; para determinar el número de plazas del sector público; para implementar políticas salariales; para programar las obligaciones sociales y previsionales; y los gastos en personal cualquiera sea su modalidad de contratación directa o indirecta.
 
@@ -1244,7 +1290,9 @@ La municipalidad incluida en el régimen especial cuenta con condiciones, requis
 
 ###### DUODÉCIMA
 
-Transparencia y compromiso con el ciudadano Para el cumplimiento de la finalidad de la presente Ley, y en armonía con la debida cautela y eficiencia en la administración de los recursos públicos, todas las entidades del Estado se encuentran obligadas a publicar en su portal institucional o en cualquier medio que garantice su adecuada difusión, las metas institucionales, indicadores de desempeño y compromisos de mejora de los servicios y productos que suministran a los ciudadanos. Dichas metas, indicadores y compromisos deben redactarse en términos simples, para su adecuada comprensión, y deben ser cuantificables, a efectos de su evaluación y fiscalización. Para el efecto, el Centro Nacional de Planeamiento Estratégico (CEPLAN) y Servir elaboran los instructivos necesarios.
+Transparencia y compromiso con el ciudadano Para el cumplimiento de la finalidad de la presente Ley, y en armonía con la debida cautela y eficiencia en la administración de los recursos públicos, todas las entidades del Estado se encuentran obligadas a publicar en su portal institucional o en cualquier medio que garantice su adecuada difusión, las metas institucionales, indicadores de desempeño y compromisos de mejora de los servicios y productos que suministran a los ciudadanos. Dichas metas, indicadores y compromisos deben redactarse en términos simples, para su adecuada comprensión, y deben ser cuantificables, a efectos de su evaluación y fiscalización.
+
+Para el efecto, el Centro Nacional de Planeamiento Estratégico (CEPLAN) y Servir elaboran los instructivos necesarios.
 
 La publicación y difusión de la información señalada debe efectuarse a más tardar el 31 de diciembre del año anterior al ejercicio presupuestal al que corresponden, priorizando la publicación de la información relacionada con las funciones de salud y educación.
 
@@ -1252,7 +1300,9 @@ La publicación y difusión de la información señalada debe efectuarse a más 
 
 ###### PRIMERA
 
-Implementación progresiva de la Ley La implementación del régimen previsto en la presente Ley se realiza progresivamente, y concluye en un plazo máximo de seis (6) años, conforme a las reglas de gradualidad que establecen las normas reglamentarias, en el marco de la programación de las leyes anuales de presupuesto. La implementación del régimen previsto en esta Ley se realiza por entidades públicas, a partir de criterios de composición de los regímenes al interior de las entidades, naturaleza de las funciones de la entidad, nivel de gobierno, presupuesto y las prioridades del Estado.
+Implementación progresiva de la Ley La implementación del régimen previsto en la presente Ley se realiza progresivamente, y concluye en un plazo máximo de seis (6) años, conforme a las reglas de gradualidad que establecen las normas reglamentarias, en el marco de la programación de las leyes anuales de presupuesto.
+
+La implementación del régimen previsto en esta Ley se realiza por entidades públicas, a partir de criterios de composición de los regímenes al interior de las entidades, naturaleza de las funciones de la entidad, nivel de gobierno, presupuesto y las prioridades del Estado.
 
 La Presidencia Ejecutiva de Servir emite una resolución de “inicio de proceso de implementación” y otra de “culminación del proceso de implementación” del nuevo régimen en una entidad pública.
 
@@ -1308,7 +1358,9 @@ SÉTIMA. Servidores bajo el régimen del Decreto Legislativo 1057 Los servidores
 
 ###### OCTAVA
 
-Implementación del régimen del Servicio Civil En tanto dure el proceso de implementación del régimen del Servicio Civil en todas las entidades públicas, las entidades públicas que hayan iniciado o culminado el proceso de implementación, pueden cubrir sus puestos en cualquier nivel de la carrera mediante concurso público de méritos abierto. Lo dispuesto en los literales a) y d) del artículo 67 entra en vigencia cuando todas las entidades del Estado culminen el proceso de implementación del nuevo régimen previsto en la presente Ley.
+Implementación del régimen del Servicio Civil En tanto dure el proceso de implementación del régimen del Servicio Civil en todas las entidades públicas, las entidades públicas que hayan iniciado o culminado el proceso de implementación, pueden cubrir sus puestos en cualquier nivel de la carrera mediante concurso público de méritos abierto.
+
+Lo dispuesto en los literales a) y d) del artículo 67 entra en vigencia cuando todas las entidades del Estado culminen el proceso de implementación del nuevo régimen previsto en la presente Ley.
 
 ###### NOVENA
 
@@ -1374,9 +1426,13 @@ Derogaciones
 
 a) Derógase el artículo 13 de la Ley 27815, Ley del Código de Ética de la Función Pública.
 
-b) Una vez que la presente Ley se implemente, el Decreto Legislativo 1025, que aprueba normas de capacitación y rendimiento para el sector público, y la Ley 28175, Ley Marco del Empleo Público, quedan derogados. Comuníquese al señor Presidente Constitucional de la República para su promulgación.
+b) Una vez que la presente Ley se implemente, el Decreto Legislativo 1025, que aprueba normas de capacitación y rendimiento para el sector público, y la Ley 28175, Ley Marco del Empleo Público, quedan derogados.
 
-En Lima, a los tres días del mes de julio de dos mil trece. VÍCTOR ISLA ROJAS Presidente del Congreso de la República JUAN CARLOS EGUREN NEUENSCHWANDER Segundo Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA POR TANTO:
+Comuníquese al señor Presidente Constitucional de la República para su promulgación.
+
+En Lima, a los tres días del mes de julio de dos mil trece.
+
+VÍCTOR ISLA ROJAS Presidente del Congreso de la República JUAN CARLOS EGUREN NEUENSCHWANDER Segundo Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA POR TANTO:
 
 Mando se publique y cumpla.
 

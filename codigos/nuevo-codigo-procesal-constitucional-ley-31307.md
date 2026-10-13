@@ -94,7 +94,9 @@ Los códigos procesales afines a la materia discutida son de aplicación subsidi
 
 ###### Artículo 1. Finalidad de los procesos
 
-Los procesos a los que se refiere el presente título tienen por finalidad proteger los derechos constitucionales, ya sean de naturaleza individual o colectiva, reponiendo las cosas al estado anterior a la violación o amenaza de violación de un derecho constitucional, o disponiendo el cumplimiento de un mandato legal o de un acto administrativo. Si luego de presentada la demanda, cesa la agresión o amenaza por decisión voluntaria del agresor, o si ella deviene en irreparable, el juez, atendiendo al agravio producido, declarará fundada la demanda precisando los alcances de su decisión, disponiendo que el emplazado no vuelva a incurrir en las acciones u omisiones que motivaron la interposición de la demanda, y que si procediere de modo contrario se le aplicarán las medidas coercitivas previstas en el artículo 27 del presente código, sin perjuicio de las responsabilidades que correspondan.
+Los procesos a los que se refiere el presente título tienen por finalidad proteger los derechos constitucionales, ya sean de naturaleza individual o colectiva, reponiendo las cosas al estado anterior a la violación o amenaza de violación de un derecho constitucional, o disponiendo el cumplimiento de un mandato legal o de un acto administrativo.
+
+Si luego de presentada la demanda, cesa la agresión o amenaza por decisión voluntaria del agresor, o si ella deviene en irreparable, el juez, atendiendo al agravio producido, declarará fundada la demanda precisando los alcances de su decisión, disponiendo que el emplazado no vuelva a incurrir en las acciones u omisiones que motivaron la interposición de la demanda, y que si procediere de modo contrario se le aplicarán las medidas coercitivas previstas en el artículo 27 del presente código, sin perjuicio de las responsabilidades que correspondan.
 
 ###### Artículo 2. La demanda
 
@@ -184,7 +186,9 @@ El plazo se inicia a partir de los dos días posteriores a la notificación en l
 
 ###### Artículo 12
 
-Tramitación de los procesos constitucionales de amparo, habeas data y de cumplimiento En los procesos de amparo, habeas data y de cumplimiento, interpuesta la demanda por el agraviado el juez en el término de quince días hábiles, bajo responsabilidad, señala fecha y hora para la audiencia única que tendrá lugar en un plazo máximo de treinta días hábiles. Al mismo tiempo emplaza al demandado para que conteste la demanda en el plazo de diez días hábiles[^65]. En el escrito de contestación de la demanda, el emplazado acompaña sus medios probatorios y contradice los presentados por el demandante. Asimismo, deduce las excepciones que considere oportunas. El juez pone en conocimiento del demandante el escrito de contestación a su demanda para que en la audiencia única alegue lo que crea oportuno. Entre esta notificación y el día de los alegatos debe mediar por lo menos diez días calendario.
+Tramitación de los procesos constitucionales de amparo, habeas data y de cumplimiento En los procesos de amparo, habeas data y de cumplimiento, interpuesta la demanda por el agraviado el juez en el término de quince días hábiles, bajo responsabilidad, señala fecha y hora para la audiencia única que tendrá lugar en un plazo máximo de treinta días hábiles. Al mismo tiempo emplaza al demandado para que conteste la demanda en el plazo de diez días hábiles[^65]. En el escrito de contestación de la demanda, el emplazado acompaña sus medios probatorios y contradice los presentados por el demandante. Asimismo, deduce las excepciones que considere oportunas.
+
+El juez pone en conocimiento del demandante el escrito de contestación a su demanda para que en la audiencia única alegue lo que crea oportuno. Entre esta notificación y el día de los alegatos debe mediar por lo menos diez días calendario.
 
 En la audiencia única, el juez oye a las partes y si se ha formado juicio pronuncia sentencia en el acto o, en caso contrario, lo hace en el plazo indefectible de diez días hábiles.
 
@@ -214,13 +218,17 @@ Si sobreviniera un acto sustancialmente homogéneo al declarado lesivo en un pro
 
 Cuando exista causa probable de la comisión de un delito, el juez, en la sentencia que declara fundada la demanda en los procesos tratados en el presente título, dispondrá la remisión de los actuados al fiscal penal que corresponda para los fines pertinentes. Esto ocurrirá, inclusive, cuando se declare la sustracción de la pretensión y sus efectos, o cuando la violación del derecho constitucional haya devenido en irreparable, si el juez así lo considera.
 
-T ratándose de autoridad o funcionario público, el juez penal podrá imponer como pena accesoria la destitución del cargo. El haber procedido por orden superior no libera al ejecutor de la responsabilidad penal, civil o administrativa por el agravio cometido. Si el responsable inmediato de la violación fuera una de las personas comprendidas en el artículo 99 de la Constitución Política del Estado, se dará cuenta inmediata a la Comisión Permanente del Congreso de la República para los fines consiguientes.
+T ratándose de autoridad o funcionario público, el juez penal podrá imponer como pena accesoria la destitución del cargo.
+
+El haber procedido por orden superior no libera al ejecutor de la responsabilidad penal, civil o administrativa por el agravio cometido. Si el responsable inmediato de la violación fuera una de las personas comprendidas en el artículo 99 de la Constitución Política del Estado, se dará cuenta inmediata a la Comisión Permanente del Congreso de la República para los fines consiguientes.
 
 ### CAPÍTULO II — MEDIDA CAUTELAR
 
 ###### Artículo 18. Medidas cautelares
 
-Se pueden conceder medidas cautelares y de suspensión del acto violatorio en los procesos de amparo, habeas data y de cumplimiento. La medida cautelar solo debe limitarse a garantizar el contenido de la pretensión constitucional, teniendo en cuenta su irreversibilidad, el orden público y el perjuicio que se pueda ocasionar. El juez, atendiendo a los requisitos dicta la medida cautelar sin correr traslado al demandado. La ejecución dependerá del contenido de la pretensión constitucional intentada y del adecuado aseguramiento de la decisión final, a cuyos extremos deberá limitarse. El juez puede conceder la medida cautelar en todo o en parte. T ratándose de medidas cautelares respecto de procesos de selección de obras públicas o de ejecución de estas, bajo sanción de nulidad, se notifica la solicitud cautelar a la parte demandada para que haga valer su derecho en el plazo de diez días hábiles. La Sala resuelve en el término de cinco días hábiles de formulada la oposición.
+Se pueden conceder medidas cautelares y de suspensión del acto violatorio en los procesos de amparo, habeas data y de cumplimiento.
+
+La medida cautelar solo debe limitarse a garantizar el contenido de la pretensión constitucional, teniendo en cuenta su irreversibilidad, el orden público y el perjuicio que se pueda ocasionar. El juez, atendiendo a los requisitos dicta la medida cautelar sin correr traslado al demandado. La ejecución dependerá del contenido de la pretensión constitucional intentada y del adecuado aseguramiento de la decisión final, a cuyos extremos deberá limitarse. El juez puede conceder la medida cautelar en todo o en parte. T ratándose de medidas cautelares respecto de procesos de selección de obras públicas o de ejecución de estas, bajo sanción de nulidad, se notifica la solicitud cautelar a la parte demandada para que haga valer su derecho en el plazo de diez días hábiles. La Sala resuelve en el término de cinco días hábiles de formulada la oposición.
 
 La apelación solo es concedida sin efecto suspensivo; salvo que se trate de resoluciones de medidas cautelares que declaren la inaplicación de normas legales autoaplicativas, en cuyo caso la apelación es con efecto suspensivo[^66].
 
@@ -266,7 +274,9 @@ a) En el proceso de habeas corpus es de dos días hábiles.
 
 b) En los procesos de amparo, habeas data y de cumplimiento es de tres días hábiles.
 
-c) De forma excepcional, se permitirá la apelación por salto en casos de resoluciones judiciales en proceso de ejecución de sentencia, cuando se verifique una inacción en su ejecución o cuando se decida en contra de la protección otorgada al derecho fundamental agredido y se desproteja los derechos fundamentales cuya protección ya se otorgó. No procede la apelación por salto cuando:
+c) De forma excepcional, se permitirá la apelación por salto en casos de resoluciones judiciales en proceso de ejecución de sentencia, cuando se verifique una inacción en su ejecución o cuando se decida en contra de la protección otorgada al derecho fundamental agredido y se desproteja los derechos fundamentales cuya protección ya se otorgó.
+
+No procede la apelación por salto cuando:
 
 1. El cumplimiento de la sentencia comporte un debate sobre la cuantificación del monto de la pensión de cesantía o jubilación, de los devengados o de los reintegros de los intereses de las costas o de los costos.
 
@@ -290,7 +300,9 @@ La sala remite al T ribunal Constitucional el expediente dentro del plazo de die
 
 ###### Artículo 25. Recurso de queja
 
-El recurso de queja procede contra la resolución que deniega el recurso de agravio constitucional. Se interpone ante el T ribunal Constitucional dentro del plazo de tres días siguientes a la notificación de la denegatoria. El escrito deberá contener la fundamentación correspondiente, anexando copia del recurso de agravio constitucional y la resolución denegatoria. El recurso será resuelto dentro de los cinco días hábiles. Si el T ribunal Constitucional declara fundada la queja, ordenará a la sala el envío del expediente dentro del tercer día de oficiado, bajo responsabilidad. Se permite el recurso de queja en caso se deniegue el recurso de apelación por salto contra resoluciones en ejecución.
+El recurso de queja procede contra la resolución que deniega el recurso de agravio constitucional. Se interpone ante el T ribunal Constitucional dentro del plazo de tres días siguientes a la notificación de la denegatoria. El escrito deberá contener la fundamentación correspondiente, anexando copia del recurso de agravio constitucional y la resolución denegatoria. El recurso será resuelto dentro de los cinco días hábiles. Si el T ribunal Constitucional declara fundada la queja, ordenará a la sala el envío del expediente dentro del tercer día de oficiado, bajo responsabilidad.
+
+Se permite el recurso de queja en caso se deniegue el recurso de apelación por salto contra resoluciones en ejecución.
 
 ### CAPÍTULO IV — ACTUACIÓN Y EJECUCIÓN DE SENTENCIAS
 
@@ -316,7 +328,9 @@ En los procesos de habeas corpus las sentencias estimatorias las ejecuta el juez
 
 Si la sentencia declara fundada la demanda, se impondrán las costas y costos que el juez establezca a la autoridad, funcionario o persona demandada, salvo en los supuestos de temeridad procesal. Si el proceso fuere desestimado por el juez, este podrá condenar al demandante al pago de costas y costos cuando estime que incurrió en manifiesta temeridad.
 
-En los procesos de habeas corpus, amparo y de cumplimiento, el Estado solo puede ser condenado al pago de costos. En los procesos de habeas data, el Estado está exento de la condena de costas y costos. En aquello que no esté expresamente establecido en el presente código, los costos se regulan por los artículos 410 al 419 del Código Procesal Civil[^72].
+En los procesos de habeas corpus, amparo y de cumplimiento, el Estado solo puede ser condenado al pago de costos. En los procesos de habeas data, el Estado está exento de la condena de costas y costos.
+
+En aquello que no esté expresamente establecido en el presente código, los costos se regulan por los artículos 410 al 419 del Código Procesal Civil[^72].
 
 ## TÍTULO II — PROCESO DE HABEAS CORPUS
 
@@ -462,7 +476,9 @@ El afectado es la persona legitimada para interponer el proceso de amparo.
 
 ###### Artículo 40. Representación procesal
 
-EI afectado puede comparecer por medio de representante procesal. No es necesaria la inscripción de la representación otorgada. T ratándose de personas no residentes en el país, la demanda será formulada por representante acreditado. Para este efecto, será suficiente el poder fuera de registro otorgado ante el cónsul del Perú en la ciudad extranjera que corresponda y la apostilla de la firma del cónsul ante el Ministerio de Relaciones Exteriores, no siendo necesaria la inscripción en los Registros Públicos.
+EI afectado puede comparecer por medio de representante procesal. No es necesaria la inscripción de la representación otorgada.
+
+T ratándose de personas no residentes en el país, la demanda será formulada por representante acreditado. Para este efecto, será suficiente el poder fuera de registro otorgado ante el cónsul del Perú en la ciudad extranjera que corresponda y la apostilla de la firma del cónsul ante el Ministerio de Relaciones Exteriores, no siendo necesaria la inscripción en los Registros Públicos.
 
 La Defensoría del Pueblo puede interponer demanda de amparo en ejercicio de sus competencias constitucionales.
 
@@ -636,7 +652,9 @@ Se entiende por archivo, registro, base o banco de datos a todo conjunto de dato
 
 ###### Artículo 54. Juez competente
 
-Es competente para conocer los procesos de habeas data, el juez constitucional del lugar donde se encuentre la información, el dato o donde tiene su domicilio principal el afectado, a elección del demandante. En el proceso de habeas data, no se admitirá la prórroga de la competencia territorial, bajo sanción de nulidad de todo lo actuado.
+Es competente para conocer los procesos de habeas data, el juez constitucional del lugar donde se encuentre la información, el dato o donde tiene su domicilio principal el afectado, a elección del demandante.
+
+En el proceso de habeas data, no se admitirá la prórroga de la competencia territorial, bajo sanción de nulidad de todo lo actuado.
 
 ###### Artículo 55. Legitimación activa
 
@@ -712,7 +730,9 @@ Para la procedencia del habeas data el demandante previamente debe:
 
 a) T ratándose del derecho reconocido en el artículo 2, inciso 5), de la Constitución, haber presentado la solicitud de información ante la autoridad administrativa y esta, de modo tácito o expreso, negado parcial o totalmente la información, incluso si la entregare incompleta o alterada[^76].
 
-b) T ratándose del derecho reconocido por el artículo 2, inciso 6), de la Constitución, haber reclamado por documento de fecha cierta y que el demandado no haya contestado dentro de los diez días útiles siguientes o lo haya hecho de forma incompleta o de forma denegatoria o defectuosa. Cuando el demandante opte por acudir al T ribunal de T ransparencia y Acceso a la Información Pública, debe agotar esta vía previa mediante resolución expresa o darla por agotada en el supuesto de no obtener resolución dentro del plazo legal. Si la entidad pública o el titular del dato o la información desestima el pedido, el agraviado puede interponer su demanda de habeas data en el plazo de sesenta días hábiles.
+b) T ratándose del derecho reconocido por el artículo 2, inciso 6), de la Constitución, haber reclamado por documento de fecha cierta y que el demandado no haya contestado dentro de los diez días útiles siguientes o lo haya hecho de forma incompleta o de forma denegatoria o defectuosa. Cuando el demandante opte por acudir al T ribunal de T ransparencia y Acceso a la Información Pública, debe agotar esta vía previa mediante resolución expresa o darla por agotada en el supuesto de no obtener resolución dentro del plazo legal.
+
+Si la entidad pública o el titular del dato o la información desestima el pedido, el agraviado puede interponer su demanda de habeas data en el plazo de sesenta días hábiles.
 
 El agraviado puede prescindir de la etapa precontenciosa si considera que existe peligro de daño irreparable en el goce y ejercicio de sus derechos fundamentales.
 
@@ -730,7 +750,9 @@ En caso de demandas por denegación del acceso a la información fundada en moti
 
 ###### Artículo 64. Requerimiento judicial
 
-Admitida la demanda, el juez de oficio o a pedido de parte, puede requerir al demandado que posee, administra o maneja el archivo, registro o banco de datos, la remisión de la información concerniente al reclamante; así como solicitar informes sobre el soporte técnico de datos, documentación de base relativa a la recolección y cualquier otro aspecto que resulte conducente a la resolución de la causa que estime conveniente. El demandado está en la obligación de cumplir con el requerimiento al momento de contestar la demanda. Puede oponerse al requerimiento judicial si considera que la información no puede divulgarse por impedimento de ley. El juez resuelve en la audiencia única dando al demandado un plazo de tres días para cumplir con el requerimiento si considera que lo solicitado es imprescindible para sentenciar. Esta decisión es inimpugnable.
+Admitida la demanda, el juez de oficio o a pedido de parte, puede requerir al demandado que posee, administra o maneja el archivo, registro o banco de datos, la remisión de la información concerniente al reclamante; así como solicitar informes sobre el soporte técnico de datos, documentación de base relativa a la recolección y cualquier otro aspecto que resulte conducente a la resolución de la causa que estime conveniente.
+
+El demandado está en la obligación de cumplir con el requerimiento al momento de contestar la demanda. Puede oponerse al requerimiento judicial si considera que la información no puede divulgarse por impedimento de ley. El juez resuelve en la audiencia única dando al demandado un plazo de tres días para cumplir con el requerimiento si considera que lo solicitado es imprescindible para sentenciar. Esta decisión es inimpugnable.
 
 ## TÍTULO V — PROCESO DE CUMPLIMIENTO
 
@@ -740,7 +762,9 @@ Es objeto del proceso de cumplimiento ordenar que el funcionario o autoridad pú
 
 1. Dé cumplimiento a una norma legal o ejecute un acto administrativo firme; o
 
-2. Se pronuncie expresamente cuando las normas legales le ordenan emitir una resolución administrativa o dictar un reglamento. No es objeto del proceso de cumplimiento el acto administrativo que contenga el reconocimiento o pago de devengados ni de obligaciones que deben determinarse en órgano jurisdiccional especializado o estación probatoria distinta a los juzgados especializados en lo constitucional.
+2. Se pronuncie expresamente cuando las normas legales le ordenan emitir una resolución administrativa o dictar un reglamento.
+
+No es objeto del proceso de cumplimiento el acto administrativo que contenga el reconocimiento o pago de devengados ni de obligaciones que deben determinarse en órgano jurisdiccional especializado o estación probatoria distinta a los juzgados especializados en lo constitucional.
 
 ###### Artículo 66
 
@@ -958,7 +982,13 @@ La demanda de inconstitucionalidad se interpone ante el T ribunal Constitucional
 
 ###### Artículo 98. Representación procesal legal
 
-Para interponer una demanda de inconstitucionalidad, el presidente de la República requiere del voto aprobatorio del Consejo de Ministros. Concedida la aprobación, designa a uno de sus ministros para que presente la demanda de inconstitucionalidad y lo represente en el proceso. El ministro designado puede delegar su representación en un procurador público. El presidente del Poder Judicial o el fiscal de la nación interponen la demanda con acuerdo de la Sala Plena de la Corte Suprema de Justicia de la República o de la Junta de Fiscales Supremos, respectivamente. El defensor del pueblo interpone directamente la demanda. Los congresistas actúan en el proceso mediante apoderado nombrado para el efecto.
+Para interponer una demanda de inconstitucionalidad, el presidente de la República requiere del voto aprobatorio del Consejo de Ministros. Concedida la aprobación, designa a uno de sus ministros para que presente la demanda de inconstitucionalidad y lo represente en el proceso. El ministro designado puede delegar su representación en un procurador público.
+
+El presidente del Poder Judicial o el fiscal de la nación interponen la demanda con acuerdo de la Sala Plena de la Corte Suprema de Justicia de la República o de la Junta de Fiscales Supremos, respectivamente.
+
+El defensor del pueblo interpone directamente la demanda.
+
+Los congresistas actúan en el proceso mediante apoderado nombrado para el efecto.
 
 Los ciudadanos referidos en el inciso 6) del artículo 203 de la Constitución deben actuar con patrocinio de letrado y conferir su representación a uno solo de ellos.
 
@@ -1024,7 +1054,9 @@ En estos casos, el T ribunal en resolución debidamente motivada e inimpugnable 
 
 ###### Artículo 104. Efecto de la admisión e impulso de oficio
 
-Admitida la demanda, y en atención al interés público de la pretensión discutida, el T ribunal Constitucional impulsará el proceso de oficio con prescindencia de la actividad o interés de las partes. El proceso solo termina por sentencia.
+Admitida la demanda, y en atención al interés público de la pretensión discutida, el T ribunal Constitucional impulsará el proceso de oficio con prescindencia de la actividad o interés de las partes.
+
+El proceso solo termina por sentencia.
 
 ###### Artículo 105. Tramitación
 
@@ -1076,7 +1108,9 @@ El demandante puede solicitar al T ribunal la suspensión de la disposición, re
 
 ###### Artículo 111. Calificación de la demanda
 
-Si el T ribunal Constitucional estima que existe materia de conflicto cuya resolución sea de su competencia, declara admisible la demanda y dispone los emplazamientos correspondientes. Se requiere del voto conforme de cinco (5) magistrados para declarar su inadmisibilidad. El procedimiento se sujeta, en cuanto sea aplicable, a las disposiciones que regulan el proceso de inconstitucionalidad.
+Si el T ribunal Constitucional estima que existe materia de conflicto cuya resolución sea de su competencia, declara admisible la demanda y dispone los emplazamientos correspondientes. Se requiere del voto conforme de cinco (5) magistrados para declarar su inadmisibilidad.
+
+El procedimiento se sujeta, en cuanto sea aplicable, a las disposiciones que regulan el proceso de inconstitucionalidad.
 
 El T ribunal puede solicitar a las partes las informaciones, aclaraciones o precisiones que juzgue necesarias para su decisión. En todo caso, debe resolver dentro de los sesenta días hábiles desde que se interpuso la demanda.
 
@@ -1108,11 +1142,17 @@ Si el T ribunal considera que la resolución impugnada ha sido expedida incurri�
 
 ###### Artículo 117. Las decisiones jurisdiccionales de las salas
 
-El T ribunal Constitucional conoce, en última y definitiva instancia, las resoluciones denegatorias de los procesos de habeas corpus, amparo, habeas data y de cumplimiento, mediante dos salas integradas por tres magistrados cada una. La sentencia requiere de tres votos conformes. En caso de no reunirse el número de votos requeridos, cuando ocurra alguna de las causas de vacancia que enumera el artículo 16 de la ley 28301, cuando alguno de sus miembros esté impedido o para dirimir la discordia se llama a los magistrados de la sala, en orden de antigüedad, empezando del menos antiguo al más antiguo y, en último caso, al presidente del T ribunal Constitucional. En tales supuestos, el llamado puede usar la grabación de la audiencia realizada o citar a las partes para un nuevo informe.
+El T ribunal Constitucional conoce, en última y definitiva instancia, las resoluciones denegatorias de los procesos de habeas corpus, amparo, habeas data y de cumplimiento, mediante dos salas integradas por tres magistrados cada una. La sentencia requiere de tres votos conformes.
+
+En caso de no reunirse el número de votos requeridos, cuando ocurra alguna de las causas de vacancia que enumera el artículo 16 de la ley 28301, cuando alguno de sus miembros esté impedido o para dirimir la discordia se llama a los magistrados de la sala, en orden de antigüedad, empezando del menos antiguo al más antiguo y, en último caso, al presidente del T ribunal Constitucional. En tales supuestos, el llamado puede usar la grabación de la audiencia realizada o citar a las partes para un nuevo informe.
 
 ###### Artículo 118. Las decisiones jurisdiccionales del Pleno
 
-En los procesos de habeas corpus, amparo, habeas data y de cumplimiento que de conformidad con su reglamento normativo son de conocimiento del Pleno, la sentencia requiere de cuatro votos conformes. Si en los procesos de habeas corpus, amparo, habeas data y de cumplimiento que son de conocimiento del Pleno se produce empate, el presidente del T ribunal Constitucional cuenta con voto decisorio. No le está permitido cambiar el sentido original de su decisión con el propósito de modificar el sentido del fallo. Cuando por alguna circunstancia el presidente del T ribunal Constitucional no pudiese intervenir para la resolución del caso, el voto decisorio recae en el vicepresidente del T ribunal Constitucional. Si por algún motivo, este último no pudiese intervenir el voto decisorio seguirá la regla de antigüedad, empezando del magistrado más antiguo al menos antiguo hasta encontrar la mayoría necesaria para la resolución del caso. El voto decisorio solo es de aplicación para resolver procesos de naturaleza jurisdiccional[^80].
+En los procesos de habeas corpus, amparo, habeas data y de cumplimiento que de conformidad con su reglamento normativo son de conocimiento del Pleno, la sentencia requiere de cuatro votos conformes.
+
+Si en los procesos de habeas corpus, amparo, habeas data y de cumplimiento que son de conocimiento del Pleno se produce empate, el presidente del T ribunal Constitucional cuenta con voto decisorio. No le está permitido cambiar el sentido original de su decisión con el propósito de modificar el sentido del fallo. Cuando por alguna circunstancia el presidente del T ribunal Constitucional no pudiese intervenir para la resolución del caso, el voto decisorio recae en el vicepresidente del T ribunal Constitucional. Si por algún motivo, este último no pudiese intervenir el voto decisorio seguirá la regla de antigüedad, empezando del magistrado más antiguo al menos antiguo hasta encontrar la mayoría necesaria para la resolución del caso.
+
+El voto decisorio solo es de aplicación para resolver procesos de naturaleza jurisdiccional[^80].
 
 ###### Artículo 119. Subsanación de vicios en el procedimiento
 
@@ -1158,7 +1198,9 @@ Jueces especializados En los distritos jurisdiccionales del Poder Judicial donde
 
 Publicación de sentencias Las sentencias finales y las resoluciones aclaratorias de las mismas, recaídas en los procesos constitucionales deben remitirse, dentro de las cuarenta y ocho
 
-(48) horas siguientes a la fecha de su expedición, al diario oficial El Peruano para su publicación gratuita, dentro de los diez días siguientes a su remisión. Las sentencias recaídas en el proceso de inconstitucionalidad, el proceso competencial y la acción popular se publican en el diario oficial dentro de los tres días siguientes al de la recepción de la transcripción remitida por el órgano correspondiente. En su defecto, el presidente del T ribunal ordena que se publique en uno de los diarios de mayor circulación nacional, sin perjuicio de las responsabilidades a que hubiere lugar. Cuando las sentencias versan sobre normas regionales o municipales, además de la publicación a que se refiere el párrafo anterior, el T ribunal ordena la publicación en el diario donde se publican los avisos judiciales de la respectiva circunscripción. En lugares donde no exista diario que publique los avisos judiciales, la sentencia se da a conocer, además de su publicación en el diario oficial o de circulación nacional, mediante carteles fijados en lugares públicos.
+(48) horas siguientes a la fecha de su expedición, al diario oficial El Peruano para su publicación gratuita, dentro de los diez días siguientes a su remisión. Las sentencias recaídas en el proceso de inconstitucionalidad, el proceso competencial y la acción popular se publican en el diario oficial dentro de los tres días siguientes al de la recepción de la transcripción remitida por el órgano correspondiente. En su defecto, el presidente del T ribunal ordena que se publique en uno de los diarios de mayor circulación nacional, sin perjuicio de las responsabilidades a que hubiere lugar.
+
+Cuando las sentencias versan sobre normas regionales o municipales, además de la publicación a que se refiere el párrafo anterior, el T ribunal ordena la publicación en el diario donde se publican los avisos judiciales de la respectiva circunscripción. En lugares donde no exista diario que publique los avisos judiciales, la sentencia se da a conocer, además de su publicación en el diario oficial o de circulación nacional, mediante carteles fijados en lugares públicos.
 
 ###### CUARTA
 
@@ -1178,7 +1220,9 @@ Determinación de jueces y salas constitucionales El Consejo Ejecutivo del Poder
 
 ###### ÚNICA
 
-Derogación de la Ley 28237, Código Procesal Constitucional Derógase la Ley 28237, Código Procesal Constitucional. POR TANTO:
+Derogación de la Ley 28237, Código Procesal Constitucional Derógase la Ley 28237, Código Procesal Constitucional.
+
+POR TANTO:
 
 Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día veintiuno de mayo de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla.
 

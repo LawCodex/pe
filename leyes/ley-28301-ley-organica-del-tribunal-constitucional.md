@@ -36,7 +36,9 @@ El T ribunal Constitucional es el órgano supremo de interpretación y control d
 
 ###### Artículo 2. Competencia
 
-El T ribunal Constitucional es competente para conocer de los procesos que contempla el artículo 202 de la Constitución. EI T ribunal puede dictar reglamentos para su propio funcionamiento, así como sobre el régimen de trabajo de su personal y servidores dentro del ámbito de la presente Ley. Dichos reglamentos, una vez aprobados por el pleno del T ribunal y autorizados por su Presidente, se publican en el Diario Oficial El Peruano.
+El T ribunal Constitucional es competente para conocer de los procesos que contempla el artículo 202 de la Constitución.
+
+EI T ribunal puede dictar reglamentos para su propio funcionamiento, así como sobre el régimen de trabajo de su personal y servidores dentro del ámbito de la presente Ley. Dichos reglamentos, una vez aprobados por el pleno del T ribunal y autorizados por su Presidente, se publican en el Diario Oficial El Peruano.
 
 ###### Artículo 3. Atribución exclusiva
 
@@ -50,7 +52,13 @@ El T ribunal Constitucional tiene iniciativa en la formación de las leyes, en l
 
 ###### Artículo 5. Quórum
 
-El quórum del T ribunal Constitucional es de cinco de sus miembros. El T ribunal, en Sala Plena, resuelve y adopta acuerdos por mayoría simple de votos emitidos, salvo para resolver la inadmisibilidad de la demanda de inconstitucionalidad o para dictar sentencia que declare la inconstitucionalidad de una norma con rango de ley, casos en los que se exigen cinco votos conformes. De no alcanzarse la mayoría calificada de cinco votos en favor de la inconstitucionalidad de la norma impugnada, el T ribunal dictará sentencia declarando infundada la demanda de inconstitucionalidad. En ningún caso el T ribunal Constitucional deja de resolver. Los magistrados son irrecusables pero pueden abstenerse de conocer algún asunto cuando tengan interés directo o indirecto o por causal de decoro. Los magistrados tampoco pueden dejar de votar, debiendo hacerlo en favor o en contra en cada oportunidad. Los fundamentos de voto y los votos singulares se emiten juntamente con la sentencia, de conformidad a la ley especial. Para conocer, en última y definitiva instancia, las resoluciones denegatorias de los procesos de amparo, hábeas corpus, hábeas data y de cumplimiento, iniciadas ante los jueces respectivos, el T ribunal está constituido por dos Salas, con tres miembros cada una. Las resoluciones requieren tres votos conformes. En caso de no reunirse el número de votos requeridos cuando ocurra alguna de las causas de vacancia que enumera el artículo 16 de esta Ley, cuando alguno de sus miembros esté impedido o para dirimir la discordia se llama a los miembros de la otra Sala, en orden de antigüedad, empezando del menos antiguo al más antiguo y, en último caso, al Presidente del T ribunal.
+El quórum del T ribunal Constitucional es de cinco de sus miembros. El T ribunal, en Sala Plena, resuelve y adopta acuerdos por mayoría simple de votos emitidos, salvo para resolver la inadmisibilidad de la demanda de inconstitucionalidad o para dictar sentencia que declare la inconstitucionalidad de una norma con rango de ley, casos en los que se exigen cinco votos conformes.
+
+De no alcanzarse la mayoría calificada de cinco votos en favor de la inconstitucionalidad de la norma impugnada, el T ribunal dictará sentencia declarando infundada la demanda de inconstitucionalidad.
+
+En ningún caso el T ribunal Constitucional deja de resolver. Los magistrados son irrecusables pero pueden abstenerse de conocer algún asunto cuando tengan interés directo o indirecto o por causal de decoro. Los magistrados tampoco pueden dejar de votar, debiendo hacerlo en favor o en contra en cada oportunidad. Los fundamentos de voto y los votos singulares se emiten juntamente con la sentencia, de conformidad a la ley especial.
+
+Para conocer, en última y definitiva instancia, las resoluciones denegatorias de los procesos de amparo, hábeas corpus, hábeas data y de cumplimiento, iniciadas ante los jueces respectivos, el T ribunal está constituido por dos Salas, con tres miembros cada una. Las resoluciones requieren tres votos conformes. En caso de no reunirse el número de votos requeridos cuando ocurra alguna de las causas de vacancia que enumera el artículo 16 de esta Ley, cuando alguno de sus miembros esté impedido o para dirimir la discordia se llama a los miembros de la otra Sala, en orden de antigüedad, empezando del menos antiguo al más antiguo y, en último caso, al Presidente del T ribunal.
 
 ###### Artículo 6. Elección de Presidente y Vicepresidente
 
@@ -70,7 +78,9 @@ El Presidente representa al T ribunal. Lo convoca y preside; adopta las medidas 
 
 El T ribunal está integrado por siete miembros, con el título de magistrados del T ribunal Constitucional. Son designados por el Congreso de la República a través de un proceso de selección en base a un concurso público de méritos, mediante resolución legislativa del Congreso, con el voto a favor de los dos tercios del número legal de sus miembros.
 
-Para tal efecto, el Pleno del Congreso de la República designa una comisión especial de selección integrada por un (1) representante de cada grupo parlamentario, que propone al Pleno del Congreso el reglamento del proceso de selección en base a un concurso público de méritos, que es aprobado mediante resolución legislativa del congreso. El reglamento establece criterios objetivos para calificar el requisito de solvencia e idoneidad moral.
+Para tal efecto, el Pleno del Congreso de la República designa una comisión especial de selección integrada por un (1) representante de cada grupo parlamentario, que propone al Pleno del Congreso el reglamento del proceso de selección en base a un concurso público de méritos, que es aprobado mediante resolución legislativa del congreso.
+
+El reglamento establece criterios objetivos para calificar el requisito de solvencia e idoneidad moral.
 
 Los integrantes de la comisión especial eligen un presidente, vicepresidente y secretario dentro de sus integrantes, para encargarse del procedimiento de selección en base a un concurso público de méritos, de acuerdo a lo siguiente:
 
@@ -170,7 +180,9 @@ La designación para el cargo de Magistrado del T ribunal se hace por cinco año
 
 ###### Artículo 10. Aviso anticipado
 
-Antes de los seis (6) meses, previos a la fecha de expiración de los nombramientos, el Presidente del T ribunal se dirige al Presidente del Congreso para solicitarle el inicio del procedimiento de elección de nuevos Magistrados. Los Magistrados del T ribunal continúan en el ejercicio de sus funciones hasta que hayan tomado posesión quienes han de sucederles[^86].
+Antes de los seis (6) meses, previos a la fecha de expiración de los nombramientos, el Presidente del T ribunal se dirige al Presidente del Congreso para solicitarle el inicio del procedimiento de elección de nuevos Magistrados.
+
+Los Magistrados del T ribunal continúan en el ejercicio de sus funciones hasta que hayan tomado posesión quienes han de sucederles[^86].
 
 ###### Artículo 11. Requisitos
 
@@ -204,9 +216,13 @@ No pueden ser elegidos miembros del T ribunal:
 
 ###### Artículo 13. Dedicación exclusiva
 
-La función de Magistrado del T ribunal es a dedicación exclusiva. Le está prohibido desempeñar cualquier otro cargo público o privado y ejercer cualquier profesión u oficio, a excepción de la docencia universitaria, siempre que no afecte el normal funcionamiento del T ribunal. Los Magistrados del T ribunal están impedidos de defender o asesorar pública o privadamente, salvo en causa propia, de su cónyuge, ascendientes o descendientes.
+La función de Magistrado del T ribunal es a dedicación exclusiva. Le está prohibido desempeñar cualquier otro cargo público o privado y ejercer cualquier profesión u oficio, a excepción de la docencia universitaria, siempre que no afecte el normal funcionamiento del T ribunal.
 
-Les alcanzan, además, las mismas incompatibilidades de los Congresistas. Están prohibidos de afiliarse a organizaciones políticas. Cuando concurriera causa de incompatibilidad en quien fuera designado como Magistrado del T ribunal, debe, antes de tomar posesión, cesar en el cargo o en la actividad incompatible. Si no lo hace en el plazo de diez días naturales siguientes a su designación, se entiende que no acepta el cargo.
+Los Magistrados del T ribunal están impedidos de defender o asesorar pública o privadamente, salvo en causa propia, de su cónyuge, ascendientes o descendientes.
+
+Les alcanzan, además, las mismas incompatibilidades de los Congresistas. Están prohibidos de afiliarse a organizaciones políticas.
+
+Cuando concurriera causa de incompatibilidad en quien fuera designado como Magistrado del T ribunal, debe, antes de tomar posesión, cesar en el cargo o en la actividad incompatible. Si no lo hace en el plazo de diez días naturales siguientes a su designación, se entiende que no acepta el cargo.
 
 Para ser Magistrado del T ribunal se requiere:
 
@@ -254,7 +270,9 @@ Producida una vacante por causal distinta de la expiración del plazo de designa
 
 ###### Artículo 18. Suspensión de Magistrados
 
-Los Magistrados del T ribunal pueden ser suspendidos por el pleno, como medida previa, siempre que incurran en delito flagrante. La suspensión requiere no menos de cuatro votos conformes.
+Los Magistrados del T ribunal pueden ser suspendidos por el pleno, como medida previa, siempre que incurran en delito flagrante.
+
+La suspensión requiere no menos de cuatro votos conformes.
 
 ###### Artículo 19. Juramento
 

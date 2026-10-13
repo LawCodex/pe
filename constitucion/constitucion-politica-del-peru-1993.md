@@ -532,7 +532,9 @@ Participación ciudadana en asuntos públicos
 
 ###### Artículo 31
 
-Los ciudadanos tienen derecho a participar en los asuntos públicos mediante referéndum; iniciativa legislativa; remoción o revocación de autoridades y demanda de rendición de cuentas. Tienen también el derecho de ser elegidos y de elegir libremente a sus representantes, de acuerdo con las condiciones y procedimientos determinados por ley orgánica. Es derecho y deber de los vecinos participar en el gobierno municipal de su jurisdicción. La ley norma y promueve los mecanismos directos e indirectos de su participación. Tienen derecho al voto los ciudadanos en goce de su capacidad civil. Para el ejercicio de este derecho se requiere estar inscrito en el registro correspondiente. El voto es personal, igual, libre, secreto y obligatorio hasta los setenta años. Es facultativo después de esa edad. La ley establece los mecanismos para garantizar la neutralidad estatal durante los procesos electorales y de participación ciudadana.
+Los ciudadanos tienen derecho a participar en los asuntos públicos mediante referéndum; iniciativa legislativa; remoción o revocación de autoridades y demanda de rendición de cuentas. Tienen también el derecho de ser elegidos y de elegir libremente a sus representantes, de acuerdo con las condiciones y procedimientos determinados por ley orgánica.
+
+Es derecho y deber de los vecinos participar en el gobierno municipal de su jurisdicción. La ley norma y promueve los mecanismos directos e indirectos de su participación. Tienen derecho al voto los ciudadanos en goce de su capacidad civil. Para el ejercicio de este derecho se requiere estar inscrito en el registro correspondiente. El voto es personal, igual, libre, secreto y obligatorio hasta los setenta años. Es facultativo después de esa edad. La ley establece los mecanismos para garantizar la neutralidad estatal durante los procesos electorales y de participación ciudadana.
 
 Es nulo y punible todo acto que prohíba o limite al ciudadano el ejercicio de sus derechos[^15].
 
@@ -1002,7 +1004,9 @@ Régimen Agrario
 
 ###### Artículo 88
 
-El Estado apoya preferentemente el desarrollo agrario. Garantiza el derecho de propiedad sobre la tierra, en forma privada o comunal o en cualquiera otra forma asociativa. La ley puede fijar los límites y la extensión de la tierra según las peculiaridades de cada zona. Las tierras abandonadas, según previsión legal, pasan al dominio del Estado para su adjudicación en venta. Comunidades Campesinas y Nativas
+El Estado apoya preferentemente el desarrollo agrario. Garantiza el derecho de propiedad sobre la tierra, en forma privada o comunal o en cualquiera otra forma asociativa. La ley puede fijar los límites y la extensión de la tierra según las peculiaridades de cada zona.
+
+Las tierras abandonadas, según previsión legal, pasan al dominio del Estado para su adjudicación en venta. Comunidades Campesinas y Nativas
 
 ###### Artículo 89
 
@@ -1018,7 +1022,9 @@ Unicameralidad
 
 ###### Artículo 90
 
-El Poder Legislativo reside en el Congreso de la República, el cual consta de cámara única. El número de congresistas es de ciento treinta. El Congreso de la República se elige por un período de cinco años mediante un proceso electoral organizado conforme a ley. Los candidatos a la Presidencia de la República no pueden integrar la lista de candidatos a congresistas. Los candidatos a vicepresidentes pueden ser simultáneamente candidatos a una representación en el Congreso. Para ser elegido congresista, se requiere ser peruano de nacimiento, haber cumplido veinticinco años y gozar de derecho de sufragio[^43].
+El Poder Legislativo reside en el Congreso de la República, el cual consta de cámara única.
+
+El número de congresistas es de ciento treinta. El Congreso de la República se elige por un período de cinco años mediante un proceso electoral organizado conforme a ley. Los candidatos a la Presidencia de la República no pueden integrar la lista de candidatos a congresistas. Los candidatos a vicepresidentes pueden ser simultáneamente candidatos a una representación en el Congreso. Para ser elegido congresista, se requiere ser peruano de nacimiento, haber cumplido veinticinco años y gozar de derecho de sufragio[^43].
 
 ###### Artículo 90-A
 
@@ -1124,7 +1130,9 @@ Ante-Juicio Constitucional
 
 ###### Artículo 100
 
-Corresponde al Congreso, sin participación de la Comisión Permanente, suspender o no al funcionario acusado o inhabilitarlo para el ejercicio de la función pública hasta por diez años, o destituirlo de su función sin perjuicio de cualquiera otra responsabilidad. El acusado tiene derecho, en este trámite, a la defensa por sí mismo y con asistencia de abogado ante la Comisión Permanente y ante el Pleno del Congreso.
+Corresponde al Congreso, sin participación de la Comisión Permanente, suspender o no al funcionario acusado o inhabilitarlo para el ejercicio de la función pública hasta por diez años, o destituirlo de su función sin perjuicio de cualquiera otra responsabilidad.
+
+El acusado tiene derecho, en este trámite, a la defensa por sí mismo y con asistencia de abogado ante la Comisión Permanente y ante el Pleno del Congreso.
 
 En caso de resolución acusatoria de contenido penal, el Fiscal de la Nación formula denuncia ante la Corte Suprema en el plazo de cinco días. El Vocal Supremo Penal abre la instrucción correspondiente.
 

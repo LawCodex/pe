@@ -22,7 +22,9 @@ POR CUANTO:
 
 Que, por Ley Nº 23230 se ha autorizado al Poder Ejecutivo por el término de 90 días para que dicte el Decreto Legislativo referente a la Ley Orgánica del Ministerio Público, previa revisión de la Comisión Permanente del Congreso;
 
-Con el voto aprobatorio del Consejo de Ministros; Ha dado el Decreto Legislativo siguiente:
+Con el voto aprobatorio del Consejo de Ministros;
+
+Ha dado el Decreto Legislativo siguiente:
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO
 
@@ -56,15 +58,23 @@ En tales casos, el Fiscal de la Nación elevará al Presidente de la República 
 
 ###### Artículo 5º
 
-Los Fiscales actúan independientemente en el ejercicio de sus atribuciones, las que desempeñarán según su propio criterio y en la forma que estimen más arreglada a los fines de su institución. Siendo un cuerpo jerárquicamente organizado deben sujetarse a las instrucciones que pudieren impartirles sus superiores. CONCORDANCIA: Ley Nº 27378, Art. 1º, último párrafo Solicitud de información a otras entidades
+Los Fiscales actúan independientemente en el ejercicio de sus atribuciones, las que desempeñarán según su propio criterio y en la forma que estimen más arreglada a los fines de su institución.
+
+Siendo un cuerpo jerárquicamente organizado deben sujetarse a las instrucciones que pudieren impartirles sus superiores.
+
+CONCORDANCIA: Ley Nº 27378, Art. 1º, último párrafo Solicitud de información a otras entidades
 
 ###### Artículo 6º
 
-Cuando fuere necesario para el eficaz ejercicio de las acciones y recursos que competen al Ministerio Público, el Fiscal de la Nación podrá dirigirse solicitando, por escrito, a los Presidentes de las Cámaras Legislativas y de la Comisión Permanente del Congreso, de la Corte Suprema y de las Cortes Superiores de Justicia, a los Ministros de Estado y, en general, a los organismos públicos autónomos, personas jurídicas de derecho público interno, empresas públicas y cualesquiera otras entidades del Estado, las informaciones y documentos que fueren menester. Las solicitudes serán atendidas, salvo que se trate de actos no comprendidos en la segunda parte del artículo 87º de la Constitución 2 y que, con su exhibición, pudiere afectarse 3 la seguridad nacional, a juicio del organismo de mayor jerarquía de la correspondiente estructura administrativa. Exhortaciones a los miembros del Ministerio Público
+Cuando fuere necesario para el eficaz ejercicio de las acciones y recursos que competen al Ministerio Público, el Fiscal de la Nación podrá dirigirse solicitando, por escrito, a los Presidentes de las Cámaras Legislativas y de la Comisión Permanente del Congreso, de la Corte Suprema y de las Cortes Superiores de Justicia, a los Ministros de Estado y, en general, a los organismos públicos autónomos, personas jurídicas de derecho público interno, empresas públicas y cualesquiera otras entidades del Estado, las informaciones y documentos que fueren menester. Las solicitudes serán atendidas, salvo que se trate de actos no comprendidos en la segunda parte del artículo 87º de la Constitución 2 y que, con su exhibición, pudiere afectarse 3 la seguridad nacional, a juicio del organismo de mayor jerarquía de la correspondiente estructura administrativa.
+
+Exhortaciones a los miembros del Ministerio Público
 
 ###### Artículo 7º. El Poder Ejecutivo, por intermedio del Ministro de
 
-Justicia 4, puede hacer exhortaciones a los miembros del Ministerio Público, en relación con el ejercicio de sus atribuciones. Si éstos no las considerasen procedentes las elevarán, en consulta, al Fiscal de la Nación, quien la absolverá de inmediato o la someterá a la decisión de la Junta de Fiscales Supremos, según fuere la naturaleza del asunto consultado.
+Justicia 4, puede hacer exhortaciones a los miembros del Ministerio Público, en relación con el ejercicio de sus atribuciones.
+
+Si éstos no las considerasen procedentes las elevarán, en consulta, al Fiscal de la Nación, quien la absolverá de inmediato o la someterá a la decisión de la Junta de Fiscales Supremos, según fuere la naturaleza del asunto consultado.
 
 Actividad del Ministerio Público durante regímenes de excepción
 
@@ -76,7 +86,9 @@ Actuación fiscal en la investigación policial
 
 ###### Artículo 9º
 
-El Ministerio Público, conforme al inciso 5º del Artículo 250º de la Constitución Política, vigila e interviene en la investigación del delito desde la etapa policial. Con ese objeto las Fuerzas Policiales realizan la investigación. El Ministerio Público interviene en ella orientándola en cuanto a las pruebas que sean menester actuar y la supervigila para que se cumplan las disposiciones legales pertinentes para el ejercicio oportuno de la acción penal. Igual función corresponde al Ministerio Público en las acciones policiales preventivas del delito.5 Intervención del Ministerio Público en garantía del derecho de defensa
+El Ministerio Público, conforme al inciso 5º del Artículo 250º de la Constitución Política, vigila e interviene en la investigación del delito desde la etapa policial. Con ese objeto las Fuerzas Policiales realizan la investigación. El Ministerio Público interviene en ella orientándola en cuanto a las pruebas que sean menester actuar y la supervigila para que se cumplan las disposiciones legales pertinentes para el ejercicio oportuno de la acción penal.
+
+Igual función corresponde al Ministerio Público en las acciones policiales preventivas del delito.5 Intervención del Ministerio Público en garantía del derecho de defensa
 
 ###### Artículo 10º
 
@@ -86,7 +98,9 @@ Titularidad de la acción penal pública
 
 ###### Artículo 11º
 
-El Ministerio Público es el titular de la acción penal pública, la que ejercita de oficio, a instancia de la parte agraviada o por acción popular, si se trata de delito de comisión inmediata o de aquéllos contra los cuales la ley la concede expresamente. Trámite de la denuncia y la queja
+El Ministerio Público es el titular de la acción penal pública, la que ejercita de oficio, a instancia de la parte agraviada o por acción popular, si se trata de delito de comisión inmediata o de aquéllos contra los cuales la ley la concede expresamente.
+
+Trámite de la denuncia y la queja
 
 ###### Artículo 12º
 
@@ -100,7 +114,9 @@ Carga de la Prueba
 
 ###### Artículo 14º
 
-Sobre el Ministerio Público recae la carga de la prueba en las acciones civiles, penales y tutelares que ejercite, así como en los casos de faltas disciplinarias que denuncie. Los jueces y demás funcionarios públicos, sin perjuicio de las atribuciones que al respecto les otorga la ley, citarán oportunamente, bajo responsabilidad, al Fiscal que actúe en el proceso de que conocen a sus diligencias fundamentales y a las de actuación de pruebas ofrecidas por cualquiera de las partes u ordenadas de oficio. También será notificado dicho Fiscal con las resoluciones que se expidan en el proceso, bajo pena de nulidad. Prerrogativa procesal del Ante-juicio
+Sobre el Ministerio Público recae la carga de la prueba en las acciones civiles, penales y tutelares que ejercite, así como en los casos de faltas disciplinarias que denuncie. Los jueces y demás funcionarios públicos, sin perjuicio de las atribuciones que al respecto les otorga la ley, citarán oportunamente, bajo responsabilidad, al Fiscal que actúe en el proceso de que conocen a sus diligencias fundamentales y a las de actuación de pruebas ofrecidas por cualquiera de las partes u ordenadas de oficio. También será notificado dicho Fiscal con las resoluciones que se expidan en el proceso, bajo pena de nulidad.
+
+Prerrogativa procesal del Ante-juicio
 
 ###### Artículo 15º
 
@@ -108,17 +124,23 @@ El Fiscal de la Nación y los Fiscales Supremos, de acuerdo con el Artículo 251
 
 ###### Artículo 16º
 
-Es competencia de la Corte Suprema conocer los juicios de responsabilidad civil que se sigan contra el Fiscal de la Nación o los Fiscales Supremos. Igual competencia corresponde para los casos de responsabilidad civil o penal de los Fiscales Superiores. Competencia de las Cortes Superiores en demandas y denuncias contra Fiscales Provinciales
+Es competencia de la Corte Suprema conocer los juicios de responsabilidad civil que se sigan contra el Fiscal de la Nación o los Fiscales Supremos. Igual competencia corresponde para los casos de responsabilidad civil o penal de los Fiscales Superiores.
+
+Competencia de las Cortes Superiores en demandas y denuncias contra Fiscales Provinciales
 
 ###### Artículo 17º
 
-Las Cortes Superiores de Justicia conocerán en primera instancia de las demandas o denuncias contra los Fiscales Provinciales, en los casos en que se les atribuya responsabilidad civil o penal. La competencia de las Salas es la que establece la Ley Orgánica del Poder Judicial y los procedimientos son los establecidos en las leyes pertinentes.
+Las Cortes Superiores de Justicia conocerán en primera instancia de las demandas o denuncias contra los Fiscales Provinciales, en los casos en que se les atribuya responsabilidad civil o penal.
+
+La competencia de las Salas es la que establece la Ley Orgánica del Poder Judicial y los procedimientos son los establecidos en las leyes pertinentes.
 
 Prerrogativas y pensiones de los miembros del Ministerio Público
 
 ###### Artículo 18º
 
-Los miembros del Ministerio Público tienen las mismas prerrogativas y sistemas de pensiones que establecen las leyes para los miembros del Poder Judicial en sus respectivas categorías. Excusa de Fiscales
+Los miembros del Ministerio Público tienen las mismas prerrogativas y sistemas de pensiones que establecen las leyes para los miembros del Poder Judicial en sus respectivas categorías.
+
+Excusa de Fiscales
 
 ###### Artículo 19º
 
@@ -186,7 +208,9 @@ Las licencias no podrán exceder de 60 días naturales contínuos ni de este mis
 
 Reemplazo de Fiscales por licencias de más de sesenta
 
-(60) días15 Si la licencia se concediere o prorrogare por más de sesenta (60) días, así como en el caso de suspensión en el cargo a que se refiere el artículo 100º de la Constitución, el Fiscal de la Nación será reemplazado por quien le sigue en el turno. Tratándose de un Fiscal Supremo, el Fiscal de la Nación llamará a servir el cargo al Fiscal Superior que reúna los requisitos para acceder a la Fiscalía Suprema, el que será llamado atendiendo su especialidad, hoja de servicios, producción fiscal, grados académicos, estudios en la Academia de la Magistratura y de perfeccionamiento, antigüedad y otros méritos de carácter jurídico. Si el cargo para cubrir fuere el de Fiscal Superior, será llamado el Fiscal Provincial que reúna los requisitos para acceder a la Fiscalía Superior y con atención a los criterios señalados en el párrafo anterior. Y si se tratare de reemplazar a un Fiscal Provincial se llamará a servir el cargo, provisionalmente, al Adjunto respectivo.16 Llamamientos para reemplazar a Fiscal provisional
+(60) días15 Si la licencia se concediere o prorrogare por más de sesenta (60) días, así como en el caso de suspensión en el cargo a que se refiere el artículo 100º de la Constitución, el Fiscal de la Nación será reemplazado por quien le sigue en el turno. Tratándose de un Fiscal Supremo, el Fiscal de la Nación llamará a servir el cargo al Fiscal Superior que reúna los requisitos para acceder a la Fiscalía Suprema, el que será llamado atendiendo su especialidad, hoja de servicios, producción fiscal, grados académicos, estudios en la Academia de la Magistratura y de perfeccionamiento, antigüedad y otros méritos de carácter jurídico.
+
+Si el cargo para cubrir fuere el de Fiscal Superior, será llamado el Fiscal Provincial que reúna los requisitos para acceder a la Fiscalía Superior y con atención a los criterios señalados en el párrafo anterior. Y si se tratare de reemplazar a un Fiscal Provincial se llamará a servir el cargo, provisionalmente, al Adjunto respectivo.16 Llamamientos para reemplazar a Fiscal provisional
 
 ###### Artículo 28º
 
@@ -204,7 +228,9 @@ El Fiscal de la Nación, como titular del mismo, formula el Proyecto de Presupue
 
 ###### Artículo 31º. El personal auxiliar y el administrativo del Ministerio
 
-Público es nombrado por el Fiscal de la Nación. El personal que corresponda nombrar al Fiscal Decano, con acuerdo de la Junta de Fiscales Superiores de cada distrito judicial, lo determina el Reglamento. 25 26 27 Escalafón central
+Público es nombrado por el Fiscal de la Nación.
+
+El personal que corresponda nombrar al Fiscal Decano, con acuerdo de la Junta de Fiscales Superiores de cada distrito judicial, lo determina el Reglamento. 25 26 27 Escalafón central
 
 ###### Artículo 32º
 
@@ -276,15 +302,21 @@ Para ser Fiscal Supremo se requiere:
 
 4. Haber sido Fiscal o Vocal de Corte Superior por no menos de diez años o abogado en ejercicio o desempeñado cátedra universitaria en disciplina jurídica por no menos de veinte años.
 
-5. Gozar de conducta intachable, públicamente reconocida. Requisitos para ser Fiscal Superior
+5. Gozar de conducta intachable, públicamente reconocida.
+
+Requisitos para ser Fiscal Superior
 
 ###### Artículo 40º
 
-Para ser Fiscal Superior se requiere, además de ser peruano de nacimiento, ciudadano en ejercicio y gozar de conducta intachable, tener más de 35 años de edad y haber sido Fiscal de Juzgado o Juez de Primera Instancia o de Instrucción por no menos de 7 años o abogado en ejercicio o desempeñado cátedra universitaria en disciplina jurídica por no menos de diez años. CONCORDANCIA: R. Nº 281-2010-CNM Requisitos para ser Fiscal Provincial
+Para ser Fiscal Superior se requiere, además de ser peruano de nacimiento, ciudadano en ejercicio y gozar de conducta intachable, tener más de 35 años de edad y haber sido Fiscal de Juzgado o Juez de Primera Instancia o de Instrucción por no menos de 7 años o abogado en ejercicio o desempeñado cátedra universitaria en disciplina jurídica por no menos de diez años.
+
+CONCORDANCIA: R. Nº 281-2010-CNM Requisitos para ser Fiscal Provincial
 
 ###### Artículo 41º
 
-Para ser Fiscal Provincial se requiere, además de ser peruano de nacimiento, ciudadano en ejercicio y gozar de conducta intachable, tener no menos de 28 años de edad y haber sido Adjunto al Fiscal Provincial, o Juez de Paz Letrado, Relator o Secretario de Corte durante 4 años o abogado en ejercicio o desempeñado cátedra universitaria en disciplina jurídica por no menos de 5 años. CONCORDANCIA: R. Nº 281-2010-CNM Determinación del número de Fiscales
+Para ser Fiscal Provincial se requiere, además de ser peruano de nacimiento, ciudadano en ejercicio y gozar de conducta intachable, tener no menos de 28 años de edad y haber sido Adjunto al Fiscal Provincial, o Juez de Paz Letrado, Relator o Secretario de Corte durante 4 años o abogado en ejercicio o desempeñado cátedra universitaria en disciplina jurídica por no menos de 5 años.
+
+CONCORDANCIA: R. Nº 281-2010-CNM Determinación del número de Fiscales
 
 ###### Artículo 42º
 
@@ -310,7 +342,9 @@ Los Fiscales Adjuntos deben reunir los mismos requisitos exigidos a los titulare
 
 ###### Artículo 46º
 
-No pueden ser propuestos para Fiscales el Presidente de la República, los Ministros de Estado, los Senadores y Diputados, ni los funcionarios de Ministerios, organismos de Estado y empresas públicas, mientras estén en el ejercicio del cargo. Tampoco pueden serlo los miembros de los órganos de Gobierno Regionales, de las Municipalidades, o de las Corporaciones Departamentales de Desarrollo, ni quienes ejercen autoridad política y, en general, quienes ejercen cualquier otra función pública, excepto, únicamente, la docencia universitaria. Incompatibilidades por razones de parentesco
+No pueden ser propuestos para Fiscales el Presidente de la República, los Ministros de Estado, los Senadores y Diputados, ni los funcionarios de Ministerios, organismos de Estado y empresas públicas, mientras estén en el ejercicio del cargo. Tampoco pueden serlo los miembros de los órganos de Gobierno Regionales, de las Municipalidades, o de las Corporaciones Departamentales de Desarrollo, ni quienes ejercen autoridad política y, en general, quienes ejercen cualquier otra función pública, excepto, únicamente, la docencia universitaria.
+
+Incompatibilidades por razones de parentesco
 
 ###### Artículo 47º
 
@@ -334,7 +368,9 @@ Supremos serán ratificados o no por el Senado dentro de los treinta días sigui
 
 ###### Artículo 50º
 
-El Fiscal de la Nación presta juramento para ejercer el cargo ante el Presidente de la República. Los Fiscales Supremos y Superiores lo hacen ante el Fiscal de la Nación. Los Fiscales Provinciales juran ante el Fiscal Superior Decano o quien lo reemplace en el ejercicio de tales funciones.48 49 50 51
+El Fiscal de la Nación presta juramento para ejercer el cargo ante el Presidente de la República. Los Fiscales Supremos y Superiores lo hacen ante el Fiscal de la Nación.
+
+Los Fiscales Provinciales juran ante el Fiscal Superior Decano o quien lo reemplace en el ejercicio de tales funciones.48 49 50 51
 
 ### CAPÍTULO II: RESPONSABILIDADES
 
@@ -364,11 +400,15 @@ CONCORDANCIA: Ley Nº 26397, art. 21º, inc. c) Procedimiento sumario sancionado
 
 ###### Artículo 53º
 
-Las sanciones disciplinarias serán impuestas en procedimiento sumario que establecerá el Reglamento pertinente. La Fiscalía Suprema de Control Interno visitará periódicamente, o cuando lo creyera conveniente, o a requerimiento del Órgano de Gobierno del Ministerio Público, las Fiscalías de la República para comprobar el debido cumplimiento de las obligaciones que la ley impone a los Fiscales y al personal bajo su dependencia.54 Amonestación y multa que no requieren procedimiento sumario
+Las sanciones disciplinarias serán impuestas en procedimiento sumario que establecerá el Reglamento pertinente.
+
+La Fiscalía Suprema de Control Interno visitará periódicamente, o cuando lo creyera conveniente, o a requerimiento del Órgano de Gobierno del Ministerio Público, las Fiscalías de la República para comprobar el debido cumplimiento de las obligaciones que la ley impone a los Fiscales y al personal bajo su dependencia.54 Amonestación y multa que no requieren procedimiento sumario
 
 ###### Artículo 54º
 
-No se requiere procedimiento sumario para imponer las sanciones de amonestación o multa cuando el superior jerárquico, al tiempo de conocer el expediente en grado, comprueba que se ha cometido una infracción; o cuando el Fiscal Visitador descubra irregularidades en las oficinas visitadas o compruebe faltas en que hubiese incurrido el titular de la oficina visitada. CONCORDANCIAS: R. Nº 071-2005-MP-FN-JFS, Art.16º, inc e);
+No se requiere procedimiento sumario para imponer las sanciones de amonestación o multa cuando el superior jerárquico, al tiempo de conocer el expediente en grado, comprueba que se ha cometido una infracción; o cuando el Fiscal Visitador descubra irregularidades en las oficinas visitadas o compruebe faltas en que hubiese incurrido el titular de la oficina visitada.
+
+CONCORDANCIAS: R. Nº 071-2005-MP-FN-JFS, Art.16º, inc e);
 
 ###### Artículo 22º
 
@@ -388,7 +428,9 @@ Suspensión
 
 ###### Artículo 57º
 
-La suspensión no podrá exceder de treinta días, con rebaja del haber básico al 50% por el tiempo de la suspensión. Legalidad de la sanción
+La suspensión no podrá exceder de treinta días, con rebaja del haber básico al 50% por el tiempo de la suspensión.
+
+Legalidad de la sanción
 
 ###### Artículo 58º
 
@@ -420,7 +462,9 @@ Amonestación a terceros por injuria a fiscales
 
 ###### Artículo 61º
 
-Los miembros del Ministerio Público pueden amonestar a quien los injurie de palabra o en el escrito que les presente, así como al abogado que lo autorice, poniendo el hecho y la sanción disciplinaria impuesta en conocimiento del Colegio de Abogados respectivo. En los casos de reincidencia o de falta que, a su juicio, exija sanción disciplinaria mayor, denunciará al abogado a su Colegio, para los fines disciplinarios a que hubiere lugar. Pueden proceder análogamente contra quien promueve desorden en la actuación en que intervengan.
+Los miembros del Ministerio Público pueden amonestar a quien los injurie de palabra o en el escrito que les presente, así como al abogado que lo autorice, poniendo el hecho y la sanción disciplinaria impuesta en conocimiento del Colegio de Abogados respectivo.
+
+En los casos de reincidencia o de falta que, a su juicio, exija sanción disciplinaria mayor, denunciará al abogado a su Colegio, para los fines disciplinarios a que hubiere lugar. Pueden proceder análogamente contra quien promueve desorden en la actuación en que intervengan.
 
 ### CAPÍTULO III — JUNTAS DE FISCALES
 
@@ -448,7 +492,11 @@ Representación del Ministerio Público por el Fiscal de la Nación
 
 ###### Artículo 64º
 
-El Fiscal de la Nación representa al Ministerio Público. Su autoridad se extiende a todos los funcionarios que lo integran, cualesquiera que sean su categoría y actividad funcional especializada. Segundo párrafo (Declarado inconstitucional) 58 Funciones del Fiscal de la Nación
+El Fiscal de la Nación representa al Ministerio Público.
+
+Su autoridad se extiende a todos los funcionarios que lo integran, cualesquiera que sean su categoría y actividad funcional especializada.
+
+Segundo párrafo (Declarado inconstitucional) 58 Funciones del Fiscal de la Nación
 
 ###### Artículo 65º
 
@@ -488,7 +536,9 @@ Inviolabilidad de correspondencia dirigida al Fiscal de la Nación
 
 ###### Artículo 71º
 
-De conformidad con lo dispuesto en el Artículo 2º, inciso 8º de la Constitución 65, la correspondencia dirigida al Fiscal de la Nación desde cualquier cuartel, buque, aeronave, puesto de policía, centro de detención o readaptación social, hospital, clínica u otros análogos, cualquiera que sea el lugar de ubicación en la República, no podrá ser objeto de requisamiento o censura de ningún género. Tampoco podrán ser objeto de escucha o interferencia las conversaciones que se produzcan entre el Fiscal de la Nación o su delegado con alguna de las personas aludidas en la primera parte del presente artículo 66. La infracción de lo aquí dispuesto es delito comprendido en el artículo 362º del Código Penal.
+De conformidad con lo dispuesto en el Artículo 2º, inciso 8º de la Constitución 65, la correspondencia dirigida al Fiscal de la Nación desde cualquier cuartel, buque, aeronave, puesto de policía, centro de detención o readaptación social, hospital, clínica u otros análogos, cualquiera que sea el lugar de ubicación en la República, no podrá ser objeto de requisamiento o censura de ningún género. Tampoco podrán ser objeto de escucha o interferencia las conversaciones que se produzcan entre el Fiscal de la Nación o su delegado con alguna de las personas aludidas en la primera parte del presente artículo 66.
+
+La infracción de lo aquí dispuesto es delito comprendido en el artículo 362º del Código Penal.
 
 ###### Artículo 72º
 
@@ -528,7 +578,11 @@ Cuando el Fiscal de la Nación, en razón del ejercicio de las funciones propias
 
 ###### Artículo 80º-A
 
-Designación de Equipo de Fiscales para casos complejos 75 El Fiscal de la Nación, según lo estime conveniente, podrá designar, cuando las circunstancias lo requieran y por la complejidad de los casos, un equipo de Fiscales Provinciales Penales y Adjuntos para que bajo la coordinación de un Fiscal Superior se avoque a la investigación preliminar y participe en el proceso penal en la etapa correspondiente. En estos supuestos, podrá igualmente designar un Fiscal Superior para que intervenga en las etapas procesales de su competencia. Para que el Fiscal de la Nación ejerza esta atribución se requerirá:
+Designación de Equipo de Fiscales para casos complejos 75 El Fiscal de la Nación, según lo estime conveniente, podrá designar, cuando las circunstancias lo requieran y por la complejidad de los casos, un equipo de Fiscales Provinciales Penales y Adjuntos para que bajo la coordinación de un Fiscal Superior se avoque a la investigación preliminar y participe en el proceso penal en la etapa correspondiente.
+
+En estos supuestos, podrá igualmente designar un Fiscal Superior para que intervenga en las etapas procesales de su competencia.
+
+Para que el Fiscal de la Nación ejerza esta atribución se requerirá:
 
 a) Que los hechos delictivos estén sancionados con pena privativa de libertad no menor de cuatro años;
 
@@ -540,11 +594,15 @@ d) Que por las características de los hechos se advierta una especial dificulta
 
 ###### Artículo 80º-B
 
-Designación de Fiscales Especializados para determinados delitos 77 El Fiscal de la Nación, previa aprobación de la Junta de Fiscales Supremos, podrá designar Fiscales para que intervengan, según su categoría, en la investigación y juzgamiento de todos aquellos hechos delictivos vinculados entre sí o que presentan características similares y que requieran de una intervención especializada del Ministerio Público. El Reglamento que dictará la Junta de Fiscales Supremos, en un plazo no mayor de 15 (quince) días, y, a iniciativa del Fiscal de la Nación, fijará la competencia territorial, organización, funcionamiento y los mecanismos de coordinación y supervisión que correspondan a estos Órganos Especializados.78 CONCORDANCIA: R. Nº 009-2001-MP-FN-JFS (REGLAMENTO) Competencia de los Fiscales Supremos
+Designación de Fiscales Especializados para determinados delitos 77 El Fiscal de la Nación, previa aprobación de la Junta de Fiscales Supremos, podrá designar Fiscales para que intervengan, según su categoría, en la investigación y juzgamiento de todos aquellos hechos delictivos vinculados entre sí o que presentan características similares y que requieran de una intervención especializada del Ministerio Público.
+
+El Reglamento que dictará la Junta de Fiscales Supremos, en un plazo no mayor de 15 (quince) días, y, a iniciativa del Fiscal de la Nación, fijará la competencia territorial, organización, funcionamiento y los mecanismos de coordinación y supervisión que correspondan a estos Órganos Especializados.78 CONCORDANCIA: R. Nº 009-2001-MP-FN-JFS (REGLAMENTO) Competencia de los Fiscales Supremos
 
 ###### Artículo 81º
 
-De los Fiscales Supremos, uno atiende los asuntos penales; otro, los civiles y el tercero interviene en los procesos contenciososadministrativos de acuerdo con su respectiva especialidad y lo dispuesto en la presente ley y su reglamento. Asimismo el Fiscal Supremo Penal Militar Policial, actúa en los asuntos penales militares policiales de competencia de la Jurisdicción Especializada en Materia Penal Militar Policial, y el Fiscal Supremo Penal Militar Policial que actúa en el ámbito de Control del Ministerio Público.79 CONCORDANCIA: LEY Nº 29182 Atribuciones del Fiscal Supremo en lo Penal
+De los Fiscales Supremos, uno atiende los asuntos penales; otro, los civiles y el tercero interviene en los procesos contenciososadministrativos de acuerdo con su respectiva especialidad y lo dispuesto en la presente ley y su reglamento.
+
+Asimismo el Fiscal Supremo Penal Militar Policial, actúa en los asuntos penales militares policiales de competencia de la Jurisdicción Especializada en Materia Penal Militar Policial, y el Fiscal Supremo Penal Militar Policial que actúa en el ámbito de Control del Ministerio Público.79 CONCORDANCIA: LEY Nº 29182 Atribuciones del Fiscal Supremo en lo Penal
 
 ###### Artículo 82º
 
@@ -654,7 +712,9 @@ Corresponden al Fiscal Supremo en lo contenciosoadministrativo:
 
 ###### Artículo 87º. Elección del Presidente de la Junta de Fiscales
 
-Superiores y Provinciales 81 El Presidente de la Junta de Fiscales Superiores es elegido por un período de dos (2) años, entre los Fiscales Superiores Titulares. En caso de empate será electo el candidato con mayor antigüedad en el cargo. De la misma forma se elegirá al Presidente de la Junta de Fiscales Provinciales.
+Superiores y Provinciales 81 El Presidente de la Junta de Fiscales Superiores es elegido por un período de dos (2) años, entre los Fiscales Superiores Titulares. En caso de empate será electo el candidato con mayor antigüedad en el cargo.
+
+De la misma forma se elegirá al Presidente de la Junta de Fiscales Provinciales.
 
 En los distritos judiciales donde no se constituye Junta de Fiscales Superiores, asumen las funciones del Presidente de la Junta de Fiscales Superiores, en forma rotativa, los Fiscales Superiores Titulares. En caso de no existir titulares, rotan los Fiscales Superiores Provisionales. La misma regla se aplicará en el caso de los Fiscales Provinciales.82
 
@@ -678,7 +738,9 @@ Por impedimento del Presidente de la Junta de Fiscales Superiores, asume el carg
 
 ###### Artículo 89º
 
-Son atribuciones del Fiscal Superior en lo Civil: A. Emitir dictamen previo a la resolución que pone fin a la instancia:
+Son atribuciones del Fiscal Superior en lo Civil:
+
+A. Emitir dictamen previo a la resolución que pone fin a la instancia:
 
 1. En los juicios y procedimientos a que se refiere el artículo 85º de la presente Ley.
 
@@ -700,7 +762,9 @@ Son atribuciones del Fiscal Superior en lo Civil: A. Emitir dictamen previo a la
 
 10. En los demás que le señala la Ley.
 
-B. El dictamen será meramente ilustrativo y su omisión no causará nulidad procesal en los casos que expresamente señala la Ley. Atribuciones del Fiscal Superior de Familia
+B. El dictamen será meramente ilustrativo y su omisión no causará nulidad procesal en los casos que expresamente señala la Ley.
+
+Atribuciones del Fiscal Superior de Familia
 
 ###### Artículo 89º- A
 
@@ -746,7 +810,9 @@ El Fiscal Superior en lo Penal emitirá dictamen previo a la resolución final s
 
 8. En los casos en que el Juez Instructor disponga la libertad incondicional del inculpado.
 
-9. En el procedimiento especial para la represión, con pena, de los responsables del incumplimiento de los deberes de asistencia familiar y de contravenciones en perjuicio del menor de edad. En estos casos, el Fiscal Superior pedirá especialmente que el Tribunal competente preste toda preferencia a la realización de la audiencia, la que debe efectuarse en privado.
+9. En el procedimiento especial para la represión, con pena, de los responsables del incumplimiento de los deberes de asistencia familiar y de contravenciones en perjuicio del menor de edad.
+
+En estos casos, el Fiscal Superior pedirá especialmente que el Tribunal competente preste toda preferencia a la realización de la audiencia, la que debe efectuarse en privado.
 
 10. Cuando el Tribunal competente revise la investigación practicada en los casos de no ser habido un menor de edad que se hallare en abandono o peligro moral, o que se le presuma autor o víctima de delito.
 
@@ -914,7 +980,9 @@ Ratificación de Fiscales
 
 ###### Artículo 101º
 
-De conformidad con la primera parte del artículo 250º de la Constitución Política y su Disposición Décimo Tercera General y Transitoria, la Junta de Fiscales Supremos procederá a la ratificación de los Fiscales Superiores y Provinciales que integran el Ministerio Público, dentro del plazo de ciento veinte días de vigencia de la presente ley. En tanto se constituya la Junta de Fiscales Supremos, las ratificaciones podrán ser hechas por el Fiscal de la Nación. Excepción a limitaciones presupuestales
+De conformidad con la primera parte del artículo 250º de la Constitución Política y su Disposición Décimo Tercera General y Transitoria, la Junta de Fiscales Supremos procederá a la ratificación de los Fiscales Superiores y Provinciales que integran el Ministerio Público, dentro del plazo de ciento veinte días de vigencia de la presente ley. En tanto se constituya la Junta de Fiscales Supremos, las ratificaciones podrán ser hechas por el Fiscal de la Nación.
+
+Excepción a limitaciones presupuestales
 
 ###### Artículo 102º. El Ministerio Público queda exceptuado hasta el 31 de
 
@@ -924,9 +992,13 @@ Personal que integra el Ministerio Público
 
 ###### Artículo 103º
 
-El actual personal de Fiscales y Agentes Fiscales pasarán a integrar el Ministerio Público a que se refiere esta Ley, conservando sus categorías y derechos hasta la ratificación correspondiente. El Personal Auxiliar y los bienes muebles que el Ministerio Público posee actualmente continuarán a su servicio. Transfiérase del Pliego del Poder Judicial del Ministerio Público las partidas presupuestales respectivas.
+El actual personal de Fiscales y Agentes Fiscales pasarán a integrar el Ministerio Público a que se refiere esta Ley, conservando sus categorías y derechos hasta la ratificación correspondiente.
 
-Los recursos presupuestales adicionales que se requieran para el funcionamiento del Ministerio Público durante el presente año, serán atendidos por el Ministerio de Economía, Finanzas y Comercio en la forma prevista en la Ley de Presupuesto, dentro de los treinta días siguientes a la fecha de publicación de la presente ley, mediante la ampliación del Presupuesto del Sector Público vigente. Organización y equipamiento del Ministerio Público
+El Personal Auxiliar y los bienes muebles que el Ministerio Público posee actualmente continuarán a su servicio. Transfiérase del Pliego del Poder Judicial del Ministerio Público las partidas presupuestales respectivas.
+
+Los recursos presupuestales adicionales que se requieran para el funcionamiento del Ministerio Público durante el presente año, serán atendidos por el Ministerio de Economía, Finanzas y Comercio en la forma prevista en la Ley de Presupuesto, dentro de los treinta días siguientes a la fecha de publicación de la presente ley, mediante la ampliación del Presupuesto del Sector Público vigente.
+
+Organización y equipamiento del Ministerio Público
 
 ###### Artículo 104º
 
@@ -944,7 +1016,9 @@ Otras derogatorias
 
 Deróganse, asimismo, el Título III - Ministerio Público
 
-- del Libro Primero del Código de Procedimientos Penales y sus artículos 41º, en cuanto se refiere a la intervención del Juez Instructor y el Tribunal Correccional en la excusa del Agente Fiscal; 50º, 199º, en cuanto autorizan al Juez Instructor para devolver los autos al Agente Fiscal para que expida dictamen; 220º, modificado por el Decreto Ley Nº 21895, en cuanto autoriza al Tribunal a disponer, alternativamente, que el Fiscal se pronuncie sobre el fondo del proceso y los artículos 222º y 223º, modificados por el citado Decreto Ley. Modificatorias al CPP
+- del Libro Primero del Código de Procedimientos Penales y sus artículos 41º, en cuanto se refiere a la intervención del Juez Instructor y el Tribunal Correccional en la excusa del Agente Fiscal; 50º, 199º, en cuanto autorizan al Juez Instructor para devolver los autos al Agente Fiscal para que expida dictamen; 220º, modificado por el Decreto Ley Nº 21895, en cuanto autoriza al Tribunal a disponer, alternativamente, que el Fiscal se pronuncie sobre el fondo del proceso y los artículos 222º y 223º, modificados por el citado Decreto Ley.
+
+Modificatorias al CPP
 
 ###### Artículo 107º
 
@@ -952,7 +1026,9 @@ Modifícase el Código de Procedimientos Penales en sus artículos 74º, 75º y 
 
 Por tanto:
 
-Mando se publique y cumpla, dando cuenta al Congreso. Dado en la Casa de Gobierno, en Lima, a los dieciséis días del mes de marzo de mil novecientos ochenta y uno.
+Mando se publique y cumpla, dando cuenta al Congreso.
+
+Dado en la Casa de Gobierno, en Lima, a los dieciséis días del mes de marzo de mil novecientos ochenta y uno.
 
 FERNANDO BELAUNDE TERRY Presidente Constitucional de la República FELIPE OSTERLING PARODI Ministro de Justicia.
 
@@ -968,7 +1044,9 @@ Administración de Justicia. Control difuso
 
 La potestad de administrar justicia emana del pueblo y se ejerce por el Poder Judicial a través de sus órganos jerárquicos con arreglo a la Constitución y a las leyes.
 
-En todo proceso, de existir incompatibilidad entre una norma constitucional y una norma legal, los jueces prefieren la primera. Igualmente, prefieren la norma legal sobre toda otra norma de rango inferior.
+En todo proceso, de existir incompatibilidad entre una norma constitucional y una norma legal, los jueces prefieren la primera.
+
+Igualmente, prefieren la norma legal sobre toda otra norma de rango inferior.
 
 Principios de la Administración de Justicia
 
@@ -984,7 +1062,9 @@ No hay proceso judicial por comisión o delegación.
 
 2. La independencia en el ejercicio de la función jurisdiccional.
 
-Ninguna autoridad puede avocarse a causas pendientes ante el órgano jurisdiccional ni interferir en el ejercicio de sus funciones. Tampoco puede dejar sin efecto resoluciones que han pasado en autoridad de cosa juzgada, ni cortar procedimientos en trámite, ni modificar sentencias ni retardar su ejecución. Estas disposiciones no afectan el derecho de gracia ni la facultad de investigación del Congreso, cuyo ejercicio no debe, sin embargo, interferir en el procedimiento jurisdiccional ni surte efecto jurisdiccional alguno.
+Ninguna autoridad puede avocarse a causas pendientes ante el órgano jurisdiccional ni interferir en el ejercicio de sus funciones.
+
+Tampoco puede dejar sin efecto resoluciones que han pasado en autoridad de cosa juzgada, ni cortar procedimientos en trámite, ni modificar sentencias ni retardar su ejecución. Estas disposiciones no afectan el derecho de gracia ni la facultad de investigación del Congreso, cuyo ejercicio no debe, sin embargo, interferir en el procedimiento jurisdiccional ni surte efecto jurisdiccional alguno.
 
 3. La observancia del debido proceso y la tutela jurisdiccional.
 
@@ -1036,7 +1116,9 @@ Pena de muerte
 
 ###### Artículo 140°
 
-La pena de muerte sólo puede aplicarse por el delito de traición a la Patria en caso de guerra, y el de terrorismo, conforme a las leyes y a los tratados de los que el Perú es parte obligada. Casación
+La pena de muerte sólo puede aplicarse por el delito de traición a la Patria en caso de guerra, y el de terrorismo, conforme a las leyes y a los tratados de los que el Perú es parte obligada.
+
+Casación
 
 ###### Artículo 141°
 
@@ -1052,7 +1134,11 @@ Jurado Nacional de Elecciones en materia electoral, ni las del Consejo Nacional 
 
 ###### Artículo 143°
 
-El Poder Judicial está integrado por órganos jurisdiccionales que administran justicia en nombre de la Nación, y por órganos que ejercen su gobierno y administración. Los órganos jurisdiccionales son: la Corte Suprema de Justicia y las demás cortes y juzgados que determine su ley orgánica. Presidencia del Poder Judicial. Sala Plena
+El Poder Judicial está integrado por órganos jurisdiccionales que administran justicia en nombre de la Nación, y por órganos que ejercen su gobierno y administración.
+
+Los órganos jurisdiccionales son: la Corte Suprema de Justicia y las demás cortes y juzgados que determine su ley orgánica.
+
+Presidencia del Poder Judicial. Sala Plena
 
 ###### Artículo 144°. El Presidente de la Corte Suprema lo es también del
 
@@ -1062,7 +1148,9 @@ Presupuesto del Poder Judicial
 
 ###### Artículo 145°
 
-El Poder Judicial presenta su proyecto de presupuesto al Poder Ejecutivo y lo sustenta ante el Congreso. Exclusividad de la Función Jurisdiccional
+El Poder Judicial presenta su proyecto de presupuesto al Poder Ejecutivo y lo sustenta ante el Congreso.
+
+Exclusividad de la Función Jurisdiccional
 
 ###### Artículo 146°
 
@@ -1092,7 +1180,9 @@ Para ser Magistrado de la Corte Suprema se requiere:
 
 3. Ser mayor de cuarenta y cinco años;
 
-4. Haber sido magistrado de la Corte Superior o Fiscal Superior durante diez años, o haber ejercido la abogacía o la cátedra universitaria en materia jurídica durante quince años. Acción contencioso-administrativa
+4. Haber sido magistrado de la Corte Superior o Fiscal Superior durante diez años, o haber ejercido la abogacía o la cátedra universitaria en materia jurídica durante quince años.
+
+Acción contencioso-administrativa
 
 ###### Artículo 148°
 

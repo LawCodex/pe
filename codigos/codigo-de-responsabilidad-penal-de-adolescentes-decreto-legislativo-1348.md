@@ -24,7 +24,13 @@ Que, mediante Ley Nº 30506, Ley que delega en el Poder Ejecutivo la facultad de
 
 Que, en este sentido, el literal b) del inciso 2 del artículo 2 del citado dispositivo legal establece la facultad de legislar a efectos de reestructurar la política penitenciaria, optimizar los procedimientos de extradición y traslado de condenados; y modificar las normas sobre tratamiento del adolescente en conflicto con la ley penal y mecanismos alternativos para el cumplimiento de penas en general;
 
-Que, la Ley Nº 27337, Ley que aprueba el Nuevo Código de los Niños y Adolescentes, regula en sus capítulos III, IV, V, VI y VII del Título II del Libro IV, lo concerniente al Adolescente Infractor de la Ley Penal, siendo dicha norma modificada mediante Decreto Legislativo Nº 1204, Decreto Legislativo que modifica el Código de los Niños y Adolescentes para regular las sanciones a adolescentes infractores de la ley penal y su ejecución, en el cual, entre otras regulaciones, se establecen modificaciones a las medidas socioeducativas y a su ejecución, ampliando el plazo de duración de la sanción de internación; Que, el Comité de los Derechos del Niño, en sus Observaciones finales sobre los informes periódicos cuarto y quinto combinados del Perú, del 02 de marzo de 2016, recomendó la derogación del Decreto Legislativo Nº 1204 y asegurarse de que la legislación peruana esté plenamente en consonancia con los principios y disposiciones de la Convención sobre los Derechos del Niño; Que, resulta necesario modificar la norma vigente sobre tratamiento del adolescente en conflicto con la ley penal, a fin de superar las deficiencias advertidas por el Comité de los Derechos del Niño, así como dotar de eficacia y mayores garantías al proceso para los adolescentes en conflicto con la ley penal; De conformidad con lo establecido en el literal b) del numeral 2 del artículo 2 de la Ley Nº 30506 y el artículo 104 de la Constitución Política del Perú; Con el voto aprobatorio del Consejo de Ministros; Con cargo a dar cuenta al Congreso de la República; Ha dado el Decreto Legislativo siguiente:
+Que, la Ley Nº 27337, Ley que aprueba el Nuevo Código de los Niños y Adolescentes, regula en sus capítulos III, IV, V, VI y VII del Título II del Libro IV, lo concerniente al Adolescente Infractor de la Ley Penal, siendo dicha norma modificada mediante Decreto Legislativo Nº 1204, Decreto Legislativo que modifica el Código de los Niños y Adolescentes para regular las sanciones a adolescentes infractores de la ley penal y su ejecución, en el cual, entre otras regulaciones, se establecen modificaciones a las medidas socioeducativas y a su ejecución, ampliando el plazo de duración de la sanción de internación; Que, el Comité de los Derechos del Niño, en sus Observaciones finales sobre los informes periódicos cuarto y quinto combinados del Perú, del 02 de marzo de 2016, recomendó la derogación del Decreto Legislativo Nº 1204 y asegurarse de que la legislación peruana esté plenamente en consonancia con los principios y disposiciones de la Convención sobre los Derechos del Niño;
+
+Que, resulta necesario modificar la norma vigente sobre tratamiento del adolescente en conflicto con la ley penal, a fin de superar las deficiencias advertidas por el Comité de los Derechos del Niño, así como dotar de eficacia y mayores garantías al proceso para los adolescentes en conflicto con la ley penal; De conformidad con lo establecido en el literal b) del numeral 2 del artículo 2 de la Ley Nº 30506 y el artículo 104 de la Constitución Política del Perú; Con el voto aprobatorio del Consejo de Ministros;
+
+Con cargo a dar cuenta al Congreso de la República;
+
+Ha dado el Decreto Legislativo siguiente:
 
 DECRETO LEGISLATIVO QUE APRUEBA EL CÓDIGO DE RESPONSABILIDAD PENAL DE ADOLESCENTES
 
@@ -36,7 +42,9 @@ Apruébese el Código de Responsabilidad Penal de Adolescentes como norma integr
 
 POR TANTO:
 
-Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los seis días del mes de enero del año dos mil diecisiete.
+Mando se publique y cumpla, dando cuenta al Congreso de la República.
+
+Dado en la Casa de Gobierno, en Lima, a los seis días del mes de enero del año dos mil diecisiete.
 
 PEDRO PABLO KUCZYNSKI GODARD Presidente de la República FERNANDO ZAVALA LOMBARDI Presidente del Consejo de Ministros MARÍA SOLEDAD PÉREZ TELLO Ministra de Justicia y Derechos Humano ÍNDICE GENERAL
 
@@ -218,7 +226,9 @@ Principio de justicia especializada.
 
 ###### Artículo VI
 
-Principio de desjudicialización o mínima intervención. De acuerdo a las disposiciones del presente Código y en tanto se considere necesario, deben adoptarse medidas que eviten someter al adolescente a un proceso judicial o se ponga término al mismo sin necesidad de recurrir al juicio oral. Para ello debe respetarse los derechos del adolescente y considerar en lo pertinente el interés de la víctima.
+Principio de desjudicialización o mínima intervención.
+
+De acuerdo a las disposiciones del presente Código y en tanto se considere necesario, deben adoptarse medidas que eviten someter al adolescente a un proceso judicial o se ponga término al mismo sin necesidad de recurrir al juicio oral. Para ello debe respetarse los derechos del adolescente y considerar en lo pertinente el interés de la víctima.
 
 ###### Artículo VII
 
@@ -250,13 +260,17 @@ Las actuaciones judiciales y fiscales son reservadas. Las autoridades que interv
 
 ###### Artículo XI
 
-Principio de proporcionalidad y racionalidad. La decisión adoptada ante la comisión de una infracción por un adolescente debe ser proporcional no sólo a las circunstancias y gravedad de la misma, sino también a su particular situación y necesidades.
+Principio de proporcionalidad y racionalidad.
+
+La decisión adoptada ante la comisión de una infracción por un adolescente debe ser proporcional no sólo a las circunstancias y gravedad de la misma, sino también a su particular situación y necesidades.
 
 ###### Artículo XII
 
 Vigencia de la norma.
 
-Los aspectos sustantivos y de ejecución de la presente norma, se rigen en cuanto a su vigencia temporal por la normativa de la materia. El presente Código, en lo que corresponde a los aspectos procesales, es de aplicación inmediata, incluso al proceso en trámite, y es la que rige al tiempo de la actuación procesal. Sin embargo, continúan rigiéndose por la Ley anterior, los medios impugnatorios ya interpuestos, los actos procesales con principio de ejecución y los plazos que hubieran empezado.
+Los aspectos sustantivos y de ejecución de la presente norma, se rigen en cuanto a su vigencia temporal por la normativa de la materia.
+
+El presente Código, en lo que corresponde a los aspectos procesales, es de aplicación inmediata, incluso al proceso en trámite, y es la que rige al tiempo de la actuación procesal. Sin embargo, continúan rigiéndose por la Ley anterior, los medios impugnatorios ya interpuestos, los actos procesales con principio de ejecución y los plazos que hubieran empezado.
 
 ###### Artículo XIII
 
@@ -338,7 +352,9 @@ En lo que no se encuentre regulado por esta norma, es de aplicación supletoria 
 
 ###### Artículo 9
 
-Juez de Investigación Preparatoria del Adolescente. Durante la Investigación Preparatoria y la Etapa Intermedia, el Juez de Investigación Preparatoria del Adolescente, es competente para:
+Juez de Investigación Preparatoria del Adolescente.
+
+Durante la Investigación Preparatoria y la Etapa Intermedia, el Juez de Investigación Preparatoria del Adolescente, es competente para:
 
 a. Conocer las cuestiones planteadas por los sujetos procesales durante la Investigación Preparatoria.
 
@@ -566,7 +582,9 @@ El Ministerio de Justicia y Derechos Humanos provee la defensa gratuita especial
 
 ###### Artículo 25
 
-Derechos del abogado defensor del adolescente. El abogado defensor goza de todos los derechos que el Código le confiere para el ejercicio de su profesión, especialmente de los siguientes:
+Derechos del abogado defensor del adolescente.
+
+El abogado defensor goza de todos los derechos que el Código le confiere para el ejercicio de su profesión, especialmente de los siguientes:
 
 1. Prestar asesoramiento desde que el adolescente fuere citado o detenido por la autoridad policial y/o llevado al módulo especializado de detención para su declaración.
 
@@ -744,7 +762,9 @@ La Policía al efectuar la detención, sea en flagrante delito o por orden del J
 
 ###### Artículo 45
 
-Derechos y garantías del adolescente durante la detención. Durante su detención, se respetan los siguientes derechos y garantías que corresponden al adolescente:
+Derechos y garantías del adolescente durante la detención.
+
+Durante su detención, se respetan los siguientes derechos y garantías que corresponden al adolescente:
 
 1. Ser informado del motivo de su detención.
 
@@ -2046,7 +2066,9 @@ El personal de los centros juveniles debe ser formado y capacitado continuamente
 
 ###### PRIMERA
 
-Reglamentación El Ministerio de Justicia y Derechos Humanos en coordinación con el Ministerio de la Mujer y Poblaciones Vulnerables, Ministerio de Economía y Finanzas, Ministerio de Trabajo y Promoción del Empleo, Ministerio de Educación, Ministerio de Salud, Ministerio del Interior, Ministerio de Cultura, Poder Judicial, Ministerio Público, y las instituciones que sean pertinentes, elaboran el reglamento del presente Código, en el plazo de ciento veinte días (120) días, contados a partir de su publicación en el diario oficial. Para la reglamentación de lo concerniente a la Sección VI del presente Código se consideran los siguientes aspectos:
+Reglamentación El Ministerio de Justicia y Derechos Humanos en coordinación con el Ministerio de la Mujer y Poblaciones Vulnerables, Ministerio de Economía y Finanzas, Ministerio de Trabajo y Promoción del Empleo, Ministerio de Educación, Ministerio de Salud, Ministerio del Interior, Ministerio de Cultura, Poder Judicial, Ministerio Público, y las instituciones que sean pertinentes, elaboran el reglamento del presente Código, en el plazo de ciento veinte días (120) días, contados a partir de su publicación en el diario oficial.
+
+Para la reglamentación de lo concerniente a la Sección VI del presente Código se consideran los siguientes aspectos:
 
 1. El régimen de vida aplicable al adolescente.
 

@@ -17,8 +17,8 @@ Status: **minimal / partial** — see "What is NOT covered".
 | Category | Directory | Files |
 |---|---|---|
 | Constitución Política del Perú de 1993 (21st official edition, updated to 2025-12-05) | `constitucion/` | 1 |
-| Codes (official editions) | `codigos/` | 3 |
-| Laws (official editions) | `leyes/` | 4 |
+| Codes (official editions) | `codigos/` | 5 |
+| Laws (official editions) | `leyes/` | 7 |
 | Index (metadata only) of numbered norms | `indice/` | see below |
 
 ### Texts
@@ -26,11 +26,16 @@ Status: **minimal / partial** — see "What is NOT covered".
 | File | Norm | Official edition (text updated to) |
 |---|---|---|
 | [constitucion/constitucion-politica-del-peru-1993.md](constitucion/constitucion-politica-del-peru-1993.md) | Constitución Política del Perú de 1993 | 21st official edition, 2025-12-05 |
+| [codigos/codigo-civil-decreto-legislativo-295.md](codigos/codigo-civil-decreto-legislativo-295.md) | Código Civil (Decreto Legislativo N° 295) | 14th official edition, 2014-08-01 (**not updated since**) |
 | [codigos/codigo-procesal-penal-decreto-legislativo-957.md](codigos/codigo-procesal-penal-decreto-legislativo-957.md) | Código Procesal Penal (Decreto Legislativo N° 957) | 8th official edition, November 2024 |
 | [codigos/nuevo-codigo-procesal-constitucional-ley-31307.md](codigos/nuevo-codigo-procesal-constitucional-ley-31307.md) | Nuevo Código Procesal Constitucional (Ley N° 31307) | 1st official edition, 2023-07-19 |
 | [codigos/codigo-de-proteccion-y-defensa-del-consumidor-ley-29571.md](codigos/codigo-de-proteccion-y-defensa-del-consumidor-ley-29571.md) | Código de Protección y Defensa del Consumidor (Ley N° 29571) | 3rd official edition, 2020-11-27 |
+| [codigos/codigo-de-responsabilidad-penal-de-adolescentes-decreto-legislativo-1348.md](codigos/codigo-de-responsabilidad-penal-de-adolescentes-decreto-legislativo-1348.md) | Código de Responsabilidad Penal de Adolescentes (Decreto Legislativo N° 1348) | 1st official edition, 2018-08-30 |
+| [leyes/tuo-ley-27444-ley-del-procedimiento-administrativo-general.md](leyes/tuo-ley-27444-ley-del-procedimiento-administrativo-general.md) | TUO de la Ley N° 27444, Ley del Procedimiento Administrativo General (D.S. N° 006-2026-JUS) | 1st official edition, 2026-07-08 |
+| [leyes/tuo-ley-organica-del-poder-judicial-ds-017-93-jus.md](leyes/tuo-ley-organica-del-poder-judicial-ds-017-93-jus.md) | TUO de la Ley Orgánica del Poder Judicial (D.S. N° 017-93-JUS) | 3rd official edition (undated, c. 2019) |
+| [leyes/ley-organica-del-ministerio-publico-decreto-legislativo-52.md](leyes/ley-organica-del-ministerio-publico-decreto-legislativo-52.md) | Ley Orgánica del Ministerio Público (Decreto Legislativo N° 52) | same edition |
 | [leyes/ley-28301-ley-organica-del-tribunal-constitucional.md](leyes/ley-28301-ley-organica-del-tribunal-constitucional.md) | Ley Orgánica del Tribunal Constitucional (Ley N° 28301) | 2023-07-19 |
-| [leyes/tuo-ley-27444-ley-del-procedimiento-administrativo-general.md](leyes/tuo-ley-27444-ley-del-procedimiento-administrativo-general.md) | TUO de la Ley N° 27444, Ley del Procedimiento Administrativo General (D.S. N° 004-2019-JUS) | 2021-07-13 |
+| [leyes/ley-30057-ley-del-servicio-civil.md](leyes/ley-30057-ley-del-servicio-civil.md) | Ley del Servicio Civil (Ley N° 30057) | 1st official edition, 2017-12-07 |
 | [leyes/ley-26300-ley-de-los-derechos-de-participacion-y-control-ciudadanos.md](leyes/ley-26300-ley-de-los-derechos-de-participacion-y-control-ciudadanos.md) | Ley de los Derechos de Participación y Control Ciudadanos (Ley N° 26300) | 2025-12-04 |
 | [leyes/ley-30220-ley-universitaria.md](leyes/ley-30220-ley-universitaria.md) | Ley Universitaria (Ley N° 30220) | 2023-12-28 |
 
@@ -66,8 +71,11 @@ Congreso's *Archivo Digital de la Legislación del Perú* (https://www.leyes.con
 - The Congreso's archive links each law to a PDF (`/Documentos/...pdf`), but its robots.txt
   asks robots not to fetch PDFs (`Disallow: /*.pdf$`), so the texts were not downloaded —
   only the HTML result lists were used for the index.
-- MINJUS official editions beyond the first page of the "Ediciones Oficiales" collection
-  (gob.pe's robots.txt disallows the paginated `?sheet=` listing).
+- Other MINJUS publications (compendia, jurisprudence collections, older editions superseded by
+  the ones above). Official editions were located through gob.pe's sitemap (the paginated
+  `?sheet=` collection listing is disallowed by robots.txt).
+- The Código Civil edition is the latest one MINJUS has published (2014); amendments after
+  August 2014 are not reflected.
 - Regulations (decretos supremos, resoluciones), regional and municipal norms.
 
 ## Sources

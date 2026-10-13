@@ -126,7 +126,7 @@ Políticas públicas
 
 ## TÍTULO I — DERECHOS DE LOS CONSUMIDORES Y RELACIÓN CONSUMIDOR-PROVEEDOR
 
-Capítulo I Derechos de los consumidores
+### Capítulo I — Derechos de los consumidores
 
 ###### Artículo 1
 
@@ -154,7 +154,9 @@ j. Derecho a asociarse con el fin de proteger sus derechos e intereses de manera
 
 k. Derecho al pago anticipado o prepago de los saldos en toda operación de crédito, en forma total o parcial, con la consiguiente reducción de los intereses compensatorios generados al día de pago y liquidación de comisiones y gastos derivados de las cláusulas contractuales pactadas entre las partes, sin que les sean aplicables penalidades de algún tipo o cobros de naturaleza o efecto similar. 1.2 La enumeración de los derechos establecidos no excluye los demás que este Código garantiza ni los reconocidos en leyes especiales. 1.3 Es nula la renuncia a los derechos reconocidos por la presente norma, siendo nulo todo pacto en contrario.
 
-Capítulo II Información a los consumidores Subcapítulo I Información en general
+### Capítulo II — Información a los consumidores
+
+#### Subcapítulo I — Información en general
 
 ###### Artículo 2
 
@@ -202,7 +204,9 @@ Información acerca de los productos envasados 10.1. Sin perjuicio de lo señala
 
 ###### Artículo 11
 
-Información sobre productos no originales o con defectos Cuando se expende al público productos con alguna deficiencia o defecto, usados, reconstruidos o remanufacturados, debe informarse notoriamente esta circunstancia al consumidor, mediante mecanismos directos de información, haciéndolo constar indistintamente en los propios artículos, etiquetas, envolturas o empaques, y en los comprobantes de pago correspondientes, siendo su responsabilidad acreditar el cumplimiento de dicha obligación. El incumplimiento de esta exigencia es considerado contrario a la buena fe en el comportamiento exigible al proveedor. Subcapítulo II Protección del consumidor frente a la publicidad
+Información sobre productos no originales o con defectos Cuando se expende al público productos con alguna deficiencia o defecto, usados, reconstruidos o remanufacturados, debe informarse notoriamente esta circunstancia al consumidor, mediante mecanismos directos de información, haciéndolo constar indistintamente en los propios artículos, etiquetas, envolturas o empaques, y en los comprobantes de pago correspondientes, siendo su responsabilidad acreditar el cumplimiento de dicha obligación. El incumplimiento de esta exigencia es considerado contrario a la buena fe en el comportamiento exigible al proveedor.
+
+#### Subcapítulo II — Protección del consumidor frente a la publicidad
 
 ###### Artículo 12. Marco legal
 
@@ -230,7 +234,7 @@ La publicidad dirigida a los menores de edad no debe inducirlos a conclusiones e
 
 La Comisión de Fiscalización de la Competencia Desleal del Indecopi es la autoridad encargada en forma exclusiva y excluyente para conocer en primera instancia la verificación del cumplimiento de las normas que regulan la publicidad en protección del consumidor. Sin perjuicio de ello, las afectaciones concretas y específicas a los derechos de los consumidores a consecuencia de la publicidad comercial constituyen infracciones al presente Código y son de competencia de la Comisión de Protección al Consumidor del Indecopi.
 
-Capítulo III Idoneidad de los productos y servicios
+### Capítulo III — Idoneidad de los productos y servicios
 
 ###### Artículo 18. Idoneidad
 
@@ -274,7 +278,11 @@ El prestador de servicios de reparación está obligado a dejar constancia escri
 
 ###### Artículo 24
 
-Servicio de atención de reclamos 24.1. Sin perjuicio del derecho de los consumidores de iniciar las acciones correspondientes ante las autoridades competentes, los proveedores están obligados a atender los reclamos presentados por sus consumidores y dar respuesta a los mismos en un plazo no mayor a treinta (30) días calendario. Dicho plazo puede ser extendido por otro igual cuando la naturaleza del reclamo lo justifique, situación que es puesta en conocimiento del consumidor antes de la culminación del plazo inicial. 24.2. En caso de que el proveedor cuente con una línea de atención de reclamos o con algún medio electrónico u otros similares para dicha finalidad, debe asegurarse que la atención sea oportuna y que no se convierta en un obstáculo al reclamo ante la empresa. 24.3. No puede condicionarse la atención de reclamos de consumidores o usuarios al pago previo del producto o servicio materia de dicho reclamo o del monto que hubiera motivado ello, o de cualquier otro pago. Capítulo IV Salud y seguridad de los consumidores Subcapítulo I Protección a la salud y seguridad de los consumidores
+Servicio de atención de reclamos 24.1. Sin perjuicio del derecho de los consumidores de iniciar las acciones correspondientes ante las autoridades competentes, los proveedores están obligados a atender los reclamos presentados por sus consumidores y dar respuesta a los mismos en un plazo no mayor a treinta (30) días calendario. Dicho plazo puede ser extendido por otro igual cuando la naturaleza del reclamo lo justifique, situación que es puesta en conocimiento del consumidor antes de la culminación del plazo inicial. 24.2. En caso de que el proveedor cuente con una línea de atención de reclamos o con algún medio electrónico u otros similares para dicha finalidad, debe asegurarse que la atención sea oportuna y que no se convierta en un obstáculo al reclamo ante la empresa. 24.3. No puede condicionarse la atención de reclamos de consumidores o usuarios al pago previo del producto o servicio materia de dicho reclamo o del monto que hubiera motivado ello, o de cualquier otro pago.
+
+### Capítulo IV — Salud y seguridad de los consumidores
+
+#### Subcapítulo I — Protección a la salud y seguridad de los consumidores
 
 ###### Artículo 25. Deber general de seguridad
 
@@ -310,7 +318,9 @@ f. Se debe describir el nivel de certidumbre que rodea al riesgo o peligro previ
 
 g. Deben explicarse las medidas que se adoptan para evitar el riesgo o daño o para mitigar los efectos que puedan producirse. La advertencia debe, de ser posible, señalar cómo corregir estos problemas de una manera clara y sencilla.
 
-h. Se debe incluir una fuente de información alternativa, que sea gratuita y de fácil acceso para los consumidores, con la finalidad de poder contar con mayor información sobre las advertencias de los riesgos y peligros del producto, indicando el número gratuito de contacto o su localización. Dicha información debe ser, además, comunicada de inmediato al Indecopi. Subcapítulo II Protección de los consumidores en los alimentos
+h. Se debe incluir una fuente de información alternativa, que sea gratuita y de fácil acceso para los consumidores, con la finalidad de poder contar con mayor información sobre las advertencias de los riesgos y peligros del producto, indicando el número gratuito de contacto o su localización. Dicha información debe ser, además, comunicada de inmediato al Indecopi.
+
+#### Subcapítulo II — Protección de los consumidores en los alimentos
 
 ###### Artículo 30. Inocuidad de los alimentos
 
@@ -344,7 +354,7 @@ Cuando un alimento contenga un tipo de grasa considerada trans debe advertirlo e
 
 Los alimentos que incorporen componentes genéticamente modificados deben indicarlo en sus etiquetas.
 
-Capítulo V Protección de los intereses sociales y económicos
+### Capítulo V — Protección de los intereses sociales y económicos
 
 ###### Artículo 38
 
@@ -384,7 +394,7 @@ Se encuentra prohibido que los proveedores redondeen los precios en perjuicio de
 
 ## TÍTULO II — CONTRATOS
 
-Capítulo I Disposiciones Generales
+### Capítulo I — Disposiciones Generales
 
 ###### Artículo 45. Contrato de consumo
 
@@ -426,7 +436,7 @@ b. Accesibilidad y legibilidad, de forma que permita al consumidor y usuario el 
 
 c. Buena fe y equilibrio necesario en los derechos y obligaciones de las partes, lo que en todo caso excluye la utilización de cláusulas abusivas. Lo dispuesto en el presente artículo resulta de aplicación a los contratos celebrados en base a cláusulas generales de contratación, se encuentren o no sometidas a aprobación administrativa.
 
-Capítulo II Cláusulas abusivas
+### Capítulo II — Cláusulas abusivas
 
 ###### Artículo 49
 
@@ -470,7 +480,9 @@ f. Las que establezcan que el proveedor puede cambiar unilateralmente en perjuic
 
 ###### Artículo 52
 
-Inaplicación de las cláusulas abusivas 52.1. Las cláusulas abusivas ineficaces a que se refiere el presente Código son inaplicadas por la autoridad administrativa. 52.2. El ejercicio de esta facultad por la autoridad administrativa se hace efectivo sin perjuicio de las decisiones que sobre el particular pueden ser adoptadas en el ámbito jurisdiccional o arbitral, según fuese el caso. Capítulo III Aprobación administrativa
+Inaplicación de las cláusulas abusivas 52.1. Las cláusulas abusivas ineficaces a que se refiere el presente Código son inaplicadas por la autoridad administrativa. 52.2. El ejercicio de esta facultad por la autoridad administrativa se hace efectivo sin perjuicio de las decisiones que sobre el particular pueden ser adoptadas en el ámbito jurisdiccional o arbitral, según fuese el caso.
+
+### Capítulo III — Aprobación administrativa
 
 ###### Artículo 53. Cláusulas generales de contratación
 
@@ -486,7 +498,7 @@ Difusión de las cláusulas generales de contratación aprobadas por la autorida
 
 ## TÍTULO III — MÉTODOS COMERCIALES ABUSIVOS
 
-Capítulo I Métodos comerciales coercitivos
+### Capítulo I — Métodos comerciales coercitivos
 
 ###### Artículo 56
 
@@ -508,7 +520,9 @@ g. Exigir al consumidor la presentación de documentación innecesaria para la p
 
 ###### Artículo 57. Prácticas abusivas
 
-También son métodos abusivos todas aquellas otras prácticas que, aprovechándose de la situación de desventaja del consumidor resultante de las circunstancias particulares de la relación de consumo, le impongan condiciones excesivamente onerosas o que no resulten previsibles al momento de contratar. Capítulo II Métodos comerciales agresivos o engañosos
+También son métodos abusivos todas aquellas otras prácticas que, aprovechándose de la situación de desventaja del consumidor resultante de las circunstancias particulares de la relación de consumo, le impongan condiciones excesivamente onerosas o que no resulten previsibles al momento de contratar.
+
+### Capítulo II — Métodos comerciales agresivos o engañosos
 
 ###### Artículo 58
 
@@ -540,7 +554,7 @@ El derecho a la restitución se considera válidamente ejercido cuando el consum
 
 Es nula la renuncia anticipada al derecho a la restitución, conforme a lo señalado en el artículo 59.
 
-Capítulo III Métodos abusivos en el cobro
+### Capítulo III — Métodos abusivos en el cobro
 
 ###### Artículo 61. Procedimientos de cobranza
 
@@ -568,7 +582,7 @@ h. Cualquier otra modalidad análoga a lo señalado anteriormente.
 
 ## TÍTULO IV — LA PROTECCIÓN DEL CONSUMIDOR EN PRODUCTOS O SERVICIOS ESPECÍFICOS
 
-Capítulo I Servicios públicos regulados
+### Capítulo I — Servicios públicos regulados
 
 ###### Artículo 63. Regulación de los servicios públicos
 
@@ -614,7 +628,7 @@ Registrada una reclamación, la empresa proveedora del servicio público informa
 
 Garantía de protección a los usuarios de servicios públicos regulados 66.1. La empresa proveedora del servicio público debe proporcionar al usuario reclamante, a su solicitud, información oportuna respecto al estado de los procedimientos de reclamación tramitados por este. 66.2. La empresa proveedora del servicio público no puede condicionar la atención de las reclamaciones formuladas por los usuarios al pago previo del monto reclamado. 66.3. La empresa proveedora del servicio público no puede suspender la prestación del servicio basándose en la falta de pago de los montos objeto de reclamación en tanto esta no haya sido resuelta ni puede efectuar gestiones de cobranza por dichos montos mientras la reclamación presentada se encuentre en trámite. 66.4. Los usuarios tienen derecho a recibir el servicio público de acuerdo con los parámetros de calidad y condiciones establecidos por la normativa sectorial correspondiente. Para tal fin, los usuarios deben realizar el pago oportuno de la contraprestación respectiva y hacer uso del servicio de acuerdo con los fines para los cuales fue contratado. 66.5. Los usuarios de servicios públicos tienen derecho a la continuidad del servicio y los proveedores son responsables por dicho incumplimiento de acuerdo con la normativa pertinente. 66.6. Los usuarios tienen derecho a la acumulación del saldo de minutos o segundos no consumidos en los paquetes de minutos o segundos predeterminados en las tarjetas o en las recargas virtuales o similares de telefonía fija o celular, conforme a las normas reglamentarias que para dicho efecto emita el organismo regulador competente. 66.7. Los consumidores del servicio de transporte nacional en cualquier modalidad pueden endosar o transferir la titularidad del servicio adquirido a favor de otro consumidor plenamente identificado o postergar la realización del servicio en las mismas condiciones pactadas, pudiendo ser considerado como parte de pago según lo pactado, debiendo comunicar ello de manera previa y fehaciente al proveedor del servicio con una anticipación no menor a veinticuatro (24) horas de la fecha y hora prevista para la prestación del servicio, asumiendo los gastos únicamente relacionados con la emisión del nuevo boleto, los cuales no deben ser superiores al costo efectivo de dicha emisión. En caso de que el consumidor adquiera boletos de ida y vuelta o boletos para destinos o tramos múltiples y no hiciera uso de alguno de los tramos, tiene el derecho de utilizar los destinos o tramos siguientes, quedando prohibido que los proveedores dejen sin efecto este derecho, salvo que el consumidor cuente con otra reserva o boleto para la misma ruta entre las fechas comprendidas en el boleto cuyo tramo desea preservar[^7].
 
-Capítulo II Productos o servicios de salud
+### Capítulo II — Productos o servicios de salud
 
 ###### Artículo 67
 
@@ -662,7 +676,9 @@ Cuando el pago de la cuota de financiamiento sea condición para continuar bajo 
 
 ###### Artículo 72
 
-Condiciones aplicables a los seguros de salud y planes y programas de salud Las empresas de seguros y los proveedores de servicios de salud no pueden, mediante la variación unilateral de las condiciones referidas a preexistencias, eliminar las coberturas inicialmente pactadas. Esta disposición también se aplica para las renovaciones de los planes o seguros de salud. Capítulo III Productos o servicios educativos
+Condiciones aplicables a los seguros de salud y planes y programas de salud Las empresas de seguros y los proveedores de servicios de salud no pueden, mediante la variación unilateral de las condiciones referidas a preexistencias, eliminar las coberturas inicialmente pactadas. Esta disposición también se aplica para las renovaciones de los planes o seguros de salud.
+
+### Capítulo III — Productos o servicios educativos
 
 ###### Artículo 73. Idoneidad en productos y servicios educativos
 
@@ -688,7 +704,9 @@ g. Que la institución educativa difunda y promueva objetivamente las ventajas y
 
 ###### Artículo 75
 
-Deber de informar de los centros y programas educativos Los centros y programas educativos antes de finalizar cada período educativo y durante el proceso de matrícula están obligados a brindar en forma veraz, suficiente, apropiada y por escrito al consumidor información sobre el monto, número y oportunidad de pago de las cuotas o pensiones del siguiente período educativo, así como la posibilidad de que se incremente el monto de las mismas. Capítulo IV Productos o servicios inmobiliarios
+Deber de informar de los centros y programas educativos Los centros y programas educativos antes de finalizar cada período educativo y durante el proceso de matrícula están obligados a brindar en forma veraz, suficiente, apropiada y por escrito al consumidor información sobre el monto, número y oportunidad de pago de las cuotas o pensiones del siguiente período educativo, así como la posibilidad de que se incremente el monto de las mismas.
+
+### Capítulo IV — Productos o servicios inmobiliarios
 
 ###### Artículo 76
 
@@ -820,7 +838,7 @@ d. Ofrecer servicio de atención: dar respuesta dentro del plazo establecido por
 
 e. Establecer un procedimiento de atención de quejas sencillo y rápido que incluya el registro y seguimiento de las mismas.
 
-Capítulo V Productos o servicios financieros
+### Capítulo V — Productos o servicios financieros
 
 ###### Artículo 81. Marco legal
 
@@ -910,7 +928,9 @@ f) La publicación en su oficio notarial o en su página web de los requisitos n
 
 La relación actualizada de los notarios está a libre disposición de las empresas que financian las transferencias, quienes tienen la obligación de proporcionarla a sus clientes o usuarios[^15][^16].
 
-Capítulo VI Servicios de crédito prestados por empresas no supervisadas por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones
+### Capítulo VI — Servicios de crédito prestados por empresas no supervisadas
+
+por la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones
 
 ###### Artículo 91. Alcance
 
@@ -966,7 +986,7 @@ En el caso de créditos que sean objeto de un refinanciamiento, el proveedor se 
 
 ## TÍTULO V — RESPONSABILIDAD Y SANCIONES
 
-Capítulo I Responsabilidad del proveedor y derechos del consumidor
+### Capítulo I — Responsabilidad del proveedor y derechos del consumidor
 
 ###### Artículo 97. Derechos de los consumidores
 
@@ -1004,7 +1024,7 @@ b. Cuando el consumidor advierta que un instrumento empleado para la medición o
 
 Los pagos hechos en exceso del precio estipulado son recuperables por el consumidor y devengan hasta su devolución el máximo de los intereses compensatorios y moratorios que se hayan pactado, y en su defecto el interés legal. La acción para solicitar la devolución de estos pagos prescribe a los dos ([^2]) años contados a partir de la fecha en que tuvo lugar el pago. En el caso de pagos indebidos, el plazo de prescripción es de cinco ([^5]) años.
 
-Capítulo II Responsabilidad civil
+### Capítulo II — Responsabilidad civil
 
 ###### Artículo 100. Responsabilidad civil
 
@@ -1028,7 +1048,11 @@ d. Los materiales, el contenido y la condición del producto.
 
 ###### Artículo 103. Daños indemnizables
 
-La indemnización comprende todas las consecuencias causadas por el defecto, incluido el daño emergente, el lucro cesante, el daño a la persona y el daño moral. Capítulo III Responsabilidad administrativa Subcapítulo I Disposiciones generales
+La indemnización comprende todas las consecuencias causadas por el defecto, incluido el daño emergente, el lucro cesante, el daño a la persona y el daño moral.
+
+### Capítulo III — Responsabilidad administrativa
+
+#### Subcapítulo I — Disposiciones generales
 
 ###### Artículo 104. Responsabilidad administrativa del proveedor
 
@@ -1070,7 +1094,11 @@ Para la cobertura a nivel nacional el Indecopi, previo acuerdo de su Consejo Dir
 
 En los procedimientos sancionadores de protección al consumidor no es obligatoria la intervención de abogado, conforme a lo señalado en el artículo 42 del Decreto Legislativo Nº 80722. 106.[^2]. Procedimiento de liquidación de costas y costos[^23].
 
-De manera supletoria, en todo lo no previsto en el presente Código y en las disposiciones especiales, es aplicable a los procedimientos administrativos anteriormente señalados, la Ley Nº 27444, Ley del Procedimiento Administrativo General. La regulación propia del Derecho Procesal Civil es aplicable solo en cuanto sea compatible con el régimen administrativo[^24]. Subcapítulo II Procedimiento sancionador en materia de protección al consumidor
+De manera supletoria, en todo lo no previsto en el presente Código y en las disposiciones especiales, es aplicable a los procedimientos administrativos anteriormente señalados, la Ley Nº 27444, Ley del Procedimiento Administrativo General. La regulación propia del Derecho Procesal Civil es aplicable solo en cuanto sea compatible con el régimen administrativo[^24].
+
+#### Subcapítulo II — Procedimiento sancionador en materia de protección al
+
+consumidor
 
 ###### Artículo 107. Postulación del procedimiento
 
@@ -1342,7 +1370,11 @@ Interrumpe la prescripción de la sanción, la iniciación, con conocimiento del
 
 ###### Artículo 123. Recopilación de información por la autoridad
 
-El secretario técnico y la Comisión de Protección al Consumidor del Indecopi están facultados para reunir información relativa a las características y condiciones de los productos o servicios que se expenden en el mercado, con el objeto de informar al consumidor para permitirle tomar una adecuada decisión de consumo. Los procedimientos seguidos ante el Indecopi tienen carácter público. En esa medida, el secretario técnico y la Comisión de Protección al Consumidor del Indecopi se encuentran facultados para disponer la difusión de información vinculada a los mismos, siempre que lo consideren pertinente en atención a los intereses de los consumidores afectados y no constituya violación de secretos comerciales o industriales. Subcapítulo III Procedimiento sumarísimo en materia de protección al consumidor[^36]
+El secretario técnico y la Comisión de Protección al Consumidor del Indecopi están facultados para reunir información relativa a las características y condiciones de los productos o servicios que se expenden en el mercado, con el objeto de informar al consumidor para permitirle tomar una adecuada decisión de consumo. Los procedimientos seguidos ante el Indecopi tienen carácter público. En esa medida, el secretario técnico y la Comisión de Protección al Consumidor del Indecopi se encuentran facultados para disponer la difusión de información vinculada a los mismos, siempre que lo consideren pertinente en atención a los intereses de los consumidores afectados y no constituya violación de secretos comerciales o industriales.
+
+#### Subcapítulo III — Procedimiento sumarísimo en materia de protección al
+
+consumidor[^36]
 
 ###### Artículo 124
 
@@ -1404,7 +1436,7 @@ Procesos judiciales para la defensa de intereses colectivos de los consumidores 
 
 ## TÍTULO VII — SISTEMA NACIONAL INTEGRADO DE PROTECCIÓN DEL CONSUMIDOR
 
-Capítulo I Sistema Nacional Integrado de Protección del Consumidor
+### Capítulo I — Sistema Nacional Integrado de Protección del Consumidor
 
 ###### Artículo 132. Creación del Sistema Nacional Integrado de
 
@@ -1488,7 +1520,11 @@ h. Elaborar y presentar el informe anual del estado de la protección de los con
 
 i. Coordinar y presidir el funcionamiento del Sistema Nacional Integrado de Protección del Consumidor.
 
-j. En su calidad de ente rector del sistema, emitir directivas para la operatividad del mismo, respetando la autonomía técnico-normativa, funcional, administrativa, económica y constitucional, según corresponda, de los integrantes del Sistema Nacional Integrado de Protección del Consumidor. Capítulo II Justicia de consumo Subcapítulo I Sistema de Arbitraje de Consumo
+j. En su calidad de ente rector del sistema, emitir directivas para la operatividad del mismo, respetando la autonomía técnico-normativa, funcional, administrativa, económica y constitucional, según corresponda, de los integrantes del Sistema Nacional Integrado de Protección del Consumidor.
+
+### Capítulo II — Justicia de consumo
+
+#### Subcapítulo I — Sistema de Arbitraje de Consumo
 
 ###### Artículo 137. Creación del Sistema de Arbitraje de Consumo
 
@@ -1524,7 +1560,9 @@ En cualquier caso y aun cuando en la mediación o conciliación las partes arrib
 
 ###### Artículo 144. Exigibilidad de los laudos arbitrales y acuerdos
 
-El laudo arbitral firme y el acta suscrita por las partes que contiene un acuerdo conciliatorio celebrado entre consumidor y proveedor, conforme a los mecanismos señalados en el presente capítulo, constituyen título ejecutivo, conforme a lo dispuesto en el artículo 688 del Código Procesal Civil. El incumplimiento de un acuerdo conciliatorio o laudo celebrado entre consumidor y proveedor constituye una infracción al presente Código. En estos casos, si el obligado a cumplir con un acuerdo o laudo no lo hace, se le impone automáticamente una sanción de hasta el máximo de la multa permitida, para cuya graduación se toman en cuenta los criterios establecidos en el artículo 112 de este Código. Dicha multa debe ser pagada dentro del plazo de cinco (5) días de notificada, vencido el cual se ordena su cobranza coactiva. Si el obligado persiste en el incumplimiento, el Indecopi puede imponer una nueva multa duplicando sucesiva e ilimitadamente el monto de la última multa impuesta hasta que se cumpla con lo acordado. Las multas impuestas no impiden al Indecopi imponer una multa o sanción distinta al final de un procedimiento, de ser el caso. Asimismo, el Indecopi es competente para ordenar las medidas correctivas enunciadas en el presente Código. Este artículo es de aplicación para todos los acuerdos conciliatorios válidos celebrados entre consumidor y proveedor, incluidos aquellos obtenidos ante instituciones sin convenio con el Indecopi. Subcapítulo II Mecanismos alternativos de solución de conflictos
+El laudo arbitral firme y el acta suscrita por las partes que contiene un acuerdo conciliatorio celebrado entre consumidor y proveedor, conforme a los mecanismos señalados en el presente capítulo, constituyen título ejecutivo, conforme a lo dispuesto en el artículo 688 del Código Procesal Civil. El incumplimiento de un acuerdo conciliatorio o laudo celebrado entre consumidor y proveedor constituye una infracción al presente Código. En estos casos, si el obligado a cumplir con un acuerdo o laudo no lo hace, se le impone automáticamente una sanción de hasta el máximo de la multa permitida, para cuya graduación se toman en cuenta los criterios establecidos en el artículo 112 de este Código. Dicha multa debe ser pagada dentro del plazo de cinco (5) días de notificada, vencido el cual se ordena su cobranza coactiva. Si el obligado persiste en el incumplimiento, el Indecopi puede imponer una nueva multa duplicando sucesiva e ilimitadamente el monto de la última multa impuesta hasta que se cumpla con lo acordado. Las multas impuestas no impiden al Indecopi imponer una multa o sanción distinta al final de un procedimiento, de ser el caso. Asimismo, el Indecopi es competente para ordenar las medidas correctivas enunciadas en el presente Código. Este artículo es de aplicación para todos los acuerdos conciliatorios válidos celebrados entre consumidor y proveedor, incluidos aquellos obtenidos ante instituciones sin convenio con el Indecopi.
+
+#### Subcapítulo II — Mecanismos alternativos de solución de conflictos
 
 ###### Artículo 145. Arbitraje
 
@@ -1546,7 +1584,9 @@ Los consumidores pueden someter a mediación la controversia surgida con el prov
 
 ###### Artículo 149. Acta de mediación
 
-La propuesta que puede plantear el denunciado no constituye reconocimiento de los hechos denunciados, salvo que así lo señale de manera expresa. Subcapítulo III El libro de reclamaciones
+La propuesta que puede plantear el denunciado no constituye reconocimiento de los hechos denunciados, salvo que así lo señale de manera expresa.
+
+#### Subcapítulo III — El libro de reclamaciones
 
 ###### Artículo 150. Libro de reclamaciones
 
@@ -1558,7 +1598,9 @@ A efectos del artículo 150, los establecimientos comerciales deben exhibir, en 
 
 ###### Artículo 152. Entrega del libro de reclamaciones
 
-Los consumidores pueden exigir la entrega del libro de reclamaciones para formular su queja o reclamo respecto de los productos o servicios ofertados. Los establecimientos comerciales tienen la obligación de remitir al Indecopi la documentación correspondiente al libro de reclamaciones cuando éste le sea requerido. En los procedimientos sancionadores, el proveedor denunciado debe remitir la copia de la queja o reclamo correspondiente junto con sus descargos. Capítulo III Asociaciones de consumidores
+Los consumidores pueden exigir la entrega del libro de reclamaciones para formular su queja o reclamo respecto de los productos o servicios ofertados. Los establecimientos comerciales tienen la obligación de remitir al Indecopi la documentación correspondiente al libro de reclamaciones cuando éste le sea requerido. En los procedimientos sancionadores, el proveedor denunciado debe remitir la copia de la queja o reclamo correspondiente junto con sus descargos.
+
+### Capítulo III — Asociaciones de consumidores
 
 ###### Artículo 153
 
@@ -1612,7 +1654,11 @@ Responsabilidad de la asociación y sus representantes legales En caso de produc
 
 ###### Artículo 159. Aplicación supletoria para los servicios públicos
 
-Las reglas incluidas en el presente capítulo se aplican, de manera supletoria, a las disposiciones de los organismos reguladores de los servicios públicos. Capítulo IV Calidad y normalización en la producción de productos y servicios
+Las reglas incluidas en el presente capítulo se aplican, de manera supletoria, a las disposiciones de los organismos reguladores de los servicios públicos.
+
+### Capítulo IV — Calidad y normalización en la producción de productos y
+
+servicios
 
 ###### Artículo 160. Promoción de normas técnicas peruanas
 

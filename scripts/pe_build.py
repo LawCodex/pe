@@ -45,12 +45,30 @@ EDITIONS = [
      [("codigos/codigo-de-proteccion-y-defensa-del-consumidor-ley-29571.md", "Código de Protección y Defensa del Consumidor",
        "Ley N° 29571", "code", "2010-09-02", "2020-11-27", 58, 162,
        [r"SEGUNDA PARTE", r"CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR LEY Nº 29571"])]),
-    ("tuo27444", "https://cdn.www.gob.pe/uploads/document/file/2041933/TUO%2027444-PROCED%20ADMINISTRA-Final.pdf.pdf",
-     "2040776-texto-unico-ordenado-de-la-ley-n-27444-ley-del-procedimiento-administrativo-general-actualizado-al-13-de-julio-de-2021",
+    ("8441836", "https://cdn.www.gob.pe/uploads/document/file/10399631/8441836-tuo-ley-27444-ley-procedimiento-administrativo-general-julio-2026-ok.pdf",
+     "8441836-primera-edicion-oficial-del-texto-unico-ordenado-de-la-ley-n-27444-ley-del-procedimiento-administrativo-general-aprobado-por-el-decreto-supremo-n-006-2026-jus-actualizada-al-8-07-2026",
      [("leyes/tuo-ley-27444-ley-del-procedimiento-administrativo-general.md",
        "Texto Único Ordenado de la Ley N° 27444 – Ley del Procedimiento Administrativo General",
-       "Decreto Supremo N° 004-2019-JUS", "act", "2019-01-25", "2021-07-13", 74, 284,
-       [r"SEGUNDA PARTE", r"TEXTO ÚNICO ORDENADO DE LA LEY N° 27444 - LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL"])]),
+       "Decreto Supremo N° 006-2026-JUS", "act", "2026", "2026-07-08", 30, 236,
+       [r"TEXTO ÚNICO ORDENADO DE LA LEY Nº 27444", r"LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL", r"DECRETO SUPREMO Nº 006-2026-JUS\s*\d*"])]),
+    ("5060551", "https://cdn.www.gob.pe/uploads/document/file/5700008/5060551-codigo-civil-minjus-bcp_n-3.pdf",
+     "5060551-codigo-civil-decreto-legislativo-n-295-decimo-cuarta-edicion-oficial-actualizado-al-1-de-agosto-de-2014",
+     [("codigos/codigo-civil-decreto-legislativo-295.md", "Código Civil", "Decreto Legislativo N° 295", "code",
+       "1984-07-25", "2014-08-01", 50, 474, [r"CÓDIGO CIVIL", r"DECRETO LEGISLATIVO Nº 295"])]),
+    ("1466644", "https://cdn.www.gob.pe/uploads/document/file/1534182/C%C3%B3digo-de-Responsabilidad-Penal-de-Adolescentes-.pdf",
+     "1466644-codigo-de-responsabilidad-penal-de-adolescentes-y-su-reglamento-primera-edicion-oficial-actualizado-al-30-de-agosto-de-2018",
+     [("codigos/codigo-de-responsabilidad-penal-de-adolescentes-decreto-legislativo-1348.md",
+       "Código de Responsabilidad Penal de Adolescentes", "Decreto Legislativo N° 1348", "code", "2017-01-07", "2018-08-30",
+       56, 172, [r"DECRETO LEGISLATIVO Nº 1348"])]),
+    ("1466669", "https://cdn.www.gob.pe/uploads/document/file/1534208/DGDOJ-Ley-Org%C3%A1nica-Poder-Judicial-y-Ministerio-P%C3%BAblico.pdf",
+     "1466669-texto-unico-ordenado-de-la-ley-organica-del-poder-judicial-y-ley-organica-del-ministerio-publico-tercera-edicion-oficial",
+     [("leyes/tuo-ley-organica-del-poder-judicial-ds-017-93-jus.md", "Texto Único Ordenado de la Ley Orgánica del Poder Judicial",
+       "Decreto Supremo N° 017-93-JUS", "act", "1993-06-02", None, 27, 142, []),
+      ("leyes/ley-organica-del-ministerio-publico-decreto-legislativo-52.md", "Ley Orgánica del Ministerio Público",
+       "Decreto Legislativo N° 52", "act", "1981-03-18", None, 142, 245, [])]),
+    ("1466646", "https://cdn.www.gob.pe/uploads/document/file/1534186/1-Ley-del-Servicio-Civil-sus-Reglamentos-y-precedentes-administrativos-de-observancia-obligatoria.pdf",
+     "1466646-ley-del-servicio-civil-sus-reglamentos-y-precedentes-administrativos-de-observancia-obligatoria-primera-edicion-oficial-actualizado-al-7-de-diciembre-de-2017",
+     [("leyes/ley-30057-ley-del-servicio-civil.md", "Ley del Servicio Civil", "Ley N° 30057", "act", "2013-07-04", "2017-12-07", 30, 94, [])]),
     ("l26300", "https://cdn.www.gob.pe/uploads/document/file/9120472/7485314-primera-edicion-oficial-de-la-ley-n-26300.pdf",
      "7485314-primera-edicion-oficial-de-la-ley-n-26300-ley-de-los-derechos-de-participacion-y-control-ciudadanos-actualizada-al-4-de-diciembre-de-2025",
      [("leyes/ley-26300-ley-de-los-derechos-de-participacion-y-control-ciudadanos.md",
@@ -99,8 +117,9 @@ def build_editions():
                 "date": dt, "last_amended": amended, "status": "in_force",
                 "source": GOB + page, "source_pdf": url, "retrieved": TODAY,
             }
-            pre = ("> Texto tomado de la edición oficial del Ministerio de Justicia y Derechos Humanos "
-                   f"(texto actualizado al {amended}). Las notas al pie de la edición oficial se reproducen al final.")
+            pre = ("> Texto tomado de la edición oficial del Ministerio de Justicia y Derechos Humanos"
+                   + (f" (texto actualizado al {amended})" if amended else "")
+                   + ". Las notas al pie de la edición oficial se reproducen al final.")
             path = os.path.join(REPO, out)
             os.makedirs(os.path.dirname(path), exist_ok=True)
             open(path, "w", encoding="utf-8").write(P.render(front, title, md, notes, pre))

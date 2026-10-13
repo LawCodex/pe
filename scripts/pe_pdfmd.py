@@ -263,7 +263,7 @@ def lines_to_md(pages_lines, article_word="Artículo"):
                         j += 1
                 if names:
                     title = s + " — " + " ".join(names)
-            if is_caps(m.group(1)) and (is_caps(s) or not m.group(3).strip()):
+            if (is_caps(m.group(1)) and is_caps(s)) or (not m.group(3).strip() and m.group(1)[:1].isupper()):
                 b.heading(kind, re.sub(r"\s+", " ", title))
                 i = j
                 continue

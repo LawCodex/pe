@@ -710,9 +710,9 @@ Ejercen además la dirección las Juntas de Jueces Especializados o Mixtos en la
 
 Presidente de la Corte Suprema. Titular del Poder Judicial 79 El Presidente de la Corte Suprema lo es también del Poder Judicial, en consonancia con el Artículo 144º de la Constitución Política del Perú y, como tal, le corresponde la categoría de titular de uno de los poderes del Estado.80 Elección del Presidente de la Corte Suprema
 
-###### Artículo 74º. El Presidente de la Corte Suprema es elegido entre los
+###### Artículo 74º
 
-Vocales Supremos Titulares reunidos en Sala Plena, por mayoría absoluta, por un período de dos años. El voto es secreto y no hay reelección. La elección se realiza el primer jueves del mes de diciembre del año que corresponda. Si ninguno de los candidatos obtiene la mitad más uno de los votos de los electores, se procede a una segunda votación, la cual se realiza en la misma fecha, entre los candidatos que hayan obtenido las dos más altas mayorías relativas.
+El Presidente de la Corte Suprema es elegido entre los Vocales Supremos Titulares reunidos en Sala Plena, por mayoría absoluta, por un período de dos años. El voto es secreto y no hay reelección. La elección se realiza el primer jueves del mes de diciembre del año que corresponda. Si ninguno de los candidatos obtiene la mitad más uno de los votos de los electores, se procede a una segunda votación, la cual se realiza en la misma fecha, entre los candidatos que hayan obtenido las dos más altas mayorías relativas.
 
 En la segunda votación sólo se requiere mayoría simple. En caso de empate será electo el candidato con mayor antigüedad, conforme al último párrafo del Artículo 221º de esta ley.81 82 83 84 CONCORDANCIA: R. ADM. Nº 211-2004-CE-PJ Reemplazo del Presidente de la Corte Suprema en caso de impedimento, muerte o cese
 
@@ -812,9 +812,9 @@ En tanto se encuentren en el ejercicio de sus cargos, los miembros del Consejo E
 
 Los jueces integrantes del Consejo Ejecutivo del Poder Judicial ejercen su función a dedicación exclusiva.95
 
-###### Artículo 82º. Funciones y Atribuciones del Consejo Ejecutivo del
+###### Artículo 82º
 
-Poder Judicial 96 Son funciones y atribuciones del Consejo Ejecutivo del Poder Judicial:
+Funciones y Atribuciones del Consejo Ejecutivo del Poder Judicial 96 Son funciones y atribuciones del Consejo Ejecutivo del Poder Judicial:
 
 1. Proponer a la Sala Plena de la Corte Suprema la Política General del Poder Judicial y aprobar el Plan de Desarrollo del mismo.
 
@@ -920,9 +920,9 @@ En caso de impedimento, muerte o cese del Presidente de la Corte Superior, asume
 
 Atribuciones y obligaciones
 
-###### Artículo 90º. Son atribuciones y obligaciones del Presidente de la
+###### Artículo 90º
 
-Corte Superior: 1.- Representar al Poder Judicial, en su respectivo Distrito Judicial; 2.- Convocar, presidir y dirigir las Salas Plenas y las sesiones del Consejo Ejecutivo Distrital. En ambos casos tiene voto dirimente; 3.- Dirigir, la aplicación de la política del Poder Judicial en su Distrito, en coordinación con el Consejo Ejecutivo del Poder Judicial; 4.- Cautelar la pronta administración de justicia, así como el cumplimiento de las obligaciones de los Magistrados del Distrito Judicial; 5.- Supervisar la asistencia y puntualidad de los Magistrados cautelando que se registre en su legajo personal; 6.- Ejecutar los acuerdos de la Sala Plena y del Consejo Ejecutivo Distrital; 7.- Conformar las Salas de acuerdo al criterio de especialización; 8.- Coordinar y supervigilar el cumplimiento de las labores del Consejo Ejecutivo Distrital; y, 9.- Ejercer las demás atribuciones que le confieren las leyes y los reglamentos.
+Son atribuciones y obligaciones del Presidente de la Corte Superior: 1.- Representar al Poder Judicial, en su respectivo Distrito Judicial; 2.- Convocar, presidir y dirigir las Salas Plenas y las sesiones del Consejo Ejecutivo Distrital. En ambos casos tiene voto dirimente; 3.- Dirigir, la aplicación de la política del Poder Judicial en su Distrito, en coordinación con el Consejo Ejecutivo del Poder Judicial; 4.- Cautelar la pronta administración de justicia, así como el cumplimiento de las obligaciones de los Magistrados del Distrito Judicial; 5.- Supervisar la asistencia y puntualidad de los Magistrados cautelando que se registre en su legajo personal; 6.- Ejecutar los acuerdos de la Sala Plena y del Consejo Ejecutivo Distrital; 7.- Conformar las Salas de acuerdo al criterio de especialización; 8.- Coordinar y supervigilar el cumplimiento de las labores del Consejo Ejecutivo Distrital; y, 9.- Ejercer las demás atribuciones que le confieren las leyes y los reglamentos.
 
 Designación de integrantes de Salas Especializadas Superiores
 
@@ -940,9 +940,9 @@ En la ceremonia de inicio del Año Judicial, el Presidente de la Corte, lee su M
 
 Integrantes, quórum, acuerdos y convocatorias
 
-###### Artículo 93º. Forman la Sala Plena de la Corte Superior, todos los
+###### Artículo 93º
 
-Vocales Superiores titulares y provisionales que ocupen cargo vacante. Los Vocales de la Oficina de Control de la Magistratura y del Consejo Ejecutivo no intervienen en los casos en que hayan conocido en el ejercicio de sus funciones.
+Forman la Sala Plena de la Corte Superior, todos los Vocales Superiores titulares y provisionales que ocupen cargo vacante. Los Vocales de la Oficina de Control de la Magistratura y del Consejo Ejecutivo no intervienen en los casos en que hayan conocido en el ejercicio de sus funciones.
 
 El quórum es de más de la mitad del número de Vocales en ejercicio. La asistencia es obligatoria, la inasistencia se sanciona con una multa equivalente a un día de haber, debiendo publicarse la relación de los concurrentes e inasistentes. Los acuerdos se adoptan por mayoría simple. Se reúne para la ceremonia de inicio del Año Judicial, cuando lo convoque el Presidente o cuando lo soliciten tres o más de sus miembros. En este último caso, si la Corte tiene más de quince Vocales es necesario un tercio del número total de miembros.119 120 121 CONCORDANCIA: R. ADM. Nº 211-2004-CE-PJ Atribuciones
 
@@ -1046,9 +1046,9 @@ Son funciones de la Oficina de Control de la Magistratura del Poder Judicial las
 
 13. Aplicar en primera instancia la medida disciplinaria de suspensión. La resolución podrá ser apelada en el plazo de 5 (cinco) días, la misma que será resuelta en última instancia por el Consejo Ejecutivo del Poder Judicial, en el término de 30 (treinta) días útiles.152 CONCORDANCIA: R. Nº 017-2005-J-OCMA.CS Aplicación de sanciones disciplinarias y propuesta de separación y destitución
 
-###### Artículo 106º. El Jefe de la Oficina de Control de la Magistratura del
+###### Artículo 106º
 
-Poder Judicial, al término de los procesos instaurados a los Magistrados y auxiliares jurisdiccionales de dicho Poder, aplica de ser procedentes, las sanciones disciplinarias señaladas en el Capítulo VI del Título III de la Sección Cuarta de esta Ley, con excepción de las medidas de separación y destitución, las que, en su caso, debe proponer al Consejo Ejecutivo del Poder Judicial.
+El Jefe de la Oficina de Control de la Magistratura del Poder Judicial, al término de los procesos instaurados a los Magistrados y auxiliares jurisdiccionales de dicho Poder, aplica de ser procedentes, las sanciones disciplinarias señaladas en el Capítulo VI del Título III de la Sección Cuarta de esta Ley, con excepción de las medidas de separación y destitución, las que, en su caso, debe proponer al Consejo Ejecutivo del Poder Judicial.
 
 El Presidente de la Corte Suprema tiene voto dirimente.
 
@@ -1060,9 +1060,9 @@ CONCORDANCIA: LEY Nº 26397, Art. 21º inc. c) Justificación de los signos exte
 
 Oficina de Inspectoría General
 
-###### Artículo 108º. La gestión administrativa, económica y financiera del
+###### Artículo 108º
 
-Poder Judicial está sometida al Control de la Oficina de Inspectoría General, de conformidad con las normas del Sistema Nacional de Control.
+La gestión administrativa, económica y financiera del Poder Judicial está sometida al Control de la Oficina de Inspectoría General, de conformidad con las normas del Sistema Nacional de Control.
 
 La Oficina de Inspectoría General del Poder Judicial es dirigida por un Auditor General o Contador Público Colegiado, designado por el Consejo Ejecutivo de dicho Poder. Está integrada por el personal de auditores necesarios para el cumplimiento de sus fines.
 
@@ -1078,9 +1078,9 @@ El Consejo Ejecutivo del Poder Judicial puede crear Oficinas descentralizadas de
 
 Funciones de la Oficina de Inspectoría General
 
-###### Artículo 110º. Son funciones de la Oficina de Inspectoría General del
+###### Artículo 110º
 
-Poder Judicial las siguientes; 1.- Realizar auditorías, exámenes especiales, inspecciones e investigaciones en todas las dependencias del Poder Judicial, procediendo de oficio o por mandato del Consejo Ejecutivo o del Presidente de la Corte Suprema; 2.- Verificar que los funcionarios, empleados y servidores en general del Poder Judicial cumplan las normas legales y administrativas de su competencia, así como las que dicta el Consejo Ejecutivo; 3.- Realizar de oficio, o por mandato del Consejo Ejecutivo o del Presidente de la Corte Suprema, inspecciones e investigaciones con relación a la conducta funcional de funcionarios, empleados y servidores en general de dicho Poder; 4.- Procesar las quejas de hecho y las reclamaciones contra el personal administrativo del Poder Judicial; 5.- Informar al Consejo Ejecutivo, al Presidente de la Corte Suprema y simultáneamente al Sistema Nacional de Control, sobre infracciones administrativas, de conformidad con las disposiciones pertinentes de la Ley Orgánica del Sistema Nacional de Control; 6.- Dar trámite a lo actuado en el cumplimiento de las funciones de su competencia; 7.- Informar al Consejo Ejecutivo y al Presidente de la Corte Suprema sobre todas las infracciones que detecte, dentro de los treinta días siguientes; 8.- Verificar el cumplimiento de las medidas correctivas que se dictan, en el orden administrativo; 9.- Llevar un registro actualizado de las sanciones ejecutoriadas de los funcionarios, empleados y servidores en general del Poder Judicial; 10.- Las demás que señala la presente Ley y el reglamento. Régimen Laboral del personal administrativo
+Son funciones de la Oficina de Inspectoría General del Poder Judicial las siguientes; 1.- Realizar auditorías, exámenes especiales, inspecciones e investigaciones en todas las dependencias del Poder Judicial, procediendo de oficio o por mandato del Consejo Ejecutivo o del Presidente de la Corte Suprema; 2.- Verificar que los funcionarios, empleados y servidores en general del Poder Judicial cumplan las normas legales y administrativas de su competencia, así como las que dicta el Consejo Ejecutivo; 3.- Realizar de oficio, o por mandato del Consejo Ejecutivo o del Presidente de la Corte Suprema, inspecciones e investigaciones con relación a la conducta funcional de funcionarios, empleados y servidores en general de dicho Poder; 4.- Procesar las quejas de hecho y las reclamaciones contra el personal administrativo del Poder Judicial; 5.- Informar al Consejo Ejecutivo, al Presidente de la Corte Suprema y simultáneamente al Sistema Nacional de Control, sobre infracciones administrativas, de conformidad con las disposiciones pertinentes de la Ley Orgánica del Sistema Nacional de Control; 6.- Dar trámite a lo actuado en el cumplimiento de las funciones de su competencia; 7.- Informar al Consejo Ejecutivo y al Presidente de la Corte Suprema sobre todas las infracciones que detecte, dentro de los treinta días siguientes; 8.- Verificar el cumplimiento de las medidas correctivas que se dictan, en el orden administrativo; 9.- Llevar un registro actualizado de las sanciones ejecutoriadas de los funcionarios, empleados y servidores en general del Poder Judicial; 10.- Las demás que señala la presente Ley y el reglamento. Régimen Laboral del personal administrativo
 
 ###### Artículo 111º. (Derogado) 154
 
@@ -1610,9 +1610,9 @@ e) Los Magistrados que queden inhabilitados para el trabajo, con ocasión del se
 
 9. (Derogado).201 CONCORDANCIA: LEY Nº 28212, Art. 4º Bonificaciones por tiempo de servicios
 
-###### Artículo 187º. Los Magistrados, con excepción de los Vocales de la
+###### Artículo 187º
 
-Corte Suprema, perciben una bonificación equivalente al 25% de su remuneración básica, al cumplir diez años en el cargo sin haber sido promovidos. Esta bonificación no es computable al ascender, requiriéndose nuevamente diez años en el nuevo grado para percibirla. Los Magistrados de la Corte Suprema que permanezcan más de cinco años en el ejercicio del cargo, perciben una bonificación adicional, equivalente a un 25% de su remuneración básica, sin considerar bonificaciones ni asignaciones especiales. Esta bonificación es pensionable sólo después que el Vocal cumpla treinta años de servicios al Estado, diez de los cuales deben corresponder al Poder Judicial. Pensión de cesantes y jubilados
+Los Magistrados, con excepción de los Vocales de la Corte Suprema, perciben una bonificación equivalente al 25% de su remuneración básica, al cumplir diez años en el cargo sin haber sido promovidos. Esta bonificación no es computable al ascender, requiriéndose nuevamente diez años en el nuevo grado para percibirla. Los Magistrados de la Corte Suprema que permanezcan más de cinco años en el ejercicio del cargo, perciben una bonificación adicional, equivalente a un 25% de su remuneración básica, sin considerar bonificaciones ni asignaciones especiales. Esta bonificación es pensionable sólo después que el Vocal cumpla treinta años de servicios al Estado, diez de los cuales deben corresponder al Poder Judicial. Pensión de cesantes y jubilados
 
 ###### Artículo 188º
 
@@ -1794,9 +1794,9 @@ Los Consejos Ejecutivos y las Cortes Superiores, en su caso, para formular el cu
 
 Cuadro de antigüedad
 
-###### Artículo 221º. El cuadro de antigüedad contiene la relación de
+###### Artículo 221º
 
-Magistrados de cada grado, ordenados de acuerdo a la fecha de ingreso en la carrera judicial.
+El cuadro de antigüedad contiene la relación de Magistrados de cada grado, ordenados de acuerdo a la fecha de ingreso en la carrera judicial.
 
 El cómputo se hace a partir de la fecha de juramento al cargo. La precedencia de los Magistrados depende de la antigüedad en el grado al que pertenecen. Si dos o más Magistrados han tomado posesión del cargo en la misma fecha, precede el que haya desempeñado durante mayor tiempo el cargo judicial anterior como titular o provisional, en el mismo cargo. En su defecto, el que tenga más tiempo como Abogado.230 231 232 CONCORDANCIA: R. ADM. Nº 211-2004-CE-PJ Conservación de la antigüedad. Cambio de cargo
 
@@ -1872,9 +1872,9 @@ Los méritos excepcionales de los Magistrados son premiados con la condecoració
 
 Reconocimiento de la conducta funcional
 
-###### Artículo 233º. La conducta funcional y el rendimiento de los
+###### Artículo 233º
 
-Magistrados y auxiliares jurisdiccionales del Poder Judicial, será objeto de reconocimiento por parte del Consejo Ejecutivo. La resolución de reconocimiento felicita al Magistrado o auxiliar jurisdiccional, y se remite a la Oficina de Control de la Magistratura para los efectos a que se contrae el inciso 10) del artículo 105º de la presente Ley. Insignias
+La conducta funcional y el rendimiento de los Magistrados y auxiliares jurisdiccionales del Poder Judicial, será objeto de reconocimiento por parte del Consejo Ejecutivo. La resolución de reconocimiento felicita al Magistrado o auxiliar jurisdiccional, y se remite a la Oficina de Control de la Magistratura para los efectos a que se contrae el inciso 10) del artículo 105º de la presente Ley. Insignias
 
 ###### Artículo 234º
 
@@ -2072,9 +2072,9 @@ El Consejo Ejecutivo del Poder Judicial, regula la organización de las Secretar
 
 Obligaciones y atribuciones
 
-###### Artículo 266º. Son obligaciones y atribuciones genéricas de los
+###### Artículo 266º
 
-Secretarios de Juzgados: 1.- Actuar únicamente en su Juzgado y residir en la localidad donde aquel funciona; 2.- Cumplir estrictamente el horario establecido y atender personalmente a abogados y litigantes; 3.- Guardar secreto en todos los asuntos a su cargo, hasta cuando se hayan traducido en actos procesales concretos; 4.- Vigilar se coloque al margen de los escritos y recursos el día y hora en que se reciben, firmando la constancia respectiva cuando no existe control automático de recepción; 5.- Dar cuenta al Juez de los recursos y escritos a mas tardar dentro del día siguiente de su recepción, bajo responsabilidad; 6.- Autorizar las diligencias y las resoluciones que correspondan según la ley y el Reglamento; 7.- Actuar personalmente en las diligencias a que están obligados, salvo en los casos en que por disposición de la ley o mandato del Juez pueda comisionarse a los Oficiales Auxiliares de Justicia u otro personal de auxilio judicial; 8.- Vigilar que se notifique la resolución al día siguiente de su expedición, salvo el caso de sentencia en que la notificación se debe hacer dentro de dos días de dictada; 9.- Emitir las razones e informes que ordene su Superior; 10.- Facilitar el conocimiento de los expedientes a las partes y a sus abogados, y a las personas que tienen interés legítimo acreditado, con las respectivas seguridades. En el caso de expedientes archivados, pueden facilitar el conocimiento a cualquier persona, debidamente identificada, que los solicite por escrito; 11.- Vigilar la conservación de los expedientes y los documentos que giran a su cargo, siendo responsables por su pérdida, mutilaciones o alteraciones, sin perjuicio de las responsabilidades del personal auxiliar; 12.- Llevar los libros o tarjetas de control que establece el Consejo Ejecutivo Distrital, debidamente ordenados y actualizados; 13.- Expedir copias certificadas, previa orden judicial; 14.- Remitir los expedientes fenecidos, después de cinco años, al archivo del Juzgado; 15.- Admitir, en casos excepcionales, consignaciones en dinero efectivo o cheque certificado a cargo del Banco de la Nación, con autorización especial del Juez, que contiene al mismo tiempo, la orden para que el Secretario formalice el empoce a la entidad autorizada, el primer día útil; 16.- Cuidar que la foliación de los expedientes se haga por orden sucesivo de presentación de los escritos y documentos, y que las resoluciones se enumeren en orden correlativo; 17.- Guardar los archivos que por orden judicial reciban de otros Secretarios; 18.- Atender con el apoyo de los Oficiales Auxiliares de Justicia del Juzgado, el despacho de los decretos de mero trámite y redactar las resoluciones dispuestas por el Juez; 19.- Confeccionar trimestralmente la relación de los procesos en estado de pronunciar sentencia, colocando la tabla de causas cerca de la puerta de la Sala de actuaciones del Juzgado; 20.- En los Juzgados Penales, confeccionar semanalmente una relación de las instrucciones en trámite, con indicación de su estado y si hay o no reo en cárcel. Dicha relación se coloca también cerca de la puerta de la Sala de actuaciones del Juzgado; 21.- Confeccionar trimestralmente la relación de las causas falladas y pendientes, con las referencias que sirven para distinguirlas, a fin de que oportunamente sean elevadas por el Juez al Consejo Ejecutivo Distrital; 22.- Compilar los datos necesarios para la formación de la estadística judicial, en lo que respecta al Juzgado, con indicación del número de causas ingresadas, falladas y pendientes; de las sentencias que hayan sido confirmadas, revocadas o declaradas insubsistentes por la Corte Superior y de aquellas en las que la Corte Suprema interviene conforme a ley, consignando el sentido de las resoluciones; 23.- Cuidar que los subalternos de su dependencia cumplan puntualmente las obligaciones de su cargo, dando cuenta al Juez de las faltas u omisiones en que incurran en las actuaciones, y de su comportamiento en general, a fin de que aquél imponga, en cada caso, la medida disciplinaria que corresponda; y 24.- Cumplir las demás obligaciones que impone la Ley y el Reglamento. CONCORDANCIAS: R. Nº 227-2009-CE-PJ, Reglamento, Art. 8º, num. 7 y Art. 9º, num. 12 Racionalización de la labor procesal
+Son obligaciones y atribuciones genéricas de los Secretarios de Juzgados: 1.- Actuar únicamente en su Juzgado y residir en la localidad donde aquel funciona; 2.- Cumplir estrictamente el horario establecido y atender personalmente a abogados y litigantes; 3.- Guardar secreto en todos los asuntos a su cargo, hasta cuando se hayan traducido en actos procesales concretos; 4.- Vigilar se coloque al margen de los escritos y recursos el día y hora en que se reciben, firmando la constancia respectiva cuando no existe control automático de recepción; 5.- Dar cuenta al Juez de los recursos y escritos a mas tardar dentro del día siguiente de su recepción, bajo responsabilidad; 6.- Autorizar las diligencias y las resoluciones que correspondan según la ley y el Reglamento; 7.- Actuar personalmente en las diligencias a que están obligados, salvo en los casos en que por disposición de la ley o mandato del Juez pueda comisionarse a los Oficiales Auxiliares de Justicia u otro personal de auxilio judicial; 8.- Vigilar que se notifique la resolución al día siguiente de su expedición, salvo el caso de sentencia en que la notificación se debe hacer dentro de dos días de dictada; 9.- Emitir las razones e informes que ordene su Superior; 10.- Facilitar el conocimiento de los expedientes a las partes y a sus abogados, y a las personas que tienen interés legítimo acreditado, con las respectivas seguridades. En el caso de expedientes archivados, pueden facilitar el conocimiento a cualquier persona, debidamente identificada, que los solicite por escrito; 11.- Vigilar la conservación de los expedientes y los documentos que giran a su cargo, siendo responsables por su pérdida, mutilaciones o alteraciones, sin perjuicio de las responsabilidades del personal auxiliar; 12.- Llevar los libros o tarjetas de control que establece el Consejo Ejecutivo Distrital, debidamente ordenados y actualizados; 13.- Expedir copias certificadas, previa orden judicial; 14.- Remitir los expedientes fenecidos, después de cinco años, al archivo del Juzgado; 15.- Admitir, en casos excepcionales, consignaciones en dinero efectivo o cheque certificado a cargo del Banco de la Nación, con autorización especial del Juez, que contiene al mismo tiempo, la orden para que el Secretario formalice el empoce a la entidad autorizada, el primer día útil; 16.- Cuidar que la foliación de los expedientes se haga por orden sucesivo de presentación de los escritos y documentos, y que las resoluciones se enumeren en orden correlativo; 17.- Guardar los archivos que por orden judicial reciban de otros Secretarios; 18.- Atender con el apoyo de los Oficiales Auxiliares de Justicia del Juzgado, el despacho de los decretos de mero trámite y redactar las resoluciones dispuestas por el Juez; 19.- Confeccionar trimestralmente la relación de los procesos en estado de pronunciar sentencia, colocando la tabla de causas cerca de la puerta de la Sala de actuaciones del Juzgado; 20.- En los Juzgados Penales, confeccionar semanalmente una relación de las instrucciones en trámite, con indicación de su estado y si hay o no reo en cárcel. Dicha relación se coloca también cerca de la puerta de la Sala de actuaciones del Juzgado; 21.- Confeccionar trimestralmente la relación de las causas falladas y pendientes, con las referencias que sirven para distinguirlas, a fin de que oportunamente sean elevadas por el Juez al Consejo Ejecutivo Distrital; 22.- Compilar los datos necesarios para la formación de la estadística judicial, en lo que respecta al Juzgado, con indicación del número de causas ingresadas, falladas y pendientes; de las sentencias que hayan sido confirmadas, revocadas o declaradas insubsistentes por la Corte Superior y de aquellas en las que la Corte Suprema interviene conforme a ley, consignando el sentido de las resoluciones; 23.- Cuidar que los subalternos de su dependencia cumplan puntualmente las obligaciones de su cargo, dando cuenta al Juez de las faltas u omisiones en que incurran en las actuaciones, y de su comportamiento en general, a fin de que aquél imponga, en cada caso, la medida disciplinaria que corresponda; y 24.- Cumplir las demás obligaciones que impone la Ley y el Reglamento. CONCORDANCIAS: R. Nº 227-2009-CE-PJ, Reglamento, Art. 8º, num. 7 y Art. 9º, num. 12 Racionalización de la labor procesal
 
 ###### Artículo 267º
 
@@ -2106,9 +2106,9 @@ Nombramiento. Número
 
 Las Secretarías y Relatorías de Sala, así como las Secretarías de Juzgado, tienen el número de Oficiales Auxiliares de Justicia, que determina el Consejo Ejecutivo del Poder Judicial. Los nombra el Consejo Ejecutivo Distrital respectivo, previo concurso.253 254 255 Obligaciones y atribuciones
 
-###### Artículo 272º. Son obligaciones y atribuciones genéricas de los
+###### Artículo 272º
 
-Oficiales Auxiliares de Justicia: 1.- Actuar únicamente en la Sala, el Juzgado o en la Secretaría a la que se encuentran adscritos y residir en el lugar en que aquellos funcionan; 2.- Cumplir estrictamente el horario establecido; 3.- Asistir a los Jueces, Secretarios y Relatores de Sala y a los Secretarios de Juzgado, en las actuaciones o diligencias que se realizan en o fuera del local jurisdiccional respectivo; y 4.- Emitir las razones e informes que se les soliciten.256 257 258
+Son obligaciones y atribuciones genéricas de los Oficiales Auxiliares de Justicia: 1.- Actuar únicamente en la Sala, el Juzgado o en la Secretaría a la que se encuentran adscritos y residir en el lugar en que aquellos funcionan; 2.- Cumplir estrictamente el horario establecido; 3.- Asistir a los Jueces, Secretarios y Relatores de Sala y a los Secretarios de Juzgado, en las actuaciones o diligencias que se realizan en o fuera del local jurisdiccional respectivo; y 4.- Emitir las razones e informes que se les soliciten.256 257 258
 
 ## TÍTULO II — ÓRGANOS DE AUXILIO JUDICIAL
 
@@ -2186,9 +2186,9 @@ El personal de la Policía Nacional, tiene bajo su responsabilidad, la custodia 
 
 Función Social de la abogacía y derecho de defensa
 
-###### Artículo 284º. La abogacía es una función social al servicio de la
+###### Artículo 284º
 
-Justicia y el Derecho.
+La abogacía es una función social al servicio de la Justicia y el Derecho.
 
 Toda persona tiene derecho a ser patrocinada por el Abogado de su libre elección.
 

@@ -1228,41 +1228,41 @@ Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo
 
 En Lima, a los veintiún días del mes de julio de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República CUADRO DE MODIFICACIONES DEL NUEVO CÓDIGO PROCESAL CONSTITUCIONAL ARTÍCULO AFECTADO AFECTACIÓN JURÍDICA FECHA DE PUBLICACIÓN Art. III MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 12. MODIFICADO por el Artículo Único de la
+###### Artículo 12
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 18. MODIFICADO por el Artículo Único de la
+###### Artículo 18
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 19. MODIFICADO por el Artículo Único de la
+###### Artículo 19
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 24. MODIFICADO por el Artículo Único de la
+###### Artículo 24
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 28. MODIFICADO por el Artículo Único de la
+###### Artículo 28
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 42. MODIFICADO por el Artículo Único de la
+###### Artículo 42
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 45. MODIFICADO por el Artículo Único de la
+###### Artículo 45
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 60. MODIFICADO por el Artículo Único de la
+###### Artículo 60
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
-###### Artículo 70. MODIFICADO por el Artículo Único de la
+###### Artículo 70
 
-Ley N° 31583 05-10-2022
+MODIFICADO por el Artículo Único de la Ley N° 31583 05-10-2022
 
 ###### Cuarta Disp
 

@@ -566,9 +566,9 @@ El ejercicio de la ciudadanía se suspende:
 
 Fuerzas Armadas y Fuerzas Policiales
 
-###### Artículo 34. Los miembros de las Fuerzas Armadas y de la
+###### Artículo 34
 
-Policía Nacional tienen derecho al voto y a la participación ciudadana, regulados por ley. No pueden postular a cargos de elección popular, participar en actividades partidarias o manifestaciones ni realizar actos de proselitismo, mientras no hayan pasado a la situación de retiro, de acuerdo a ley[^16].
+Los miembros de las Fuerzas Armadas y de la Policía Nacional tienen derecho al voto y a la participación ciudadana, regulados por ley. No pueden postular a cargos de elección popular, participar en actividades partidarias o manifestaciones ni realizar actos de proselitismo, mientras no hayan pasado a la situación de retiro, de acuerdo a ley[^16].
 
 ###### Artículo 34-A
 
@@ -590,9 +590,9 @@ El Estado reconoce el asilo político. Acepta la calificación del asilado que o
 
 Extradición
 
-###### Artículo 37. La extradición sólo se concede por el
+###### Artículo 37
 
-Poder Ejecutivo previo informe de la Corte Suprema, en cumplimiento de la ley y de los tratados, y según el principio de reciprocidad.
+La extradición sólo se concede por el Poder Ejecutivo previo informe de la Corte Suprema, en cumplimiento de la ley y de los tratados, y según el principio de reciprocidad.
 
 No se concede extradición si se considera que ha sido solicitada con el fin de perseguir o castigar por motivo de religión, nacionalidad, opinión o raza.
 
@@ -738,9 +738,9 @@ Los tratados celebrados por el Estado y en vigor forman parte del derecho nacion
 
 Aprobación de tratados
 
-###### Artículo 56. Los tratados deben ser aprobados por el
+###### Artículo 56
 
-Congreso antes de su ratificación por el Presidente de la República, siempre que versen sobre las siguientes materias[^25]:
+Los tratados deben ser aprobados por el Congreso antes de su ratificación por el Presidente de la República, siempre que versen sobre las siguientes materias[^25]:
 
 1. Derechos Humanos.
 
@@ -912,9 +912,9 @@ El presupuesto asigna equitativamente los recursos públicos, su programación y
 
 Proyectos de Ley de Presupuesto, Endeudamiento y Equilibrio Financiero
 
-###### Artículo 78. El Presidente de la República envía al
+###### Artículo 78
 
-Congreso el proyecto de Ley de Presupuesto dentro de un plazo que vence el 30 de agosto de cada año[^31]. En la misma fecha, envía también los proyectos de ley de endeudamiento y de equilibrio financiero.
+El Presidente de la República envía al Congreso el proyecto de Ley de Presupuesto dentro de un plazo que vence el 30 de agosto de cada año[^31]. En la misma fecha, envía también los proyectos de ley de endeudamiento y de equilibrio financiero.
 
 El proyecto presupuestal debe estar efectivamente equilibrado.
 
@@ -956,9 +956,9 @@ El Contralor General es designado por el Congreso, a propuesta del Poder Ejecuti
 
 El Sistema Monetario
 
-###### Artículo 83. La ley determina el sistema monetario de la
+###### Artículo 83
 
-República. La emisión de billetes y monedas es facultad exclusiva del Estado. La ejerce por intermedio del Banco Central de Reserva del Perú.
+La ley determina el sistema monetario de la República. La emisión de billetes y monedas es facultad exclusiva del Estado. La ejerce por intermedio del Banco Central de Reserva del Perú.
 
 Banco Central de Reserva del Perú
 
@@ -1032,9 +1032,9 @@ Los parlamentarios no pueden ser reelegidos para un nuevo período, de manera in
 
 Impedimento para ser elegido congresista
 
-###### Artículo 91. No pueden ser elegidos miembros del
+###### Artículo 91
 
-Parlamento Nacional si no han renunciado al cargo seis ([^6]) meses antes de la elección[^46]:
+No pueden ser elegidos miembros del Parlamento Nacional si no han renunciado al cargo seis ([^6]) meses antes de la elección[^46]:
 
 Durante el receso funciona la Comisión Permanente, conforme a lo previsto en el Reglamento del Congreso.
 
@@ -1056,9 +1056,9 @@ Los senadores y diputados pueden ser reelegidos de manera inmediata en el mismo 
 
 Texto de la Ley de Reforma Constitucional:
 
-###### Artículo 91. No pueden ser elegidos miembros del Congreso de la
+###### Artículo 91
 
-República si no han renunciado al cargo seis ([^6]) meses antes de la elección:
+No pueden ser elegidos miembros del Congreso de la República si no han renunciado al cargo seis ([^6]) meses antes de la elección:
 
 (…). (*) (*) De conformidad con la Primera Disposición Complementaria Final de la Ley N° 31988, la citada reforma constitucional entra en vigor a partir de las próximas elecciones generales.
 
@@ -1088,9 +1088,9 @@ Los senadores y diputados representan a la Nación. No están sujetos a mandato 
 
 (…). (*) (*) De conformidad con la Primera Disposición Complementaria Final de la Ley N° 31988, la citada reforma constitucional entra en vigor a partir de las próximas elecciones generales. En caso de comisión de delitos antes de asumir el mandato, es competente el juez penal ordinario[^55]. Reglamento del Congreso
 
-###### Artículo 94. El Congreso elabora y aprueba su
+###### Artículo 94
 
-Reglamento, que tiene fuerza de ley; elige a sus representantes en la Comisión Permanente y en las demás comisiones; establece la organización y las atribuciones de los grupos parlamentarios; gobierna su economía; sanciona su presupuesto; nombra y remueve a sus funcionarios y empleados, y les otorga los beneficios que les corresponden de acuerdo a ley[^56].
+El Congreso elabora y aprueba su Reglamento, que tiene fuerza de ley; elige a sus representantes en la Comisión Permanente y en las demás comisiones; establece la organización y las atribuciones de los grupos parlamentarios; gobierna su economía; sanciona su presupuesto; nombra y remueve a sus funcionarios y empleados, y les otorga los beneficios que les corresponden de acuerdo a ley[^56].
 
 Irrenunciabilidad del Mandato Legislativo
 
@@ -1258,15 +1258,15 @@ Rechazada la propuesta por el Senado, esta se archiva. (*) (*) De conformidad co
 
 Iniciativa Legislativa
 
-###### Artículo 107. El Presidente de la República y los
+###### Artículo 107
 
-Congresistas tienen derecho a iniciativa en la formación de leyes[^73].
+El Presidente de la República y los Congresistas tienen derecho a iniciativa en la formación de leyes[^73].
 
 También tienen el mismo derecho en las materias que les son propias los otros poderes del Estado, las instituciones públicas autónomas, los Gobiernos Regionales, los Gobiernos Locales y los colegios profesionales. Asimismo lo tienen los ciudadanos que ejercen el derecho de iniciativa conforme a ley 74. Promulgación de las Leyes
 
-###### Artículo 108. La ley aprobada según lo previsto por la
+###### Artículo 108
 
-Constitución, se envía al Presidente de la República para su promulgación dentro de un plazo de quince días. En caso de no promulgación por el Presidente de la República, la promulga el Presidente del Congreso, o el de la Comisión Permanente, según corresponda.
+La ley aprobada según lo previsto por la Constitución, se envía al Presidente de la República para su promulgación dentro de un plazo de quince días. En caso de no promulgación por el Presidente de la República, la promulga el Presidente del Congreso, o el de la Comisión Permanente, según corresponda.
 
 Si el Presidente de la República tiene observaciones que hacer sobre el todo o una parte de la ley aprobada en el Congreso, las presenta a éste en el mencionado término de quince días.
 
@@ -1282,9 +1282,9 @@ La ley es obligatoria desde el día siguiente de su publicación en el diario of
 
 El Presidente de la República
 
-###### Artículo 110. El Presidente de la República es el Jefe del
+###### Artículo 110
 
-Estado y personifica a la Nación.
+El Presidente de la República es el Jefe del Estado y personifica a la Nación.
 
 Para ser elegido Presidente de la República se requiere ser peruano por nacimiento, tener más de treinta y cinco años de edad al momento de la postulación y gozar del derecho de sufragio.
 
@@ -1750,9 +1750,9 @@ Los jueces y fiscales están prohibidos de participar en política, de sindicars
 
 Atribuciones de la Junta Nacional de Justicia
 
-###### Artículo 154. Son funciones de la Junta Nacional de
+###### Artículo 154
 
-Justicia:
+Son funciones de la Junta Nacional de Justicia:
 
 1. Nombrar, previo concurso público de méritos y evaluación personal, a los jueces y fiscales de todos los niveles. Dichos nombramientos requieren el voto público y motivado conforme de los dos tercios del número legal de sus miembros.
 
@@ -1790,9 +1790,9 @@ La Comisión Especial debe instalarse, a convocatoria del Defensor del Pueblo, s
 
 La selección de los miembros es realizada a través de un procedimiento de acuerdo a ley, para lo cual, la Comisión Especial cuenta con el apoyo de una Secretaría Técnica Especializada. El procedimiento brinda las garantías de probidad, imparcialidad, publicidad y transparencia[^103]. Requisitos para ser miembro de la Junta Nacional de Justicia
 
-###### Artículo 156. Para ser miembro de la Junta Nacional de
+###### Artículo 156
 
-Justicia se requiere:
+Para ser miembro de la Junta Nacional de Justicia se requiere:
 
 1. Ser peruano de nacimiento.
 
@@ -2006,9 +2006,9 @@ Presenta al Poder Ejecutivo el proyecto de Presupuesto del Sistema Electoral que
 
 Composición del Pleno del Jurado Nacional de Elecciones
 
-###### Artículo 179. La máxima autoridad del Jurado Nacional de
+###### Artículo 179
 
-Elecciones es un Pleno compuesto por cinco miembros:
+La máxima autoridad del Jurado Nacional de Elecciones es un Pleno compuesto por cinco miembros:
 
 1. Uno elegido en votación secreta por la Corte Suprema entre sus magistrados jubilados o en actividad. En este segundo caso, se concede licencia al elegido. El representante de la Corte Suprema preside el Jurado Nacional de Elecciones.
 

@@ -3966,9 +3966,9 @@ Informe policial
 
 3. El informe policial adjunta, de ser el caso, la denuncia o antecedentes que motivaron la intervención, las diligencias efectuadas, las actas levantadas, las declaraciones recibidas, las pericias realizadas, los elementos materiales incautados y/o decomisados producto de la investigación realizada, la comprobación del domicilio y los datos personales de los imputados, y otros que la labor de investigación requiera[^240][^241].
 
-###### Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el
+###### Artículo 333
 
-Ministerio Público Sin perjuicio de la organización policial establecida por la Ley y de lo dispuesto en el artículo 69, la Policía Nacional instituirá un órgano especializado encargado de coordinar las funciones de investigación de dicha institución con el Ministerio Público, de establecer los mecanismos de comunicación con los órganos de gobierno del Ministerio Público y con las Fiscalías, de centralizar la información sobre la criminalidad violenta y organizada, de aportar su experiencia en la elaboración de los programas y acciones para la adecuada persecución del delito, y de desarrollar programas de protección y seguridad.
+Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público Sin perjuicio de la organización policial establecida por la Ley y de lo dispuesto en el artículo 69, la Policía Nacional instituirá un órgano especializado encargado de coordinar las funciones de investigación de dicha institución con el Ministerio Público, de establecer los mecanismos de comunicación con los órganos de gobierno del Ministerio Público y con las Fiscalías, de centralizar la información sobre la criminalidad violenta y organizada, de aportar su experiencia en la elaboración de los programas y acciones para la adecuada persecución del delito, y de desarrollar programas de protección y seguridad.
 
 #### TÍTULO III — LA INVESTIGACIÓN PREPARATORIA
 
@@ -6504,9 +6504,9 @@ c) Contra la sentencia procede recurso de apelación, que será de conocimiento 
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
-###### Artículo 481. Mérito de la información y de lo obtenido cuando se rechaza el
+###### Artículo 481
 
-Acuerdo
+Mérito de la información y de lo obtenido cuando se rechaza el Acuerdo
 
 1. Si el Acuerdo de colaboración y beneficios es denegado por el Fiscal o desaprobado por el Juez, las diversas declaraciones formuladas por el colaborador se tendrán como inexistentes y no podrán ser utilizadas en su contra.
 

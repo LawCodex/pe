@@ -120,9 +120,9 @@ El Proyecto de ley rechazado en el Congreso puede ser sometido a referéndum con
 
 ### CAPITULO II — DE LA INICIATIVA DE REFORMA CONSTITUCIONAL
 
-###### Artículo 17. El derecho de iniciativa para la Reforma parcial o total de la
+###### Artículo 17
 
-Constitución requiere la adhesión de un número de ciudadanos equivalente al cero punto tres por ciento (0.3%) de la población electoral nacional.
+El derecho de iniciativa para la Reforma parcial o total de la Constitución requiere la adhesión de un número de ciudadanos equivalente al cero punto tres por ciento (0.3%) de la población electoral nacional.
 
 ###### Artículo 18
 
@@ -182,17 +182,17 @@ f) Tratándose de un regidor, al correspondiente accesitario de su lista 13.
 
 Quienes reemplazan a los revocados completan el período para el que fueron elegidos éstos. En ningún caso hay nuevas elecciones[^14].
 
-###### Artículo 26. Tratándose de magistrados electos, que fueran revocados, el
+###### Artículo 26
 
-Jurado Nacional de Elecciones procederá conforme a la ley de la materia.
+Tratándose de magistrados electos, que fueran revocados, el Jurado Nacional de Elecciones procederá conforme a la ley de la materia.
 
 ###### Artículo 27
 
 La Remoción es aplicable a las autoridades designadas por el Gobierno Central o Regional en la jurisdicción regional, departamental, provincial y distrital. No comprende a los Jefes Políticos Militares en las zonas declaradas en estado de emergencia.
 
-###### Artículo 28. La remoción se produce cuando el Jurado Nacional de
+###### Artículo 28
 
-Elecciones comprueba que más del 50% de los ciudadanos de una jurisdicción electoral o judicial lo solicitan.
+La remoción se produce cuando el Jurado Nacional de Elecciones comprueba que más del 50% de los ciudadanos de una jurisdicción electoral o judicial lo solicitan.
 
 ###### Artículo 29. Impedimento de autoridades revocadas
 

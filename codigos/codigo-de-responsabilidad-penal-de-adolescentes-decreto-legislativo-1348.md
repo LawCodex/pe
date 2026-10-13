@@ -34,9 +34,9 @@ Ha dado el Decreto Legislativo siguiente:
 
 DECRETO LEGISLATIVO QUE APRUEBA EL CÓDIGO DE RESPONSABILIDAD PENAL DE ADOLESCENTES
 
-###### Artículo Único. Aprobación del Código de Responsabilidad Penal de
+###### Artículo Único
 
-Adolescentes.
+Aprobación del Código de Responsabilidad Penal de Adolescentes.
 
 Apruébese el Código de Responsabilidad Penal de Adolescentes como norma integral, sistemática, autónoma y especializada en materia de adolescentes en conflicto con la ley penal, que como anexo forma parte integrante del presente Decreto Legislativo.
 
@@ -48,19 +48,19 @@ Dado en la Casa de Gobierno, en Lima, a los seis días del mes de enero del año
 
 PEDRO PABLO KUCZYNSKI GODARD Presidente de la República FERNANDO ZAVALA LOMBARDI Presidente del Consejo de Ministros MARÍA SOLEDAD PÉREZ TELLO Ministra de Justicia y Derechos Humano ÍNDICE GENERAL
 
-### TÍTULO PRELIMINAR
+## TÍTULO PRELIMINAR
 
-## SECCIÓN I - DISPOSICIONES GENERALES
+### SECCIÓN I - DISPOSICIONES GENERALES
 
-## SECCIÓN II - JURISDICCIÓN Y COMPETENCIA, SUJETOS
+### SECCIÓN II - JURISDICCIÓN Y COMPETENCIA, SUJETOS
 
 PROCESALES Y ÓRGANOS AUXILIARES
 
-### TÍTULO I - JURISDICCIÓN Y COMPETENCIA
+## TÍTULO I - JURISDICCIÓN Y COMPETENCIA
 
 - CAPÍTULO I - JURISDICCIÓN ESPECIALIZADA
 
-### TÍTULO II - SUJETOS PROCESALES
+## TÍTULO II - SUJETOS PROCESALES
 
 - CAPÍTULO I - EL MINISTERIO PÚBLICO
 
@@ -72,17 +72,17 @@ PROCESALES Y ÓRGANOS AUXILIARES
 
 - CAPÍTULO V - LA VÍCTIMA - EL AGRAVIADO
 
-### TÍTULO III - ÓRGANOS AUXILIARES
+## TÍTULO III - ÓRGANOS AUXILIARES
 
-## SECCIÓN III - LA ACTIVIDAD PROCESAL
+### SECCIÓN III - LA ACTIVIDAD PROCESAL
 
-### TÍTULO I - PRECEPTOS GENERALES
+## TÍTULO I - PRECEPTOS GENERALES
 
 - CAPÍTULO I - LAS ACTUACIONES PROCESALES
 
 - SUB CAPÍTULO I - LAS FORMALIDADES
 
-### TITULO II - MEDIDAS DE COERCIÓN PROCESAL
+## TITULO II - MEDIDAS DE COERCIÓN PROCESAL
 
 - CAPÍTULO I - PRECEPTOS GENERALES
 
@@ -104,19 +104,19 @@ PROCESALES Y ÓRGANOS AUXILIARES
 
 - CAPITULO VI - INTERNACIÓN DOMICILIARIA[^10]
 
-## SECCION IV - EL PROCESO DE RESPONSABILIDAD PENAL
+### SECCION IV - EL PROCESO DE RESPONSABILIDAD PENAL
 
 ADOLESCENTE
 
-### TÍTULO I - DISPOSICIONES GENERALES
+## TÍTULO I - DISPOSICIONES GENERALES
 
-### TÍTULO II - LA INVESTIGACIÓN PREPARATORIA
+## TÍTULO II - LA INVESTIGACIÓN PREPARATORIA
 
 - CAPÍTULO I - LOS ACTOS INICIALES DE LA INVESTIGACIÓN
 
 - CAPÍTULO II - INVESTIGACIÓN PREPARATORIA
 
-### TÍTULO III - ETAPA INTERMEDIA
+## TÍTULO III - ETAPA INTERMEDIA
 
 - CAPÍTULO I - EL SOBRESEIMIENTO
 
@@ -126,7 +126,7 @@ ADOLESCENTE
 
 - CAPÍTULO IV - EL AUTO DE CITACIÓN A JUICIO
 
-### TÍTULO IV - EL JUICIO ORAL
+## TÍTULO IV - EL JUICIO ORAL
 
 - CAPÍTULO I - DISPOSICIONES GENERALES
 
@@ -142,45 +142,45 @@ ADOLESCENTE
 
 - CAPÍTULO VII - CONTENIDO DE LA SENTENCIA
 
-## SECCIÓN V - PROCESO ESPECIAL DE TERMINACIÓN
+### SECCIÓN V - PROCESO ESPECIAL DE TERMINACIÓN
 
 ANTICIPADA
 
-## SECCIÓN VI - SALIDAS ALTERNATIVAS AL PROCESO
+### SECCIÓN VI - SALIDAS ALTERNATIVAS AL PROCESO
 
-### TÍTULO I - DISPOSICIONES GENERALES
+## TÍTULO I - DISPOSICIONES GENERALES
 
-### TÍTULO II - REMISIÓN
+## TÍTULO II - REMISIÓN
 
-### TÍTULO III - ACUERDO REPARATORIO
+## TÍTULO III - ACUERDO REPARATORIO
 
-### TÍTULO IV - MECANISMO RESTAURATIVO
+## TÍTULO IV - MECANISMO RESTAURATIVO
 
-## SECCIÓN VII - MEDIDAS SOCIOEDUCATIVAS
+### SECCIÓN VII - MEDIDAS SOCIOEDUCATIVAS
 
-### TÍTULO I - DISPOSICIONES GENERALES
+## TÍTULO I - DISPOSICIONES GENERALES
 
-### TÍTULO II - TIPOS DE MEDIDAS SOCIOEDUCATIVAS
+## TÍTULO II - TIPOS DE MEDIDAS SOCIOEDUCATIVAS
 
 - CAPÍTULO I - MEDIDAS SOCIOEDUCATIVAS NO PRIVATIVAS DE LIBERTAD
 
 - CAPÍTULO II - MEDIDA SOCIOEDUCATIVA PRIVATIVA DE LIBERTAD
 
-## SECCIÓN VIII - EJECUCIÓN DE LAS MEDIDAS
+### SECCIÓN VIII - EJECUCIÓN DE LAS MEDIDAS
 
 SOCIOEDUCATIVAS
 
-### TÍTULO I - DISPOSICIONES GENERALES
+## TÍTULO I - DISPOSICIONES GENERALES
 
-### TÍTULO II - CONDICIONES DE LA PRIVACIÓN DE
+## TÍTULO II - CONDICIONES DE LA PRIVACIÓN DE
 
 LIBERTAD DURANTE LA INTERNACIÓN
 
-### TÍTULO III - EGRESO DEL ADOLESCENTE
+## TÍTULO III - EGRESO DEL ADOLESCENTE
 
 ## DISPOSICIONES COMPLEMENTARIAS FINALES DISPOSICIÓN COMPLEMENTARIA TRANSITORIA DISPOSICIÓN COMPLEMENTARIA DEROGATORIA
 
-### TÍTULO PRELIMINAR
+## TÍTULO PRELIMINAR
 
 ###### Artículo I
 
@@ -294,7 +294,7 @@ Fuentes de Interpretación.
 
 En la interpretación y aplicación del presente Código se deben tener en cuenta todos los derechos y garantías reconocidos por la Constitución Política del Perú, en las Leyes especiales sobre la materia, en la Convención sobre los Derechos del Niño, y en los demás instrumentos internacionales vigentes y ratificados por el Perú, así como en los estándares internacionales en materia de justicia penal juvenil.
 
-## SECCIÓN I — DISPOSICIONES GENERALES
+### SECCIÓN I — DISPOSICIONES GENERALES
 
 ###### Artículo 1
 
@@ -344,9 +344,9 @@ Aplicación supletoria.
 
 En lo que no se encuentre regulado por esta norma, es de aplicación supletoria las normas del Código Penal, Código Procesal Penal u otra norma que lo sustituya y el Código de Ejecución Penal cuando se trate de los aspectos sustantivos, procesales y de ejecución de la norma, respectivamente; asimismo, son de aplicación las demás normas de nuestro ordenamiento jurídico en lo que resulte pertinente y siempre que no sea contrario a los derechos y garantías reconocidos a los adolescentes; interpretándose sistemáticamente de conformidad con el principio de interés superior del adolescente. En caso existir discrepancia entre una norma nacional e internacional se aplica la que garantice de mejor manera los derechos del adolescente.
 
-## SECCIÓN II — JURISDICCIÓN Y COMPETENCIA, SUJETOS PROCESALES Y ÓRGANOS AUXILIARES
+### SECCIÓN II — JURISDICCIÓN Y COMPETENCIA, SUJETOS PROCESALES Y ÓRGANOS AUXILIARES
 
-### TÍTULO I — JURISDICCIÓN Y COMPETENCIA
+## TÍTULO I — JURISDICCIÓN Y COMPETENCIA
 
 #### CAPÍTULO I — JURISDICCIÓN ESPECIALIZADA
 
@@ -386,9 +386,9 @@ d. Resolver las solicitudes de variación de la medida y la semilibertad.
 
 e. Conocer de los demás casos que este Código y las demás Leyes determinen y/o se apliquen en forma subsidiaria. 10.5 Los Juzgados de Juzgamiento conocen de las solicitudes sobre el recurso de queja en los casos previstos por la Ley.
 
-###### Artículo 11. Salas Penales que conozcan de procesos para adolescentes infractores de las
+###### Artículo 11
 
-Cortes Superiores.
+Salas Penales que conozcan de procesos para adolescentes infractores de las Cortes Superiores.
 
 Compete a las Salas Penales de las Cortes Superiores en los casos suscitados en el proceso de responsabilidad penal del/la adolescente:
 
@@ -420,7 +420,7 @@ e. Resolver las cuestiones de competencia previstas en la Ley.
 
 f. Resolver la recusación planteada contra sus Magistrados.
 
-### TÍTULO II — SUJETOS PROCESALES
+## TÍTULO II — SUJETOS PROCESALES
 
 #### CAPÍTULO I — EL MINISTERIO PÚBLICO
 
@@ -646,7 +646,7 @@ La intervención del agraviado como actor civil no lo exime del deber de declara
 
 Acción civil. 29.1 El ejercicio de la acción civil derivada del hecho infractor corresponde al perjudicado por la infracción, debiendo constituirse como actor civil para ello durante el desarrollo de la investigación preparatoria. En caso no se realice dicha constitución en actor civil, el Ministerio Público interviene. 29.2 Su ámbito comprende las acciones establecidas en el artículo 93 del Código Penal e incluye, para garantizar la restitución del bien, siempre que sea posible, la declaración de nulidad de los actos jurídicos que correspondan, con citación de los afectados.[^11]
 
-### TÍTULO III — ÓRGANOS AUXILIARES
+## TÍTULO III — ÓRGANOS AUXILIARES
 
 ###### Artículo 30
 
@@ -664,9 +664,9 @@ c. El Equipo Técnico Interdisciplinario del Centro Juvenil.
 
 Informes técnicos interdisciplinarios. 31.1 Los informes de los equipos técnicos interdisciplinarios no excluyen los efectuados por los peritos que se convoquen durante el proceso de responsabilidad penal del adolescente, los que pueden trabajar articuladamente y de modo complementario, ni a los efectuados por los equipos interdisciplinarios del programa de justicia juvenil restaurativa y/u otros existentes siempre que coadyuven al interés superior del adolescente y a la finalidad del proceso de responsabilidad penal del adolescente y se encuentren trabajando por derivación en orden a lo prescripto en el presente Código. 31.2 Los informes técnicos interdisciplinarios son obligatorios y bajo sanción de nulidad, previos al dictado de cualquier resolución respecto al adolescente durante todo el proceso de responsabilidad penal. 31.3 El contenido de los informes se elabora en base a criterios estandarizados para los equipos interdisciplinarios de todas las instituciones. Para ello se elabora un Protocolo Único Interinstitucional.
 
-## SECCIÓN III — LA ACTIVIDAD PROCESAL
+### SECCIÓN III — LA ACTIVIDAD PROCESAL
 
-### TÍTULO I — PRECEPTOS GENERALES
+## TÍTULO I — PRECEPTOS GENERALES
 
 #### CAPÍTULO I — LAS ACTUACIONES PROCESALES SUB CAPÍTULO I LAS FORMALIDADES
 
@@ -678,7 +678,7 @@ Audiencias. 32.1 Las audiencias de cada una de las etapas del proceso de respons
 
 Prohibición de publicación de la actuación procesal. 33.1 Está prohibida la publicación de las actuaciones procesales realizadas durante la Investigación Preparatoria o la Etapa Intermedia. Asimismo, está prohibida la publicación, incluso parcial de las actuaciones del juicio oral. 33.2 Está prohibida la publicación de las generales de ley y de imágenes de testigos o víctimas menores de edad. 33.3 Cuando los sujetos procesales y demás participantes en las actuaciones procesales infrinjan esta prohibición, el Fiscal o el Juez, según el caso, están facultados a imponerles una multa y ordenar, de ser posible, el cese de la publicación indebida. Rige, en lo pertinente, los artículos 110 y 111 del Código Procesal Civil.
 
-### TITULO II — MEDIDAS DE COERCION PROCESAL
+## TITULO II — MEDIDAS DE COERCION PROCESAL
 
 #### CAPITULO I — PRECEPTOS GENERALES
 
@@ -1012,9 +1012,9 @@ Duración y variación.
 
 El plazo de duración de la internación domiciliaria como medida coercitiva, es el mismo que el fijado para la internación preventiva, rige al respecto lo pertinente para su variación.
 
-## SECCIÓN IV — EL PROCESO DE RESPONSABILIDAD PENAL ADOLESCENTE
+### SECCIÓN IV — EL PROCESO DE RESPONSABILIDAD PENAL ADOLESCENTE
 
-### TÍTULO I — DISPOSICIONES GENERALES
+## TÍTULO I — DISPOSICIONES GENERALES
 
 ###### Artículo 72
 
@@ -1094,7 +1094,7 @@ x. Asimismo, cuando se trate de los delitos previstos en el Decreto Ley Nº 2547
 
 3. A los diez (10) meses cuando se trate de faltas. 74.2 La ejecución de las medidas socioeducativas se extingue por la muerte del adolescente infractor, por prescripción, cumplimiento de la medida socioeducativa o decisión judicial debidamente motivada de conformidad con lo previsto en este Código. 74.3 Para la prescripción de las medidas socioeducativas se aplican los mismos plazos fijados previstos para la prescripción de la acción penal, los que se cuentan desde el día en que la sentencia quedó firme. 74.4 El adolescente contumaz o ausente está sujeto a las normas previstas en el ordenamiento procesal penal.
 
-### TÍTULO II — LA INVESTIGACIÓN PREPARATORIA
+## TÍTULO II — LA INVESTIGACIÓN PREPARATORIA
 
 #### CAPÍTULO I — LOS ACTOS INICIALES DE LA INVESTIGACIÓN
 
@@ -1204,7 +1204,7 @@ El Fiscal dará por concluida la Investigación Preparatoria cuando considere qu
 
 Control del Plazo 91.1 Si vencidos los plazos previstos en el artículo 99, el Fiscal no da por concluida la Investigación Preparatoria, el adolescente puede solicitar su conclusión al Juez de la Investigación Preparatoria. Para estos efectos el Juez citará al Fiscal y a las demás partes a una audiencia de control del plazo, quien luego de revisar las actuaciones y escuchar a las partes, dictará la resolución que corresponda. 91.2 Si el Juez ordena la conclusión de la Investigación Preparatoria, el Fiscal en el plazo de cinco (05) días naturales, debe pronunciarse solicitando el sobreseimiento o formulando acusación, según corresponda. Su incumplimiento acarrea responsabilidad disciplinaria en el Fiscal.
 
-### TÍTULO III — ETAPA INTERMEDIA
+## TÍTULO III — ETAPA INTERMEDIA
 
 #### CAPÍTULO I — EL SOBRESEIMIENTO
 
@@ -1316,7 +1316,7 @@ Notificación del auto de enjuiciamiento 102.1 El Auto de Enjuiciamiento se noti
 
 Auto de citación a juicio 103.1 Recibidas las actuaciones por el Juzgado Penal competente, éste dicta el auto de citación a juicio con indicación de la sede del juzgamiento y de la fecha de la realización del juicio oral. La fecha es la más próxima posible, con un intervalo no menor de diez (10) días. 103.2 El Juez ordena el emplazamiento de todos los que deben concurrir al juicio. En la resolución se identifica a quien se tendrá como defensor del adolescente y se dispone todo lo necesario para el inicio regular del juicio. 103.3 Cuando se estime que la audiencia se prolongará en sesiones consecutivas, los testigos y peritos pueden ser citados directamente para la sesión que les corresponda intervenir. 103.4 El emplazamiento al adolescente se hace bajo apercibimiento de declararlo reo contumaz en caso de inconcurrencia injustificada. 103.5 Es obligación del Fiscal y de los demás sujetos procesales coadyuvar en la localización y comparecencia de los testigos o peritos que hayan propuesto.
 
-### TÍTULO IV — EL JUICIO ORAL
+## TÍTULO IV — EL JUICIO ORAL
 
 #### CAPÍTULO I — DISPOSICIONES GENERALES
 
@@ -1474,7 +1474,7 @@ Facultad de recurrir 120.1 Las resoluciones judiciales son impugnables sólo por
 
 La aplicación de los recursos se rige por lo dispuesto, en lo que resulte pertinente, por el Libro Cuarto del Código Procesal Penal u otra norma que lo sustituya.
 
-## SECCIÓN V — PROCESO ESPECIAL DE TERMINACIÓN ANTICIPADA
+### SECCIÓN V — PROCESO ESPECIAL DE TERMINACIÓN ANTICIPADA
 
 ###### Artículo 122. Presupuestos
 
@@ -1508,9 +1508,9 @@ Cuando el adolescente se acoge a este proceso, se le aplica una medida socioeduc
 
 5. Si a la infracción le correspondiera una internación conforme al artículo 163.5, se aplica una medida socioeducativa no privativa de libertad, por un plazo no menor de doce (12) meses.
 
-## SECCIÓN VI — SALIDAS ALTERNATIVAS AL PROCESO
+### SECCIÓN VI — SALIDAS ALTERNATIVAS AL PROCESO
 
-### TÍTULO I — DISPOSICIONES GENERALES
+## TÍTULO I — DISPOSICIONES GENERALES
 
 ###### Artículo 127. Definición
 
@@ -1532,7 +1532,7 @@ Son presupuestos indispensables para la aplicación de la alternativa más benef
 
 6. La revocación de la salida alternativa por el incumplimiento de las obligaciones y/ o condiciones establecidas al adolescente, requiere apercibimiento previo y en su caso, una audiencia.
 
-### TÍTULO II — REMISIÓN
+## TÍTULO II — REMISIÓN
 
 ###### Artículo 129
 
@@ -1600,7 +1600,7 @@ Revocatoria 135.1 La remisión puede ser revocada ante el incumplimiento injusti
 
 Cumplida la participación del adolescente en los programas dispuestos en la remisión, se extingue la acción penal, debiendo el Fiscal emitir la disposición correspondiente. En caso la remisión hubiera sido aprobada por el Juez, se dicta el sobreseimiento.
 
-### TÍTULO III — ACUERDO REPARATORIO
+## TÍTULO III — ACUERDO REPARATORIO
 
 ###### Artículo 137
 
@@ -1622,7 +1622,7 @@ Cumplido el acuerdo y las medidas accesorias de ser el caso, se extingue la acci
 
 De acordar la víctima y el adolescente, la reparación del daño originada por la infracción en los casos no previstos por el artículo 137.2, deben hacerlo constar en un acta. El acuerdo puede ser presentado al Fiscal o el Juez, los que luego de evaluarlo, pueden utilizarlo al momento de resolver la terminación anticipada o la sentencia condenatoria.
 
-### TÍTULO IV — MECANISMO RESTAURATIVO
+## TÍTULO IV — MECANISMO RESTAURATIVO
 
 ###### Artículo 142
 
@@ -1666,9 +1666,9 @@ El mecanismo restaurativo puede ser solicitado por cualquiera de los intervinien
 
 Los acuerdos a los que se llegue en el proceso restaurativo deben ser incorporados en un acta con la firma de todos los participantes. El Fiscal o el Juez, según sea el caso verificaran la aceptación voluntaria de los acuerdos. Ninguna información recogida durante el mecanismo restaurativo puede ser utilizada en el proceso judicial para determinar la responsabilidad del adolescente.
 
-## SECCIÓN VII — MEDIDAS SOCIOEDUCATIVAS
+### SECCIÓN VII — MEDIDAS SOCIOEDUCATIVAS
 
-### TÍTULO I — DISPOSICIONES GENERALES
+## TÍTULO I — DISPOSICIONES GENERALES
 
 ###### Artículo 148. Imposición
 
@@ -1728,7 +1728,7 @@ Modificación de la medida socioeducativa no privativa de libertad 154.1 El Juez
 
 Cumplimiento de la medida socioeducativa no privativa de libertad 155.1 El Juez, al dictar una medida socioeducativa no privativa de libertad, además de establecer la duración de la misma, dispone que dicha medida puede darse por cumplida a las dos terceras partes del plazo señalado, siempre que el adolescente participe en los programas de tratamiento o cumpla las medidas accesorias establecidas por el Juez. 155.2 Ante el incumplimiento de la medida socioeducativa o de las medidas accesorias, el Fiscal solicita al Juez la realización de una audiencia en la que se determina si el incumplimiento es injustificado. Dicha audiencia puede realizarse también de oficio. 155.3 Ante el comprobado incumplimiento, el Juez apercibe al adolescente a que en caso reitere su conducta, se ordenará el cumplimiento íntegro de la medida socioeducativa si esta hubiese sido reducida o su variación por la medida de internación. 155.4 Si luego de apercibido, el adolescente vuelve a incumplir injustificadamente la medida socioeducativa, el Juez dicta resolución disponiendo el cumplimiento íntegro de la medida socioeducativa o su variación por una medida de internación, según corresponda. 155.5 El lapso que dure el o los incumplimientos, no se computa como parte de la ejecución de la medida socioeducativa. El Juez determina el tiempo restante para el cumplimiento de la medida y lo señala en la resolución que establece el artículo 155.4.
 
-### TÍTULO II — TIPOS DE MEDIDAS SOCIOEDUCATIVAS
+## TÍTULO II — TIPOS DE MEDIDAS SOCIOEDUCATIVAS
 
 ###### Artículo 156
 
@@ -1884,9 +1884,9 @@ Casos especiales de traslado 166.1 Previo informe fundamentado del Centro Juveni
 
 Actividades 167.1 Durante la internación son obligatorias las actividades pedagógicas y las evaluaciones periódicas al adolescente por el Equipo Técnico Interdisciplinario del Centro Juvenil, así como su participación en programas psicoterapéuticos, tratamiento de comportamiento, multisistémicos y los que correspondan, atendiendo a un plan individualizado en el que se tendrá en cuenta las condiciones personales del adolescente, garantizándose sus estudios o la continuidad de estos de ser el caso, así como su participación en programas orientados al desarrollo personal y a la preparación para la vida laboral del adolescente. 167.2. En el caso de la internación preventiva, el desarrollo de las actividades pedagógicas y los programas se desarrollarán respetándose la presunción de inocencia y el consentimiento del adolescente, garantizándose el respeto al derecho a la educación y a la salud.
 
-## SECCIÓN VIII — EJECUCIÓN DE LAS MEDIDAS SOCIOEDUCATIVAS
+### SECCIÓN VIII — EJECUCIÓN DE LAS MEDIDAS SOCIOEDUCATIVAS
 
-### TÍTULO I — DISPOSICIONES GENERALES
+## TÍTULO I — DISPOSICIONES GENERALES
 
 ###### Artículo 168
 
@@ -1962,7 +1962,7 @@ Durante la permanencia en el Programa de Intervención Intensiva, el adolescente
 
 En caso de sentenciados por la comisión de las infracciones de sicariato, violación sexual de menor de edad o terrorismo, así como de determinarse su pertenencia a una organización criminal o su vinculación a ella, no le son aplicables al adolescente el incentivo de formación educativa o profesional ni la semilibertad.
 
-### TÍTULO II — CONDICIONES DE LA PRIVACIÓN DE LIBERTAD DURANTE LA INTERNACIÓN
+## TÍTULO II — CONDICIONES DE LA PRIVACIÓN DE LIBERTAD DURANTE LA INTERNACIÓN
 
 ###### Artículo 177
 
@@ -2040,7 +2040,7 @@ Especial atención 179.1 Sin que constituya forma alguna de discriminación o ai
 
 6. A los que pertenecieran a una población vulnerable o a un pueblo indígena. 179.2 El Centro Juvenil debe habilitar ambientes especiales para el albergue y atención de los hijos de las adolescentes.
 
-### TÍTULO III — EGRESO DEL ADOLESCENTE
+## TÍTULO III — EGRESO DEL ADOLESCENTE
 
 ###### Artículo 180
 

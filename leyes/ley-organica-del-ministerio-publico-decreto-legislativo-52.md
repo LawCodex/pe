@@ -32,9 +32,9 @@ LEY ORGÁNICA DEL MINISTERIO PÚBLICO
 
 Funciones principales
 
-###### Artículo 1º. El Ministerio Público es el organismo autónomo del
+###### Artículo 1º
 
-Estado que tiene como funciones principales la defensa de la legalidad, los derechos ciudadanos y los intereses públicos, la representación de la sociedad en juicio, para los efectos de defender a la familia, a los menores e incapaces y el interés social, así como para velar por la moral pública; la persecución del delito y la reparación civil. También velará por la prevención del delito dentro de las limitaciones que resultan de la presente ley y por la independencia de los órganos judiciales y la recta administración de justicia y las demás que le señalan la Constitución Política del Perú y el ordenamiento jurídico de la Nación.
+El Ministerio Público es el organismo autónomo del Estado que tiene como funciones principales la defensa de la legalidad, los derechos ciudadanos y los intereses públicos, la representación de la sociedad en juicio, para los efectos de defender a la familia, a los menores e incapaces y el interés social, así como para velar por la moral pública; la persecución del delito y la reparación civil. También velará por la prevención del delito dentro de las limitaciones que resultan de la presente ley y por la independencia de los órganos judiciales y la recta administración de justicia y las demás que le señalan la Constitución Política del Perú y el ordenamiento jurídico de la Nación.
 
 Denominación de los miembros del Ministerio Público
 
@@ -50,9 +50,9 @@ Para el debido cumplimiento de sus funciones y atribuciones, el Fiscal de la Nac
 
 Deficiencia de la Ley y aplicación de principios Generales del Derecho. Iniciativa Legislativa
 
-###### Artículo 4º. En los casos de deficiencia de la Legislación Nacional, el
+###### Artículo 4º
 
-Ministerio Público tendrá en consideración los principios generales del derecho y, preferentemente, los que inspiran el derecho peruano, en el ejercicio de sus atribuciones.
+En los casos de deficiencia de la Legislación Nacional, el Ministerio Público tendrá en consideración los principios generales del derecho y, preferentemente, los que inspiran el derecho peruano, en el ejercicio de sus atribuciones.
 
 En tales casos, el Fiscal de la Nación elevará al Presidente de la República los proyectos de ley y de reglamentos sobre las materias que le son propias para los efectos a que se refieren los artículos Nos. 190º y 211º, inciso 11º, de la Constitución Política del Perú. Podrá también emitir opinión fundamentada sobre los proyectos de ley que tengan relación con el Ministerio Público y la Administración de Justicia, que remitirá a la Cámara Legislativa en que se encuentren dichos proyectos pendientes de debate o votación.1 Independencia funcional
 
@@ -70,9 +70,9 @@ Cuando fuere necesario para el eficaz ejercicio de las acciones y recursos que c
 
 Exhortaciones a los miembros del Ministerio Público
 
-###### Artículo 7º. El Poder Ejecutivo, por intermedio del Ministro de
+###### Artículo 7º
 
-Justicia 4, puede hacer exhortaciones a los miembros del Ministerio Público, en relación con el ejercicio de sus atribuciones.
+El Poder Ejecutivo, por intermedio del Ministro de Justicia 4, puede hacer exhortaciones a los miembros del Ministerio Público, en relación con el ejercicio de sus atribuciones.
 
 Si éstos no las considerasen procedentes las elevarán, en consulta, al Fiscal de la Nación, quien la absolverá de inmediato o la someterá a la decisión de la Junta de Fiscales Supremos, según fuere la naturaleza del asunto consultado.
 
@@ -106,9 +106,9 @@ Trámite de la denuncia y la queja
 
 La denuncia a que se refiere el artículo precedente puede presentarse ante el Fiscal Provincial o ante el Fiscal Superior. Si éste lo estimase procedente instruirá al Fiscal Provincial para que la formalice ante el Juez Instructor competente. Si el Fiscal ante el que ha sido presentada no la estimase procedente, se lo hará saber por escrito al denunciante, quien podrá recurrir en queja ante el Fiscal inmediato superior, dentro del plazo de tres días de notificada la Resolución denegatoria. Consentida la Resolución del Fiscal Provincial o con la decisión del Superior, en su caso, termina el procedimiento.6 7 Queja del inculpado o agraviado contra Fiscales por ejercicio indebido de funciones
 
-###### Artículo 13º. El inculpado o el agraviado que considerase que un
+###### Artículo 13º
 
-Fiscal no ejerce debidamente sus funciones, puede recurrir en queja al inmediato superior, precisando el acto u omisión que la motiva. El superior procederá, en tal caso, de acuerdo con las atribuciones que para el efecto le confiere la ley.
+El inculpado o el agraviado que considerase que un Fiscal no ejerce debidamente sus funciones, puede recurrir en queja al inmediato superior, precisando el acto u omisión que la motiva. El superior procederá, en tal caso, de acuerdo con las atribuciones que para el efecto le confiere la ley.
 
 Carga de la Prueba
 
@@ -470,9 +470,9 @@ En los casos de reincidencia o de falta que, a su juicio, exija sanción discipl
 
 Atribuciones de la Junta de Fiscales Supremos
 
-###### Artículo 62º. Los Fiscales Supremos se reúnen, bajo la presidencia del
+###### Artículo 62º
 
-Fiscal de la Nación y a su convocatoria.
+Los Fiscales Supremos se reúnen, bajo la presidencia del Fiscal de la Nación y a su convocatoria.
 
 Son atribuciones de la Junta de Fiscales Supremos:
 
@@ -984,9 +984,9 @@ De conformidad con la primera parte del artículo 250º de la Constitución Pol�
 
 Excepción a limitaciones presupuestales
 
-###### Artículo 102º. El Ministerio Público queda exceptuado hasta el 31 de
+###### Artículo 102º
 
-Diciembre de 1981 de las prohibiciones contenidas en los artículos 64º y 65º de la Ley Nº 23233.
+El Ministerio Público queda exceptuado hasta el 31 de Diciembre de 1981 de las prohibiciones contenidas en los artículos 64º y 65º de la Ley Nº 23233.
 
 Personal que integra el Ministerio Público
 
@@ -1006,9 +1006,9 @@ El Fiscal de la Nación, durante los seis meses siguientes a la promulgación de
 
 Derogatorias
 
-###### Artículo 105º. Deróganse el Título XXIII   Ministerio Público de la
+###### Artículo 105º
 
-Ley Orgánica del Poder Judicial y los artículos 20º, 29º, 30º, 38º, 40º, 41º, 42º, 58º, 61º, 70º, 73º, 79º, 88º, 90º, 94º, 95º, 100º, 128º, 137º incisos 12º y 15º, 145º inciso 4º, 278º, 279º, inc. b) y 280º de la citada ley, así como los artículos 3º del Decreto Ley Nº 18347 y 1º incisos 2) y 3) del Decreto Ley Nº 19957, en cuanto se refieren a los miembros del Ministerio Público.
+Deróganse el Título XXIII Ministerio Público de la Ley Orgánica del Poder Judicial y los artículos 20º, 29º, 30º, 38º, 40º, 41º, 42º, 58º, 61º, 70º, 73º, 79º, 88º, 90º, 94º, 95º, 100º, 128º, 137º incisos 12º y 15º, 145º inciso 4º, 278º, 279º, inc. b) y 280º de la citada ley, así como los artículos 3º del Decreto Ley Nº 18347 y 1º incisos 2) y 3) del Decreto Ley Nº 19957, en cuanto se refieren a los miembros del Ministerio Público.
 
 Otras derogatorias
 
@@ -1126,9 +1126,9 @@ Corresponde a la Corte Suprema fallar en casación, o en última instancia, cuan
 
 Resoluciones no revisables por el Poder Judicial
 
-###### Artículo 142°. No son revisables en sede judicial las resoluciones del
+###### Artículo 142°
 
-Jurado Nacional de Elecciones en materia electoral, ni las del Consejo Nacional de la Magistratura en materia de evaluación y ratificación de jueces.
+No son revisables en sede judicial las resoluciones del Jurado Nacional de Elecciones en materia electoral, ni las del Consejo Nacional de la Magistratura en materia de evaluación y ratificación de jueces.
 
 Órganos Jurisdiccionales
 
@@ -1140,9 +1140,9 @@ Los órganos jurisdiccionales son: la Corte Suprema de Justicia y las demás cor
 
 Presidencia del Poder Judicial. Sala Plena
 
-###### Artículo 144°. El Presidente de la Corte Suprema lo es también del
+###### Artículo 144°
 
-Poder Judicial. La Sala Plena de la Corte Suprema es el órgano máximo de deliberación del Poder Judicial.
+El Presidente de la Corte Suprema lo es también del Poder Judicial. La Sala Plena de la Corte Suprema es el órgano máximo de deliberación del Poder Judicial.
 
 Presupuesto del Poder Judicial
 

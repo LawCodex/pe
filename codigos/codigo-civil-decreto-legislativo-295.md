@@ -60,9 +60,9 @@ Dado en la Casa de Gobierno, en Lima, a los veinticuatro días del mes de julio 
 
 FERNANDO BELAUNDE TERRY Presidente Constitucional de la República MAX ARIAS SCHREIBER PEZET Ministro de Justicia TÍTULO PRELIMINAR Código Civil - DECRETO LEGISLATIVO Nº 295
 
-#### TÍTULO PRELIMINAR
+### TÍTULO PRELIMINAR
 
-#### TÍTULO PRELIMINAR — Abrogación de la ley
+### TÍTULO PRELIMINAR — Abrogación de la ley
 
 ###### Artículo I
 
@@ -128,9 +128,9 @@ DERECHO DE LAS PERSONAS Código Civil - DECRETO LEGISLATIVO Nº 295 DERECHO DE L
 
 ## LIBRO I — DERECHO DE LAS PERSONAS
 
-### SECCIÓN PRIMERA — PERSONAS NATURALES
+#### SECCIÓN PRIMERA — PERSONAS NATURALES
 
-#### TÍTULO I — Principio de la Persona
+### TÍTULO I — Principio de la Persona
 
 Sujeto de Derecho
 
@@ -148,7 +148,7 @@ La mujer puede solicitar judicialmente el reconocimiento de su embarazo o del pa
 
 La solicitud se tramita como prueba anticipada, con citación de las personas que por indicación de la solicitante o a criterio del Juez, puedan tener derechos que resulten afectados. El Juez puede ordenar de oficio la actuación de los medios probatorios que estime pertinentes. En este proceso no se admite oposición. 33
 
-#### TÍTULO II — Derechos de la Persona
+### TÍTULO II — Derechos de la Persona
 
 Capacidad de Goce
 
@@ -256,7 +256,7 @@ Protección de los derechos de autor e inventor
 
 Los derechos del autor o del inventor, cualquiera sea la forma o modo de expresión de su obra, gozan de protección jurídica de conformidad con la ley de la materia.
 
-#### TÍTULO III — Nombre
+### TÍTULO III — Nombre
 
 Derecho al nombre
 
@@ -338,7 +338,7 @@ DERECHO DE LAS PERSONAS Protección jurídica del seudónimo
 
 El seudónimo, cuando adquiere la importancia del nombre, goza de la misma protección jurídica dispensada a éste.
 
-#### TÍTULO IV — Domicilio
+### TÍTULO IV — Domicilio
 
 Domicilio
 
@@ -386,7 +386,7 @@ La oponibilidad al cambio de domicilio se efectuará mediante comunicación indu
 
 A la persona que no tiene residencia habitual se le considera domiciliada en el lugar donde se encuentre.
 
-#### TÍTULO V — Capacidad e Incapacidad de Ejercicio
+### TÍTULO V — Capacidad e Incapacidad de Ejercicio
 
 Plena capacidad de ejercicio
 
@@ -422,7 +422,7 @@ La incapacidad de las personas mayores de dieciséis (16) años cesa por matrimo
 
 4. Demandar y ser parte en los procesos de filiación extramatrimonial de sus hijos.[^46]
 
-#### TÍTULO VI — Ausencia
+### TÍTULO VI — Ausencia
 
 ##### CAPÍTULO PRIMERO — Desaparición
 
@@ -516,7 +516,7 @@ Restitución o sucesión del patrimonio del ausente
 
 En los casos de los incisos 1 y 2 del Artículo 59º se restituye a su titular el patrimonio, en el estado en que se encuentre. La petición se tramita como proceso no contencioso con citación de quienes solicitaron la declaración de ausencia. En los casos de los incisos 3 y 4 del Artículo 59º, se procede a la apertura de la sucesión.[^49]
 
-#### TÍTULO VII — Fin de la Persona
+### TÍTULO VII — Fin de la Persona
 
 ##### CAPÍTULO PRIMERO — Muerte
 
@@ -572,13 +572,13 @@ Facultad de reivindicar los bienes
 
 El reconocimiento de existencia faculta a la persona para reivindicar sus bienes, conforme a ley.
 
-#### TÍTULO VIII — Registros del Estado Civil
+### TÍTULO VIII — Registros del Estado Civil
 
 Artículos 70º al 75º.- DEROGADOS[^51]
 
-### SECCIÓN SEGUNDA — PERSONAS JURÍDICAS
+#### SECCIÓN SEGUNDA — PERSONAS JURÍDICAS
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 CONCORDANCIAS: Ley Nº 26789 Ley Nº 28094 D.S. Nº 014-2008-JUS, Art. 13º Normas que rigen la persona jurídica
 
@@ -606,7 +606,7 @@ Representante de la persona jurídica miembro de otra
 
 La persona jurídica miembro de otra debe indicar quién la representa ante ésta.
 
-#### TÍTULO II — Asociación
+### TÍTULO II — Asociación
 
 CONCORDANCIAS: Ley Nº 28094 R. Nº 015-2004-JNE Noción
 
@@ -726,7 +726,7 @@ Destino del patrimonio restante a la liquidación
 
 Disuelta la asociación y concluida la liquidación, el haber neto resultante es entregado a las personas designadas en el estatuto, con exclusión de los asociados. De no ser posible, la Sala Civil de la Corte Superior respectiva ordena su aplicación a fines análogos en interés de la comunidad, dándose preferencia a la provincia donde tuvo su sede la asociación.
 
-#### TÍTULO III — Fundación
+### TÍTULO III — Fundación
 
 Noción
 
@@ -766,9 +766,9 @@ En el caso previsto en el párrafo anterior, están impedidos de ser nombrados c
 
 CONCORDANCIA: Ley Nº 26918, Art. 5º Presentación de cuentas y balances
 
-###### Artículo 105º. Los administradores están obligados a presentar al Consejo de
+###### Artículo 105º
 
-Supervigilancia de Fundaciones, para su aprobación, las cuentas y el balance de la fundación, dentro de los cuatro primeros meses del año.
+Los administradores están obligados a presentar al Consejo de Supervigilancia de Fundaciones, para su aprobación, las cuentas y el balance de la fundación, dentro de los cuatro primeros meses del año.
 
 CONCORDANCIA: Ley Nº 26918, Art. 5º Acciones judicial contra los administradores
 
@@ -808,7 +808,7 @@ La sentencia no apelada se eleva en consulta a la Corte Superior.[^62] CONCORDAN
 
 El haber neto resultante de la liquidación de la fundación se aplica a la finalidad prevista en el acto constitutivo. Si ello no fuera posible, se destina, a propuesta del Consejo, a incrementar el patrimonio de otra u otras fundaciones de finalidad análoga o, en su defecto, a la Beneficencia Pública para obras de similares propósitos a los que tenía la fundación en la localidad donde tuvo su sede.[^63] CONCORDANCIA: Ley Nº 26918, Art. 5º
 
-#### TÍTULO IV — Comité
+### TÍTULO IV — Comité
 
 Noción
 
@@ -884,9 +884,9 @@ El consejo directivo adjudica a los erogantes el haber neto resultante de la liq
 
 El comité se rige, además, por los Artículos 81º a 98º, en cuanto le fueren aplicables.
 
-### SECCIÓN TERCERA — ASOCIACIÓN, FUNDACIÓN Y COMITÉ NO INSCRITOS
+#### SECCIÓN TERCERA — ASOCIACIÓN, FUNDACIÓN Y COMITÉ NO INSCRITOS
 
-#### TÍTULO I — Asociación
+### TÍTULO I — Asociación
 
 Régimen de la asociación de hecho
 
@@ -908,7 +908,7 @@ DERECHO DE LAS PERSONAS Responsabilidad por obligaciones de los representantes
 
 El fondo común responde de las obligaciones contraídas por los representantes de la asociación. De dichas obligaciones responden solidariamente quienes actúen en nombre de la asociación, aun cuando no sean sus representantes.
 
-#### TÍTULO II — Fundación
+### TÍTULO II — Fundación
 
 Inscripción de la fundación de hecho
 
@@ -928,7 +928,7 @@ De no ser posible la inscripción a que se refiere el Artículo 127º, la Sala C
 
 CONCORDANCIA: Ley Nº 26918, Art. 5º
 
-#### TÍTULO III — Comité
+### TÍTULO III — Comité
 
 Comité de hecho
 
@@ -956,9 +956,9 @@ Supervisión de lo recaudado por el Ministerio Público
 
 El Ministerio Público vigila, de oficio o a instancia de parte, que los aportes recaudados se conserven debidamente y se apliquen a la finalidad anunciada.
 
-### SECCIÓN CUART A — COMUNIDADES CAMPESINAS Y NATIVAS
+#### SECCIÓN CUART A — COMUNIDADES CAMPESINAS Y NATIVAS
 
-#### TÍTULO ÚNICO — Disposiciones Generales
+### TÍTULO ÚNICO — Disposiciones Generales
 
 Noción y fines de las Comunidades Campesinas y Nativas
 
@@ -1004,7 +1004,7 @@ CONCORDANCIA: R. Nº 126-2011-SUNARP-SA ACTO JURÍDICO Código Civil - DECRETO L
 
 ## LIBRO II — ACTO JURÍDICO
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 Noción de Acto Jurídico: elementos esenciales
 
@@ -1024,7 +1024,7 @@ En los casos en que la ley establezca que la manifestación de voluntad deba hac
 
 El silencio importa manifestación de voluntad cuando la ley o el convenio le atribuyen ese significado.
 
-#### TÍTULO II — Forma del Acto Jurídico
+### TÍTULO II — Forma del Acto Jurídico
 
 Libertad de forma
 
@@ -1036,7 +1036,7 @@ Cuando la ley no designe una forma específica para un acto jurídico, los inter
 
 Cuando la ley impone una forma y no sanciona con nulidad su inobservancia, constituye sólo un medio de prueba de la existencia del acto.
 
-#### TÍTULO III — Representación
+### TÍTULO III — Representación
 
 Origen de la representación
 
@@ -1178,7 +1178,7 @@ Poder especial para actos de disposición
 
 Los representantes legales requieren autorización expresa para realizar los siguientes actos sobre los bienes del representado: 1.- Disponer de ellos o gravarlos. 2.- Celebrar transacciones. 3.- Celebrar compromiso arbitral. 4.- Celebrar los demás actos para los que la ley o el acto jurídico exigen autorización especial.
 
-#### TÍTULO IV — Interpretación del Acto Jurídico
+### TÍTULO IV — Interpretación del Acto Jurídico
 
 Interpretación objetiva
 
@@ -1198,7 +1198,7 @@ Interpretación integral
 
 Las expresiones que tengan varios sentidos deben entenderse en el más adecuado a la naturaleza y al objeto del acto.
 
-#### TÍTULO V — Modalidades del Acto Jurídico
+### TÍTULO V — Modalidades del Acto Jurídico
 
 Invalidación del acto por condiciones impropias
 
@@ -1318,7 +1318,7 @@ En este caso, si el gravado muere sin cumplir los cargos, la adquisición del de
 
 Si el hecho que constituye el cargo es ilícito o imposible, o llega a serlo, el acto jurídico subsiste sin cargo alguno.
 
-#### TÍTULO VI — Simulación del Acto Jurídico
+### TÍTULO VI — Simulación del Acto Jurídico
 
 Simulación absoluta
 
@@ -1344,7 +1344,7 @@ La acción para solicitar la nulidad del acto simulado puede ser ejercitada por 
 
 La simulación no puede ser opuesta por las partes ni por los terceros perjudicados a quien de buena fe y a título oneroso haya adquirido derechos del titular aparente.
 
-#### TÍTULO VII — Fraude del Acto Jurídico
+### TÍTULO VII — Fraude del Acto Jurídico
 
 Acción pauliana
 
@@ -1380,7 +1380,7 @@ La ineficacia de los actos gratuitos se tramita como proceso sumarísimo; la de 
 
 Quedan a salvo las disposiciones pertinentes en materia de quiebra.[^77]
 
-#### TÍTULO VIII — Vicios de la Voluntad
+### TÍTULO VIII — Vicios de la Voluntad
 
 CONCORDANCIA: D.S. Nº 052-2008-PCM, Reglamento, Art. 8º Requisitos de error
 
@@ -1410,9 +1410,9 @@ Anulabilidad del acto jurídico por error en el motivo
 
 El error en el motivo sólo vicia el acto cuando expresamente se manifiesta como su razón determinante y es aceptado por la otra parte. improcedencia de la anulabilidad por error rectificado
 
-###### Artículo 206º. La parte que incurre en error no puede pedir la anulación del
+###### Artículo 206º
 
-ACTO JURÍDICO acto si, antes de haber sufrido un perjuicio, la otra ofreciere cumplir conforme al contenido y a las modalidades del acto que aquélla quiso concluir. Improcedencia de indemnización por error
+La parte que incurre en error no puede pedir la anulación del ACTO JURÍDICO acto si, antes de haber sufrido un perjuicio, la otra ofreciere cumplir conforme al contenido y a las modalidades del acto que aquélla quiso concluir. Improcedencia de indemnización por error
 
 ###### Artículo 207º
 
@@ -1484,7 +1484,7 @@ Nulidad de la renuncia de la acción por vicios de la voluntad
 
 Es nula la renuncia anticipada a la acción que se funde en error, dolo, violencia o intimidación.
 
-#### TÍTULO IX — Nulidad del Acto Jurídico
+### TÍTULO IX — Nulidad del Acto Jurídico
 
 Causales de nulidad
 
@@ -1556,7 +1556,7 @@ Nadie puede repetir lo que pagó a un incapaz en virtud de una obligación anula
 
 Si el incapaz ha procedido de mala fe ocultando su incapacidad para inducir a la celebración del acto, ni él, ni sus herederos o cesionarios, pueden alegar la nulidad.
 
-#### TÍTULO X — Confirmación del Acto Jurídico
+### TÍTULO X — Confirmación del Acto Jurídico
 
 Confirmación explícita
 
@@ -1578,7 +1578,7 @@ La forma del instrumento de confirmación debe tener iguales solemnidades a las 
 
 ## LIBRO III — DERECHO DE FAMILIA
 
-### SECCIÓN PRIMERA — DISPOSICIONES GENERALES
+#### SECCIÓN PRIMERA — DISPOSICIONES GENERALES
 
 Finalidad de la regulación de la familia
 
@@ -1620,9 +1620,9 @@ Parentesco por adopción
 
 La adopción es fuente de parentesco dentro de los alcances de esta institución.
 
-### SECCIÓN SEGUNDA — SOCIEDAD CONYUGAL
+#### SECCIÓN SEGUNDA — SOCIEDAD CONYUGAL
 
-#### TÍTULO I — El Matrimonio como Acto
+### TÍTULO I — El Matrimonio como Acto
 
 ##### CAPÍTULO PRIMERO — Esponsales
 
@@ -1702,9 +1702,9 @@ La resolución judicial denegatoria a que se refiere el Artículo 244º debe ser
 
 Efectos del matrimonio de menores sin autorización
 
-###### Artículo 247º. El menor que se casa sin el asentimiento a que se refieren los
+###### Artículo 247º
 
-Artículos 244º y 245º no goza de la posesión, administración, usufructo ni de la facultad de gravamen o disposición de sus bienes, hasta que alcance la mayoría. El funcionario del registro del estado civil ante quien se celebró el casamiento sufrirá una multa no menor a diez sueldos mínimos vitales mensuales del lugar que corresponda, sin perjuicio de la responsabilidad penal a que haya lugar.
+El menor que se casa sin el asentimiento a que se refieren los Artículos 244º y 245º no goza de la posesión, administración, usufructo ni de la facultad de gravamen o disposición de sus bienes, hasta que alcance la mayoría. El funcionario del registro del estado civil ante quien se celebró el casamiento sufrirá una multa no menor a diez sueldos mínimos vitales mensuales del lugar que corresponda, sin perjuicio de la responsabilidad penal a que haya lugar.
 
 ##### CAPÍTULO TERCERO — Celebración del Matrimonio
 
@@ -1768,9 +1768,9 @@ Cualquier persona que conozca la existencia de un impedimento que constituya alg
 
 La denuncia puede hacerse oralmente o por escrito y se remitirá al Ministerio Público, el cual, si la encuentra fundada, formulará la oposición. Procedimiento de la Oposición
 
-###### Artículo 256º. Es competente para conocer la oposición al matrimonio, el Juez de
+###### Artículo 256º
 
-Paz Letrado del lugar donde éste habría de celebrarse.
+Es competente para conocer la oposición al matrimonio, el Juez de Paz Letrado del lugar donde éste habría de celebrarse.
 
 Remitido el expediente de oposición por el alcalde, el Juez requerirá al oponente para que interponga demanda dentro de quinto día. El Ministerio Público interpondrá su demanda dentro de diez días contados desde publicado el aviso previsto en el
 
@@ -1970,7 +1970,7 @@ El matrimonio invalidado produce los efectos de un matrimonio válido disuelto p
 
 El matrimonio contraído con infracción del Artículo 243º es válido.
 
-#### TÍTULO II — Relaciones Personales entre los Cónyuges
+### TÍTULO II — Relaciones Personales entre los Cónyuges
 
 ##### CAPÍTULO ÚNICO — Deberes y derechos que nacen del matrimonio
 
@@ -2024,7 +2024,7 @@ Representación unilateral de la sociedad conyugal
 
 Uno de los cónyuges asume la dirección y representación de la sociedad: 1.- Si el otro está impedido por interdicción u otra causa. 2.- Si se ignora el paradero del otro o éste se encuentra en lugar remoto. 3.- Si el otro ha abandonado el hogar.
 
-#### TÍTULO III — Régimen Patrimonial
+### TÍTULO III — Régimen Patrimonial
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -2276,7 +2276,7 @@ El régimen de separación de patrimonios fenece en los casos del
 
 DERECHO DE FAMILIA
 
-#### TÍTULO IV — Decaimiento y Disolución del Vínculo
+### TÍTULO IV — Decaimiento y Disolución del Vínculo
 
 ##### CAPÍTULO PRIMERO — Separación de Cuerpos
 
@@ -2460,9 +2460,9 @@ Si no se apela la sentencia que declara el divorcio, ésta será consultada, con
 
 Las disposiciones de la ley sobre el divorcio y la separación de cuerpos no se extienden más allá de sus efectos civiles y dejan íntegros los deberes que la religión impone.
 
-### SECCIÓN TERCERA — SOCIEDAD PATERNO-FILIAL
+#### SECCIÓN TERCERA — SOCIEDAD PATERNO-FILIAL
 
-#### TÍTULO I — Filiación Matrimonial
+### TÍTULO I — Filiación Matrimonial
 
 ##### CAPÍTULO PRIMERO — Hijos Matrimoniales
 
@@ -2610,7 +2610,7 @@ Si la persona a quien se pretende adoptar tiene bienes, la adopción no puede re
 
 El menor o el mayor incapaz que haya sido adoptado puede pedir que se deje sin efecto la adopción dentro del año siguiente a su mayoría o a la fecha en que desapareció su incapacidad. El juez lo declarará sin más trámite. En tal caso, recuperan vigencia, sin efecto retroactivo, la filiación consanguínea y la partida correspondiente. El registro del estado civil respectivo hará la inscripción del caso por mandato judicial.
 
-#### TÍTULO II — Filiación extramatrimonial
+### TÍTULO II — Filiación extramatrimonial
 
 ##### CAPÍTULO PRIMERO — Reconocimiento de los Hijos Extramatrimoniales
 
@@ -2758,9 +2758,9 @@ No caduca la acción para que se declare la filiación extramatrimonial.
 
 Normatividad supletoria
 
-###### Artículo 411º. Son aplicables a la madre y a sus herederos las disposiciones de los
+###### Artículo 411º
 
-Artículos 406º a 408º.
+Son aplicables a la madre y a sus herederos las disposiciones de los Artículos 406º a 408º.
 
 Efectos de la sentencia de filiación extramatrimonial
 
@@ -2798,7 +2798,7 @@ Titular y destinatario de la acción
 
 La acción que corresponde al hijo en el caso del Artículo 415º es personal, se ejercita por medio de su representante legal y se dirige contra el presunto padre o sus herederos. Estos, sin embargo, no tienen que pagar al hijo más de lo que habría recibido como heredero si hubiese sido reconocido o judicialmente declarado.
 
-#### TÍTULO III — Patria Potestad
+### TÍTULO III — Patria Potestad
 
 ##### CAPÍTULO ÚNICO — Ejercicio, contenido y terminación de la Patria Potestad
 
@@ -3108,9 +3108,9 @@ Los padres a los cuales se les ha privado de la patria potestad o limitado en su
 
 En los casos de pérdida y suspensión, los padres volverán a ejercer la patria potestad cuando desaparezcan los hechos que los motivaron; salvo la declaración de pérdida de la patria potestad por sentencia condenatoria por la comisión de delito doloso en agravio del hijo o en perjuicio del mismo.[^141] DERECHO DE FAMILIA
 
-### SECCIÓN CUART A — AMPARO FAMILIAR
+#### SECCIÓN CUART A — AMPARO FAMILIAR
 
-#### TÍTULO I — Alimentos y Bienes de Familia
+### TÍTULO I — Alimentos y Bienes de Familia
 
 ##### CAPÍTULO PRIMERO — Alimentos
 
@@ -3290,7 +3290,7 @@ Modificación del patrimonio familiar
 
 El patrimonio familiar puede ser modificado según las circunstancias, observándose el mismo procedimiento que para su constitución.
 
-#### TÍTULO II — Instituciones Supletorias de Amparo
+### TÍTULO II — Instituciones Supletorias de Amparo
 
 ##### CAPÍTULO PRIMERO — Tutela
 
@@ -4250,9 +4250,9 @@ DERECHO DE SUCESIONES Código Civil - DECRETO LEGISLATIVO Nº 295 DERECHO DE SUC
 
 ## LIBRO IV — DERECHO DE SUCESIONES
 
-### SECCIÓN PRIMERA — SUCESIÓN EN GENERAL
+#### SECCIÓN PRIMERA — SUCESIÓN EN GENERAL
 
-#### TÍTULO I — Trasmisión Sucesoria
+### TÍTULO I — Trasmisión Sucesoria
 
 Trasmisión sucesoria de pleno derecho
 
@@ -4276,7 +4276,7 @@ Juez competente en materia sucesoria
 
 Corresponde al juez del lugar donde el causante tuvo su último domicilio en el país, conocer de los procedimientos no contenciosos y de los juicios relativos a la sucesión.
 
-#### TÍTULO II — Petición de Herencia
+### TÍTULO II — Petición de Herencia
 
 Acción de petición de herencia
 
@@ -4294,7 +4294,7 @@ La acción reivindicatoria procede contra el tercero que, sin buena fe, adquiere
 
 El poseedor de buena fe que hubiese enajenado un bien hereditario está obligado a restituir su precio al heredero y si se le adeudara, se trasmitirá a este último el derecho de cobrarlo. En todos los casos, el poseedor de mala fe está obligado a resarcir al heredero el valor del bien y de sus frutos y a indemnizarle el perjuicio que le hubiera ocasionado.
 
-#### TÍTULO III — Indignidad
+### TÍTULO III — Indignidad
 
 Exclusión de la sucesión por indignidad
 
@@ -4328,7 +4328,7 @@ y el resarcimiento a que está obligado por la segunda parte del
 
 ###### Artículo 666º
 
-#### TÍTULO IV — Aceptación y Renuncia de la Herencia
+### TÍTULO IV — Aceptación y Renuncia de la Herencia
 
 Formas de aceptar la herencia
 
@@ -4382,7 +4382,7 @@ DERECHO DE SUCESIONES Actos que no importan aceptación ni impiden renuncia
 
 Los actos de administración provisional y de conservación de los bienes de la herencia practicados por el heredero mientras no haya vencido el plazo del Artículo 673º, no importan aceptación ni impiden la renuncia.
 
-#### TÍTULO V — Representación
+### TÍTULO V — Representación
 
 Herederos por representación
 
@@ -4410,9 +4410,9 @@ Quienes concurran a la herencia por representación sucesoria, reciben por estir
 
 En la sucesión legal, la representación se aplica en los casos mencionados en los Artículos 681º a 684º. En la sucesión testamentaria, rige con igual amplitud en la línea recta descendente, y en la colateral se aplica el Artículo 683º, salvo disposición distinta del testador.
 
-### SECCIÓN SEGUNDA — SUCESIÓN TEST AMENT ARIA
+#### SECCIÓN SEGUNDA — SUCESIÓN TEST AMENT ARIA
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 Sucesión por testamento
 
@@ -4444,7 +4444,7 @@ Las normas generales sobre las modalidades de los actos jurídicos, se aplican a
 
 Las disposiciones testamentarias deben ser la expresión directa de la voluntad del testador, quien no puede dar poder a otro para testar, ni dejar sus disposiciones al arbitrio de un tercero.
 
-#### TÍTULO II — Formalidades de los Testamentos
+### TÍTULO II — Formalidades de los Testamentos
 
 ##### CAPÍTULO PRIMERO — Disposiciones Comunes
 
@@ -4644,7 +4644,7 @@ Validez de testamento otorgado en el extranjero
 
 Son válidos en el Perú en cuanto a su forma, los testamentos otorgados en otro país por los peruanos o los extranjeros, ante los funcionarios autorizados para ello y según las formalidades establecidas por la ley del respectivo país, salvo los testamentos mancomunado y verbal y las modalidades testamentarias incompatibles con la ley peruana.
 
-#### TÍTULO III — La Legítima y la Porción Disponible
+### TÍTULO III — La Legítima y la Porción Disponible
 
 Noción de legítima
 
@@ -4668,9 +4668,9 @@ El que tiene sólo padres u otros ascendientes, puede disponer libremente hasta 
 
 Libre disposición de la totalidad de los bienes
 
-###### Artículo 727º. El que no tiene cónyuge ni parientes de los indicados en los
+###### Artículo 727º
 
-Artículos 725º y 726º, tiene la libre disposición de la totalidad de sus bienes. Gravamen sobre la porción disponible
+El que no tiene cónyuge ni parientes de los indicados en los Artículos 725º y 726º, tiene la libre disposición de la totalidad de sus bienes. Gravamen sobre la porción disponible
 
 ###### Artículo 728º
 
@@ -4712,7 +4712,7 @@ Intangibilidad de la legítima
 
 El testador no puede privar de la legítima a sus herederos forzosos, sino en los casos expresamente determinados por la ley, ni imponer sobre aquélla gravamen, modalidad, ni sustitución alguna. Tampoco puede privar a su cónyuge de los derechos que le conceden los Artículos 731º y 732º, salvo en los referidos casos.
 
-#### TÍTULO IV — Institución y Sustitución de Herederos y Legatarios
+### TÍTULO IV — Institución y Sustitución de Herederos y Legatarios
 
 Institución de heredero o legatario
 
@@ -4762,7 +4762,7 @@ El testador puede designar sustituto a los herederos voluntarios y a los legatar
 
 Los herederos voluntarios y legatarios sustitutos quedan sujetos a las mismas condiciones y cargos que el instituido, a menos que el testador disponga otra cosa, o que las condiciones y cargos impuestos sean por su naturaleza inherentes a la persona del instituido.
 
-#### TÍTULO V — Desheredación
+### TÍTULO V — Desheredación
 
 Noción de desheredación
 
@@ -4846,7 +4846,7 @@ Herederos en representación de desheredado
 
 Los descendientes del desheredado heredan por representación la legítima que correspondería a éste si no hubiere sido excluido. El desheredado no tiene derecho al usufructo ni a la administración de los bienes que por esta causa adquieran sus descendientes que sean menores de edad o incapaces.
 
-#### TÍTULO VI — Legados
+### TÍTULO VI — Legados
 
 Facultad de disponer por legado
 
@@ -4952,7 +4952,7 @@ CONCORDANCIA: R. Nº 156-2012-SUNARP-SN, Art. 18º Aceptación y renuncia del le
 
 Es aplicable al legado la disposición del Artículo 677º.
 
-#### TÍTULO VII — Derecho de Acrecer
+### TÍTULO VII — Derecho de Acrecer
 
 Derecho de acrecer entre coherederos
 
@@ -4974,7 +4974,7 @@ El legado se reintegra a la masa hereditaria cuando no tiene efecto por cualquie
 
 El derecho de acrecer no tiene lugar cuando del testamento resulta una voluntad diversa del testador.
 
-#### TÍTULO VIII — Albaceas
+### TÍTULO VIII — Albaceas
 
 CONCORDANCIA: D.S. Nº 052-2008-PCM, Reglamento, Art. 6º Nombramiento de albacea
 
@@ -5090,7 +5090,7 @@ Obligación de albacea de cumplir con la voluntad del testador
 
 El albacea está facultado durante el ejercicio de su cargo y en cualquier tiempo después de haberlo ejercido, para exigir que se cumpla la voluntad del testador. Carece de esta facultad el que cesó por renuncia o por haber sido removido del cargo.
 
-#### TÍTULO IX — Revocación, Caducidad y Nulidad de los Testamentos
+### TÍTULO IX — Revocación, Caducidad y Nulidad de los Testamentos
 
 ##### CAPÍTULO PRIMERO — Revocación
 
@@ -5198,9 +5198,9 @@ Es nulo el testamento otorgado en común por dos o más personas.
 
 DERECHO DE SUCESIONES
 
-### SECCIÓN TERCERA — SUCESIÓN INTEST ADA
+#### SECCIÓN TERCERA — SUCESIÓN INTEST ADA
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 Casos de sucesión intestada
 
@@ -5222,7 +5222,7 @@ El cónyuge o, en su caso, el integrante sobreviviente de la unión de hecho tam
 
 Los parientes de la línea recta descendente excluyen a los de la ascendente. Los parientes más próximos en grado excluyen a los más remotos, salvo el derecho de representación.
 
-#### TÍTULO II — Sucesión de los Descendientes
+### TÍTULO II — Sucesión de los Descendientes
 
 Igualdad de derechos sucesorios de los hijos
 
@@ -5234,7 +5234,7 @@ Todos los hijos tienen iguales derechos sucesorios respecto de sus padres. Esta 
 
 La misma igualdad de derechos rige la sucesión de los demás descendientes. Estos heredan a sus ascendientes por cabeza, si concurren solos, y por estirpe, cuando concurren con hijos del causante.
 
-#### TÍTULO III — Sucesión de los Ascendientes
+### TÍTULO III — Sucesión de los Ascendientes
 
 Sucesión de los padres
 
@@ -5246,7 +5246,7 @@ A falta de hijos y otros descendientes heredan los padres por partes iguales. Si
 
 Si no hubiere padres, heredan los abuelos, en forma que la indicada en el Artículo 820º.
 
-#### TÍTULO IV — Sucesión del Cónyuge
+### TÍTULO IV — Sucesión del Cónyuge
 
 Concurrencia del cónyuge con descendientes
 
@@ -5280,7 +5280,7 @@ La sucesión que corresponde al viudo o a la viuda no procede, cuando hallándos
 
 La nulidad del matrimonio por haber sido celebrado con persona que estaba impedida de contraerlo no afecta los derechos sucesorios del cónyuge que lo contrajo de buena fe, salvo que el primer cónyuge sobreviva al causante.
 
-#### TÍTULO V — Sucesión de los Parientes Colaterales
+### TÍTULO V — Sucesión de los Parientes Colaterales
 
 Sucesión de parientes colaterales
 
@@ -5294,7 +5294,7 @@ Concurrencia de medios hermanos
 
 En los casos de concurrencia de hermanos de padre y madre con medio hermanos, aquéllos recibirán doble porción que éstos.
 
-#### TÍTULO VI — Sucesión del Estado y de las Beneficencias Públicas
+### TÍTULO VI — Sucesión del Estado y de las Beneficencias Públicas
 
 Sucesión del Estado y de la Beneficencia Pública
 
@@ -5306,9 +5306,9 @@ Es obligación de la entidad adjudicataria pagar las deudas del causante si las 
 
 Corresponde al gestor del proceso o trámite de sucesión intestada, el diez por ciento del valor neto de los bienes adjudicados, el mismo que será abonado por la entidad respectiva, con el producto de la venta de dichos bienes u otros, mediante la adjudicación de alguno de ellos.[^190]
 
-### SECCIÓN CUART A — MASA HEREDIT ARIA
+#### SECCIÓN CUART A — MASA HEREDIT ARIA
 
-#### TÍTULO I — Colación
+### TÍTULO I — Colación
 
 Noción de colación
 
@@ -5380,7 +5380,7 @@ La renuncia de la legítima no exime al heredero de devolver lo recibido, en cua
 
 La colación es sólo en favor de los herederos y no aprovecha a los legatarios ni a los acreedores de la sucesión.
 
-#### TÍTULO II — Indivisión y Partición
+### TÍTULO II — Indivisión y Partición
 
 ##### CAPÍTULO PRIMERO — Indivisión
 
@@ -5518,7 +5518,7 @@ Improcedencia de saneamiento por insolvencia
 
 La insolvencia del deudor de un crédito adjudicado a alguno de los herederos, no da lugar a saneamiento, si sobreviniere después de hecha la partición.
 
-#### TÍTULO III — Cargas y deudas de la Herencia
+### TÍTULO III — Cargas y deudas de la Herencia
 
 ##### CAPÍTULO PRIMERO — Cargas
 
@@ -5600,7 +5600,7 @@ DERECHOS REALES Código Civil - DECRETO LEGISLATIVO Nº 295 DERECHO REALES
 
 ## LIBRO V — DERECHOS REALES
 
-### SECCIÓN PRIMERA — DISPOSICIONES GENERALES
+#### SECCIÓN PRIMERA — DISPOSICIONES GENERALES
 
 Noción de Derechos Reales
 
@@ -5624,9 +5624,9 @@ Normas que rigen la propiedad incorporal
 
 Las propiedades incorporales se rigen por su legislación especial.
 
-### SECCIÓN SEGUNDA — BIENES
+#### SECCIÓN SEGUNDA — BIENES
 
-#### TÍTULO I — Clases de Bienes
+### TÍTULO I — Clases de Bienes
 
 Bienes inmuebles
 
@@ -5638,7 +5638,7 @@ Son inmuebles: 1.- El suelo, el subsuelo y el sobresuelo. 2.- El mar, los lagos,
 
 Son muebles: 1.- Los vehículos terrestres de cualquier clase. 2.- Las fuerzas naturales susceptibles de apropiación. 3.- Las construcciones en terreno ajeno, hechas para un fin temporal. 4.- Los materiales de construcción o procedentes de una demolición si no están unidos al suelo. 5.- Los títulos valores de cualquier clase o los instrumentos donde conste la adquisición de créditos o de derechos personales. 6.- Los derechos patrimoniales de autor, de inventor, de patentes, nombres, marcas y otros similares. 7.- Las rentas o pensiones de cualquier clase. 8.- Las acciones o participaciones que cada socio tenga en sociedades o asociaciones, aunque a éstas pertenezcan bienes inmuebles. 9.- Los demás bienes que puedan llevarse de un lugar a otro. 10.- Los demás bienes no comprendidos en el Artículo 885º.
 
-#### TÍTULO II — Partes integrantes y accesorios
+### TÍTULO II — Partes integrantes y accesorios
 
 Noción de parte integrante
 
@@ -5664,7 +5664,7 @@ Partes integrantes y accesorias
 
 Las partes integrantes de un bien y sus accesorios siguen la condición de éste, salvo que la ley o el contrato permita su diferenciación o separación.
 
-#### TÍTULO III — Frutos y Productos
+### TÍTULO III — Frutos y Productos
 
 Noción de frutos
 
@@ -5704,9 +5704,9 @@ Aplicación extensiva de las normas sobre frutos
 
 Las disposiciones sobre frutos comprenden los productos si ellas no los excluyen expresamente.
 
-### SECCIÓN TERCERA — DERECHOS REALES PRINCIPALES
+#### SECCIÓN TERCERA — DERECHOS REALES PRINCIPALES
 
-#### TÍTULO I — Posesión
+### TÍTULO I — Posesión
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -5902,7 +5902,7 @@ La posesión se extingue por: 1.- Tradición. 2.- Abandono.
 
 DERECHO REALES 3.- Ejecución de resolución judicial. 4.- Destrucción total o pérdida del bien.
 
-#### TÍTULO II — Propiedad
+### TÍTULO II — Propiedad
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -6196,9 +6196,9 @@ En caso de empate, decide el juez por la vía incidental.
 
 Régimen aplicable a la administración judicial de los bienes comunes
 
-###### Artículo 972º. La administración judicial de los bienes comunes se rige por el
+###### Artículo 972º
 
-Código de Procedimientos Civiles.[^208] Administración del bien común por uno de los copropietarios
+La administración judicial de los bienes comunes se rige por el Código de Procedimientos Civiles.[^208] Administración del bien común por uno de los copropietarios
 
 ###### Artículo 973º
 
@@ -6354,7 +6354,7 @@ Cargas de la medianería
 
 Los colindantes deben contribuir a prorrata para la conservación, reparación o reconstrucción de la pared medianera, a no ser que renuncien a la medianería, hagan o no uso de ella.
 
-#### TÍTULO III — Usufructo
+### TÍTULO III — Usufructo
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -6528,7 +6528,7 @@ Si el usufructo se establece sobre un fundo del cual forma parte un edificio que
 
 Pero si el usufructo se encuentra establecido solamente sobre un edificio que llega a destruirse, el usufructuario no tiene derecho al suelo ni a los materiales, ni al edificio que el propietario reconstruya a su costa.
 
-#### TÍTULO IV — Uso y Habitación
+### TÍTULO IV — Uso y Habitación
 
 Régimen legal del derecho de uso
 
@@ -6550,7 +6550,7 @@ Carácter personal de los derechos de uso y habitación
 
 Los derechos de uso y habitación no pueden ser materia de ningún acto jurídico, salvo la consolidación.
 
-#### TÍTULO V — Superficie
+### TÍTULO V — Superficie
 
 Superficie: Noción y plazo
 
@@ -6582,7 +6582,7 @@ Extinción del derecho de superficie
 
 La extinción del derecho de superficie importa la terminación de los derechos concedidos por el superficiario en favor de tercero.
 
-#### TÍTULO VI — Servidumbres
+### TÍTULO VI — Servidumbres
 
 Servidumbre legal y convencional
 
@@ -6706,9 +6706,9 @@ Amplitud del camino en el derecho de paso
 
 La amplitud del camino se fijará según las circunstancias.
 
-### SECCIÓN CUART A — DERECHOS REALES DE GARANTÍA
+#### SECCIÓN CUART A — DERECHOS REALES DE GARANTÍA
 
-#### TÍTULO I — Prenda
+### TÍTULO I — Prenda
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -6728,7 +6728,7 @@ Artículos 1084º al 1089º.- DEROGADOS[^215]
 
 DEROGADO[^216]
 
-#### TÍTULO II — Anticresis
+### TÍTULO II — Anticresis
 
 definición de anticresis
 
@@ -6762,7 +6762,7 @@ DERECHO REALES Normas supletorias aplicables
 
 Son aplicables a la anticresis las reglas establecidas para la prenda en lo que no se opongan a las consignadas en este título.
 
-#### TÍTULO III — Hipoteca
+### TÍTULO III — Hipoteca
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -6846,9 +6846,9 @@ El acreedor cuya hipoteca comprenda varios inmuebles podrá, a su elección, per
 
 Cumplimiento anticipado de la obligación
 
-###### Artículo 1110º. Si los bienes hipotecados se pierden o deterioran de modo que
+###### Artículo 1110º
 
-DERECHO REALES resulten insuficientes, puede pedirse el cumplimiento de la obligación aunque no esté vencido el plazo, salvo que se garantice ésta a satisfacción del acreedor. Nulidad del pacto comisorio
+Si los bienes hipotecados se pierden o deterioran de modo que DERECHO REALES resulten insuficientes, puede pedirse el cumplimiento de la obligación aunque no esté vencido el plazo, salvo que se garantice ésta a satisfacción del acreedor. Nulidad del pacto comisorio
 
 ###### Artículo 1111º
 
@@ -6934,7 +6934,7 @@ Causas de extinción de la hipoteca
 
 La hipoteca se acaba por: 1.- Extinción de la obligación que garantiza. 2.- Anulación, rescisión o resolución de dicha obligación. 3.- Renuncia escrita del acreedor. 4.- Destrucción total del inmueble. 5.- Consolidación.
 
-#### TÍTULO IV — Derecho de Retención
+### TÍTULO IV — Derecho de Retención
 
 Derecho de retención
 
@@ -6990,9 +6990,9 @@ Las reglas de este título son aplicables a todos los casos en que la ley recono
 
 ## LIBRO VI — LAS OBLIGACIONES
 
-### SECCIÓN PRIMERA — LAS OBLIGACIONES Y SUS MODALIDADES
+#### SECCIÓN PRIMERA — LAS OBLIGACIONES Y SUS MODALIDADES
 
-#### TÍTULO I — Obligaciones de Dar
+### TÍTULO I — Obligaciones de Dar
 
 Obligación de dar bien cierto
 
@@ -7096,7 +7096,7 @@ Esta regla no se aplica cuando la elección debe efectuarse entre determinados b
 
 Practicada la elección, se aplican las reglas establecidas sobre obligaciones de dar bienes ciertos.
 
-#### TÍTULO II — Obligaciones de Hacer
+### TÍTULO II — Obligaciones de Hacer
 
 Plazo y modo de obligaciones de hacer
 
@@ -7160,7 +7160,7 @@ Si la prestación resulta imposible sin culpa de las partes, la obligación del 
 
 Si como consecuencia de la inejecución por culpa del deudor éste obtiene una indemnización o adquiere un derecho contra tercero en sustitución de la prestación debida, el acreedor puede exigirle la entrega de tal indemnización o sustituir al deudor en la titularidad del derecho contra el tercero. En estos casos, la indemnización de daños y perjuicios se reduce en los montos correspondientes.
 
-#### TÍTULO III — Obligaciones de no hacer
+### TÍTULO III — Obligaciones de no hacer
 
 Derechos de acreedor por incumplimiento culposo
 
@@ -7180,7 +7180,7 @@ Normas aplicables a obligaciones de no hacer
 
 Son aplicables a las obligaciones de no hacer las disposiciones de los Artículos 1154º, primer párrafo, 1155º, 1156º y 1157º.
 
-#### TÍTULO IV — Obligaciones alternativas y facultativas
+### TÍTULO IV — Obligaciones alternativas y facultativas
 
 Prestaciones alternativas
 
@@ -7252,7 +7252,7 @@ Presunción de obligación facultativa
 
 En caso de duda sobre si la obligación es alternativa o facultativa, se la tiene por facultativa.
 
-#### TÍTULO V — Obligaciones divisibles e indivisibles
+### TÍTULO V — Obligaciones divisibles e indivisibles
 
 División de deudas y créditos
 
@@ -7308,7 +7308,7 @@ Normas aplicables a las obligaciones indivisibles
 
 Las obligaciones indivisibles se rigen, además, por los Artículos 1184º, 1188º, 1192º, 1193º, 1194º, 1196º, 1197º, 1198º, 1199º, 1203º y 1204º. Si la obligación indivisible es solidaria, se aplican las normas de la solidaridad, así como lo dispuesto por el Artículo 1177º.
 
-#### TÍTULO VI — Obligaciones mancomunadas y solidarias
+### TÍTULO VI — Obligaciones mancomunadas y solidarias
 
 Régimen legal de obligaciones mancomunadas
 
@@ -7450,7 +7450,7 @@ Insolvencia de codeudor
 
 Si alguno de los codeudores es insolvente, su porción se distribuye entre los demás, de acuerdo con sus intereses en la obligación. Si el codeudor en cuyo exclusivo interés fue asumida la obligación es insolvente, la deuda se distribuye por porciones iguales entre los demás.
 
-#### TÍTULO VII — Reconocimiento de las obligaciones
+### TÍTULO VII — Reconocimiento de las obligaciones
 
 Formalidad en el reconocimiento de obligaciones
 
@@ -7458,7 +7458,7 @@ Formalidad en el reconocimiento de obligaciones
 
 El reconocimiento puede efectuarse por testamento o por acto entre vivos. En este último caso, si para constituir la obligación primitiva se hubiera prescrito alguna forma determinada, el reconocimiento deberá practicarse en la misma forma.
 
-#### TÍTULO VIII — Transmisión de las obligaciones
+### TÍTULO VIII — Transmisión de las obligaciones
 
 ##### CAPÍTULO ÚNICO — Cesión de Derechos
 
@@ -7532,9 +7532,9 @@ El deudor que antes de la comunicación o de la aceptación, cumple la prestaci�
 
 DEROGADO[^219]
 
-### SECCIÓN SEGUNDA — EFECTOS DE LAS OBLIGACIONES
+#### SECCIÓN SEGUNDA — EFECTOS DE LAS OBLIGACIONES
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 Transmisibilidad de la obligación
 
@@ -7550,7 +7550,7 @@ Es posible ejercitar simultáneamente los derechos previstos en este artículo, 
 
 LAS OBLIGACIONES
 
-#### TÍTULO II — Pago
+### TÍTULO II — Pago
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -7912,7 +7912,7 @@ Las reglas de este capítulo se aplican, en cuanto sean pertinentes, a las oblig
 
 En tales casos, quien acepta el pago indebido de buena fe, sólo está obligado a indemnizar aquello en que se hubiese beneficiado, si procede de mala fe, queda obligado a restituir el íntegro del valor de la prestación, más la correspondiente indemnización de daños y perjuicios.
 
-#### TÍTULO III — Novación
+### TÍTULO III — Novación
 
 definición: requisitos
 
@@ -7980,7 +7980,7 @@ Nulidad o anulabilidad de la nueva obligación
 
 Si la nueva obligación se declara nula o es anulada, la primitiva obligación revive, pero el acreedor no podrá valerse de las garantías prestadas por terceros.
 
-#### TÍTULO IV — Compensación
+### TÍTULO IV — Compensación
 
 Extinción de la obligación por compensación
 
@@ -8016,7 +8016,7 @@ Cuando una persona tuviera respecto de otra varias deudas compensables, y no man
 
 La compensación no perjudica los derechos adquiridos sobre cualquiera de los créditos.
 
-#### TÍTULO V — Condonación
+### TÍTULO V — Condonación
 
 Extinción de obligación por condonación
 
@@ -8048,7 +8048,7 @@ Condonación de la prenda
 
 La devolución voluntaria de la prenda determina la condonación de la misma, pero no la de la deuda.
 
-#### TÍTULO VI — Consolidación
+### TÍTULO VI — Consolidación
 
 Consolidación total o parcial
 
@@ -8064,7 +8064,7 @@ Si la consolidación cesa, se restablece la separación de las calidades de acre
 
 En tal caso, la obligación extinguida renace con todos sus accesorios, sin perjuicio del derecho de terceros.
 
-#### TÍTULO VII — Transacción
+### TÍTULO VII — Transacción
 
 Noción
 
@@ -8128,7 +8128,7 @@ Cuando las partes se sirven de la suerte para dirimir cuestiones, ello produce l
 
 La transacción judicial se ejecuta de la misma manera que la sentencia y la extrajudicial, en la vía ejecutiva.
 
-#### TÍTULO VIII — Mutuo Disenso
+### TÍTULO VIII — Mutuo Disenso
 
 Noción del mutuo disenso
 
@@ -8136,7 +8136,7 @@ Noción del mutuo disenso
 
 Por el mutuo disenso las partes que han celebrado un acto jurídico acuerdan dejarlo sin efecto. Si perjudica el derecho de tercero se tiene por no efectuado.
 
-#### TÍTULO IX — Inejecución de Obligaciones
+### TÍTULO IX — Inejecución de Obligaciones
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -8364,9 +8364,9 @@ Los codeudores que no fuesen culpables tienen expedito su derecho para reclamar 
 
 ## LIBRO VII — FUENTES DE LAS OBLIGACIONES
 
-### SECCIÓN PRIMERA — Contratos en General
+#### SECCIÓN PRIMERA — Contratos en General
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 Noción de contrato
 
@@ -8500,7 +8500,7 @@ La rescisión se declara judicialmente, pero los efectos de la sentencia se retr
 
 Por razón de la resolución, las partes deben restituirse las prestaciones en el estado en que se encontraran al momento indicado en el párrafo anterior, y si ello no fuera posible deben rembolsarse en dinero el valor que tenían en dicho momento. FUENTES DE LAS OBLIGACIONES En los casos previstos en los dos primeros párrafos de este artículo, cabe pacto en contrario. No se perjudican los derechos adquiridos de buena fe.[^232]
 
-#### TÍTULO II — El consentimiento
+### TÍTULO II — El consentimiento
 
 Perfeccionamiento del contrato
 
@@ -8668,7 +8668,7 @@ Interpretación de las estipulaciones
 
 Las estipulaciones insertas en las cláusulas generales de contratación o en formularios redactados por una de las partes, se interpretan, en caso de duda, en favor de la otra.
 
-#### TÍTULO III — Objeto del Contrato
+### TÍTULO III — Objeto del Contrato
 
 Objeto del contrato
 
@@ -8724,7 +8724,7 @@ FUENTES DE LAS OBLIGACIONES futuro, el compromiso de entrega queda subordinado a
 
 Si la falta de entrega obedece a causas imputables al obligado, el acreedor puede recurrir a los derechos que le confiere la ley.
 
-#### TÍTULO IV — Forma del Contrato
+### TÍTULO IV — Forma del Contrato
 
 Forma como requisito
 
@@ -8742,7 +8742,7 @@ Si por mandato de la ley o por convenio debe otorgarse escritura pública o cump
 
 Las modificaciones del contrato original deben efectuarse en la forma prescrita para ese contrato.
 
-#### TÍTULO V — Contratos Preparatorios
+### TÍTULO V — Contratos Preparatorios
 
 Compromiso de contratar
 
@@ -8806,7 +8806,7 @@ Al vencimiento de la opción, las partes pueden renovarla por un plazo no mayor 
 
 Los contratos preparatorios son nulos si no se celebran en la misma forma que la ley prescribe para el contrato definitivo bajo sanción de nulidad.
 
-#### TÍTULO VI — Contrato con Prestaciones Recíprocas
+### TÍTULO VI — Contrato con Prestaciones Recíprocas
 
 Incumplimiento
 
@@ -8862,7 +8862,7 @@ FUENTES DE LAS OBLIGACIONES El contrato se resuelve cuando no sea posible la red
 
 En los contratos plurilaterales con prestaciones autónomas, la imposibilidad sobreviniente de cumplir la prestación por una de las partes no determina la resolución del contrato respecto de las otras, a menos que la prestación incumplida se considere esencial, de acuerdo con las circunstancias. En los casos de incumplimiento, las otras partes pueden optar por resolver el vínculo respecto del que hubiese incumplido o exigir su cumplimiento.
 
-#### TÍTULO VII — Cesión de Posición Contractual
+### TÍTULO VII — Cesión de Posición Contractual
 
 Cesión
 
@@ -8900,7 +8900,7 @@ Garantías de terceros en el contrato de cesión
 
 Las garantías constituidas por terceras personas no pasan al cesionario sin la autorización expresa de aquéllas.
 
-#### TÍTULO VIII — Excesiva Onerosidad de la Prestación
+### TÍTULO VIII — Excesiva Onerosidad de la Prestación
 
 definición
 
@@ -8948,7 +8948,7 @@ Plazo de caducidad
 
 El término inicial del plazo de caducidad a que se refiere el Artículo 1445º corre a partir del momento en que hayan desaparecido los acontecimientos extraordinarios e imprevisibles.
 
-#### TÍTULO IX — Lesión
+### TÍTULO IX — Lesión
 
 Acción por lesión
 
@@ -9010,7 +9010,7 @@ Lesión en la partición
 
 No puede ejercitar la acción por lesión el copropietario que haya enajenado bienes por más de la mitad del valor en que le fueron adjudicados.
 
-#### TÍTULO X — Contrato en Favor de Tercero
+### TÍTULO X — Contrato en Favor de Tercero
 
 definición
 
@@ -9086,7 +9086,7 @@ Oposición al derecho de tercero
 
 El promitente puede oponer al tercero las excepciones fundadas en el contrato, pero no las que deriven de otras relaciones existentes entre él y el estipulante.
 
-#### TÍTULO XI — Promesa de la Obligación o del hecho de un Tercero
+### TÍTULO XI — Promesa de la Obligación o del hecho de un Tercero
 
 Promesa de la obligación o del hecho de un tercero
 
@@ -9106,7 +9106,7 @@ Puede pactarse anticipadamente el monto de la indemnización.
 
 FUENTES DE LAS OBLIGACIONES
 
-#### TÍTULO XII — Contrato por Persona a Nombrar
+### TÍTULO XII — Contrato por Persona a Nombrar
 
 Facultad de partes de nombrar a tercero
 
@@ -9136,7 +9136,7 @@ Si la declaración de nombramiento se hizo válidamente, la persona nombrada asu
 
 En caso contrario o cuando no se efectúa la declaración de nombramiento dentro del plazo, el contrato produce efecto entre los contratantes originarios.
 
-#### TÍTULO XIII — Arras Confirmatorias
+### TÍTULO XIII — Arras Confirmatorias
 
 Entrega y devolución de arras
 
@@ -9154,7 +9154,7 @@ Si la parte que hubiese entregado las arras no cumple la obligación por causa i
 
 Si la parte que no ha incumplido la obligación prefiere demandar la ejecución o la resolución del contrato, la indemnización de daños y perjuicios se regula por las normas generales.
 
-#### TÍTULO XIV — Arras de Retractación
+### TÍTULO XIV — Arras de Retractación
 
 Arras de retractación
 
@@ -9180,7 +9180,7 @@ Efecto del contrato definitivo
 
 Si se celebra el contrato definitivo, quien recibe las arras las devolverá de inmediato o las imputará sobre su crédito, según la naturaleza de la prestación.
 
-#### TÍTULO XV — Obligaciones de Saneamiento
+### TÍTULO XV — Obligaciones de Saneamiento
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -9450,9 +9450,9 @@ Nulidad del pacto de liberación o limitación del saneamiento
 
 Es nulo el pacto mediante el cual se pretende liberar o limitar la obligación de saneamiento del transferente por un hecho voluntario suyo. Sin embargo, puede ser válida, a juicio del juez, la exoneración o limitación del saneamiento por hechos concretos, cuya justificación debe expresarse en el contrato.
 
-### SECCIÓN SEGUNDA — CONTRATOS NOMINADOS
+#### SECCIÓN SEGUNDA — CONTRATOS NOMINADOS
 
-#### TÍTULO I — Compraventa
+### TÍTULO I — Compraventa
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -9912,7 +9912,7 @@ Si hay diversidad en los títulos de dos o más que tengan derecho de retracto, 
 
 Cuando se hayan efectuado dos o más enajenaciones antes de que expire el plazo para ejercitar el retracto, este derecho se refiere a la primera enajenación sólo por el precio, tributos, gastos e intereses de la misma. Quedan sin efecto las otras enajenaciones.
 
-#### TÍTULO II — Permuta
+### TÍTULO II — Permuta
 
 definición
 
@@ -9926,7 +9926,7 @@ Reglas aplicables a la permuta
 
 La permuta se rige por las disposiciones sobre compraventa, en lo que le sean aplicables.
 
-#### TÍTULO III — Suministro
+### TÍTULO III — Suministro
 
 definición
 
@@ -10018,7 +10018,7 @@ Si el beneficiario del suministro no satisface la obligación que le corresponde
 
 Cuando alguna de las partes incumple las prestaciones singulares a que está obligada, la otra puede pedir la resolución del contrato si el incumplimiento tiene una importancia tal que disminuya la confianza en la exactitud de los sucesivos cumplimientos.
 
-#### TÍTULO IV — Donación
+### TÍTULO IV — Donación
 
 definición
 
@@ -10174,7 +10174,7 @@ Irrevocabilidad de donación por matrimonio
 
 La donación a que se refiere el Artículo 1646º no es revocable por causa de ingratitud.
 
-#### TÍTULO V — Mutuo
+### TÍTULO V — Mutuo
 
 definición
 
@@ -10270,7 +10270,7 @@ Falso mutuo
 
 Cuando se presta una cantidad de dinero que debe devolverse en mercaderías o viceversa, el contrato es de compraventa.
 
-#### TÍTULO VI — Arrendamiento
+### TÍTULO VI — Arrendamiento
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -10578,7 +10578,7 @@ Los contratos de arrendamiento regulados por leyes especiales se rigen supletori
 
 FUENTES DE LAS OBLIGACIONES
 
-#### TÍTULO VII — Hospedaje
+### TÍTULO VII — Hospedaje
 
 definición
 
@@ -10664,7 +10664,7 @@ Las disposiciones de los Artículos 1713º a 1725º comprenden a los hospitales,
 
 FUENTES DE LAS OBLIGACIONES
 
-#### TÍTULO VIII — Comodato
+### TÍTULO VIII — Comodato
 
 definición
 
@@ -10824,7 +10824,7 @@ La acción del comodatario para que se le reintegren los gastos extraordinarios 
 
 FUENTES DE LAS OBLIGACIONES
 
-#### TÍTULO IX — Prestación de Servicios
+### TÍTULO IX — Prestación de Servicios
 
 ##### CAPÍTULO PRIMERO — Disposiciones Generales
 
@@ -11484,7 +11484,7 @@ Normas aplicables al secuestro
 
 Rigen para el secuestro las normas del depósito voluntario, en cuanto sean aplicables.
 
-#### TÍTULO X — Fianza
+### TÍTULO X — Fianza
 
 definición
 
@@ -11686,7 +11686,7 @@ Las cartas de recomendación u otros documentos en que se asegure o certifique l
 
 Los Artículos 1868º a 1904º rigen, en cuanto sean aplicables, la prestación de la fianza en los casos en que ésta es necesaria por disposición de la ley.
 
-#### TÍTULO XI — Cláusula Compromisoria y Compromiso Arbitral
+### TÍTULO XI — Cláusula Compromisoria y Compromiso Arbitral
 
 ##### CAPÍTULO PRIMERO — Cláusula Compromisoria
 
@@ -11696,7 +11696,7 @@ Artículos 1906º a 1908º.- DEROGADOS[^266] FUENTES DE LAS OBLIGACIONES
 
 Artículos 1909º a 1922º.- DEROGADOS[^268]
 
-#### TÍTULO XII — Renta Vitalicia
+### TÍTULO XII — Renta Vitalicia
 
 definición
 
@@ -11804,7 +11804,7 @@ En caso de establecerse la renta en favor y en cabeza de dos o más personas o s
 
 La renta vitalicia constituida por testamento se sujeta a lo dispuesto en los Artículos 1923º a 1940º, en cuanto sean aplicables.
 
-#### TÍTULO XIII — Juego y Apuesta
+### TÍTULO XIII — Juego y Apuesta
 
 definición
 
@@ -11830,9 +11830,9 @@ El juego y la apuesta prohibidos son los expresamente indicados en la ley. No ex
 
 Nulidad de legalización de deudas de juego y apuestas
 
-###### Artículo 1945º. Las deudas de los juegos y apuestas a que se refieren los
+###### Artículo 1945º
 
-Artículos 1943º y 1944º no pueden ser materia de novación, otorgamiento de garantía para su pago, ni cualquier otro acto jurídico que encubra o envuelva su reconocimiento. Empero, la nulidad no puede oponerse al tercero de buena fe. Estas deudas tampoco pueden ser objeto de emisión de títulos de crédito a la orden del ganador y en contra del perdedor, salvo los derechos del tercero de buena fe. Improcedencia de repetición en deuda pagada por tercero
+Las deudas de los juegos y apuestas a que se refieren los Artículos 1943º y 1944º no pueden ser materia de novación, otorgamiento de garantía para su pago, ni cualquier otro acto jurídico que encubra o envuelva su reconocimiento. Empero, la nulidad no puede oponerse al tercero de buena fe. Estas deudas tampoco pueden ser objeto de emisión de títulos de crédito a la orden del ganador y en contra del perdedor, salvo los derechos del tercero de buena fe. Improcedencia de repetición en deuda pagada por tercero
 
 ###### Artículo 1946º
 
@@ -11858,7 +11858,7 @@ La acción para reclamar la deuda derivada de los juegos y apuestas permitidos c
 
 FUENTES DE LAS OBLIGACIONES
 
-### SECCIÓN TERCERA — Gestión de Negocios
+#### SECCIÓN TERCERA — Gestión de Negocios
 
 definición
 
@@ -11880,7 +11880,7 @@ La misma obligación le concierne cuando la gestión hubiese tenido por objeto e
 
 El juez apreciará las circunstancias que indujeron al gestor a encargarse de la gestión para fijar la amplitud de su responsabilidad, establecer el monto de los gastos que deban reembolsársele y fijar la indemnización por los daños y perjuicios que hubiere sufrido en el desempeño de la gestión.
 
-### SECCIÓN CUART A — Enriquecimiento Sin Causa
+#### SECCIÓN CUART A — Enriquecimiento Sin Causa
 
 Acción por enriquecimiento sin causa
 
@@ -11894,7 +11894,7 @@ Improcedencia de la acción por enriquecimiento sin causa
 
 La acción a que se refiere el Artículo 1954º no es procedente cuando la persona que ha sufrido el perjuicio puede ejercitar otra acción para obtener la respectiva indemnización.
 
-### SECCIÓN QUINT A — Promesa Unilateral
+#### SECCIÓN QUINT A — Promesa Unilateral
 
 definición
 
@@ -11974,7 +11974,7 @@ Normas aplicables
 
 Rigen, además, las disposiciones de los Artículos 1361º, segundo párrafo, 1363º, 1402º, 1409º y 1410º, en cuanto sean compatibles con la naturaleza de la promesa.
 
-### SECCIÓN SEXT A — Responsabilidad Extracontractual
+#### SECCIÓN SEXT A — Responsabilidad Extracontractual
 
 Indemnización por daño moroso y culposo
 
@@ -12086,7 +12086,7 @@ Código Civil - DECRETO LEGISLATIVO Nº 295
 
 ## LIBRO VIII — PRESCRIPCIÓN Y CADUCIDAD
 
-#### TÍTULO I — Prescripción Extintiva
+### TÍTULO I — Prescripción Extintiva
 
 Prescripción extintiva
 
@@ -12172,7 +12172,7 @@ Prescriben, salvo disposición diversa de la ley:
 
 La prescripción se produce vencido el último día del plazo.
 
-#### TÍTULO II — Caducidad
+### TÍTULO II — Caducidad
 
 Efectos de la caducidad
 
@@ -12206,7 +12206,7 @@ REGISTROS PÚBLICOS Código Civil - DECRETO LEGISLATIVO Nº 295 REGISTROS PÚBLI
 
 CONCORDANCIA: Ley Nº 26366, Art. 2º
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 CONCORDANCIA: R. Nº 039-2013-SUNARP-SN, Art. 2º del Reglamento Clases de registros
 
@@ -12270,7 +12270,7 @@ Principio de impenetrabilidad
 
 No puede inscribirse un título incompatible con otro ya inscrito, aunque sea de fecha anterior.
 
-#### TÍTULO II — Registro de la Propiedad Inmueble
+### TÍTULO II — Registro de la Propiedad Inmueble
 
 Primera inscripción de dominio
 
@@ -12308,7 +12308,7 @@ Inscripción de contrato de opción
 
 La inscripción de los contratos de opción otorga durante su vigencia derecho preferente sobre todo derecho real o personal que se inscriba con posterioridad.
 
-#### TÍTULO III — Registro de Personas Jurídicas
+### TÍTULO III — Registro de Personas Jurídicas
 
 Libros que conforman el Registro de Personas Jurídicas
 
@@ -12348,7 +12348,7 @@ No se requiere el otorgamiento de escritura pública para la inscripción del no
 
 Las personas jurídicas constituidas en el extranjero se inscriben en el registro correspondiente del lugar que señalen como domicilio en el país.[^278]
 
-#### TÍTULO IV — Registro Personal
+### TÍTULO IV — Registro Personal
 
 Actos y resoluciones inscribibles
 
@@ -12382,7 +12382,7 @@ La falta de inscripción del acto en el lugar donde debió hacerse, motiva que a
 
 Las inscripciones se cancelan cuando lo ordene el Juez o cuando la justificación de la cancelación resulte de los documentos que se presenten al solicitarla.[^288]
 
-#### TÍTULO V — Registro de Mandatos y Poderes
+### TÍTULO V — Registro de Mandatos y Poderes
 
 Instrumentos inscribibles
 
@@ -12400,7 +12400,7 @@ Las inscripciones se hacen en el Registro del lugar donde permanentemente se va 
 
 El tercero que de buena fe y a título oneroso ha contratado sobre la base de mandato o poder inscrito en el registro del lugar de celebración del contrato, no será perjudicado por mandato, poder, modificaciones o extinciones de éstos no inscritos.
 
-#### TÍTULO VI — Registro de Testamentos
+### TÍTULO VI — Registro de Testamentos
 
 Actos y resoluciones inscribibles
 
@@ -12416,7 +12416,7 @@ Lugar de Inscripción
 
 Las inscripciones se hacen en el registro del domicilio del testador y, además, en el lugar de ubicación de los inmuebles si de designan en el testamento.
 
-#### TÍTULO VII — Registros de Sucesiones Intestadas[^290]
+### TÍTULO VII — Registros de Sucesiones Intestadas[^290]
 
 CONCORDANCIA: R. Nº 039-2013-SUNARP-SN, Reglamento, Art. 2º Actos y resoluciones inscribibles
 
@@ -12428,7 +12428,7 @@ Se inscriben obligatoriamente en este registro las actas notariales y las resolu
 
 Las resoluciones a que se refiere el Artículo 2041º se inscriben en el registro correspondiente del último domicilio del causante y, además, en el lugar de ubicación de los bienes muebles e inmuebles, en su caso.[^292]
 
-#### TÍTULO VIII — Registros de Bienes Muebles
+### TÍTULO VIII — Registros de Bienes Muebles
 
 Bienes muebles registrables
 
@@ -12450,7 +12450,7 @@ DERECHO INTERNACIONAL PRIVADO Código Civil - DECRETO LEGISLATIVO Nº 295 Códig
 
 ## LIBRO X — DERECHO INTERNACIONAL PRIVADO
 
-#### TÍTULO I — Disposiciones Generales
+### TÍTULO I — Disposiciones Generales
 
 CONCORDANCIA: Ley Nº 28677, Art. 56º Igualdad de derechos para peruanos y extranjeros
 
@@ -12482,9 +12482,9 @@ Reconocimiento de derechos adquiridos en el extranjero
 
 Todo derecho regularmente adquirido al amparo de un ordenamiento extranjero, competente según las normas peruanas de Derecho Internacional Privado, tiene la misma eficacia en el Perú, en la medida en que sea compatible con el orden público internacional y con las buenas costumbres. Aplicación de oficio de normas extranjeras
 
-###### Artículo 2051º. El ordenamiento extranjero competente según las normas de
+###### Artículo 2051º
 
-Derecho Internacional Privado peruanas, debe aplicarse de oficio. La ley extranjera como prueba
+El ordenamiento extranjero competente según las normas de Derecho Internacional Privado peruanas, debe aplicarse de oficio. La ley extranjera como prueba
 
 ###### Artículo 2052º
 
@@ -12510,7 +12510,7 @@ Solución de conflictos entre normas extranjeras
 
 Cuando en el derecho extranjero que resulta aplicable coexistan diversos ordenamientos jurídicos, el conflicto entre las leyes locales se resolverá de acuerdo con los principios vigentes en el correspondiente derecho extranjero.
 
-#### TÍTULO II — Competencia Jurisdiccional
+### TÍTULO II — Competencia Jurisdiccional
 
 Competencia sobre personas domiciliadas en el Perú
 
@@ -12578,7 +12578,7 @@ La competencia jurisdiccional de los tribunales peruanos para conocer de las acc
 
 Salvo lo dispuesto en este título, los tribunales peruanos carecen de competencia jurisdiccional para conocer: 1.- De las acciones relativas a derechos reales sobre predios situados en el extranjero. 2.- De los asuntos que hubiesen sido sometidos por las partes a una jurisdicción extranjera, de conformidad con lo previsto en el Artículo 2060º. 3.- De las acciones relativas al estado y la capacidad de las personas naturales o a las relaciones familiares, si la causa no tiene ninguna vinculación efectiva con el territorio de la República.
 
-#### TÍTULO III — Ley Aplicable
+### TÍTULO III — Ley Aplicable
 
 Principio y fin de la persona natural
 
@@ -12820,11 +12820,11 @@ La sucesión se rige, cualquiera que sea el lugar de situación de los bienes, p
 
 Sucesión de bienes ubicados en el Perú
 
-###### Artículo 2101º. La ley peruana rige la sucesión de los bienes situados en la
+###### Artículo 2101º
 
-República si, conforme a la ley del domicilio del causante, ellos deben pasar a un Estado extranjero o a sus instituciones.
+La ley peruana rige la sucesión de los bienes situados en la República si, conforme a la ley del domicilio del causante, ellos deben pasar a un Estado extranjero o a sus instituciones.
 
-#### TÍTULO IV — Reconocimiento y Ejecución de Sentencias y Fallos Arbitrales Extranjeros
+### TÍTULO IV — Reconocimiento y Ejecución de Sentencias y Fallos Arbitrales Extranjeros
 
 Principio de Reciprocidad
 
@@ -12838,9 +12838,9 @@ Reciprocidad negativa
 
 Si la sentencia procede de un país en el que no se da cumplimiento a los fallos de los tribunales peruanos, no tiene fuerza alguna en la República. Están comprendidas en la disposición precedente las sentencias que proceden de países donde se revisan, en el fondo, los fallos de los tribunales peruanos. Requisitos para Exequator
 
-###### Artículo 2104º. Para que las sentencias extranjeras sean reconocidas en la
+###### Artículo 2104º
 
-República, se requiere, además de lo previsto en los Artículos 2102º y 2103º. 1.- Que no resuelvan sobre asuntos de competencia peruana exclusiva. 2.- Que el tribunal extranjero haya sido competente para conocer el asunto, de acuerdo a sus normas de Derecho Internacional Privado y a los principios generales de competencia procesal internacional. 3.- Que se haya citado al demandado conforme a la ley del lugar del proceso; que se le haya concedido plazo razonable para comparecer; y que se le hayan otorgado garantías procesales para defenderse. 4.- Que la sentencia tenga autoridad de cosa juzgada en el concepto de las leyes del lugar del proceso. 5.- Que no exista en el Perú juicio pendiente entre las mismas partes y sobre el mismo objeto, iniciado con anterioridad a la interposición de la demanda que originó la sentencia. 6.- Que no sea incompatible con otra sentencia que reúna los requisitos de reconocimiento y ejecución exigidos en este título y que haya sido dictada anteriormente.[^299] 7.- Que no sea contraria al orden público ni a las buenas costumbres. 8.- Que se pruebe la reciprocidad.
+Para que las sentencias extranjeras sean reconocidas en la República, se requiere, además de lo previsto en los Artículos 2102º y 2103º. 1.- Que no resuelvan sobre asuntos de competencia peruana exclusiva. 2.- Que el tribunal extranjero haya sido competente para conocer el asunto, de acuerdo a sus normas de Derecho Internacional Privado y a los principios generales de competencia procesal internacional. 3.- Que se haya citado al demandado conforme a la ley del lugar del proceso; que se le haya concedido plazo razonable para comparecer; y que se le hayan otorgado garantías procesales para defenderse. 4.- Que la sentencia tenga autoridad de cosa juzgada en el concepto de las leyes del lugar del proceso. 5.- Que no exista en el Perú juicio pendiente entre las mismas partes y sobre el mismo objeto, iniciado con anterioridad a la interposición de la demanda que originó la sentencia. 6.- Que no sea incompatible con otra sentencia que reúna los requisitos de reconocimiento y ejecución exigidos en este título y que haya sido dictada anteriormente.[^299] 7.- Que no sea contraria al orden público ni a las buenas costumbres. 8.- Que se pruebe la reciprocidad.
 
 Sentencia extranjera en materia de quiebra
 
@@ -12894,7 +12894,7 @@ Lo dispuesto en este título rige, en cuanto sea aplicable, también para resolu
 
 Tratándose de laudos arbitrales, serán de aplicación exclusiva las disposiciones de la Ley General de Arbitraje.[^300][^301]
 
-#### TÍTULO FINAL
+### TÍTULO FINAL
 
 ##### CAPÍTULO PRIMERO — Disposiciones Finales
 
@@ -13028,29 +13028,29 @@ Nº 25940 11-12-1992
 
 MODIFICADO la Primera Disposición Modificatoria del Decreto Legislativo Nº 768 04-03-1992
 
-###### Artículo 70º. DEROGADO por la Sétima Disposición Final de la
+###### Artículo 70º
 
-Ley Nº 26497 12-07-1995
+DEROGADO por la Sétima Disposición Final de la Ley Nº 26497 12-07-1995
 
-###### Artículo 71º. DEROGADO por la Sétima Disposición Final de la
+###### Artículo 71º
 
-Ley Nº 26497 12-07-1995
+DEROGADO por la Sétima Disposición Final de la Ley Nº 26497 12-07-1995
 
-###### Artículo 72º. DEROGADO por la Sétima Disposición Final de la
+###### Artículo 72º
 
-Ley Nº 26497 12-07-1995
+DEROGADO por la Sétima Disposición Final de la Ley Nº 26497 12-07-1995
 
-###### Artículo 73º. DEROGADO por la Sétima Disposición Final de la
+###### Artículo 73º
 
-Ley Nº 26497 12-07-1995 CUADRO DE MODIFICACIONES
+DEROGADO por la Sétima Disposición Final de la Ley Nº 26497 12-07-1995 CUADRO DE MODIFICACIONES
 
-###### Artículo 74º. DEROGADO por la Sétima Disposición Final de la
+###### Artículo 74º
 
-Ley Nº 26497 12-07-1995
+DEROGADO por la Sétima Disposición Final de la Ley Nº 26497 12-07-1995
 
-###### Artículo 75º. DEROGADO por la Sétima Disposición Final de la
+###### Artículo 75º
 
-Ley Nº 26497 12-07-1995
+DEROGADO por la Sétima Disposición Final de la Ley Nº 26497 12-07-1995
 
 ###### Artículo 85º
 
@@ -13064,9 +13064,9 @@ Ley Nº 26497 12-07-1995
 
 último párrafo MODIFICADO por la Primera Disposición Modifica - toria del Decreto Legislativo Nº 768 04-03-1992
 
-###### Artículo 95º. MODIFICADO por la Quinta Disposición Final del
+###### Artículo 95º
 
-Decreto Legislativo Nº 845 21-09-1996
+MODIFICADO por la Quinta Disposición Final del Decreto Legislativo Nº 845 21-09-1996
 
 ###### Artículo 95º
 
@@ -13236,9 +13236,9 @@ CUADRO DE MODIFICACIONES
 
 Nº 30007 17-04-2013
 
-###### Artículo 330º. MODIFICADO por la Quinta Disposición Final del
+###### Artículo 330º
 
-Decreto Legislativo Nº 845 21-09-1996
+MODIFICADO por la Quinta Disposición Final del Decreto Legislativo Nº 845 21-09-1996
 
 ###### Artículo 330º
 
@@ -13376,13 +13376,13 @@ MODIFICADO por el Artículo 1 de la Ley Nº 27646 23-01-2002
 
 Nº 27184 18-10-1999
 
-###### Artículo 462º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 462º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
-###### Artículo 463º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 463º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
 ###### Artículo 464º
 
@@ -13392,37 +13392,37 @@ DEROGADO por la Primera Disposición Modificato - ria de la Ley Nº 26102 29-12-
 
 primer párr RECTIFICADO por Fe de Erratas 07-09-1984
 
-###### Artículo 466º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 466º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
-###### Artículo 470º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 470º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
-###### Artículo 471º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 471º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
 ###### Artículo 471º
 
 MODIFICADO por el Art. 3º de la Ley Nº 29194 25-01-2008
 
-###### Artículo 472º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 472º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
 ###### Artículo 473º
 
 MODIFICADO por el Artículo 1º de la Ley Nº 27646 23-01-2002
 
-###### Artículo 474º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 474º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
-###### Artículo 475º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 475º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
 ###### Artículo 483º
 
@@ -13436,33 +13436,33 @@ CUADRO DE MODIFICACIONES
 
 inc. 4 MODIFICADO por la Primera Disposición Modifica - toria del D.Leg. Nº 768 04-03-1992
 
-###### Artículo 503º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 503º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
 ###### Artículo 511º
 
 MODIFICADO por la Segunda Disposición Comple - mentaria Final de la Ley Nº 30162 29-01-2014
 
-###### Artículo 526º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 526º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
 ###### Artículo 529º
 
 RECTIFICADO por Fe de Erratas 07-09-1984
 
-###### Artículo 533º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 533º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
-###### Artículo 542º. MODIFICADO por la Primera Disposición Final del
+###### Artículo 542º
 
-D. Leg. Nº 768 04-03-1992
+MODIFICADO por la Primera Disposición Final del D. Leg. Nº 768 04-03-1992
 
-###### Artículo 557º. MODIFICADO por la Segunda Disposición Final del
+###### Artículo 557º
 
-Decreto Ley Nº 26102 29-12-1992
+MODIFICADO por la Segunda Disposición Final del Decreto Ley Nº 26102 29-12-1992
 
 ###### Artículo 568º-A. INCORPORADO por el Artículo 1º de la Ley
 
@@ -13540,9 +13540,9 @@ MODIFICADO por el Artículo 5º de la Ley Nº 30007 17-04-2013
 
 RECTIFICADO por Fe de Erratas 07-09-1984
 
-###### Artículo 751º. MODIFICADO por la Disposición Modificatoria del
+###### Artículo 751º
 
-D. Leg. Nº 768 04-03-1992
+MODIFICADO por la Disposición Modificatoria del D. Leg. Nº 768 04-03-1992
 
 ###### Artículo 762º
 
@@ -13552,9 +13552,9 @@ RECTIFICADO por Fe de Erratas 07-09-1984
 
 MODIFICADO por la Primera Disposición Modifica - toria del D. Leg. Nº 768 04-03-1992
 
-###### Artículo 795º. MODIFICADO por la Primera Disposición del
+###### Artículo 795º
 
-D. Leg. Nº 768 04-03-1992
+MODIFICADO por la Primera Disposición del D. Leg. Nº 768 04-03-1992
 
 ###### Artículo 815º
 
@@ -13964,77 +13964,77 @@ RECTIFICADO por Fe de Erratas 07-09-1984
 
 RECTIFICADO por Fe de Erratas 07-09-1984
 
-###### Artículo 1906º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1906º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1907º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1907º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1908º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1908º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1909º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1909º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1910º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1910º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1911º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1911º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1912º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1912º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
 ###### Artículo 1913º
 
 RECTIFICADO por Fe de Erratas 07-09-1984
 
-###### Artículo 1913º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1913º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1914º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1914º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1915º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1915º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1916º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1916º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1917º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1917º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1918º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1918º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1919º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1919º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1920º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1920º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992 CUADRO DE MODIFICACIONES
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992 CUADRO DE MODIFICACIONES
 
-###### Artículo 1921º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1921º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
-###### Artículo 1922º. DEROGADO por la Primera Disposición Final del
+###### Artículo 1922º
 
-Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
+DEROGADO por la Primera Disposición Final del Decreto Ley Nº 25935, el que a su vez fue derogado por la Ley Nº 26572 (05-01-1996) 10-12-1992
 
 ###### Artículo 1960º
 
@@ -14072,9 +14072,9 @@ tercer y cuarto párrafo ADICIONADOS por el Artículo 3º de la Ley Nº 26364 02
 
 RECTIFICADO por Fe de Erratas 07-09-1984
 
-###### Artículo 2030º. DEROGADO por la Séptima Disposición Final de la
+###### Artículo 2030º
 
-Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
+DEROGADO por la Séptima Disposición Final de la Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
 
 ###### Artículo 2030º
 
@@ -14096,25 +14096,25 @@ inc. 9 INCORPORADO por el Artículo 2º de la Ley Nº 29633 17-12-2010
 
 , inc. 10 INCORPORADO por el Artículo 7º de la Ley Nº 30007 17-04-2013
 
-###### Artículo 2031º. DEROGADO por la Ultima Disposición Final de la
+###### Artículo 2031º
 
-Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
+DEROGADO por la Ultima Disposición Final de la Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
 
-###### Artículo 2032º. DEROGADO por la Última Disposición Final de la
+###### Artículo 2032º
 
-Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
+DEROGADO por la Última Disposición Final de la Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
 
-###### Artículo 2033º. DEROGADO por la Última Disposición Final de la
+###### Artículo 2033º
 
-Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
+DEROGADO por la Última Disposición Final de la Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
 
-###### Artículo 2034º. DEROGADO por la Última Disposición Final de la
+###### Artículo 2034º
 
-Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
+DEROGADO por la Última Disposición Final de la Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
 
-###### Artículo 2035º. DEROGADO por la Última Disposición Final de la
+###### Artículo 2035º
 
-Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
+DEROGADO por la Última Disposición Final de la Ley Nº 26497 posteriormente REINCORPORADO por el Artículo 1º de la Ley 26589 12-07-1995 18-04-1996
 
 ###### Artículo 2037º
 
@@ -14144,9 +14144,9 @@ RECTIFICADO por Fe de Erratas 07-09-1984
 
 MODIFICADO por la Segunda Disposición Modificatoria de la Ley Nº 26572 05-01-1996
 
-###### Artículo 2064º. DEROGADO por Única Disposición Derogatoria del
+###### Artículo 2064º
 
-D. Leg Nº 1071, que entró en vigencia el 01 de se - tiembre del 2008 28-06-2008
+DEROGADO por Única Disposición Derogatoria del D. Leg Nº 1071, que entró en vigencia el 01 de se - tiembre del 2008 28-06-2008
 
 ###### Artículo 2099º
 

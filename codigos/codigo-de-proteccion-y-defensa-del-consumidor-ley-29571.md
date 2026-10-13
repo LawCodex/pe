@@ -1494,9 +1494,9 @@ Procesos judiciales para la defensa de intereses colectivos de los consumidores 
 
 ### Capítulo I — Sistema Nacional Integrado de Protección del Consumidor
 
-###### Artículo 132. Creación del Sistema Nacional Integrado de
+###### Artículo 132
 
-Protección del Consumidor Créase el Sistema Nacional Integrado de Protección del Consumidor como el conjunto de principios, normas, procedimientos, técnicas e instrumentos destinados a armonizar las políticas públicas con el fin de optimizar las actuaciones de la administración del Estado para garantizar el cumplimiento de las normas de protección y defensa del consumidor en todo el país, en el marco de las atribuciones y autonomía de cada uno de sus integrantes.
+Creación del Sistema Nacional Integrado de Protección del Consumidor Créase el Sistema Nacional Integrado de Protección del Consumidor como el conjunto de principios, normas, procedimientos, técnicas e instrumentos destinados a armonizar las políticas públicas con el fin de optimizar las actuaciones de la administración del Estado para garantizar el cumplimiento de las normas de protección y defensa del consumidor en todo el país, en el marco de las atribuciones y autonomía de cada uno de sus integrantes.
 
 ###### Artículo 133. Consejo Nacional de Protección del Consumidor
 
@@ -1530,9 +1530,9 @@ m. Un (1) representante de la Defensoría del Pueblo, que actúa como observador
 
 La participación en el Consejo Nacional de Protección del Consumidor es ad honórem, no genera pago alguno, ni de dieta, honorario o remuneración por parte del Estado a favor de sus integrantes.
 
-###### Artículo 134. Funciones del Consejo Nacional de Protección del
+###### Artículo 134
 
-Consumidor Son funciones del Consejo Nacional de Protección del Consumidor ejecutadas en coordinación con la Autoridad Nacional de Protección del Consumidor las siguientes:
+Funciones del Consejo Nacional de Protección del Consumidor Son funciones del Consejo Nacional de Protección del Consumidor ejecutadas en coordinación con la Autoridad Nacional de Protección del Consumidor las siguientes:
 
 a. Proponer y armonizar la política nacional de protección y defensa del consumidor, así como el Plan Nacional de Protección de los Consumidores, que deben ser aprobados por la Presidencia del Consejo de Ministros.
 
@@ -1820,9 +1820,9 @@ Dado en la Casa de Gobierno, en Lima, el primer día del mes de setiembre del a�
 
 ALAN GARCÍA PÉREZ Presidente Constitucional de la República JAVIER VELASQUEZ QUESQUÉN Presidente del Consejo de Ministros CUADRO DE MODIFICACIONES DEL CODIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR ARTÍCULO AFECTADO AFECTACIÓN JURÍDICA FECHA DE PUBLICACIÓN Lit. c) del Num. 1.1. del Art. 1 MODIFICADO por el Artículo 3 de la Ley Nº 31040 29-08-2020
 
-###### Artículo 3-A. INCORPORADO por el Artículo 4 de la
+###### Artículo 3-A
 
-Ley Nº 31040 29-08-2020
+INCORPORADO por el Artículo 4 de la Ley Nº 31040 29-08-2020
 
 ###### Artículo 58
 
@@ -1844,37 +1844,37 @@ MODIFICADO por el Artículo Único de la Ley Nº 30534 10-01-2017
 
 , lit. a) MODIFICADO por el Artículo Único de la Ley Nº 30534 10-01-2017
 
-###### Artículo 82. MODIFICADO por el Artículo 1 de la
+###### Artículo 82
 
-Ley Nº 29888 24-06-2012
+MODIFICADO por el Artículo 1 de la Ley Nº 29888 24-06-2012
 
-###### Artículo 83. MODIFICADO por el Artículo 1 de la
+###### Artículo 83
 
-Ley Nº 29888 24-06-2012
+MODIFICADO por el Artículo 1 de la Ley Nº 29888 24-06-2012
 
-###### Artículo 84. MODIFICADO por el Artículo 1 de la
+###### Artículo 84
 
-Ley Nº 29888 24-06-2012
+MODIFICADO por el Artículo 1 de la Ley Nº 29888 24-06-2012
 
 ###### Artículo 90-A
 
 INCORPORADO por el Artículo Único de la Ley Nº 30908 23-01-2019
 
-###### Artículo 94. MODIFICADO por el Artículo 1 de la
+###### Artículo 94
 
-Ley Nº 29888 24-06-2012
+MODIFICADO por el Artículo 1 de la Ley Nº 29888 24-06-2012
 
-###### Artículo 97-A. INCORPORADO por el Artículo 4 de la
+###### Artículo 97-A
 
-Ley Nº 31040 29-08-2020
+INCORPORADO por el Artículo 4 de la Ley Nº 31040 29-08-2020
 
-###### Artículo 105. MODIFICADO por el Artículo 1 del
+###### Artículo 105
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 106. MODIFICADO por el Artículo 1 del
+###### Artículo 106
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
 ###### Artículo 106
 
@@ -1886,65 +1886,65 @@ MODIFICADOS por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
 , num. 106.1 INCORPORADO por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
-###### Artículo 107. MODIFICADO por el Artículo 1 del
+###### Artículo 107
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 107-A. INCORPORADO por el Artículo 2 del
+###### Artículo 107-A
 
-Decreto Legislativo Nº 1308 30-12-2016
+INCORPORADO por el Artículo 2 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 108. MODIFICADO por el Artículo 1 del
+###### Artículo 108
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
 ###### Artículo 108
 
 , lit. f) del segundo párrafo MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
-###### Artículo 109. MODIFICADO por el Artículo 1 del
+###### Artículo 109
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 110. MODIFICADO por el Artículo 1 del
+###### Artículo 110
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 112. MODIFICADO por el Artículo 1 del
+###### Artículo 112
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
 ###### Artículo 112
 
 , num. 3 del tercer párrafo MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
-###### Artículo 115. MODIFICADO por el Artículo 1 del
+###### Artículo 115
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 117. MODIFICADO por el Artículo 1 del
+###### Artículo 117
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 118. MODIFICADO por el Artículo 1 del
+###### Artículo 118
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 125. MODIFICADO por el Artículo 1 del
+###### Artículo 125
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
 ###### Artículo 125
 
 , primer y segundo párrafo MODIFICADOS por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
-###### Artículo 126. MODIFICADO por el Artículo 1 del
+###### Artículo 126
 
-Decreto Legislativo Nº 1308 30-12-2016
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1308 30-12-2016
 
-###### Artículo 130. MODIFICADO por el Artículo 1 del
+###### Artículo 130
 
-Decreto Legislativo Nº 1390 05-09-2018
+MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
 ###### Artículo 131
 

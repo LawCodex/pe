@@ -17,6 +17,7 @@ DIV_WORDS = r"(LIBRO|PARTE|SECCI[ÓO]N|T[ÍI]TULO|SUBT[ÍI]TULO|CAP[ÍI]TULO|SUB
 ORD = (r"([IVXLCDM]+|\d+|[ÚU]NIC[OA]|PRELIMINAR|PRIMER[OA]?|SEGUND[OA]|TERCER[OA]?|CUART[OA]|QUINT[OA]|"
        r"SEXT[OA]|S[ÉE]PTIM[OA]|OCTAV[OA]|NOVEN[OA]|D[ÉE]CIM[OA]|[A-ZÁÉÍÓÚ]+(?:\s+[A-ZÁÉÍÓÚ]+)?)")
 RE_DIV = re.compile(r"^" + DIV_WORDS + r"\s+" + ORD + r"\b\.?\s*[-–—:.]?\s*(.*)$", re.I)
+RE_PARTE = re.compile(r"^(PRIMERA|SEGUNDA|TERCERA|CUARTA|QUINTA|SEXTA)\s+PARTE\b\.?\s*(.*)$")
 RE_ART = re.compile(r"^(ART[ÍI]CULO|Art[íi]culo|Art\.)\s*([IVXLC]+(?=\s*[°º]?\s*(?:\.|-|–|:|$))|\d+[\w°º\-]*(?:\s*(?:bis|ter|quater|quinquies|[A-Z])\b)?|[ÚU]NICO|[ÚU]nico|PRIMERO|Primero)"
                     r"\s*[°º]?\s*(?:\.-|\.–|\.\s*-|-|–|—|\.|:)?\s*(.*)$")
 RE_DISP = re.compile(r"^(DISPOSICI[ÓO]N(ES)?\s+.*|DISPOSICIONES|DECLARACI[ÓO]N|PRE[ÁA]MBULO|T[ÍI]TULO PRELIMINAR)$")
@@ -61,14 +62,18 @@ def clean_pages(pages, extra_drop=(), head_n=3, foot_n=2):
         for l in set(ls[:head_n] + ls[-foot_n:]):
             cnt[_norm(l)] += 1
     thr = max(3, len(pages) * 0.15)
-    rep = {k for k, v in cnt.items() if v >= thr}
+    rep = {k for k, v in cnt.items() if v >= thr and not RE_ART.match(k.strip())}
     # running headers that change per book/part: repeated >= 4 times at the top of pages
-    top = Counter()
-    for t in pages:
+    top = {}
+    for pi, t in enumerate(pages):
         ls = [l for l in t.split("\n") if l.strip()]
         for l in set(ls[:head_n]):
-            top[_norm(l)] += 1
-    rep |= {k for k, v in top.items() if v >= 4}
+            top.setdefault(l.strip(), []).append(pi)
+    exact = set()
+    for k, idx in top.items():
+        close = sum(1 for a, b in zip(idx, idx[1:]) if b - a <= 2)
+        if close >= 3 and not RE_ART.match(k):
+            exact.add(k)
     out = []
     for t in pages:
         ls = [l.rstrip() for l in t.split("\n")]
@@ -77,7 +82,7 @@ def clean_pages(pages, extra_drop=(), head_n=3, foot_n=2):
         for i, l in enumerate(ls):
             edge = i < head_n or i >= len(ls) - foot_n
             s = l.strip()
-            if edge and (_norm(l) in rep or re.fullmatch(r"[-–—\s]*\d{1,4}[-–—\s]*", s)
+            if edge and (_norm(l) in rep or s in exact or re.fullmatch(r"[-–—\s]*\d{1,4}[-–—\s]*", s)
                          or re.fullmatch(r"(P[áa]g(ina)?\.?\s*)?\d{1,4}(\s*(de|/)\s*\d{1,4})?", s, re.I)):
                 continue
             if any(re.search(p, s) for p in extra_drop):
@@ -213,6 +218,7 @@ class Builder:
 def lines_to_md(pages_lines, article_word="Artículo"):
     lines = [l for ls in pages_lines for l in ls]
     b = Builder()
+    last_num = [None]
     i = 0
     n = len(lines)
     while i < n:
@@ -220,6 +226,22 @@ def lines_to_md(pages_lines, article_word="Artículo"):
         s = raw.strip()
         if not s:
             i += 1
+            continue
+        m = RE_PARTE.match(s)
+        if m:
+            title = s
+            j = i + 1
+            names = []
+            while j < n and is_caps(lines[j].strip()) and not RE_DIV.match(lines[j].strip()) \
+                    and not RE_ART.match(lines[j].strip()) and len(names) < 4:
+                names.append(lines[j].strip())
+                j += 1
+            if names and not m.group(2).strip():
+                title = s + " — " + " ".join(names)
+            else:
+                j = i + 1
+            b.heading("PARTE", re.sub(r"\s+", " ", title))
+            i = j
             continue
         m = RE_DIV.match(s)
         if m and (is_caps(m.group(1)) or len(s) < 80):
@@ -249,6 +271,12 @@ def lines_to_md(pages_lines, article_word="Artículo"):
         if m:
             num = re.sub(r"\s+", " ", m.group(2)).strip()
             rest = m.group(3).strip()
+            # PDF text sometimes splits the number: "Artículo 16 1. Las ..." for article 161
+            sp = re.match(r"^(\d{1,2})\s*(?:\.-|\.|-|–)\s*(.*)$", rest)
+            if sp and num.isdigit() and last_num[0] is not None and int(num + sp.group(1)) == last_num[0] + 1:
+                num, rest = num + sp.group(1), sp.group(2)
+            if num.isdigit():
+                last_num[0] = int(num)
             nxt_line = lines[i + 1].strip() if i + 1 < n else ""
             if rest and len(rest) < 90 and not rest.endswith((".", ":", ";", ",")) \
                     and nxt_line[:1].isupper() and not RE_ART.match(nxt_line) and not RE_DIV.match(nxt_line):

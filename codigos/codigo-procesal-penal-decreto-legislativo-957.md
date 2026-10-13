@@ -4966,6 +4966,8 @@ Inscripción de la condena
 
 2. La inscripción caducará automáticamente con el cumplimiento de la pena o medida de seguridad impuesta[^279].
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^257]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
 ## LIBRO CUARTO — LA IMPUGNACIÓN
@@ -4994,7 +4996,7 @@ a) Que sea presentado por quien resulte agraviado por la resolución, tenga inte
 
 b) Que sea interpuesto por escrito y en el plazo previsto por la Ley. También puede ser interpuesto en forma oral, cuando se trata de resoluciones expedidas en el curso de la audiencia, en cuyo caso el recurso se interpondrá en el mismo acto en que se lee la resolución que lo motiva.
 
-c) Que se precise las partes o puntos de la decisión a los que se refiere la impugnación, y se expresen los fundamentos, con indicación específica de los fundamentos de hecho y de derecho que lo apoyen. El recurso deberá concluir formulando una pretensión concreta.
+c) Que se precise las partes o puntos de la decisión a los que se refiere la impugnación, y se expresen los fundamentos, con indicación específica de los fundamentos de hecho y de derecho que lo apoyen. El recurso deberá concluir formulando una pretensión concreta. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^258]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5026,6 +5028,8 @@ Extensión del recurso
 
 1. Cuando en un procedimiento hay coimputados, la impugnación de uno de ellos favorecerá a los demás, siempre que los motivos en que se funde no sean exclusivamente personales.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^259]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
 2. La impugnación presentada por el imputado favorece al tercero civil.
@@ -5052,7 +5056,7 @@ Impugnación diferida
 
 ###### Artículo 411. Libertad de los imputados
 
-Los imputados que hayan sobrepasado el tiempo de la pena impuesta por una sentencia pendiente de recurso, sin perjuicio que éste sea resuelto, serán puestos en inmediata libertad. El juzgador está facultado para dictar las medidas que aseguren la presencia del imputado, siendo aplicable en lo pertinente las restricciones contempladas en el artículo 288.
+Los imputados que hayan sobrepasado el tiempo de la pena impuesta por una sentencia pendiente de recurso, sin perjuicio que éste sea resuelto, serán puestos en inmediata libertad. El juzgador está facultado para dictar las medidas que aseguren la presencia del imputado, siendo aplicable en lo pertinente las restricciones contempladas en el artículo 288. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^260]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5094,6 +5098,8 @@ d) Dos (2) días para el recurso de reposición.
 
 2. El plazo se computará desde el día siguiente a la notificación de la
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^261]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
 resolución[^287][^288][^289].
@@ -5116,7 +5122,7 @@ b) Si no se trata de una decisión dictada en una audiencia, el recurso se inter
 
 ### SECCIÓN IV — EL RECURSO DE APELACIÓN
 
-#### TÍTULO I — PRECEPTOS GENERALES
+#### TÍTULO I — PRECEPTOS GENERALES MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^262]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5154,6 +5160,8 @@ Efectos
 
 2. Si se trata de una sentencia condenatoria que imponga pena privativa de libertad efectiva, este extremo se ejecutará provisionalmente. En todo caso,
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^263]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
 el Tribunal Superior en cualquier estado del procedimiento recursal decidirá mediante auto inimpugnable, atendiendo a las circunstancias del caso, si la ejecución provisional de la sentencia debe suspenderse[^291].
@@ -5176,7 +5184,7 @@ Trámite
 
 2. Absuelto el traslado o vencido el plazo para hacerlo, si la Sala Penal Superior estima inadmisible el recurso podrá rechazarlo de plano. En caso contrario, la causa queda expedita para ser resuelta, y se señalará día y hora para la audiencia de apelación.
 
-3. Antes de la notificación de dicho decreto, el Ministerio Público y los demás sujetos procesales pueden presentar prueba documental o solicitar se agregue a los autos algún acto de investigación actuado con posterioridad
+3. Antes de la notificación de dicho decreto, el Ministerio Público y los demás sujetos procesales pueden presentar prueba documental o solicitar se agregue a los autos algún acto de investigación actuado con posterioridad MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^264]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5199,6 +5207,8 @@ Trámite inicial
 1. Recibidos los autos, la Sala conferirá traslado del escrito de fundamentación del recurso de apelación por el plazo de cinco días.
 
 2. Cumplida la absolución de agravios o vencido el plazo para hacerlo, si la Sala Penal Superior estima inadmisible el recurso podrá rechazarlo de plano. En caso contrario, comunicará a las partes que pueden ofrecer medios probatorios en el plazo de cinco días. El auto que declara inadmisible el recurso podrá ser objeto de recurso de reposición, que se tramitará conforme al artículo 415294.
+
+## LIBRO CUARTO: LA IMPUGNACIÓN[^265]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5230,6 +5240,8 @@ Emplazamiento para la audiencia de apelación
 
 2. Para la instalación de la audiencia es obligatoria la presencia del Fiscal y del imputado recurrente, así como de todos los imputados recurridos en caso la impugnación fuere interpuesta por el Fiscal.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^266]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
 3. Si el acusado recurrente no concurre injustificadamente a la audiencia, se declarará la inadmisibilidad del recurso que interpuso. De igual manera se procederá si no concurre el Fiscal cuando es parte recurrente.
@@ -5252,6 +5264,8 @@ Audiencia de apelación
 
 4. Pueden darse lectura en la audiencia de apelación, aún de oficio, al informe pericial y al examen del perito, a las actuaciones del juicio de primera instancia no objetadas por las partes, así como, dentro de los límites
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^267]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
 previstos en el artículo 383, a las actuaciones cumplidas en las etapas precedentes.
@@ -5272,6 +5286,8 @@ a) Declarar la nulidad, en todo o en parte, de la sentencia apelada y disponer s
 
 b) Dentro de los límites del recurso, confirmar o revocar la sentencia apelada. Si la sentencia de primera instancia es absolutoria puede dictar sentencia condenatoria imponiendo las sanciones y reparación civil a que hubiere lugar o referir la absolución a una causa diversa a la enunciada por el Juez. Si la sentencia de primera instancia es condenatoria puede dictar sentencia absolutoria o dar al hecho, en caso haya sido propuesto por la acusación fiscal y el recurso correspondiente, una denominación jurídica distinta o más grave de la señalada por el Juez de Primera Instancia. También puede modificar la sanción impuesta, así como imponer , modificar o excluir penas accesorias, conjuntas o medidas de seguridad.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^268]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
 c) Cuando la Sala Superior Penal de Apelaciones revoque la sentencia absolutoria y condene al procesado, las partes podrán interponer el recurso de apelación que será de conocimiento de la Sala Penal de la Corte Suprema bajo las reglas del presente título.
@@ -5281,6 +5297,8 @@ c) Cuando la Sala Superior Penal de Apelaciones revoque la sentencia absolutoria
 5. Contra la sentencia de segunda instancia solo procede el pedido de aclaración o corrección y recurso de casación, siempre que se cumplan los requisitos establecidos para su admisión.
 
 6. Leída y notificada la sentencia de segunda instancia, luego de vencerse el plazo para intentar recurrirla, el expediente será remitido al Juez que corresponde ejecutarla conforme a lo dispuesto en este Código[^298].
+
+## LIBRO CUARTO: LA IMPUGNACIÓN[^269]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5320,6 +5338,8 @@ b) Dentro de los límites del recurso, confirmar o revocar la sentencia apelada.
 
 6. Leída y notificada la sentencia de segunda instancia, luego de vencerse el plazo para intentar recurrirla, el expediente será remitido al Juez que corresponde ejecutarla conforme a lo dispuesto en este Código.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^270]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
 las Salas Penales Superiores[^300].
@@ -5335,6 +5355,8 @@ c) Si se trata de sentencias que impongan una medida de seguridad, cuando ésta 
 3. Si la impugnación se refiere a la responsabilidad civil, cuando el monto fijado en la sentencia de primera o de segunda instancia sea superior a cincuenta Unidades de Referencia Procesal o cuando el objeto de la restitución no pueda ser valorado económicamente.
 
 4. Excepcionalmente, será procedente el recurso de casación en casos distintos de los arriba mencionados, cuando la Sala Penal de la Corte Suprema, discrecionalmente, lo considere necesario para el desarrollo de la doctrina jurisprudencial.
+
+## LIBRO CUARTO: LA IMPUGNACIÓN[^271]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5370,6 +5392,8 @@ Son causales para interponer recurso de casación:
 
 3. Si la sentencia o auto importa una indebida aplicación, una errónea interpretación o una falta de aplicación de la Ley penal o de otras normas jurídicas necesarias para su aplicación.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^272]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
 4. Si la sentencia o auto ha sido expedido con falta o manifiesta ilogicidad de la motivación, cuando el vicio resulte de su propio tenor o se ha pronunciado en contraposición de lo resuelto en casos similares, siempre y cuando favorezca al reo[^304].
@@ -5387,6 +5411,8 @@ Interposición y admisión
 3. Si se invoca el numeral 4) del artículo 427, sin perjuicio de señalarse y justificarse la causal que corresponda conforme al artículo 429, el recurrente deberá consignar adicional y puntualmente las razones que justifican el desarrollo de la doctrina jurisprudencial que pretende. En este supuesto, la Sala Penal Superior , para la concesión del recurso, sin perjuicio de lo dispuesto en el numeral anterior , constatará la existencia de la fundamentación específica exigida en estos casos.
 
 4. Si la Sala Penal Superior concede el recurso, dispondrá se notifiquen a todas las partes y se les emplazará para que comparezcan ante la Sala Penal de la Corte Suprema y, si la causa proviene de un Distrito Judicial distinto de
+
+## LIBRO CUARTO: LA IMPUGNACIÓN[^273]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5406,7 +5432,7 @@ Preparación y Audiencia
 
 3. Instalada la audiencia, primero intervendrá el abogado de la parte recurrente. Si existen varios recurrentes, se seguirá el orden fijado en el numeral 5) del artículo 424, luego de lo cual informarán los abogados de las partes recurridas. Si asiste el imputado, se le concederá la palabra en último término.
 
-4. Culminada la audiencia, la Sala procederá, en lo pertinente, conforme a los numerales 1) y 4) del artículo 425. La sentencia se expedirá en el plazo de veinte días. El recurso de casación se resuelve con cuatro votos conformes.
+4. Culminada la audiencia, la Sala procederá, en lo pertinente, conforme a los numerales 1) y 4) del artículo 425. La sentencia se expedirá en el plazo de veinte días. El recurso de casación se resuelve con cuatro votos conformes. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS274
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5431,6 +5457,8 @@ Contenido de la sentencia casatoria y Pleno Casatorio
 3. En todo caso, la Sala de oficio o a pedido del Ministerio Público podrá decidir , atendiendo a la naturaleza del asunto objeto de decisión, que lo resuelto constituye doctrina jurisprudencial vinculante a los órganos jurisdiccionales penales diferentes a la propia Corte Suprema, la cual permanecerá hasta que otra decisión expresa la modifique. Si existiere otra Sala Penal o ésta se integra con otros Vocales, sin perjuicio de resolverse el recurso de casación, a su instancia, se convocará inmediatamente al Pleno Casatorio de los Vocales de lo Penal de la Corte Suprema para la decisión correspondiente, que se adoptará por mayoría absoluta. En este último supuesto no se requiere la intervención de las partes, ni la resolución que se dicte afectará la decisión adoptada en el caso que la motiva. La resolución que declare la doctrina jurisprudencial se publicará en el diario oficial.
 
 4. Si se advirtiere que otra Sala Penal Suprema u otros integrantes de la Sala Penal en sus decisiones sostuvieran criterios discrepantes sobre la interpretación o la aplicación de una determinada norma, de oficio o a instancia del Ministerio Público o de la Defensoría del Pueblo, en relación a los ámbitos referidos a su atribución constitucional, obligatoriamente se
+
+## LIBRO CUARTO: LA IMPUGNACIÓN275
 
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5470,6 +5498,8 @@ Procedencia y efectos
 
 4. La interposición del recurso no suspende la tramitación del principal, ni la eficacia de la resolución denegatoria.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS276
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
 ###### Artículo 438
@@ -5501,6 +5531,8 @@ La revisión de las sentencias condenatorias firmes procede, sin limitación tem
 4. Si con posterioridad a la sentencia se descubren hechos o medios de prueba, no conocidos durante el proceso, que solos o en conexión con las pruebas anteriormente apreciadas sean capaces de establecer la inocencia del condenado.
 
 5. Cuando se demuestre, mediante decisión firme, que la sentencia fue determinada exclusivamente por un delito cometido por el Juez o grave
+
+## LIBRO CUARTO: LA IMPUGNACIÓN277
 
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
@@ -5538,6 +5570,8 @@ c) La indemnización que se pretende, con indicación precisa de su monto. Este 
 
 La interposición de la demanda de revisión no suspende la ejecución de la sentencia. Sin embargo, en cualquier momento del procedimiento, la Sala podrá suspender la ejecución de la sentencia impugnada y disponer , de ser el caso, la libertad del imputado, incluso aplicando, si correspondiere, una medida de coerción alternativa.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^278]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO CUARTO: LA IMPUGNACIÓN
 
 ###### Artículo 443
@@ -5564,6 +5598,8 @@ Sentencia
 
 3. Si la sentencia es absolutoria, se ordenará la restitución de los pagos efectuados por concepto de reparación y de multa, así como -de haberse solicitadola indemnización que corresponda por error judicial.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN279
+
 ## LIBRO CUARTO: LA IMPUGNACIÓN
 
 4. La sentencia se notificará a todas las partes del proceso originario.
@@ -5571,6 +5607,8 @@ Sentencia
 ###### Artículo 445. Renovación de la demanda
 
 La denegatoria de la revisión, o la ulterior sentencia confirmatoria de la anterior , no impide una nueva demanda de revisión, siempre que se funde en otros hechos o pruebas.
+
+## LIBRO CUARTO: LA IMPUGNACIÓN[^283]
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5596,7 +5634,7 @@ d) Cuando reciba del juez competente copias certificadas de las piezas procesale
 
 3. Si se trata de una causa seguida contra varios imputados, sólo es posible el proceso inmediato si todos ellos se encuentran en una de las situaciones previstas en el numeral anterior y estén implicados en el mismo delito. Los delitos conexos en los que estén involucrados otros imputados no se acumulan, salvo que ello perjudique al debido esclarecimiento de los hechos o la acumulación resulte indispensable.
 
-4. Independientemente de lo señalado en los numerales anteriores, el fiscal también deberá solicitar la incoación del proceso inmediato para el delito de conducción en estado de ebriedad o drogadicción, sin perjuicio de lo
+4. Independientemente de lo señalado en los numerales anteriores, el fiscal también deberá solicitar la incoación del proceso inmediato para el delito de conducción en estado de ebriedad o drogadicción, sin perjuicio de lo MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^284]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5616,6 +5654,8 @@ Audiencia única de incoación del proceso inmediato en casos de flagrancia deli
 
 a) Sobre la procedencia de la incoación del proceso inmediato.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^285]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 b) Sobre la procedencia de la constitución de las partes procesales, si fuera el caso.
@@ -5630,7 +5670,7 @@ d) Sobre la procedencia de la medida coercitiva requerida por el fiscal[^312].
 
 7. Frente al auto que rechaza la incoación del proceso inmediato, el Fiscal dicta la Disposición que corresponda o la formalización de la Investigación Preparatoria.
 
-Para los supuestos comprendidos en los literales b) y c), numeral 1 del artículo 446, rige el procedimiento antes descrito en lo que corresponda. Solo en estos supuestos, el requerimiento se presenta luego de culminar las diligencias preliminares o, en su defecto, antes de los treinta (30) días de formalizada la Investigación Preparatoria[^313].
+Para los supuestos comprendidos en los literales b) y c), numeral 1 del artículo 446, rige el procedimiento antes descrito en lo que corresponda. Solo en estos supuestos, el requerimiento se presenta luego de culminar las diligencias preliminares o, en su defecto, antes de los treinta (30) días de formalizada la Investigación Preparatoria[^313]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS286
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5674,6 +5714,8 @@ El requerimiento se presentará luego de culminar las diligencias preliminares o
 
 2. Se acompañará al requerimiento el expediente fiscal.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^287]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 las partes pueden plantear cualquiera de las cuestiones previstas en el artículo 350, en lo que corresponda.
@@ -5683,6 +5725,8 @@ las partes pueden plantear cualquiera de las cuestiones previstas en el artícul
 5. El Juez debe instar a las partes a realizar convenciones probatorias. Cumplidos los requisitos de validez de la acusación, de conformidad con el numeral 1 del artículo 350; y resueltas las cuestiones planteadas, el Juez Penal dicta acumulativamente el auto de enjuiciamiento y citación a juicio, de manera inmediata y oral.
 
 6. El juicio se realiza en sesiones continuas e ininterrumpidas hasta su conclusión. El Juez Penal que instale el juicio no puede conocer otros hasta que culmine el ya iniciado. En lo no previsto en esta Sección, se aplican las reglas del proceso común, en tanto sean compatibles con la naturaleza célere del proceso inmediato[^314].
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS288
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5708,6 +5752,8 @@ Reglas específicas para la incoación del proceso penal
 
 4. Notificado el auto que rechaza la incoación del proceso inmediato, el Fiscal dictará la Disposición que corresponda disponiendo la formalización o la continuación de la Investigación Preparatoria.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^289]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 5. El cuestionamiento de la naturaleza delictiva de los hechos imputados o del cumplimiento de los requisitos de procedibilidad, así como lo relativo a la extinción de la acción penal podrá deducirse luego de formalizada y aprobada la continuación de la Investigación Preparatoria, mediante los medios de defensa técnicos previstos en este Código.
@@ -5720,7 +5766,7 @@ Reglas específicas para la incoación del proceso penal
 
 9. El plazo que se refiere al artículo 99 de la Constitución no interrumpe ni suspende la prescripción de la acción penal de conformidad con el artículo 84 del Código Penal.
 
-10. Vencido el plazo de cinco años, previsto en el artículo 99 de la Constitución, siempre que no se haya incoado el proceso penal, el ex alto funcionario público estará sometido a las reglas del proceso penal común[^315].
+10. Vencido el plazo de cinco años, previsto en el artículo 99 de la Constitución, siempre que no se haya incoado el proceso penal, el ex alto funcionario público estará sometido a las reglas del proceso penal común[^315]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^290]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5748,6 +5794,8 @@ Conversión del procedimiento común y acumulación
 
 10. Vencido el plazo de cinco años, previsto en el artículo 99 de la Constitución, siempre que no se haya incoado el proceso penal, el ex alto funcionario público estará sometido a las reglas del proceso penal común. (*) NOTA SPIJ: En la presente edición de Normas Legales del diario oficial “El Peruano”, dice: “delicitivos”, debiendo decir: “delictivos”.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^291]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 contra quienes no proceda este procedimiento. Se remitirá copia certificada de lo actuado al Fiscal de la Nación contra los restantes, para que proceda conforme lo dispone el numeral anterior . Si el Congreso emite resolución acusatoria, las causas deberán acumularse y serán tramitadas según las reglas especiales previstas en este Título.
@@ -5768,7 +5816,7 @@ Reglas del proceso
 
 1. La investigación y juzgamiento, en los supuestos del numeral 1 del artículo anterior , están a cargo de la Fiscalía Suprema y la Corte Suprema de Justicia, respectivamente.
 
-2. Ante la disposición de formalización de la investigación preparatoria u otros requerimientos fiscales a nivel de diligencias preliminares, la Sala Penal de la Corte Suprema designará, entre sus miembros, al Juez Supremo de Investigación Preparatoria y a los integrantes de la Sala Penal Especial Suprema, que se encargará del juzgamiento; y, Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento.
+2. Ante la disposición de formalización de la investigación preparatoria u otros requerimientos fiscales a nivel de diligencias preliminares, la Sala Penal de la Corte Suprema designará, entre sus miembros, al Juez Supremo de Investigación Preparatoria y a los integrantes de la Sala Penal Especial Suprema, que se encargará del juzgamiento; y, Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^292]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5784,11 +5832,15 @@ Reglas del proceso
 
 2. La Disposición del Fiscal de la Nación no será necesaria cuando el funcionario ha sido sorprendido en flagrante delito, el mismo que en el plazo de cuarenta y ocho (48) horas será conducido al despacho del Fiscal Supremo o del Fiscal Superior correspondiente, según los casos, para la formalización de la investigación preparatoria. Tampoco será necesaria cuando el funcionario mencionado en el inciso 1 sea investigado por la comisión del delito de organización criminal, tipificado en el artículo 317 del Código Penal, o cuando la investigación se realice bajo los alcances de la Ley 30077, Ley contra el Crimen Organizado. En estos casos, las diligencias preliminares y la investigación preparatoria serán realizadas directamente por la Fiscalía Penal Especializada correspondiente[^319].
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^293]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 3. Corresponde a un Fiscal Supremo y a la Corte Suprema el conocimiento de los delitos de función atribuidos a los miembros del Consejo Supremo de Justicia Militar , a los Jueces y Fiscales Superiores y al Procurador Público, así como a otros funcionarios que señale la Ley. En estos casos la Sala Penal de la Corte Suprema designará, entre sus miembros, al Juez para la Investigación Preparatoria y a la Sala Penal Especial, que se encargará del Juzgamiento; y, el Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento. Contra las decisiones emitidas por el Juzgado Supremo de Investigación Preparatoria y la Sala Penal Especial Suprema procede recurso de apelación, que conocerá la Sala Suprema que prevé la Ley Orgánica del Poder Judicial. Contra las resoluciones de vista no procede recurso alguno.
 
 4. Corresponde a un Fiscal Superior y a la Corte Superior competente el conocimiento de los delitos de función atribuidos al Juez de Primera Instancia, al Juez de Paz Letrado, al Fiscal Provincial y al Fiscal Adjunto Provincial, así como a otros funcionarios que señale la Ley. En estos casos la Presidencia de la Corte Superior designará, entre los miembros de la Sala Penal competente, al Juez para la Investigación Preparatoria y a la Sala Penal Especial, que se encargará del Juzgamiento; y, el Fiscal Superior Decano hará lo propio respecto a los Fiscales Superiores que conocerán de las etapas de investigación preparatoria y de enjuiciamiento. Contra las decisiones emitidas por el Juzgado Superior de Investigación Preparatoria y la Sala Penal Especial Superior procede recurso de apelación, que conocerá la Sala Penal de la Corte Suprema. Contra las resoluciones de vista no procede recurso alguno[^320]. sorprendido en flagrante delito, el mismo que en el plazo de veinticuatro horas será conducido al despacho del Fiscal Supremo o del Fiscal Superior correspondiente, según los casos, para la formalización de la investigación preparatoria. Tampoco será necesaria cuando el funcionario mencionado en el inciso 1 sea investigado por la comisión del delito de organización criminal, tipificado en el artículo 317 del Código Penal, o cuando la investigación se realice bajo los alcances de la Ley 30077, Ley contra el Crimen Organizado. En estos casos, las diligencias preliminares y la investigación preparatoria serán realizadas directamente por la Fiscalía Penal Especializada correspondiente. (…).
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS294
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5813,6 +5865,8 @@ Texto anterior a la modificación:
 3. Corresponde a un Fiscal Supremo y a la Corte Suprema el conocimiento de los delitos de función atribuidos a los miembros del Consejo Supremo de Justicia Militar, a los Vocales y Fiscales Superiores y al Procurador Público, así como a otros funcionarios que señale la Ley. En estos casos la Sala Penal de la Corte Suprema designará, entre sus miembros, al Vocal para la Investigación Preparatoria y a la Sala Penal Especial, que se encargará del Juzgamiento y del conocimiento del recurso de apelación contra las decisiones emitidas por el primero; y, el Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento. Contra la sentencia emitida por la Sala Penal Especial Suprema procede recurso de apelación, que conocerá la Sala Suprema que prevé la Ley Orgánica del Poder Judicial. Contra la sentencia de vista no procede recurso alguno.
 
 4. Corresponde a un Fiscal Superior y a la Corte Superior competente el conocimiento de los delitos de función atribuidos al Juez de Primera Instancia, al Juez de Paz Letrado, al Fiscal Provincial y al Fiscal Adjunto Provincial, así como a otros funcionarios que señale la Ley. En estos casos la Presidencia de la Corte Superior designará, entre los miembros de la Sala Penal competente, al Vocal para la Investigación Preparatoria y a la Sala Penal Especial, que se encargará del Juzgamiento y del conocimiento del recurso de apelación contra las decisiones emitidas por el primero; y, el Fiscal Superior Decano hará lo propio respecto a los Fiscales Superiores que conocerán de las etapas de investigación preparatoria y de enjuiciamiento. Contra la sentencia emitida por la Sala Penal Especial Superior procede recurso de apelación, que conocerá la Sala Penal de la Corte Suprema. Contra esta última sentencia no procede recurso alguno.
+
+## LIBRO CUARTO: LA IMPUGNACIÓN295
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5842,7 +5896,7 @@ Reglas especiales
 
 6. El juicio se realizará con exclusión del público. De igual manera, también podrá realizarse sin la presencia del imputado si fuere imposible en razón a su estado de salud o por motivos de orden o de seguridad. En el juicio será representado por su curador .
 
-7. Si no es posible la presencia del imputado en el acto oral, antes de la realización del juicio podrá disponerse el interrogatorio del imputado, con la
+7. Si no es posible la presencia del imputado en el acto oral, antes de la realización del juicio podrá disponerse el interrogatorio del imputado, con la MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS296
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5874,6 +5928,8 @@ Querella
 
 2. El directamente ofendido por el delito se constituirá en querellante particular . La querella que formule cumplirá con los requisitos establecidos en el artículo 109, con precisión de los datos identificatorios y del domicilio del querellado.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN297
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 3. Al escrito de querella se acompañará copias del mismo para cada querellado y, en su caso, del poder correspondiente.
@@ -5903,6 +5959,8 @@ Auto de citación a juicio y audiencia
 1. Si la querella reúne los requisitos de Ley, el Juez Penal expedirá auto admisorio de la instancia y correrá traslado al querellado por el plazo de cinco días hábiles, para que conteste y ofrezca la prueba que corresponda. Se acompañará a la indicada resolución, copia de la querella y de sus recaudos.
 
 2. Vencido el plazo de contestación, producida o no la contestación, se dictará el auto de citación a juicio. La audiencia deberá celebrarse en un plazo no menor de diez días ni mayor de treinta.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS298
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5942,6 +6000,8 @@ Recursos
 
 2. Contra la sentencia de la Sala Penal Superior no procede recurso alguno.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN299
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 ###### Artículo 467. Publicación o lectura de la sentencia
@@ -5962,7 +6022,7 @@ Los procesos podrán terminar anticipadamente, observando las siguientes reglas:
 
 4. La audiencia de terminación anticipada se instalará con la asistencia obligatoria del Fiscal y del imputado y su abogado defensor . Es facultativa la concurrencia de los demás sujetos procesales. Acto seguido, el Fiscal presentará los cargos que como consecuencia de la Investigación Preparatoria surjan contra el imputado y éste tendrá la oportunidad de aceptarlos, en todo o en parte, o rechazarlos. El Juez deberá explicar al procesado los alcances y consecuencias del acuerdo, así como las limitaciones que representa la posibilidad de controvertir su responsabilidad. A continuación, el imputado se pronunciará al respecto, así como los demás sujetos procesales asistentes. El Juez instará a las partes, como consecuencia del debate, a que lleguen a un acuerdo, pudiendo suspender la audiencia por breve término, pero deberá continuar el mismo día. No está permitida la actuación de pruebas en la audiencia de terminación anticipada.
 
-5. Si el Fiscal y el imputado llegan a un acuerdo acerca de las circunstancias del hecho punible, de la pena, reparación civil y consecuencias accesorias a imponer , incluso la no imposición de pena privativa de libertad efectiva conforme a la Ley penal, así lo declararán ante el Juez debiéndose consignar
+5. Si el Fiscal y el imputado llegan a un acuerdo acerca de las circunstancias del hecho punible, de la pena, reparación civil y consecuencias accesorias a imponer , incluso la no imposición de pena privativa de libertad efectiva conforme a la Ley penal, así lo declararán ante el Juez debiéndose consignar MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^300]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -5984,9 +6044,11 @@ Cuando no se llegue a un acuerdo o éste no sea aprobado, la declaración formul
 
 El imputado que se acoja a este proceso recibirá un beneficio de reducción de la
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^301]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
-pena de una sexta parte. Este beneficio es adicional y se acumulará al que reciba por confesión, en tanto esta sea útil y anterior a la celebración del proceso especial. La acumulación no procede cuando el imputado tenga la calidad de reincidente o habitual, de conformidad con los artículos 46-B y 46-C del Código Penal, en cuyo caso solo recibe el beneficio correspondiente a la terminación anticipada. La reducción de la pena por terminación anticipada no procede cuando al imputado se le atribuya la comisión del delito en condición de integrante de una organización criminal, esté vinculado o actúe por encargo de ella, o por el delito previsto en el artículo 108-B o por cualquiera de los delitos comprendidos en el Capítulo I: artículos 153, 153-A, 153-B, 153-C, 153-D, 153-E, 153-F, 153-G, 153-H, 153-I, 153-J y Capítulos IX, X y XI del Título IV del Libro Segundo del Código Penal[^324][^325].
+pena de una sexta parte. Este beneficio es adicional y se acumulará al que reciba por confesión, en tanto esta sea útil y anterior a la celebración del proceso especial. La acumulación no procede cuando el imputado tenga la calidad de reincidente o habitual, de conformidad con los artículos 46-B y 46-C del Código Penal, en cuyo caso solo recibe el beneficio correspondiente a la terminación anticipada. La reducción de la pena por terminación anticipada no procede cuando al imputado se le atribuya la comisión del delito en condición de integrante de una organización criminal, esté vinculado o actúe por encargo de ella, o por el delito previsto en el artículo 108-B o por cualquiera de los delitos comprendidos en el Capítulo I: artículos 153, 153-A, 153-B, 153-C, 153-D, 153-E, 153-F, 153-G, 153-H, 153-I, 153-J y Capítulos IX, X y XI del Título IV del Libro Segundo del Código Penal[^324][^325]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^302]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6003,6 +6065,8 @@ Solicitud
 3. El proceso especial de colaboración eficaz es autónomo y puede comprender información de interés para una o varias investigaciones a cargo de otros fiscales. La Fiscalía de la Nación dictará las instrucciones en relación a la forma en que dicha información debe ser compartida. La sentencia de colaboración eficaz es oponible a todos los procesos que se detallan en el Acuerdo de Beneficios y Colaboración.
 
 4. Es necesario que el solicitante acepte o, en todo caso, no contradiga la totalidad o, por lo menos, alguno de los cargos que se le atribuyen. No comprende el procedimiento de colaboración eficaz aquellos cargos que el solicitante o sindicado no acepte, en cuyo caso se estará a lo que se decida en la investigación preliminar o en el proceso penal correspondiente[^329].
+
+## LIBRO CUARTO: LA IMPUGNACIÓN303
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6036,7 +6100,7 @@ b) Admitir o no contradecir, libre y expresamente, los hechos en que ha interven
 
 c) Presentarse al Fiscal mostrando su disposición de proporcionar información eficaz.
 
-3. El acuerdo está sujeto a la aprobación judicial.
+3. El acuerdo está sujeto a la aprobación judicial. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS304
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6058,9 +6122,11 @@ las investigaciones, la conclusión exitosa del proceso y su seguridad personal.
 
 12. El Fiscal Provincial, Superior o Supremo a cargo de la investigación, según corresponda, tiene el deber de proteger el secreto o reserva de la totalidad del proceso de colaboración eficaz y el contenido de las declaraciones de
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^305]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
-los aspirantes a colaboradores, así como salvaguardar sus identidades, bajo responsabilidad administrativa, civil y penal[^330].
+los aspirantes a colaboradores, así como salvaguardar sus identidades, bajo responsabilidad administrativa, civil y penal[^330]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^306]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6102,6 +6168,8 @@ Texto anterior a la modificación:
 
 b) Secuestro agravado, robo agravado, abigeato agravado, así como delitos monetarios y tráfico ilícito de drogas, siempre que en todos estos casos el agente actúe en calidad de integrante de una organización delictiva. (…).
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^307]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 ###### Artículo 474
@@ -6127,6 +6195,8 @@ c) Concusión, peculado, corrupción de funcionarios, delitos tributarios, delit
 d) Los delitos prescritos en los artículos del 382 al 401 del Código Penal y el artículo 1 de la Ley 30424, modificado por el Decreto Legislativo 1352, cuando el colaborador sea una persona jurídica[^333].
 
 3. No será obstáculo para la celebración del Acuerdo cuando se trate de concurso de delitos y uno de ellos no corresponda a los previstos en el presente artículo[^334].
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS308
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6172,6 +6242,8 @@ c) descubrir concluyentemente aspectos sustantivos de las fuentes de financiamie
 
 5. No podrán acogerse a ningún beneficio premial los jefes, cabecillas o dirigentes principales de organizaciones delictivas. El que ha intervenido en delitos que han causado consecuencias especialmente graves únicamente podrá acogerse al beneficio de disminución de la pena, que en este caso sólo podrá reducirse hasta un tercio por debajo del mínimo legal, sin que corresponda suspensión de la ejecución de la pena, salvo la liberación condicional y siempre que haya cumplido como mínimo la mitad de la pena impuesta.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN309
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 d) Entregar los instrumentos, efectos, ganancias y bienes delictivos relacionados con las actividades de la organización delictiva, averiguar el paradero o destino de los mismos, o indicar las fuentes de financiamiento y aprovisionamiento de la organización delictiva;
@@ -6192,7 +6264,7 @@ c) Descubrir concluyentemente aspectos sustantivos de las fuentes de financiamie
 
 6. Los jefes, cabecillas o dirigentes principales de organizaciones delictivas y los que han intervenido en delitos que han causado consecuencias especialmente graves, únicamente podrán acogerse al beneficio de disminución de la pena o suspensión de su ejecución, siempre que su aporte permita identificar a miembros de la organización con mayor rango jerárquico. El Fiscal para acordar el beneficio, debe ponderar la proporcionalidad entre el grado de aporte del colaborador y su grado de participación dentro de la estructura criminal y el delito.
 
-7. Cuando el colaborador sea una persona jurídica, teniendo en cuenta el grado de eficacia o importancia de la colaboración, podrá obtener como beneficio premial los siguientes: exención de las medidas administrativas aplicables, prescritas en el artículo 5 de la Ley 30424, modificada por el Decreto Legislativo 1352, disminución por debajo de los parámetros mínimos establecidos, remisión de la medida para la persona jurídica que la esté cumpliendo y los beneficios establecidos en las normas especiales que
+7. Cuando el colaborador sea una persona jurídica, teniendo en cuenta el grado de eficacia o importancia de la colaboración, podrá obtener como beneficio premial los siguientes: exención de las medidas administrativas aplicables, prescritas en el artículo 5 de la Ley 30424, modificada por el Decreto Legislativo 1352, disminución por debajo de los parámetros mínimos establecidos, remisión de la medida para la persona jurídica que la esté cumpliendo y los beneficios establecidos en las normas especiales que MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^310]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6214,6 +6286,8 @@ c) Las obligaciones a las que queda sujeta la persona beneficiada.
 
 3. En los casos en que se demuestre la inocencia de quien fue involucrado por el colaborador , el Fiscal deberá informarle de su identidad, siempre que se
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^311]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 advierta indicios de que a sabiendas hizo la imputación falsa para los fines legales correspondientes[^337].
@@ -6230,7 +6304,7 @@ Eficacia de las diligencias de corroboración y su incorporación en otros proce
 
 4. Si el Juez aprueba el Acuerdo y las causas donde el colaborador es imputado se encuentran en diligencias preliminares, el Fiscal podrá archivar la investigación y, en su caso, estará a lo resuelto en la sentencia por colaboración eficaz.
 
-5. Si el Juez aprueba el Acuerdo y los procesos donde el colaborador es imputado se encuentran en investigación preparatoria, el Fiscal podrá no acusar al colaborador y, en su caso, el Juez de la Investigación Preparatoria estará a lo resuelto en la sentencia por colaboración eficaz.
+5. Si el Juez aprueba el Acuerdo y los procesos donde el colaborador es imputado se encuentran en investigación preparatoria, el Fiscal podrá no acusar al colaborador y, en su caso, el Juez de la Investigación Preparatoria estará a lo resuelto en la sentencia por colaboración eficaz. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^312]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6246,6 +6320,8 @@ Colaboración durante la etapa de investigación del proceso contradictorio
 
 2. El Juez Penal, en el plazo de cinco (05) días, mediante resolución inimpugnable, podrá formular observaciones al contenido del acta y a la concesión de los beneficios. En la misma resolución ordenará devolver lo actuado al Fiscal.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN[^313]
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 3. Recibida el acta original o la complementaria, según sea el caso, con los recaudos pertinentes, el Juez Penal dentro del décimo día, celebrará una audiencia privada especial con asistencia de quienes celebraron el Acuerdo, en donde cada uno por su orden expondrá los motivos y fundamentos del mismo. El Juez, verificará que el colaborador conozca los alcances del proceso especial. De dicha diligencia se levantará un acta donde constarán resumidamente sus incidencias.
@@ -6256,7 +6332,7 @@ Colaboración durante la etapa de investigación del proceso contradictorio
 
 6. Si la sentencia dispone la excarcelación de un colaborador recluido en un establecimiento penitenciario, ésta será comunicada por el Juez, a la Dirección de Registro Penitenciario o la que haga sus veces en el Distrito Judicial donde se ordene la medida a través de la vía más célere.
 
-7. Si el acuerdo aprobado, consiste en la exención de las medidas administrativas, el Juez así lo declarará, disponiendo el levantamiento de las medidas cautelares descritas en el artículo 313-A del Código Procesal Penal. De igual manera se procederá en caso el acuerdo comprenda la disminución de dichas medidas administrativas[^339][^340].
+7. Si el acuerdo aprobado, consiste en la exención de las medidas administrativas, el Juez así lo declarará, disponiendo el levantamiento de las medidas cautelares descritas en el artículo 313-A del Código Procesal Penal. De igual manera se procederá en caso el acuerdo comprenda la disminución de dichas medidas administrativas[^339][^340]. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^314]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6277,6 +6353,8 @@ Colaboración durante las otras etapas del proceso contradictorio
 4. Culminada la audiencia, el Juez dentro de tercer día dictará, según el caso, auto desaprobando el acuerdo o sentencia aprobándolo. Ambas resoluciones son susceptibles de recurso de apelación, de conocimiento de la Sala Penal Superior. El agraviado, en tanto haya expresado su voluntad de intervenir en el proceso y constituido en parte, tendrá derecho a impugnar la sentencia aprobatoria.
 
 5. Si el Juez considera que el acuerdo no adolece de infracciones legales, no resulta manifiestamente irrazonable, o no es evidente su falta de eficacia, lo aprobará e impondrá las obligaciones que correspondan. La sentencia no podrá exceder los términos del Acuerdo. Si el acuerdo aprobado consiste en la exención o remisión de la pena, así lo declarará, ordenando su inmediata libertad y la anulación de los antecedentes del beneficiado. Si consiste en la disminución de la pena, declarará la responsabilidad penal del colaborador y le impondrá la sanción que corresponda según los términos del acuerdo, sin perjuicio de imponer las obligaciones pertinentes.
+
+## LIBRO CUARTO: LA IMPUGNACIÓN[^315]
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6304,6 +6382,8 @@ Colaboración durante las otras etapas del proceso contradictorio (…)
 
 3. Si la colaboración se inicia con posterioridad a la sentencia, el Juez de la Investigación Preparatoria a solicitud del Fiscal, previa celebración de una audiencia privada en los términos del artículo anterior, podrá conceder la remisión de la pena, la suspensión de la ejecución de la pena, la conversión de pena privativa de libertad por multa, la prestación de servicios o la limitación de días libres, conforme a las equivalencias previstas en las leyes de la materia. (…).
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^316]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 d) Abstenerse de consumir bebidas alcohólicas y drogas;
@@ -6326,6 +6406,8 @@ k) Informar y acreditar mediante instrumento legal o documento de carácter inte
 
 4. Corresponde al Ministerio Público el control de su cumplimiento[^344].
 
+## LIBRO CUARTO: LA IMPUGNACIÓN317
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 ###### Artículo 480
@@ -6346,7 +6428,7 @@ c) Resuelta la admisión de los medios de prueba, se emitirá el auto de citaci�
 
 d) Contra la cual procede recurso de apelación, que conocerá la Sala Penal Superior . las circunstancias de tiempo, modo y lugar en que se cometió, la naturaleza del beneficio y la magnitud de la colaboración proporcionada, así como de acuerdo a las condiciones personales del beneficiado. Las obligaciones se garantizarán mediante caución o fianza, si las posibilidades económicas del colaborador lo permiten.
 
-4. Corresponde el control de su cumplimiento al Ministerio Público, con la intervención del órgano especializado de la Policía Nacional, que al efecto tendrá un registro de los beneficiados y designará al personal policial necesario dentro de su estructura interna.
+4. Corresponde el control de su cumplimiento al Ministerio Público, con la intervención del órgano especializado de la Policía Nacional, que al efecto tendrá un registro de los beneficiados y designará al personal policial necesario dentro de su estructura interna. MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^318]
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6363,6 +6445,8 @@ c) Contra la sentencia procede recurso de apelación, que será de conocimiento 
 5. Cuando la revocatoria se refiere a la suspensión de la ejecución de la pena, detención domiciliaria o comparecencia se regirá en lo pertinente por las normas penales, procesales o de ejecución penal.
 
 6. De igual manera se procederá en lo que corresponda, cuando el colaborador sea una persona jurídica[^345][^346].
+
+## LIBRO CUARTO: LA IMPUGNACIÓN[^319]
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6396,6 +6480,8 @@ c) Contra la sentencia procede recurso de apelación, que será de conocimiento 
 
 5. Cuando la revocatoria se refiere a la suspensión de la ejecución de la pena, liberación condicional, detención domiciliaria o comparecencia se regirá en lo pertinente por las normas penales, procesales o de ejecución penal.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^320]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 ###### Artículo 481-A
@@ -6419,6 +6505,8 @@ Competencia
 1. DEROGADO[^349]. las diversas declaraciones formuladas por el colaborador se tendrán como inexistentes y no podrán ser utilizadas en su contra.
 
 2. En ese mismo supuesto las declaraciones prestadas por otras personas durante la etapa de corroboración así como la prueba documental, los informes o dictámenes periciales y las diligencias objetivas e irreproducibles, mantendrán su validez y podrán ser valoradas en otros procesos conforme a su propio mérito y a lo dispuesto en el artículo 158. Rige, en todo caso, lo establecido en el artículo 159.
+
+## LIBRO CUARTO: LA IMPUGNACIÓN321
 
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
@@ -6454,6 +6542,8 @@ Competencia
 
 1. Los Jueces de Paz Letrados conocerán de los procesos por faltas. (…).
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS322
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 Las partes, sin perjuicio de lo dispuesto en el numeral 5) del artículo anterior , podrán asistir acompañados de los medios probatorios que pretendan hacer valer .
@@ -6482,6 +6572,8 @@ Recurso de apelación
 
 1. Contra la sentencia procede recurso de apelación. Los autos serán elevados en el día al Juez Penal.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN323
+
 ## LIBRO QUINTO: LOS PROCESOS ESPECIALES
 
 2. Recibida la apelación, el Juez Penal resolverá en el plazo improrrogable de diez días, por el solo mérito de lo actuado, si es que el recurrente no exprese la necesidad de una concreta actuación probatoria, en cuyo caso se procederá conforme a las reglas comunes, en cuanto se adecuen a su brevedad y simpleza. Los Abogados Defensores presentarán por escrito los alegatos que estimen, sin perjuicio del informe oral que puedan realizar en la vista de la causa, la que se designará dentro de los veinte días de recibos los autos.
@@ -6491,6 +6583,8 @@ Recurso de apelación
 ###### Artículo 487. Desistimiento o transacción
 
 En cualquier estado de la causa, el agraviado o querellante puede desistirse o transigir , con lo que se dará por fenecido el proceso.
+
+## LIBRO CUARTO: LA IMPUGNACIÓN327
 
 ## LIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
@@ -6524,6 +6618,8 @@ Cómputo de la pena privativa de libertad
 
 2. Producida la captura, el Juez de la Investigación Preparatoria, una vez que esté plenamente acreditada la identidad del condenado, realizará el cómputo de la pena, descontando de ser el caso el tiempo de detención, de prisión preventiva y de detención domiciliaria que hubiera cumplido, así como de la privación de libertad sufrida en el extranjero como consecuencia del procedimiento de extradición instaurado para someterlo a proceso en el país.
 
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS[^328]
+
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
 3. El cómputo será siempre reformable, aun de oficio, si se comprueba un error o cuando nuevas circunstancias lo tornen necesario.
@@ -6545,6 +6641,8 @@ Incidentes de modificación de la sentencia
 5. Asimismo, las solicitudes sobre refundición o acumulación de penas son de competencia del Juzgado Penal Colegiado. Serán resueltas previa realización de una audiencia con la concurrencia del Fiscal, del condenado y su defensor .
 
 6. En todos los casos, el conocimiento del recurso de apelación corresponde a la Sala Penal Superior[^350].
+
+## LIBRO CUARTO: LA IMPUGNACIÓN329
 
 ## LIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
@@ -6579,6 +6677,8 @@ Ejecución Civil y de las demás consecuencias accesorias
 5. Asimismo, las solicitudes sobre refundición o acumulación de penas son de competencia del Juzgado Penal Colegiado. Serán resueltas previa realización de una audiencia con la concurrencia del Fiscal, del condenado y su defensor.
 
 6. En todos los casos, el conocimiento del recurso de apelación corresponde a la Sala Penal Superior.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS330
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
@@ -6618,6 +6718,8 @@ Regla general, excepción y recurso
 
 1. Toda decisión que ponga fin al proceso penal o la que resuelva un incidente de ejecución de conformidad con la Sección I de este Libro, establecerá quien debe soportar las costas del proceso.
 
+## LIBRO CUARTO: LA IMPUGNACIÓN331
+
 ## LIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
 2. El órgano jurisdiccional deberá pronunciarse de oficio y motivadamente sobre el pago de las costas.
@@ -6649,6 +6751,8 @@ c) Los honorarios de los abogados de la parte vencedora, y de los peritos oficia
 Personas e Instituciones exentas. Caso especial de imposición
 
 1. Están exentos del pago de costas los representantes del Ministerio Público, los miembros de las Procuradurías Públicas del Estado, y los abogados y apoderados o mandatarios de las partes, así como los Poderes Ejecutivo, Legislativo y Judicial, el Ministerio Público, los Órganos Constitucionalmente Autónomos, los Gobiernos Regionales y Locales, y las Universidades Públicas.
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS332
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
@@ -6688,6 +6792,8 @@ Costas en sobreseimientos y cuando exista un impedimento para la prosecución de
 
 2. Cuando la persecución penal no pueda proseguir al ampararse una cuestión
 
+## LIBRO CUARTO: LA IMPUGNACIÓN333
+
 ## LIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
 previa o una cuestión prejudicial, pagará las costas el actor civil si hubiere instado la iniciación o la continuación del proceso.
@@ -6719,6 +6825,8 @@ Resolución sobre las costas
 2. Cuando corresponde distribuir el pago de costas entre varios, el órgano judicial fijará con precisión el porcentaje que debe sufragar cada uno de los responsables, sin perjuicio de la solidaridad.
 
 3. Para fijar los porcentajes se atenderá especialmente a los gastos que cada uno de ellos hubiere provocado, a su conducta procesal, y al resultado del proceso o incidente en proporción a su participación procesal y a las razones para litigar .
+
+MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS334
 
 ## LIBRO CUARTO: LA IMPUGNACIÓNLIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS
 
@@ -8502,7 +8610,7 @@ Disposición Derogatoria Quedan derogados:
 
 [^268]: Rectificado por Fe de Erratas de fecha 06 de enero de 2017.
 
-(269) Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1307, publicado el 30 de diciembre de 2016, el mismo que entró en vigencia a nivel nacional a los noventa (90) días de su publicación en el diario oficial El Peruano. Texto anterior a la modificación: Artículo 355.- Auto de citación a juicio 1. Recibidas las actuaciones por el Juzgado Penal competente, éste dictará el auto de citación a juicio con indicación de la sede del juzgamiento y de la fecha de la realización del juicio oral, salvo que todos los acusados fueran ausentes. La fecha será la más próxima posible, con un intervalo no menor de diez días. 2. El Juzgado Penal ordenará el emplazamiento de todos los que deben concurrir al juicio. En la resolución se identificará a quien se tendrá como defensor del acusado y se dispondrá todo lo necesario para el inicio regular del juicio. 3. Cuando se estime que la audiencia se prolongará en sesiones consecutivas, los testigos y peritos podrán ser citados directamente para la sesión que les corresponda intervenir. 4. El emplazamiento al acusado se hará bajo apercibimiento de declararlo reo contumaz en caso de inconcurrencia injustificada. 5. Será obligación del Ministerio Público y de los demás sujetos procesales coadyuvar en la localización y comparecencia de los testigos o peritos que hayan propuesto.
+[^269]: Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1307, publicado el 30 de diciembre de 2016, el mismo que entró en vigencia a nivel nacional a los noventa (90) días de su publicación en el diario oficial El Peruano. Texto anterior a la modificación: Artículo 355.- Auto de citación a juicio 1. Recibidas las actuaciones por el Juzgado Penal competente, éste dictará el auto de citación a juicio con indicación de la sede del juzgamiento y de la fecha de la realización del juicio oral, salvo que todos los acusados fueran ausentes. La fecha será la más próxima posible, con un intervalo no menor de diez días. 2. El Juzgado Penal ordenará el emplazamiento de todos los que deben concurrir al juicio. En la resolución se identificará a quien se tendrá como defensor del acusado y se dispondrá todo lo necesario para el inicio regular del juicio. 3. Cuando se estime que la audiencia se prolongará en sesiones consecutivas, los testigos y peritos podrán ser citados directamente para la sesión que les corresponda intervenir. 4. El emplazamiento al acusado se hará bajo apercibimiento de declararlo reo contumaz en caso de inconcurrencia injustificada. 5. Será obligación del Ministerio Público y de los demás sujetos procesales coadyuvar en la localización y comparecencia de los testigos o peritos que hayan propuesto.
 
 [^270]: Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1307, publicado el 30 de diciembre de 2016, el mismo que entró en vigencia a nivel nacional a los noventa (90) días de su publicación
 
@@ -8578,7 +8686,7 @@ Disposición Derogatoria Quedan derogados:
 
 [^306]: Numeral modificado por el Artículo Único de la Ley Nº 32130, publicada el 10 de octubre de 2024. Texto anterior a la modificación: Artículo 430.- Interposición y admisión (...) 6. Acto seguido y sin trámite alguno, mediante auto, decidirá conforme al artículo 428 si el recurso está bien concedido y si procede conocer el fondo del mismo. Esta resolución se expedirá dentro del plazo de veinte días. Bastan tres votos para decidir si procede conocer el fondo del asunto.
 
-(307) NOTA SPIJ: En la presente Edición de Normas Legales del Diario Oficial El Peruano, dice: “señalaba” debiendo decir: “señalada”.
+[^307]: NOTA SPIJ: En la presente Edición de Normas Legales del Diario Oficial El Peruano, dice: “señalaba” debiendo decir: “señalada”.
 
 [^308]: VIGENCIA ADELANTADA de la presente Sección por el Artículo 3 del Decreto Legislativo N° 1194, publicado el 30 de agosto de 2015, el mismo que entró en vigencia a nivel nacional a los noventa (90) días de su publicación en el diario oficial El Peruano.
 

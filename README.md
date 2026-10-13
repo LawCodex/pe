@@ -19,7 +19,7 @@ Status: **minimal / partial** — see "What is NOT covered".
 | Constitución Política del Perú de 1993 (21st official edition, updated to 2025-12-05) | `constitucion/` | 1 |
 | Codes (official editions) | `codigos/` | 5 |
 | Laws (official editions) | `leyes/` | 7 |
-| Index (metadata only) of numbered norms | `indice/` | see below |
+| Index (metadata only): 32,536 leyes / resoluciones legislativas / decretos leyes and 1,434 decretos legislativos | `indice/` | 35 |
 
 ### Texts
 
@@ -58,7 +58,8 @@ Notes on the texts:
 `indice/leyes/<range>.md` and `indice/decretos-legislativos/<range>.md` list, per block of
 1,000 numbers, the type, number, publication date and title of each norm as given by the
 Congreso's *Archivo Digital de la Legislación del Perú* (https://www.leyes.congreso.gob.pe/,
-"Legislación desde 1904", search by number). These are metadata only, without text.
+"Legislación desde 1904", search by number). These are metadata only, without text. The
+"Publicación" column is the date shown by the archive; "Observación" its remarks (e.g. repeal).
 
 ## What is NOT covered
 

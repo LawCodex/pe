@@ -856,9 +856,9 @@ El Estado promueve el desarrollo sostenible de la Amazonía con una legislación
 
 Inviolabilidad del derecho de propiedad
 
-###### Artículo 70. El derecho de propiedad es inviolable. El
+###### Artículo 70
 
-Estado lo garantiza. Se ejerce en armonía con el bien común y dentro de los límites de ley. A nadie puede privarse de su propiedad sino, exclusivamente, por causa de seguridad nacional o necesidad pública, declarada por ley, y previo pago en efectivo de indemnización justipreciada que incluya compensación por el eventual perjuicio. Hay acción ante el Poder Judicial para contestar el valor de la propiedad que el Estado haya señalado en el procedimiento expropiatorio.
+El derecho de propiedad es inviolable. El Estado lo garantiza. Se ejerce en armonía con el bien común y dentro de los límites de ley. A nadie puede privarse de su propiedad sino, exclusivamente, por causa de seguridad nacional o necesidad pública, declarada por ley, y previo pago en efectivo de indemnización justipreciada que incluya compensación por el eventual perjuicio. Hay acción ante el Poder Judicial para contestar el valor de la propiedad que el Estado haya señalado en el procedimiento expropiatorio.
 
 Propiedad de los extranjeros
 

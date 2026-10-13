@@ -1766,9 +1766,9 @@ Decreto Legislativo Nº 1308 30-12-2016
 
 MODIFICADOS por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
-###### Artículo 106. , num. 106.1 INCORPORADO por el Artículo 1 del
+###### Artículo 106
 
-Decreto Legislativo Nº 1390 05-09-2018
+, num. 106.1 INCORPORADO por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
 ###### Artículo 107. MODIFICADO por el Artículo 1 del
 
@@ -1830,9 +1830,9 @@ Decreto Legislativo Nº 1308 30-12-2016
 
 Decreto Legislativo Nº 1390 05-09-2018
 
-###### Artículo 131. , num. 131.1 MODIFICADO por el Artículo 1 del
+###### Artículo 131
 
-Decreto Legislativo Nº 1390 05-09-2018
+, num. 131.1 MODIFICADO por el Artículo 1 del Decreto Legislativo Nº 1390 05-09-2018
 
 ###### Artículo 154
 
